@@ -660,3 +660,7 @@ button.association-card {
     grid-template-columns: repeat(2, minmax(76px, 1fr));
   }
 }
+
+.association-fallback[hidden] {
+  display: none !important;
+}
