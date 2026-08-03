@@ -10,7 +10,7 @@
       "name": "AFC",
       "background": "#fff2c6",
       "textColor": "#102231",
-      "logo": "./assets/confederations/afc.svg",
+      "logo": "./assets/confederations/afc.png",
       "memberCount": 45,
       "slotMarkers": 8,
       "associations": [
