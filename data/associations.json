@@ -396,7 +396,7 @@
           "flag": "🇪🇸",
           "confederation": "uefa",
           "status": "qualified-host",
-          "logo": "",
+          "logo": "./assets/logos/uefa/003.png",
           "page": "./associations/spain.html",
           "note": "Host profile and sample detailed association page."
         }
