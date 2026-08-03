@@ -75,7 +75,7 @@
       "name": "CAF",
       "background": "#5d5d5d",
       "textColor": "#ffffff",
-      "logo": "./assets/confederations/caf.svg",
+      "logo": "./assets/confederations/caf.png",
       "memberCount": 54,
       "slotMarkers": 9,
       "associations": [
@@ -141,7 +141,7 @@
       "name": "Concacaf",
       "background": "#ef95a7",
       "textColor": "#102231",
-      "logo": "./assets/confederations/concacaf.svg",
+      "logo": "./assets/confederations/concacaf.png",
       "memberCount": 35,
       "slotMarkers": 6,
       "associations": [
@@ -206,7 +206,7 @@
       "name": "CONMEBOL",
       "background": "#afd88d",
       "textColor": "#102231",
-      "logo": "./assets/confederations/conmebol.svg",
+      "logo": "./assets/confederations/conmebol.png",
       "memberCount": 10,
       "slotMarkers": 6,
       "associations": [
@@ -274,7 +274,7 @@
       "name": "OFC",
       "background": "#9ce1dd",
       "textColor": "#102231",
-      "logo": "./assets/confederations/ofc.svg",
+      "logo": "./assets/confederations/ofc.png",
       "memberCount": 11,
       "slotMarkers": 2,
       "associations": [
@@ -339,7 +339,7 @@
       "name": "UEFA",
       "background": "#12a9df",
       "textColor": "#ffffff",
-      "logo": "./assets/confederations/uefa.svg",
+      "logo": "./assets/confederations/uefa.png",
       "memberCount": 54,
       "slotMarkers": 16,
       "associations": [
