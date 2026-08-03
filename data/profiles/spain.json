@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "title": "Spain · The 211 Files",
+    "description": "Spain profile in The 211 Files: country, federation, origins, competitions, national-team history, clubs, stadiums and its place at the 2030 FIFA World Cup."
+  },
+  "hero": {
+    "kicker": "THE 211 FILES · UEFA · ALREADY QUALIFIED",
+    "title": "Spain",
+    "flag": "🇪🇸",
+    "code": "ESP",
+    "association": "Real Federación Española de Fútbol",
+    "status": "Qualified host · 2030 FIFA World Cup",
+    "subtitle": "The reigning world champions enter the road to the Centennial World Cup with their place already secured — not through qualification, but as one of the tournament’s six hosts.",
+    "logo": "../assets/logos/uefa/spain.webp"
+  },
+  "facts": [
+    {
+      "label": "Association",
+      "value": "RFEF"
+    },
+    {
+      "label": "FIFA code",
+      "value": "ESP"
+    },
+    {
+      "label": "Confederation",
+      "value": "UEFA"
+    },
+    {
+      "label": "Federation founded",
+      "value": "1909"
+    },
+    {
+      "label": "National team",
+      "value": "Since 1920"
+    },
+    {
+      "label": "2030 status",
+      "value": "Qualified host"
+    }
+  ],
+  "sections": [
+    {
+      "id": "country",
+      "navLabel": "The country",
+      "eyebrow": "Country file",
+      "title": "Spain at a glance",
+      "type": "prose",
+      "paragraphs": [
+        "Spain occupies most of the Iberian Peninsula and includes the Balearic and Canary Islands, plus Ceuta and Melilla in North Africa. A diverse country of around 49 million people, it blends distinct regional identities, languages and cultures under a constitutional monarchy.",
+        "Its twentieth century was marked by the end of the Restoration system, the Second Republic, a devastating Civil War and almost four decades of dictatorship. Democracy was restored through the 1978 Constitution, after which Spain rapidly integrated with its European neighbours.",
+        "Today it is one of the European Union’s largest economies and labour markets, as well as a major global centre of culture, tourism and sport."
+      ]
+    },
+    {
+      "id": "federation",
+      "navLabel": "The federation",
+      "eyebrow": "Association file",
+      "title": "The RFEF",
+      "type": "prose",
+      "intro": "The national governing body sits above a broad territorial structure that reflects Spain’s regional diversity.",
+      "paragraphs": [
+        "The Federación Española de Clubs de Football was created in 1909. Reorganisation followed during a turbulent early period, and the federation received the title “Real” from King Alfonso XIII in 1913.",
+        "The RFEF brings together the regional federations, clubs, players, referees, coaches and the professional league. It governs Spain’s national teams and the principal national cup competitions, while the professional league operates the top two men’s divisions."
+      ]
+    },
+    {
+      "id": "origins",
+      "navLabel": "Origins",
+      "eyebrow": "How the game arrived",
+      "title": "From British enclaves to a national sport",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1870s–80s",
+          "title": "Football reaches Spain",
+          "text": "British workers, engineers and sailors introduced football in several ports and industrial enclaves. The Río Tinto mining community and nearby Huelva became one of the game’s most important early centres.",
+          "tag": "Origins"
+        },
+        {
+          "year": "1889",
+          "title": "The oldest surviving club",
+          "text": "British residents founded Huelva Recreation Club, today’s Recreativo de Huelva and the oldest surviving football club in Spain.",
+          "tag": "Club football"
+        },
+        {
+          "year": "8 Mar 1890",
+          "title": "The first documented formal match",
+          "text": "A Sevilla side beat Huelva 2–0 in what is generally treated as Spain’s first documented formal football match.",
+          "tag": "First match"
+        },
+        {
+          "year": "1898–1902",
+          "title": "The major clubs emerge",
+          "text": "Football quickly took root among locals. Athletic Club emerged in Bilbao in 1898, FC Barcelona in 1899 and Madrid FC in 1902.",
+          "tag": "Expansion"
+        },
+        {
+          "year": "1900–03",
+          "title": "From regional cups to a national championship",
+          "text": "The Copa Macaya became an early regional landmark. The 1902 Copa de la Coronación then inspired the Copa del Rey, first contested as Spain’s national championship in 1903.",
+          "tag": "Competitions"
+        },
+        {
+          "year": "1909",
+          "title": "A national federation",
+          "text": "The Spanish federation was constituted, bringing a national layer of organisation to a game that had previously developed through clubs and regional bodies.",
+          "tag": "RFEF"
+        }
+      ]
+    },
+    {
+      "id": "competitions",
+      "navLabel": "Domestic game",
+      "eyebrow": "Structure and competitions",
+      "title": "The domestic pyramid",
+      "type": "cards",
+      "cards": [
+        {
+          "title": "La Liga",
+          "meta": "National league · Since 1929",
+          "text": "Professionalism was regulated in 1926. Three years later the national league began, with Barcelona becoming its first champion. The top flight developed into one of world football’s most influential competitions.",
+          "image": "../assets/spain/la-liga.webp",
+          "imageHint": "La Liga or league-history image",
+          "imageAlt": "Spanish league football"
+        },
+        {
+          "title": "Copa del Rey",
+          "meta": "National cup · Since 1903",
+          "text": "Spain’s oldest nationwide competition grew from the early championship organised after the Copa de la Coronación. Its open knockout format has linked clubs from different levels for more than a century.",
+          "image": "../assets/spain/copa-del-rey.webp",
+          "imageHint": "Copa del Rey trophy",
+          "imageAlt": "Copa del Rey"
+        },
+        {
+          "title": "Regional foundations",
+          "meta": "Territorial federations",
+          "text": "Before a stable national structure existed, regional championships organised the game. Their legacy survives in the autonomous federations that remain a central part of the RFEF system.",
+          "image": "../assets/spain/regional-football.webp",
+          "imageHint": "Map of Spain's regional federations",
+          "imageAlt": "Spanish regional football"
+        }
+      ]
+    },
+    {
+      "id": "national-team-early",
+      "navLabel": "1920–1964",
+      "eyebrow": "National-team history I",
+      "title": "The birth of La Roja",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1920",
+          "title": "A team created for Antwerp",
+          "text": "Spain assembled its first national team for the Antwerp Olympics. It debuted by beating Denmark 1–0 and ultimately won silver after further victories over Sweden, Italy and the Netherlands.",
+          "tag": "Olympic silver"
+        },
+        {
+          "year": "1924",
+          "title": "Italy take revenge",
+          "text": "Four years after Antwerp, Italy eliminated Spain in the opening round of the Paris Olympics through a Spanish own goal.",
+          "tag": "Olympics"
+        },
+        {
+          "year": "1928",
+          "title": "A heavy Amsterdam exit",
+          "text": "Spain opened by defeating Mexico 7–1. A 1–1 quarter-final draw with Italy forced a replay, in which the Italians won 7–1.",
+          "tag": "Olympics"
+        },
+        {
+          "year": "1934",
+          "title": "World Cup debut",
+          "text": "Spain beat Brazil 3–1, then held host nation Italy 1–1 after extra time. With no penalty shoot-outs, the quarter-final was replayed the next day and Italy won 1–0.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "1936–39",
+          "title": "Football divided by war",
+          "text": "The Civil War stopped the league and national cup, divided clubs and drove players into exile. Nationwide competition resumed in 1939.",
+          "tag": "Civil War"
+        },
+        {
+          "year": "1950",
+          "title": "Fourth in the world",
+          "text": "At the World Cup in Brazil, Telmo Zarra’s goal defeated England at the Maracanã. Spain finished fourth, its best World Cup result for the next sixty years.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "1964",
+          "title": "The first senior title",
+          "text": "Spain won the European Championship on home soil. Marcelino’s late header sealed a 2–1 final victory over the Soviet Union in Madrid.",
+          "tag": "European champions"
+        }
+      ]
+    },
+    {
+      "id": "clubs",
+      "navLabel": "Club legacy",
+      "eyebrow": "Spanish clubs abroad",
+      "title": "A global club-football power",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1956–60",
+          "title": "Real Madrid’s first European dynasty",
+          "text": "Real Madrid transformed Spanish club football by winning the first five European Cups. Alfredo Di Stéfano scored in every final, and the 7–3 victory over Eintracht Frankfurt became the dynasty’s defining performance.",
+          "tag": "European Cup"
+        },
+        {
+          "year": "1992",
+          "title": "Barcelona reach the summit",
+          "text": "FC Barcelona won its first European Cup at Wembley, adding a new landmark to a year in which Spain also claimed Olympic football gold in Barcelona.",
+          "tag": "European Cup"
+        },
+        {
+          "year": "1998–2007",
+          "title": "Success spreads",
+          "text": "Real Madrid and Barcelona remained global giants, while Valencia, Deportivo, Sevilla and other Spanish clubs reached or won major European finals.",
+          "tag": "European competitions"
+        },
+        {
+          "year": "21st century",
+          "title": "Sustained continental dominance",
+          "text": "Spanish clubs built an exceptional record in UEFA competitions, combining the financial and global reach of the largest institutions with repeated breakthroughs by clubs from across the country.",
+          "tag": "Club era"
+        }
+      ]
+    },
+    {
+      "id": "national-team-modern",
+      "navLabel": "1982–2006",
+      "eyebrow": "National-team history II",
+      "title": "Hosts, near misses and repeated frustration",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1982",
+          "title": "World Cup hosts",
+          "text": "Spain staged the first 24-team World Cup but struggled under the weight of expectation and exited in the second group phase.",
+          "tag": "Hosts"
+        },
+        {
+          "year": "1984",
+          "title": "Back in a major final",
+          "text": "Miguel Muñoz’s side reached the European Championship final, where hosts France won 2–0 in Paris.",
+          "tag": "European runners-up"
+        },
+        {
+          "year": "1992",
+          "title": "Olympic gold in Barcelona",
+          "text": "Spain won the Olympic football tournament at home, defeating Poland 3–2 in the final at Camp Nou.",
+          "tag": "Olympic champions"
+        },
+        {
+          "year": "1994",
+          "title": "A quarter-final stopped by Italy",
+          "text": "Spain advanced unbeaten from its group, defeated Switzerland 3–0 and then lost 2–1 to Italy in the quarter-finals.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "1996",
+          "title": "Wembley penalty defeat",
+          "text": "Spain reached the European Championship quarter-finals without losing in normal time, but England eliminated them in a penalty shoot-out.",
+          "tag": "European Championship"
+        },
+        {
+          "year": "1998",
+          "title": "A spectacular but futile finale",
+          "text": "A defeat by Nigeria and a draw with Paraguay left Spain dependent on other results. A 6–1 victory over Bulgaria was not enough to avoid a group-stage exit.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "2000",
+          "title": "Drama before another French barrier",
+          "text": "Spain recovered from an opening loss to Norway, then beat Yugoslavia 4–3 in a remarkable finish. France ended the run in the quarter-finals.",
+          "tag": "European Championship"
+        },
+        {
+          "year": "2002",
+          "title": "The Korean shoot-out",
+          "text": "Spain won all three group matches and eliminated the Republic of Ireland on penalties, but co-hosts South Korea defeated them in another shoot-out after a controversial quarter-final.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "2004–06",
+          "title": "Two more early exits",
+          "text": "Spain went out in the EURO 2004 group stage and, after winning its group at the 2006 World Cup, lost 3–1 to France in the round of 16.",
+          "tag": "Major tournaments"
+        }
+      ]
+    },
+    {
+      "id": "golden-era",
+      "navLabel": "Golden era",
+      "eyebrow": "National-team history III",
+      "title": "From perennial outsiders to serial champions",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "2008",
+          "title": "The barrier finally falls",
+          "text": "Spain won every group match, survived an Italian penalty shoot-out and defeated Russia in the semi-final. Fernando Torres scored the only goal against Germany to deliver the European title.",
+          "tag": "European champions"
+        },
+        {
+          "year": "2010",
+          "title": "World champions for the first time",
+          "text": "After a shock opening defeat by Switzerland, Spain recovered to win its group. Four consecutive 1–0 knockout victories culminated in Andrés Iniesta’s extra-time goal against the Netherlands.",
+          "tag": "World champions"
+        },
+        {
+          "year": "2012",
+          "title": "Three major titles in succession",
+          "text": "Spain completed an unprecedented men’s cycle by defeating Italy 4–0 in the EURO final — the largest winning margin in the competition’s final.",
+          "tag": "European champions"
+        },
+        {
+          "year": "2014",
+          "title": "The champions collapse",
+          "text": "Heavy defeats by the Netherlands and Chile eliminated Spain before its final group match, bringing the dominant 2008–12 cycle to an abrupt end.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "2016–18",
+          "title": "Knockout frustration returns",
+          "text": "Italy eliminated Spain in the EURO 2016 round of 16. At the 2018 World Cup, the hosts Russia did the same through a penalty shoot-out.",
+          "tag": "Rebuilding"
+        },
+        {
+          "year": "2020–22",
+          "title": "A young side comes close",
+          "text": "Spain reached the EURO 2020 semi-finals and the 2021 Nations League final, but lost both. Morocco then eliminated La Roja on penalties in the 2022 World Cup round of 16.",
+          "tag": "Near misses"
+        },
+        {
+          "year": "2023",
+          "title": "Nations League champions",
+          "text": "Spain defeated Croatia on penalties to win its first UEFA Nations League and its first senior men’s title in eleven years.",
+          "tag": "Nations League"
+        },
+        {
+          "year": "2024",
+          "title": "A record fourth EURO",
+          "text": "Spain won all seven matches, defeating Croatia, Italy, Germany, France and England on the way to a record fourth European title.",
+          "tag": "European champions"
+        },
+        {
+          "year": "2025",
+          "title": "Nations League runners-up",
+          "text": "Spain returned to the final but Portugal prevailed in a penalty shoot-out after a 2–2 draw.",
+          "tag": "Nations League"
+        },
+        {
+          "year": "2026",
+          "title": "The second star",
+          "text": "Spain began with a 0–0 draw against Cabo Verde, then beat Saudi Arabia 4–0 and Uruguay 1–0 to top Group H. The run ended with Ferran Torres scoring in extra time to defeat Argentina 1–0 in the final.",
+          "tag": "World champions"
+        }
+      ]
+    },
+    {
+      "id": "honours",
+      "navLabel": "Honours",
+      "eyebrow": "Senior and Olympic record",
+      "title": "The major titles",
+      "type": "honours",
+      "items": [
+        {
+          "icon": "🌍",
+          "title": "FIFA World Cup",
+          "text": "Champions: 2010 and 2026."
+        },
+        {
+          "icon": "🏆",
+          "title": "UEFA European Championship",
+          "text": "Champions: 1964, 2008, 2012 and 2024."
+        },
+        {
+          "icon": "⭐",
+          "title": "UEFA Nations League",
+          "text": "Champions: 2023. Runners-up: 2021 and 2025."
+        },
+        {
+          "icon": "🥇",
+          "title": "Olympic football",
+          "text": "Gold: 1992 and 2024. Silver: 1920, 2000 and 2020."
+        },
+        {
+          "icon": "🌍",
+          "title": "Women’s World Cup",
+          "text": "Champions: 2023."
+        },
+        {
+          "icon": "🏆",
+          "title": "Women’s Nations League",
+          "text": "Champions: 2024."
+        },
+        {
+          "icon": "⚽",
+          "title": "Futsal World Cup",
+          "text": "Men’s champions: 2000 and 2004."
+        },
+        {
+          "icon": "👑",
+          "title": "Current distinction",
+          "text": "Reigning men’s world champions and already qualified for 2030 as hosts."
+        }
+      ]
+    },
+    {
+      "id": "women",
+      "navLabel": "Women’s game",
+      "eyebrow": "A later rise",
+      "title": "Spain’s women reach the summit",
+      "type": "timeline",
+      "items": [
+        {
+          "year": "1983",
+          "title": "Official senior debut",
+          "text": "After years outside the formal federation structure, Spain’s women played their first officially recognised senior international.",
+          "tag": "Women’s national team"
+        },
+        {
+          "year": "1997",
+          "title": "First major tournament",
+          "text": "Spain reached the European Championship semi-finals in its first appearance at a senior women’s finals.",
+          "tag": "EURO"
+        },
+        {
+          "year": "2015",
+          "title": "World Cup debut",
+          "text": "La Roja appeared at the Women’s World Cup for the first time, beginning a rapid rise through the international hierarchy.",
+          "tag": "World Cup"
+        },
+        {
+          "year": "2023",
+          "title": "World champions",
+          "text": "Spain defeated England 1–0 in Sydney to win the Women’s World Cup, its first senior women’s global title.",
+          "tag": "World champions"
+        },
+        {
+          "year": "2024",
+          "title": "Nations League and Olympic breakthrough",
+          "text": "Spain won the inaugural UEFA Women’s Nations League and made its first appearance in the women’s Olympic football tournament.",
+          "tag": "New era"
+        }
+      ]
+    },
+    {
+      "id": "stadiums",
+      "navLabel": "Stadiums",
+      "eyebrow": "Temples of the game",
+      "title": "Three landmarks of Spanish football",
+      "type": "cards",
+      "cards": [
+        {
+          "title": "Santiago Bernabéu",
+          "meta": "Madrid",
+          "text": "Real Madrid’s home is one of world football’s best-known stadiums. Its extensive redevelopment added a retractable roof, a retractable pitch and new commercial and event spaces.",
+          "image": "../assets/spain/bernabeu.webp",
+          "imageHint": "Santiago Bernabéu",
+          "imageAlt": "Santiago Bernabéu stadium"
+        },
+        {
+          "title": "Camp Nou",
+          "meta": "Barcelona",
+          "text": "Opened in 1957, FC Barcelona’s home has long been Europe’s largest football stadium. Its reconstruction is designed to raise capacity and modernise the entire venue.",
+          "image": "../assets/spain/camp-nou.webp",
+          "imageHint": "Camp Nou",
+          "imageAlt": "Camp Nou stadium"
+        },
+        {
+          "title": "El Molinón",
+          "meta": "Gijón",
+          "text": "Home of Sporting de Gijón, El Molinón is generally recognised as Spain’s oldest football ground still in use. Matches were recorded on the site by 1908.",
+          "image": "../assets/spain/el-molinon.webp",
+          "imageHint": "El Molinón",
+          "imageAlt": "El Molinón stadium"
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "navLabel": "Road to 2030",
+      "eyebrow": "Already qualified",
+      "title": "The champions will be at home",
+      "type": "quote",
+      "quote": "Spain will not travel the qualifying road to 2030. As one of the six hosts, La Roja already have their place — and will arrive with the second star on the shirt.",
+      "cite": "The 211 Files · Spain"
+    },
+    {
+      "id": "sources",
+      "navLabel": "Sources",
+      "eyebrow": "Continue reading",
+      "title": "Thread and reference pages",
+      "type": "sources",
+      "links": [
+        {
+          "label": "Original Spain thread on X",
+          "url": "https://x.com/Rumboa2030/status/2080947517341028643?s=20"
+        },
+        {
+          "label": "RFEF institutional information",
+          "url": "https://rfef.es/es/federacion/transparencia/informacion-institucional"
+        },
+        {
+          "label": "RFEF history of the Spanish national team",
+          "url": "https://rfef.es/en/noticias/on-rfefes-a-history-of-the-spanish-national-team"
+        },
+        {
+          "label": "FIFA association profile: Spain",
+          "url": "https://inside.fifa.com/en/about-fifa/associations/ESP"
+        }
+      ]
+    }
+  ]
+}
