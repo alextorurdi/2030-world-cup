@@ -104,13 +104,56 @@ function createAssociationCard(association) {
 }
 
 function createSlots(confederation) {
+  const qualifiedAssociations = confederation.associations.filter(
+    (association) =>
+      association.status === "qualified-host" ||
+      association.status === "qualified"
+  );
+
   const slots = Array.from(
     { length: confederation.slotMarkers },
-    (_, index) => `<span class="slot" title="Qualification marker ${index + 1}"></span>`
+    (_, index) => {
+      const association = qualifiedAssociations[index];
+
+      if (!association) {
+        return `
+          <span
+            class="slot"
+            title="Qualification place ${index + 1}"
+          ></span>
+        `;
+      }
+
+      const logo = association.logo
+        ? `
+          <img
+            class="slot-logo"
+            src="${association.logo}"
+            alt="${association.name}"
+            loading="lazy"
+            onerror="this.remove();"
+          >
+        `
+        : "";
+
+      return `
+        <span
+          class="slot slot-filled"
+          title="${association.name} — ${
+            STATUS_LABELS[association.status] || "Qualified"
+          }"
+        >
+          ${logo}
+        </span>
+      `;
+    }
   ).join("");
 
   return `
-    <aside class="slot-column" aria-label="${confederation.name} qualification markers">
+    <aside
+      class="slot-column"
+      aria-label="${confederation.name} qualification places"
+    >
       ${slots}
       <span class="slot-label">Places</span>
     </aside>
