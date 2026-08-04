@@ -531,57 +531,76 @@
           {
             "position": "GK",
             "name": "Iker Casillas",
-            "description": "Captained Spain to back-to-back Euros and the 2010 World Cup; widely considered one of the greatest shot-stoppers in history."
+            "description": "Captained Spain to back-to-back Euros and the 2010 World Cup; widely considered one of the greatest shot-stoppers in history.",
+            "image":  "../assets/spain/thread/p40-02.webp"
+
           },
           {
             "position": "RB",
             "name": "Dani Carvajal",
-            "description": "Widely regarded as one of the greatest right-backs of his generation."
+            "description": "Widely regarded as one of the greatest right-backs of his generation.",
+            "image": "../assets/spain/thread/p41-01.webp"
           },
           {
             "position": "CB",
             "name": "Sergio Ramos",
-            "description": "Spain’s record appearance maker with 180 caps; a fierce competitor and vital goalscoring defensive pillar."
+            "description": "Spain’s record appearance maker with 180 caps; a fierce competitor and vital goalscoring defensive pillar.",
+            "image":  "../assets/spain/thread/p42-01.webp"
           },
           {
             "position": "CB",
             "name": "Carles Puyol",
-            "description": "The warrior-leader at the heart of Barcelona and Spain’s defence during their most successful historical stretch."
+            "description": "The warrior-leader at the heart of Barcelona and Spain’s defence during their most successful historical stretch.",
+            "image": "../assets/spain/thread/p42-02.webp"
+       
           },
           {
             "position": "LB",
             "name": "Rafael Gordillo",
-            "description": "A mainstay of the national team in the 1980s, with 75 caps and five international tournaments."
+            "description": "A mainstay of the national team in the 1980s, with 75 caps and five international tournaments.",
+            "image":    "../assets/spain/thread/p43-01.webp"
+         
           },
           {
             "position": "DM",
             "name": "Sergio Busquets",
-            "description": "One of the three architects of the original tiki-taka in Barcelona and Spain."
+            "description": "One of the three architects of the original tiki-taka in Barcelona and Spain.",
+            "image":  "../assets/spain/thread/p44-01.webp"
+         
           },
           {
             "position": "CM",
             "name": "Xavi Hernández",
-            "description": "A positional genius and central architect of Spain’s possession game."
+            "description": "A positional genius and central architect of Spain’s possession game.",
+            "image":  "../assets/spain/thread/p45-01.webp"
+         
           },
           {
             "position": "CM",
             "name": "Andrés Iniesta",
-            "description": "The midfielder with the magic to create attacks from nowhere."
+            "description": "The midfielder with the magic to create attacks from nowhere.",
+            "image":  "../assets/spain/thread/p46-01.webp"
+         
           },
           {
             "position": "RW",
             "name": "Amancio Amaro",
-            "description": "One of the flying wingers selected from Real Madrid’s European dynasty."
+            "description": "One of the flying wingers selected from Real Madrid’s European dynasty.",
+            "image":  "../assets/spain/thread/p47-01.webp"
+          
           },
           {
             "position": "CF",
             "name": "David Villa",
-            "description": "La Roja’s all-time leading scorer with 59 goals."
+            "description": "La Roja’s all-time leading scorer with 59 goals.",
+            "image": "../assets/spain/thread/p48-01.webp"
+         
           },
           {
             "position": "LW",
             "name": "Paco Gento",
-            "description": "The second flying winger chosen from Real Madrid’s European dynasty."
+            "description": "The second flying winger chosen from Real Madrid’s European dynasty.",
+            "image":  "../assets/spain/thread/p48-02.webp"
           }
         ],
         "gallery": [
