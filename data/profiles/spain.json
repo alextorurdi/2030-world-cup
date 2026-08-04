@@ -153,7 +153,7 @@
           "images": [
             "../assets/spain/thread/p11-01.webp",
             "../assets/spain/thread/p11-02.webp"
-          ],
+          ]
    
         },
         {
@@ -179,7 +179,7 @@
           "images": [
             "../assets/spain/thread/p13-01.webp",
             "../assets/spain/thread/p13-02.webp"
-          ],
+          ]
  
         },
         {
@@ -598,7 +598,7 @@
           "../assets/spain/thread/p48-02.webp"
         ]
       },
-      "closing": "The selection is entirely subjective. Luis Suárez, Ricardo Zamora, Emilio Butragueño, Telmo Zarra and Fernando Hierro are among the notable omissions.",
+      "closing": "The selection is entirely subjective. Luis Suárez, Ricardo Zamora, Emilio Butragueño, Telmo Zarra and Fernando Hierro are among the notable omissions."
      
     },
     {
@@ -695,7 +695,7 @@
         "headline": "Spain is qualified as host.",
         "text": "Spain is one of the six hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured.",
         "image": "../assets/spain/thread/p58-01.webp"
-      },
+      }
      
     }
   ]
