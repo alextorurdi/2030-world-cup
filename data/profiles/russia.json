@@ -172,7 +172,7 @@
     },
     {
       "id": "main-competitions",
-      "number": "5",
+      "number": "4",
       "title": "Main competitions",
       "subtitle": "League, cup and super cup",
       "cards": [
@@ -208,7 +208,7 @@
     },
     {
       "id": "main-clubs",
-      "number": "6",
+      "number": "5",
       "title": "Main clubs",
       "subtitle": "Zenit, Spartak and CSKA",
       "cards": [
@@ -244,7 +244,7 @@
     },
     {
       "id": "national-team",
-      "number": "7",
+      "number": "6",
       "title": "National team",
       "subtitle": "Imperial Russia, the USSR, the CIS and independent Russia through suspension",
       "entries": [
@@ -382,7 +382,7 @@
     },
     {
       "id": "historical-lineup",
-      "number": "8",
+      "number": "7",
       "title": "Historical line-up",
       "subtitle": "An entirely subjective 4-2-3-1",
       "intro": "The continuation selects an all-time side composed of players from Imperial, Soviet and independent Russian football.",
@@ -472,7 +472,7 @@
     },
     {
       "id": "records",
-      "number": "9",
+      "number": "8",
       "title": "Records",
       "subtitle": "Independent Russia’s national-team landmarks",
       "recordGroups": [
@@ -507,7 +507,7 @@
     },
     {
       "id": "useful-links",
-      "number": "10",
+      "number": "9",
       "title": "Useful links",
       "subtitle": "Accounts listed in the continuation",
       "links": [
