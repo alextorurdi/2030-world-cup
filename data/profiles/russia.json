@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "title": "Russia · The 211 Files",
+    "description": "The complete Russia file from Rumbo a 2030, combining the supplied Thread Reader PDF with its seven-page continuation document.",
+    "source": {
+      "label": "Original X thread",
+      "url": "https://x.com/Rumboa2030/status/2075533205684301949",
+      "pdfPages": 18,
+      "tweets": 26,
+      "date": "10 July 2026",
+      "continuation": {
+        "label": "Continuation document",
+        "file": "Russia.docx",
+        "pages": 7
+      }
+    },
+    "sourceBoundary": "This page combines the original 18-page Thread Reader PDF with the seven-page continuation supplied afterward. The continuation extends the national-team history beyond 1994 and adds the historical line-up, records and useful links.",
+    "numberingNote": "The original source jumps directly from section 3, Football origins, to section 5, Main competitions. No section 4 heading appears in the supplied material, so that numbering is preserved."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#002",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "association": "Russian Football Union / Российский Футбольный Союз (RFS)",
+    "founded": "1912",
+    "fifa": "1912",
+    "confederation": "UEFA",
+    "status": "Suspended",
+    "statusClass": "suspended",
+    "statusDetail": "The source lists Russia as suspended from the 2030 World Cup road.",
+    "worldCupAppearances": "11",
+    "bestRecords": [
+      "🏆 UEFA Euro: 1960",
+      "🥈 UEFA Euro: 1964, 1972 and 1988",
+      "4th place at the FIFA World Cup: 1966"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/uefa/002.png",
+    "fallbackLogo": "../assets/russia/thread/p01-02.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "The country",
+      "subtitle": "The world’s largest state, spanning Europe and Asia",
+      "entries": [
+        {
+          "paragraphs": [
+            "Russia is the largest country in the world, stretching from Eastern Europe across northern Asia. Throughout its history it has been a major political, military and cultural power. Today, however, it is overshadowed by the controversy surrounding its invasion of Ukraine."
+          ],
+          "images": [
+            "../assets/russia/thread/p02-01.webp"
+          ],
+          "sourcePages": "1–2"
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Empire, Soviet Union and Russian Federation",
+      "entries": [
+        {
+          "paragraphs": [
+            "Russia underwent dramatic changes: from an authoritarian tsarist monarchy to the dominant republic of the communist Soviet Union, and finally to the independent Russian Federation. This encompassed two world wars, revolution, civil war and the Cold War.",
+            "In the 21st century, Russia recovered from the instability of the 1990s, aided by its vast energy revenues, while Vladimir Putin centralised power and restricted political opposition. Its increasingly assertive foreign policy culminated in the full-scale invasion of Ukraine in 2022."
+          ],
+          "images": [
+            "../assets/russia/thread/p02-02.webp",
+            "../assets/russia/thread/p02-03.webp"
+          ],
+          "sourcePages": "2"
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "From British expatriate clubs to the Soviet and Russian league systems",
+      "entries": [
+        {
+          "heading": "The first press-reported match",
+          "date": "24 October 1897",
+          "paragraphs": [
+            "Football reached imperial Russia through British merchants, engineers and sailors in port cities. The first match reported by the Russian press was staged in Saint Petersburg: Vasilyevsky Island’s largely British side defeated the Circle of Sports Enthusiasts 6–0.",
+            "The translated contemporary report describes football as an English invention, lists three early Saint Petersburg clubs and notes that Vasilyevsky Island wore blue while its opponents wore white. The reporter found the calls of “foul”, “hands” and “out” bewildering, remarked on the physical play and ended by predicting that, with more training, the Russians would catch up with the English."
+          ],
+          "images": [
+            "../assets/russia/thread/p03-01.webp",
+            "../assets/russia/thread/p04-01.webp",
+            "../assets/russia/thread/p04-02.webp",
+            "../assets/russia/thread/p05-01.webp"
+          ],
+          "sourcePages": "3–5"
+        },
+        {
+          "heading": "The first organised leagues",
+          "date": "1901–1913",
+          "paragraphs": [
+            "In 1901, three expatriate clubs formed the Saint Petersburg Football League, Russia’s first organised competition. The game then spread through schools, factories and local leagues. By 1913 Moscow’s league alone contained 25 teams, while as many as ten local leagues had been created."
+          ],
+          "images": [
+            "../assets/russia/thread/p05-02.webp"
+          ],
+          "sourcePages": "5"
+        },
+        {
+          "heading": "Football reorganised by the Soviet state",
+          "date": "After 1917",
+          "paragraphs": [
+            "War, revolution and civil war broke the imperial structure. The Bolsheviks made old clubs re-register as proletarian organisations, while new teams became associated with the state apparatus: Dynamo with the secret police, CDKA/CSKA with the army and Lokomotiv with the railways."
+          ],
+          "images": [
+            "../assets/russia/thread/p06-01.webp"
+          ],
+          "sourcePages": "5–6"
+        },
+        {
+          "heading": "Spartak and the Starostin brothers",
+          "date": "1934–1936",
+          "paragraphs": [
+            "In 1934 Nikolai Starostin and his brothers created Spartak Moscow, named after Spartacus, the Roman slave turned rebel. It quickly became the “people’s team” and, in the source’s framing, the most successful club in Russian history.",
+            "Spartak’s success made the brothers political targets. They were sent to a Siberian labour camp, although the source says Spartak-supporting guards treated them well. Starostin is also credited as the main force behind the creation of the Soviet Top League in 1936, the first regular national league."
+          ],
+          "images": [
+            "../assets/russia/thread/p06-02.webp"
+          ],
+          "sourcePages": "6"
+        },
+        {
+          "heading": "Russian clubs in the Soviet league",
+          "date": "1936–1991",
+          "paragraphs": [
+            "Among Russian clubs, Spartak won 12 Soviet league titles, Dynamo Moscow 11 and CSKA seven. Zenit Leningrad’s 1984 triumph was its only Soviet league championship.",
+            "Internationally, Spartak reached the 1990/91 European Cup semi-finals after eliminating Real Madrid."
+          ],
+          "images": [
+            "../assets/russia/thread/p07-01.webp"
+          ],
+          "sourcePages": "7"
+        },
+        {
+          "heading": "A new federation and Spartak’s dominance",
+          "date": "1992–2001",
+          "paragraphs": [
+            "After the USSR dissolved in 1991, the Russian Football Union was formed in February 1992 and a new national league began that year. Spartak won nine of the first ten Russian championships from 1992 to 2001; Alania interrupted the run in 1995.",
+            "Spartak also reached the 1993 Cup Winners’ Cup semi-finals and the 1998 UEFA Cup semi-finals."
+          ],
+          "images": [
+            "../assets/russia/thread/p08-01.webp",
+            "../assets/russia/thread/p08-02.webp"
+          ],
+          "sourcePages": "8"
+        },
+        {
+          "heading": "The Premier League and European trophies",
+          "date": "2002–2026",
+          "paragraphs": [
+            "The leading clubs created a separately run Premier League in 2001, first played in 2002. Between 2002 and 2010, Lokomotiv, CSKA, Zenit and Rubin Kazan all won championships, ending Spartak’s one-club rule.",
+            "CSKA won the 2005 UEFA Cup, described in the source as the first European trophy won by a Russian club. Zenit won the UEFA Cup and UEFA Super Cup in 2008.",
+            "Zenit later won six consecutive domestic championships from 2018/19 through 2023/24. Krasnodar claimed its first title in 2024/25, before Zenit regained the championship on the final day of 2025/26."
+          ],
+          "images": [
+            "../assets/russia/thread/p09-01.webp",
+            "../assets/russia/thread/p09-02.webp"
+          ],
+          "sourcePages": "8–9"
+        }
+      ]
+    },
+    {
+      "id": "main-competitions",
+      "number": "5",
+      "title": "Main competitions",
+      "subtitle": "League, cup and super cup",
+      "cards": [
+        {
+          "title": "Russian Premier League",
+          "meta": "16-club top flight",
+          "text": "The Premier League is the 16-club top division. Below it are the professional First and Second Leagues. Because of Russia’s immense size, lower divisions are increasingly split into regional groups to reduce travel distances and costs.",
+          "images": [
+            "../assets/russia/thread/p10-01.webp"
+          ],
+          "sourcePages": "9–10"
+        },
+        {
+          "title": "Кубок России",
+          "meta": "Russian Cup · Since 1992",
+          "text": "The national knockout competition is open to amateur clubs through the Federal Subjects’ championships, in a format the source compares with the FA Cup. Its table lists CSKA and Lokomotiv as the most successful clubs, with nine wins each.",
+          "images": [
+            "../assets/russia/thread/p10-02.webp"
+          ],
+          "sourcePages": "10"
+        },
+        {
+          "title": "Суперкубок России",
+          "meta": "Russian Super Cup · Since 2003",
+          "text": "The league champions face the Russian Cup winners. The source table lists Zenit as the record holder with nine wins, followed by CSKA with eight.",
+          "images": [
+            "../assets/russia/thread/p11-01.webp",
+            "../assets/russia/thread/p11-02.webp"
+          ],
+          "sourcePages": "11"
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "6",
+      "title": "Main clubs",
+      "subtitle": "Zenit, Spartak and CSKA",
+      "cards": [
+        {
+          "title": "Zenit Saint Petersburg",
+          "meta": "Founded 1925",
+          "text": "The source describes Zenit as arguably Russia’s most successful club of recent years, highlighting its domestic dominance and its 2008 UEFA Cup and UEFA Super Cup victories.",
+          "images": [
+            "../assets/russia/thread/p12-01.webp",
+            "../assets/russia/thread/p12-02.webp"
+          ],
+          "sourcePages": "12"
+        },
+        {
+          "title": "Spartak Moscow",
+          "meta": "Founded 1922",
+          "text": "Spartak is presented as the traditional club with Russia’s strongest fan base and as the defining force of the first decade of the independent Russian championship.",
+          "images": [
+            "../assets/russia/thread/p13-01.webp"
+          ],
+          "sourcePages": "12–13"
+        },
+        {
+          "title": "CSKA Moscow",
+          "meta": "Founded 1911",
+          "text": "CSKA is identified as one of the country’s oldest major clubs. Its 2005 UEFA Cup victory is highlighted as a landmark for Russian club football.",
+          "images": [
+            "../assets/russia/thread/p13-02.webp"
+          ],
+          "sourcePages": "12–13"
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "7",
+      "title": "National team",
+      "subtitle": "Imperial Russia, the USSR, the CIS and independent Russia through suspension",
+      "entries": [
+        {
+          "heading": "Imperial Russia’s official debut",
+          "date": "1912",
+          "paragraphs": [
+            "Imperial Russia made its official international debut at the Stockholm Olympics, losing 2–1 to Finland. The next day, Germany won 16–0 in the consolation tournament, still one of Olympic football’s largest victories.",
+            "Imperial Russia played eight official internationals and won none before the 1917 Revolution."
+          ],
+          "images": [
+            "../assets/russia/thread/p14-01.webp",
+            "../assets/russia/thread/p14-02.webp"
+          ],
+          "sourcePages": "13–14"
+        },
+        {
+          "heading": "From the Russian Soviet Republic to the USSR",
+          "date": "After the Revolution",
+          "paragraphs": [
+            "Following the Civil War, the Russian Soviet Republic made its debut against the Finnish Workers’ Sports Federation, a breakaway workers’ team.",
+            "After the Soviet Union was formed in 1922, the Russian Soviet team gave way to the USSR national side. Soviet football remained largely isolated from mainstream international competition until its Olympic debut at Helsinki in 1952."
+          ],
+          "sourcePages": "14"
+        },
+        {
+          "heading": "Olympic champions and World Cup debut",
+          "date": "1956–1958",
+          "paragraphs": [
+            "The USSR won Olympic gold at Melbourne 1956, beating Yugoslavia 1–0 in the final. Two years later it entered its first World Cup in Sweden, defeated England in a group play-off and then lost to the hosts in the quarter-finals."
+          ],
+          "images": [
+            "../assets/russia/thread/p15-01.webp"
+          ],
+          "sourcePages": "15"
+        },
+        {
+          "heading": "Europe’s first champions",
+          "date": "1960–1963",
+          "paragraphs": [
+            "In 1960 the USSR became Europe’s first champion, defeating Yugoslavia 2–1 after extra time in Paris. Goalkeeper Lev Yashin anchored the side; in 1963 he became—and remains—the only goalkeeper to win the Ballon d’Or.",
+            "At the 1962 World Cup, the USSR again lost to the host nation, Chile, in the quarter-finals."
+          ],
+          "images": [
+            "../assets/russia/thread/p15-02.webp"
+          ],
+          "sourcePages": "15"
+        },
+        {
+          "heading": "European finals and the 1966 World Cup peak",
+          "date": "1964–1970s",
+          "paragraphs": [
+            "The USSR lost the 1964 European final to hosts Spain, but reached its World Cup peak in 1966. Victories over North Korea, Italy, Chile and Hungary carried the team into the semi-finals; defeats by West Germany and Portugal left it fourth. The USSR also finished fourth at Euro 1968.",
+            "The source then states that the USSR lost a World Cup quarter-final to Uruguay in 1979. It adds that Russian clubs had previously supplied most Soviet internationals, before the centre of Soviet football increasingly shifted towards Ukraine during the 1970s."
+          ],
+          "images": [
+            "../assets/russia/thread/p16-01.webp",
+            "../assets/russia/thread/p16-02.webp"
+          ],
+          "sourcePages": "16"
+        },
+        {
+          "heading": "The temporary CIS team",
+          "date": "1992",
+          "paragraphs": [
+            "Following the dissolution of the Soviet Union, a temporary Commonwealth of Independent States team was created to fulfil the USSR’s remaining sporting commitments. It represented the former Soviet republics at UEFA Euro 1992 but did not advance from the group stage."
+          ],
+          "images": [
+            "../assets/russia/thread/p17-01.webp"
+          ],
+          "sourcePages": "17"
+        },
+        {
+          "heading": "Independent Russia and Salenko’s record",
+          "date": "1994",
+          "paragraphs": [
+            "Independent Russia’s first World Cup ended in the group stage. Oleg Salenko nevertheless made history by scoring five goals in a 6–1 victory over Cameroon—the record for one player in a World Cup match.",
+            "His six goals across the tournament earned him a shared Golden Boot."
+          ],
+          "images": [
+            "../assets/russia/thread/p17-02.webp",
+            "../assets/russia/thread/p18-01.webp"
+          ],
+          "sourcePages": "17–18"
+        },
+        {
+          "heading": "Opening-round exits and missed tournaments",
+          "date": "1996–2004",
+          "paragraphs": [
+            "Russia qualified for UEFA Euro 1996 but failed to progress beyond the group stage. It then missed both the 1998 World Cup and Euro 2000.",
+            "Russia returned for the 2002 World Cup and Euro 2004, but was again eliminated in the opening round on both occasions."
+          ],
+          "images": [
+            "../assets/russia/continuation/c01-arshavin-early-russia.webp"
+          ],
+          "sourcePages": "Continuation p. 1"
+        },
+        {
+          "heading": "The Euro 2008 semi-final",
+          "date": "2006–2016",
+          "paragraphs": [
+            "Russia missed the 2006 and 2010 World Cups. Its best result since independence came at Euro 2008, where it reached the semi-finals before losing 3–0 to eventual champions Spain.",
+            "The team returned for Euro 2012, the 2014 World Cup and Euro 2016, but exited in the group stage each time."
+          ],
+          "images": [
+            "../assets/russia/continuation/c02-euro-2008-team.webp"
+          ],
+          "sourcePages": "Continuation p. 1"
+        },
+        {
+          "heading": "World Cup hosts",
+          "date": "2018",
+          "paragraphs": [
+            "FIFA awarded Russia the 2018 World Cup. The tournament drove construction or major renovation across eleven host cities, including Moscow, Saint Petersburg, Kazan, Sochi, Samara, Volgograd, Saransk and Kaliningrad.",
+            "The host team exceeded expectations and reached the quarter-finals."
+          ],
+          "images": [
+            "../assets/russia/continuation/c03-world-cup-2018-stadium.webp"
+          ],
+          "sourcePages": "Continuation pp. 1–2"
+        },
+        {
+          "heading": "Suspension from FIFA and UEFA competitions",
+          "date": "From 2022",
+          "paragraphs": [
+            "After Russia’s full-scale invasion of Ukraine in February 2022, FIFA and UEFA suspended every Russian national team and club from their competitions until further notice.",
+            "Russia missed the 2022 World Cup play-offs and has since played only friendlies internationally."
+          ],
+          "images": [
+            "../assets/russia/continuation/c04-russia-nigeria-friendly.webp"
+          ],
+          "sourcePages": "Continuation p. 2"
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "8",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective 4-2-3-1",
+      "intro": "The continuation selects an all-time side composed of players from Imperial, Soviet and independent Russian football.",
+      "lineup": {
+        "formation": "4-2-3-1",
+        "image": "../assets/russia/continuation/c16-historical-lineup.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Lev Yashin",
+            "years": "1954–1967",
+            "description": "The Black Spider, the only goalkeeper to win the Ballon d’Or and considered one of the greatest ever.",
+            "image": "../assets/russia/continuation/c05-lev-yashin.webp"
+          },
+          {
+            "position": "RB",
+            "name": "Vladimir Ponomaryov",
+            "years": "1964–1966",
+            "description": "A powerful and reliable CSKA defender.",
+            "image": "../assets/russia/continuation/c06-vladimir-ponomaryov.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Anatoli Bashashkin",
+            "years": "1952–1956",
+            "description": "Renowned for his long-range passing and physical strength.",
+            "image": "../assets/russia/continuation/c07-anatoli-bashashkin.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Albert Shesternyov",
+            "years": "1961–1971",
+            "description": "“Ivan the Terrible”, captain in the 1960s and considered the best Russian defender.",
+            "image": "../assets/russia/continuation/c08-albert-shesternyov.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Mikhail Ogonkov",
+            "years": "1955–1958",
+            "description": "Historic full-back from Spartak.",
+            "image": "../assets/russia/continuation/c09-mikhail-ogonkov.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Valery Voronin",
+            "years": "1960–1968",
+            "description": "One of the most complete midfielders of the 1960s.",
+            "image": "../assets/russia/continuation/c10-valery-voronin.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Igor Netto",
+            "years": "1952–1965",
+            "description": "Captain when the USSR won Olympic gold in 1956 and the inaugural European Championship in 1960.",
+            "image": "../assets/russia/continuation/c11-igor-netto.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Igor Chislenko",
+            "years": "1959–1968",
+            "description": "A fast, direct Dynamo Moscow winger.",
+            "image": "../assets/russia/continuation/c12-igor-chislenko.webp"
+          },
+          {
+            "position": "AM",
+            "name": "Fyodor Cherenkov",
+            "years": "1979–1990",
+            "description": "Perhaps the most naturally gifted Russian playmaker, celebrated for his vision, control and combination play.",
+            "image": "../assets/russia/continuation/c13-fyodor-cherenkov.webp"
+          },
+          {
+            "position": "LW",
+            "name": "Andrey Arshavin",
+            "years": "2002–2012",
+            "description": "The most outstanding attacking player of independent Russia.",
+            "image": "../assets/russia/continuation/c14-andrey-arshavin.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Eduard Streltsov",
+            "years": "1955–1968",
+            "description": "A powerful and extraordinarily creative forward whose back-heel passes became known in Russia as the Streltsov pass.",
+            "image": "../assets/russia/continuation/c15-eduard-streltsov.webp"
+          }
+        ]
+      }
+    },
+    {
+      "id": "records",
+      "number": "9",
+      "title": "Records",
+      "subtitle": "Independent Russia’s national-team landmarks",
+      "recordGroups": [
+        {
+          "title": "Match records",
+          "items": [
+            "First match: Russia 2–0 Mexico, Moscow, 16 August 1992.",
+            "Biggest victory: Russia 11–0 Brunei, friendly, 15 November 2024.",
+            "Biggest competitive victory: Russia 9–0 San Marino, Euro qualifier, 8 June 2019.",
+            "Heaviest defeat: Portugal 7–1 Russia, World Cup qualifier, 13 October 2004."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most appearances: Sergei Ignashevich, 127 caps (2002–2018).",
+            "Record goalscorer: Artem Dzyuba, 31 goals."
+          ]
+        },
+        {
+          "title": "Best tournament performances",
+          "items": [
+            "FIFA World Cup: Quarter-finals in 2018.",
+            "UEFA European Championship: Semi-finals at Euro 2008."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/russia/continuation/c17-sergei-ignashevich.webp",
+        "../assets/russia/continuation/c18-artem-dzyuba.webp"
+      ]
+    },
+    {
+      "id": "useful-links",
+      "number": "10",
+      "title": "Useful links",
+      "subtitle": "Accounts listed in the continuation",
+      "links": [
+        {
+          "label": "@RusFootballNews",
+          "url": "https://x.com/RusFootballNews"
+        },
+        {
+          "label": "@NCRusFootball",
+          "url": "https://x.com/NCRusFootball"
+        },
+        {
+          "label": "@RPLNews_eng",
+          "url": "https://x.com/RPLNews_eng"
+        },
+        {
+          "label": "@fczenit_en",
+          "url": "https://x.com/fczenit_en"
+        },
+        {
+          "label": "@fcsm_eng",
+          "url": "https://x.com/fcsm_eng"
+        },
+        {
+          "label": "@PFCCSKA_en",
+          "url": "https://x.com/PFCCSKA_en"
+        },
+        {
+          "label": "@fclokomotiv_eng",
+          "url": "https://x.com/fclokomotiv_eng"
+        },
+        {
+          "label": "@FCKrasnodar_Eng",
+          "url": "https://x.com/FCKrasnodar_Eng"
+        },
+        {
+          "label": "@premierliga",
+          "url": "https://x.com/premierliga"
+        },
+        {
+          "label": "@TeamRussia",
+          "url": "https://x.com/TeamRussia"
+        },
+        {
+          "label": "@zenit_spb",
+          "url": "https://x.com/zenit_spb"
+        },
+        {
+          "label": "@fcdynamo",
+          "url": "https://x.com/fcdynamo"
+        }
+      ]
+    }
+  ]
+}
