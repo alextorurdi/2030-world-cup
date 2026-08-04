@@ -50,8 +50,8 @@
           ],
           "images": [
             "../assets/russia/thread/p02-01.webp"
-          ],
-          "sourcePages": "1–2"
+          ]
+        
         }
       ]
     },
@@ -69,8 +69,7 @@
           "images": [
             "../assets/russia/thread/p02-02.webp",
             "../assets/russia/thread/p02-03.webp"
-          ],
-          "sourcePages": "2"
+          ]
         }
       ]
     },
@@ -92,8 +91,7 @@
             "../assets/russia/thread/p04-01.webp",
             "../assets/russia/thread/p04-02.webp",
             "../assets/russia/thread/p05-01.webp"
-          ],
-          "sourcePages": "3–5"
+          ]
         },
         {
           "heading": "The first organised leagues",
@@ -103,8 +101,7 @@
           ],
           "images": [
             "../assets/russia/thread/p05-02.webp"
-          ],
-          "sourcePages": "5"
+          ]
         },
         {
           "heading": "Football reorganised by the Soviet state",
@@ -114,8 +111,7 @@
           ],
           "images": [
             "../assets/russia/thread/p06-01.webp"
-          ],
-          "sourcePages": "5–6"
+          ]
         },
         {
           "heading": "Spartak and the Starostin brothers",
@@ -126,8 +122,7 @@
           ],
           "images": [
             "../assets/russia/thread/p06-02.webp"
-          ],
-          "sourcePages": "6"
+          ]
         },
         {
           "heading": "Russian clubs in the Soviet league",
@@ -138,8 +133,7 @@
           ],
           "images": [
             "../assets/russia/thread/p07-01.webp"
-          ],
-          "sourcePages": "7"
+          ]
         },
         {
           "heading": "A new federation and Spartak’s dominance",
@@ -151,8 +145,7 @@
           "images": [
             "../assets/russia/thread/p08-01.webp",
             "../assets/russia/thread/p08-02.webp"
-          ],
-          "sourcePages": "8"
+          ]
         },
         {
           "heading": "The Premier League and European trophies",
@@ -165,8 +158,7 @@
           "images": [
             "../assets/russia/thread/p09-01.webp",
             "../assets/russia/thread/p09-02.webp"
-          ],
-          "sourcePages": "8–9"
+          ]
         }
       ]
     },
@@ -182,8 +174,7 @@
           "text": "The Premier League is the 16-club top division. Below it are the professional First and Second Leagues. Because of Russia’s immense size, lower divisions are increasingly split into regional groups to reduce travel distances and costs.",
           "images": [
             "../assets/russia/thread/p10-01.webp"
-          ],
-          "sourcePages": "9–10"
+          ]
         },
         {
           "title": "Кубок России",
@@ -191,8 +182,7 @@
           "text": "The national knockout competition is open to amateur clubs through the Federal Subjects’ championships, similar to the FA Cup. Its table lists CSKA and Lokomotiv as the most successful clubs, with nine wins each.",
           "images": [
             "../assets/russia/thread/p11-01.webp"
-          ],
-          "sourcePages": "10"
+          ]
         },
         {
           "title": "Суперкубок России",
@@ -200,8 +190,7 @@
           "text": "The league champions face the Russian Cup winners. Zenit is the record holder with nine wins, followed by CSKA with eight.",
           "images": [
             "../assets/russia/thread/p12-01.webp
-          ],
-          "sourcePages": "11"
+          ]
         }
       ]
     },
@@ -217,8 +206,7 @@
           "text": "Arguably Russia’s most successful club of recent years, highlighting its domestic dominance and its 2008 UEFA Cup and UEFA Super Cup victories.",
           "images": [
             "../assets/russia/thread/p12-02.webp"
-          ],
-          "sourcePages": "12"
+          ]
         },
         {
           "title": "Spartak Moscow",
@@ -226,8 +214,7 @@
           "text": "Spartak is presented as the traditional club with Russia’s strongest fan base and as the defining force of the first decade of the independent Russian championship.",
           "images": [
             "../assets/russia/thread/p13-01.webp"
-          ],
-          "sourcePages": "12–13"
+          ]
         },
         {
           "title": "CSKA Moscow",
@@ -235,8 +222,7 @@
           "text": "CSKA is identified as one of the country’s oldest major clubs. Its 2005 UEFA Cup victory is highlighted as a landmark for Russian club football.",
           "images": [
             "../assets/russia/thread/p13-02.webp"
-          ],
-          "sourcePages": "12–13"
+          ]
         }
       ]
     },
@@ -256,8 +242,7 @@
           "images": [
             "../assets/russia/thread/p14-01.webp",
             "../assets/russia/thread/p14-02.webp"
-          ],
-          "sourcePages": "13–14"
+          ]
         },
         {
           "heading": "From the Russian Soviet Republic to the USSR",
@@ -265,8 +250,7 @@
           "paragraphs": [
             "Following the Civil War, the Russian Soviet Republic made its debut against the Finnish Workers’ Sports Federation, a breakaway workers’ team.",
             "After the Soviet Union was formed in 1922, the Russian Soviet team gave way to the USSR national side. Soviet football remained largely isolated from mainstream international competition until its Olympic debut at Helsinki in 1952."
-          ],
-          "sourcePages": "14"
+          ]
         },
         {
           "heading": "Olympic champions and World Cup debut",
@@ -276,8 +260,7 @@
           ],
           "images": [
             "../assets/russia/thread/p15-01.webp"
-          ],
-          "sourcePages": "15"
+          ]
         },
         {
           "heading": "Europe’s first champions",
@@ -288,8 +271,7 @@
           ],
           "images": [
             "../assets/russia/thread/p15-02.webp"
-          ],
-          "sourcePages": "15"
+          ]
         },
         {
           "heading": "European finals and the 1966 World Cup peak",
@@ -301,8 +283,7 @@
           "images": [
             "../assets/russia/thread/p16-01.webp",
             "../assets/russia/thread/p16-02.webp"
-          ],
-          "sourcePages": "16"
+          ]
         },
         {
           "heading": "The temporary CIS team",
@@ -312,8 +293,7 @@
           ],
           "images": [
             "../assets/russia/thread/p17-01.webp"
-          ],
-          "sourcePages": "17"
+          ]
         },
         {
           "heading": "Independent Russia and Salenko’s record",
@@ -325,8 +305,7 @@
           "images": [
             "../assets/russia/thread/p17-02.webp",
             "../assets/russia/thread/p18-01.webp"
-          ],
-          "sourcePages": "17–18"
+          ]
         },
         {
           "heading": "Opening-round exits and missed tournaments",
@@ -337,8 +316,7 @@
           ],
           "images": [
             "../assets/russia/continuation/c01-arshavin-early-russia.webp"
-          ],
-          "sourcePages": "Continuation p. 1"
+          ]
         },
         {
           "heading": "The Euro 2008 semi-final",
@@ -349,8 +327,7 @@
           ],
           "images": [
             "../assets/russia/continuation/c02-euro-2008-team.webp"
-          ],
-          "sourcePages": "Continuation p. 1"
+          ]
         },
         {
           "heading": "World Cup hosts",
@@ -361,8 +338,7 @@
           ],
           "images": [
             "../assets/russia/continuation/c03-world-cup-2018-stadium.webp"
-          ],
-          "sourcePages": "Continuation pp. 1–2"
+          ]
         },
         {
           "heading": "Suspension from FIFA and UEFA competitions",
@@ -373,8 +349,7 @@
           ],
           "images": [
             "../assets/russia/continuation/c04-russia-nigeria-friendly.webp"
-          ],
-          "sourcePages": "Continuation p. 2"
+          ]
         }
       ]
     },
