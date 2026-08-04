@@ -390,6 +390,17 @@
           "note": "One of the six hosts of the 2030 FIFA World Cup."
         },
         {
+          "name": "Russia",
+          "associationName": "Russian Football Union",
+          
+          "flag": "ru",
+          "confederation": "uefa",
+          "status": "eliminated",
+          "logo": "./assets/logos/uefa/002.png",
+          "page": "./associations/russia.html",
+          "note": "Suspended."
+        },
+        {
           "name": "Spain",
           "associationName": "Royal Spanish Football Federation",
           
@@ -398,7 +409,7 @@
           "status": "qualified-host",
           "logo": "./assets/logos/uefa/003.png",
           "page": "./associations/spain.html",
-          "note": "Host profile and sample detailed association page."
+          "note": "One of the six hosts of the 2030 FIFA World Cup."
         }
       ]
     }
