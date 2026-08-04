@@ -1,0 +1,11 @@
+{
+  "name": "Russia",
+  "associationName": "Russian Football Union",
+  "code": "RUS",
+  "flag": "🇷🇺",
+  "confederation": "uefa",
+  "status": "suspended",
+  "logo": "./assets/logos/uefa/002.png",
+  "page": "./associations/russia.html",
+  "note": "The source lists Russia as suspended from the 2030 World Cup road."
+}
