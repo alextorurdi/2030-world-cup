@@ -208,6 +208,7 @@
                     <span>${esc(player.position)}</span>
                     <h3>${esc(player.name)}</h3>
                     <p>${esc(player.description)}</p>
+                    <p>${esc(player.image)}</p>
                   </article>
                 `
               )
