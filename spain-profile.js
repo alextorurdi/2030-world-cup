@@ -204,11 +204,34 @@
             ${lineup.players
               .map(
                 (player) => `
-                  <article class="profile-player">
-                    <span>${esc(player.position)}</span>
-                    <h3>${esc(player.name)}</h3>
-                    <p>${esc(player.description)}</p>
-                    <p>${esc(player.image)}</p>
+                  <article class="profile-player-card">
+                    ${
+                      player.image
+                        ? `
+                          <figure class="profile-player-photo profile-media">
+                            ${renderImage(
+                              player.image,
+                              `${player.name} — Spain historical line-up`,
+                              "profile-player-image"
+                            )}
+                          </figure>
+                        `
+                        : ""
+                    }
+
+                    <div class="profile-player-copy">
+                      <p class="profile-player-position">
+                        ${esc(player.position)}
+                        ${
+                          player.years
+                            ? ` · ${esc(player.years)}`
+                            : ""
+                        }
+                      </p>
+
+                      <h3>${esc(player.name)}</h3>
+                      <p>${esc(player.description)}</p>
+                    </div>
                   </article>
                 `
               )
@@ -219,11 +242,14 @@
         <aside class="profile-lineup-aside">
           <p class="profile-formation">${esc(lineup.formation)}</p>
           <p>${esc(section.closing)}</p>
-          <p class="profile-page-reference">PDF pp. ${esc(section.sourcePages)}</p>
+
+          ${
+            section.sourcePages
+              ? `<p class="profile-page-reference">PDF pp. ${esc(section.sourcePages)}</p>`
+              : ""
+          }
         </aside>
       </div>
-
-      ${renderGallery(lineup.gallery || [], "Historical line-up")}
     `;
   };
 

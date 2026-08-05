@@ -500,7 +500,7 @@
 
 .profile-lineup-image {
   min-height: 360px;
-  margin-bottom: 15px;
+  margin-bottom: 18px;
 }
 
 .profile-lineup-image img {
@@ -514,39 +514,56 @@
 .profile-player-grid {
   display: grid;
   grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 11px;
+  gap: 14px;
 }
 
-.profile-player {
+.profile-player-card {
+  overflow: hidden;
   border: 1px solid var(--spain-line);
-  border-radius: 14px;
-  padding: 16px;
-  background: #f7f9fa;
+  border-radius: 17px;
+  background: #f8fafb;
 }
 
-.profile-player > span {
-  display: inline-grid;
-  place-items: center;
-  min-width: 34px;
-  height: 27px;
-  border-radius: 8px;
-  padding: 0 7px;
-  color: white;
-  background: var(--spain-red);
-  font-size: 0.68rem;
+.profile-player-photo {
+  min-height: 230px;
+  margin: 0;
+  overflow: hidden;
+  border: 0;
+  border-bottom: 1px solid var(--spain-line);
+  border-radius: 0;
+  background: #e8edf0;
+}
+
+.profile-player-image {
+  width: 100%;
+  height: 250px;
+  object-fit: cover;
+  object-position: top center;
+}
+
+.profile-player-copy {
+  padding: 18px;
+}
+
+.profile-player-position {
+  margin: 0 0 6px !important;
+  color: var(--spain-red) !important;
+  font-size: 0.7rem !important;
   font-weight: 950;
+  letter-spacing: 0.075em;
+  text-transform: uppercase;
 }
 
-.profile-player h3 {
-  margin: 11px 0 7px;
-  font-size: 1rem;
+.profile-player-copy h3 {
+  margin: 0 0 9px;
+  font-size: 1.15rem;
 }
 
-.profile-player p {
+.profile-player-copy p {
   margin: 0;
   color: var(--spain-muted);
-  font-size: 0.83rem;
-  line-height: 1.52;
+  font-size: 0.88rem;
+  line-height: 1.6;
 }
 
 .profile-lineup-aside {
