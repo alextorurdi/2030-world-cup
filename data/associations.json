@@ -60,6 +60,17 @@
           "logo": ""
         },
         {
+          "name": "Nepal",
+          "associationName": "All Nepal Football Association",
+          "code": "NEP",
+          "flag": "🇳🇵",
+          "confederation": "afc",
+          "status": "suspended",
+          "logo": "./assets/logos/afc/001.png",
+          "page": "./associations/nepal.html",
+          "note": "The source lists ANFA as suspended from international football."
+        }
+        {
           "name": "South Korea",
           "associationName": "Korea Football Association",
           "code": "KOR",
