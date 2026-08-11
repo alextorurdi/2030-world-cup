@@ -385,9 +385,7 @@
             "../assets/argentina/source/image073.webp",
             "../assets/argentina/source/image074.webp",
             "../assets/argentina/source/image075.webp",
-            "../assets/argentina/source/image076.webp",
-            "../assets/argentina/source/image077.webp",
-            "../assets/argentina/source/image078.webp"
+            "../assets/argentina/source/image076.webp"
           ]
         },
         {
@@ -398,6 +396,8 @@
             "The gambeta grew from informal street football: an individualistic style built on dribbling, feints and invention to carry the ball forward, often answered by defenders with physical and sometimes violent challenges."
           ],
           "images": [
+            "../assets/argentina/source/image077.webp",
+            "../assets/argentina/source/image078.webp",
             "../assets/argentina/source/image079.webp"
           ]
         },
