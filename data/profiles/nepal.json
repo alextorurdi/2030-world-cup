@@ -6,7 +6,6 @@
       "label": "Attached source document",
       "file": "Nepal.docx"
     },
-    "numberingNote": "The source uses section number 5 for both Main competitions and Main clubs. That numbering is preserved here."
   },
   "hero": {
     "series": "THE 211 FILES",
@@ -112,7 +111,7 @@
         {
           "title": "Martyr’s Memorial A-Division League",
           "meta": "Traditional top tier",
-          "text": "The Martyr’s Memorial A-Division League is Nepal’s traditional top tier. According to the source, no team from outside the Kathmandu Valley has ever played in it. The competition is currently on hiatus.",
+          "text": "The Martyr’s Memorial A-Division League is Nepal’s traditional top tier. No team from outside the Kathmandu Valley has ever played in it. The competition is currently on hiatus.",
           "images": [
             "../assets/nepal/source/image011.webp"
           ]
@@ -129,7 +128,7 @@
     },
     {
       "id": "main-clubs",
-      "number": "5",
+      "number": "6",
       "title": "Main clubs",
       "subtitle": "Manang Marsyangdi, Three Star and Nepal Police",
       "cards": [
@@ -152,7 +151,7 @@
         {
           "title": "Nepal Police Club",
           "meta": "Formerly Mahendra Police",
-          "text": "Mahendra Police—now Nepal Police—produced the country’s best AFC club run, reaching the 2007 President’s Cup final. The source describes the competition as a third-tier Asian tournament comparable in concept to the UEFA Conference League.",
+          "text": "Mahendra Police—now Nepal Police—produced the country’s best AFC club run, reaching the 2007 President’s Cup final. This competition is a third-tier Asian tournament comparable in concept to the UEFA Conference League.",
           "images": [
             "../assets/nepal/source/image015.webp"
           ]
@@ -161,7 +160,7 @@
     },
     {
       "id": "national-team",
-      "number": "6",
+      "number": "7,
       "title": "National team",
       "subtitle": "From irregular early matches to the Solidarity Cup",
       "entries": [
@@ -190,7 +189,7 @@
     },
     {
       "id": "current-affairs",
-      "number": "7",
+      "number": "8",
       "title": "Current affairs",
       "subtitle": "ANFA’s suspension",
       "entries": [
@@ -208,7 +207,7 @@
     },
     {
       "id": "world-cup-record",
-      "number": "8",
+      "number": "9",
       "title": "World Cup record",
       "subtitle": "Never qualified for the final tournament",
       "recordGroups": [
