@@ -1,0 +1,869 @@
+{
+  "meta": {
+    "title": "Argentina · The 211 Files",
+    "description": "Argentina in The 211 Files: country, football history, competitions, clubs, national team, historical XI, records, stadiums and the 2030 road.",
+    "source": {
+      "label": "Attached source document",
+      "file": "Argentina.docx"
+    }
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#004",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "association": "Argentine Football Association / Asociación del Fútbol Argentino (AFA)",
+    "founded": "1893",
+    "fifa": "1912",
+    "confederation": "CONMEBOL",
+    "status": "Centenary Host",
+    "worldCupAppearances": "19",
+    "bestRecords": [
+      "🏆 3× FIFA World Cup",
+      "🏆 16× Copa América",
+      "🥇 2× Olympic Gold"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/004.png",
+    "fallbackLogo": "../assets/argentina/source/image004.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Argentina at a glance",
+      "entries": [
+        {
+          "paragraphs": [
+            "Stretching from the subtropics to Tierra del Fuego, Argentina is South America’s second-largest and the world’s eighth-largest country. Home to around 46 million people, it is a major agricultural, cultural and sporting power and home to striking natural landscapes.",
+            "Although Argentina is a federal republic of 23 provinces plus Buenos Aires City, it has historically been highly centralised around the capital. Buenos Aires Province and City together contain about 45% of the country’s population."
+          ],
+          "images": [
+            "../assets/argentina/source/image003.webp",
+            "../assets/argentina/source/image005.webp",
+            "../assets/argentina/source/image006.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Independence, Peronism, dictatorship and democracy",
+      "entries": [
+        {
+          "paragraphs": [
+            "Argentina declared independence from Spain in 1816. After decades of civil wars, the state consolidated in the late 19th century and became wealthy through grain, cattle, railways and mass European immigration—especially from Italy and Spain.",
+            "The 20th century brought repeated military coups and the rise of Peronism, the enduring movement built around Juan and Eva Perón. Political violence culminated in the 1976–83 dictatorship, state terrorism and the 1982 Falklands/Malvinas War against the United Kingdom.",
+            "Democracy returned in 1983 and has survived despite hyperinflation, the 2001 economic collapse and recurring debt and currency crises. Argentina remains politically polarised, but national symbols such as the football team are a matter of unity for Argentinians."
+          ],
+          "images": [
+            "../assets/argentina/source/image007.webp",
+            "../assets/argentina/source/image008.webp",
+            "../assets/argentina/source/image009.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "From British railway communities to a national obsession",
+      "entries": [
+        {
+          "heading": "The first recorded match",
+          "date": "20 June 1867",
+          "paragraphs": [
+            "Football arrived with Britain’s commercial and railway community. British residents played Argentina’s earliest recorded match at the Buenos Aires Cricket Club ground: Thomas Hogg’s Red Caps beat Walter Heald’s White Caps 4–0."
+          ],
+          "images": [
+            "../assets/argentina/source/image010.webp"
+          ]
+        },
+        {
+          "heading": "Alexander Watson Hutton and the schools",
+          "date": "1882–1891",
+          "paragraphs": [
+            "The sport remained mainly inside British clubs and schools until Scottish teacher Alexander Watson Hutton arrived in 1882. He promoted football at St Andrew’s and founded the Buenos Aires English High School, whose team later became the dominant Alumni Athletic Club.",
+            "Argentina staged its first league in 1891. It lasted only one season."
+          ],
+          "images": [
+            "../assets/argentina/source/image011.webp",
+            "../assets/argentina/source/image012.webp",
+            "../assets/argentina/source/image013.webp",
+            "../assets/argentina/source/image014.webp"
+          ]
+        },
+        {
+          "heading": "The ancestor of AFA",
+          "date": "1893",
+          "paragraphs": [
+            "In 1893 Watson Hutton and five clubs founded the Argentine Association Football League—the direct ancestor of today’s AFA and South America’s oldest surviving national football association.",
+            "Every AAFL club was based in Buenos Aires or nearby, while football also spread through the interior along the railways. Córdoba Athletic was founded in 1882 and the future Rosario Central in 1889; early play is recorded in Tucumán in 1890, Bahía Blanca in 1891 and Santa Fe in 1896."
+          ],
+          "images": [
+            "../assets/argentina/source/image015.webp",
+            "../assets/argentina/source/image016.webp",
+            "../assets/argentina/source/image017.webp",
+            "../assets/argentina/source/image018.webp"
+          ]
+        },
+        {
+          "heading": "From British game to Argentine club culture",
+          "date": "1900s–1919",
+          "paragraphs": [
+            "Early football was overwhelmingly British in language, leadership and membership. Lomas Athletic won five of the first six championships, before Belgrano Athletic and Alumni took over. Alumni won ten league titles between 1900 and 1911 and dissolved in 1913.",
+            "The game soon escaped the expatriate elite. Clubs founded by local workers, students and neighbourhood communities multiplied: Rosario Central and Newell’s in Rosario; River Plate, Boca Juniors, Racing, Independiente, San Lorenzo and Huracán in Greater Buenos Aires; and Estudiantes in La Plata.",
+            "Racing became the first great local dynasty, winning seven consecutive championships from 1913 to 1919. Spanish-language club culture, mass crowds and neighbourhood identities had fully Argentinised the imported game."
+          ],
+          "images": [
+            "../assets/argentina/source/image019.webp",
+            "../assets/argentina/source/image029.webp",
+            "../assets/argentina/source/image031.webp"
+          ]
+        },
+        {
+          "heading": "Regional leagues and the first split",
+          "date": "1905–1914",
+          "paragraphs": [
+            "As clubs multiplied in the interior, they formed independent regional leagues vaguely associated with the AAFL: Liga Rosarina in 1905, Santa Fe’s first regional league in 1907, Bahía Blanca’s Liga del Sur in 1908, Tucumán’s first league in 1911 and Federación Cordobesa in 1913.",
+            "In 1912 the Argentine Football Association joined FIFA and Spanishised its name as Asociación Argentina de Football. That same year came its first split: a dispute over admission fees and revenue at Gimnasia y Esgrima de Buenos Aires’ ground produced the rival FAF. It returned to the AAF in 1914."
+          ],
+          "images": [
+            "../assets/argentina/source/image020.webp",
+            "../assets/argentina/source/image021.webp",
+            "../assets/argentina/source/image022.webp"
+          ]
+        },
+        {
+          "heading": "The amateur split and reunification",
+          "date": "1919–1926",
+          "paragraphs": [
+            "A deeper split occurred in 1919, driven by disputes over the meaning of amateurism. Major clubs such as Racing, River and Independiente formed the rival Asociación Amateurs de Football.",
+            "The split helped establish Boca and River as leading forces, each in a rival association. After seven years of parallel championships, the President of Argentina issued a conciliatory ruling that led to their 1926 merger as the Asociación Amateurs Argentina de Football.",
+            "Argentine clubs also competed regularly with Uruguayan clubs in the Tie Cup, Copa de Honor Cousenier and Copa Aldao/Río de la Plata. The source totals those series at 27 Argentine titles and 19 Uruguayan."
+          ],
+          "images": [
+            "../assets/argentina/source/image027.webp",
+            "../assets/argentina/source/image028.webp"
+          ]
+        },
+        {
+          "heading": "Professionalism and the Big Five",
+          "date": "1931–1934",
+          "paragraphs": [
+            "At the 1926 merger, Racing led the title table with nine championships, followed by Boca Juniors with five. Huracán had three, Independiente two and River Plate one.",
+            "In 1931 the leading clubs broke away to create a professional competition. The new era produced Argentina’s traditional Big Five: Boca Juniors, River Plate, Independiente, Racing Club and San Lorenzo. Boca won the first professional championship, while River’s world-record fee for Bernabé Ferreyra helped create the nickname Los Millonarios.",
+            "In 1934 the professional Liga Argentina de Football merged with the amateur association to form the Asociación del Football Argentino (AFA), consolidating professionalism after decades of institutional splits."
+          ],
+          "images": [
+            "../assets/argentina/source/image032.webp",
+            "../assets/argentina/source/image033.webp",
+            "../assets/argentina/source/image034.webp"
+          ]
+        },
+        {
+          "heading": "The golden 1940s and the players’ strike",
+          "date": "1940s–1950s",
+          "paragraphs": [
+            "The 1940s became a golden age. River’s La Máquina—Muñoz, Moreno, Pedernera, Labruna and Loustau—played fluid, interchangeable attacking football, while Boca and San Lorenzo offered formidable rivals. Racing then became the first professional three-time consecutive champion from 1949 to 1951.",
+            "A players’ strike halted the 1948 season and pushed many stars abroad, especially to Colombia’s unsanctioned El Dorado league. The talent drain and dispute also contributed to Argentina’s absence from the 1950 World Cup."
+          ],
+          "images": [
+            "../assets/argentina/source/image035.webp",
+            "../assets/argentina/source/image036.webp",
+            "../assets/argentina/source/image037.webp"
+          ]
+        },
+        {
+          "heading": "The Libertadores changes the hierarchy",
+          "date": "1960s–1970s",
+          "paragraphs": [
+            "River dominated the 1950s, but continental club football soon changed the hierarchy. San Lorenzo were Argentina’s first Copa Libertadores entrant in 1960; Independiente became the country’s first champion in 1964 and defended the trophy in 1965.",
+            "Racing became the first Argentine club world champion by beating Celtic in the 1967 Intercontinental Cup. Estudiantes followed with three straight Libertadores from 1968 to 1970 and defeated Manchester United in 1968.",
+            "The Intercontinental Cup’s prestige was repeatedly overshadowed by brutal play between 1967 and 1969. After the 1969 final, dictator Juan Carlos Onganía demanded harsh sanctions against Estudiantes players Poletti, Aguirre Suárez and Luján Manera, who were jailed.",
+            "Independiente then won four consecutive Libertadores from 1972 to 1975 and another in 1984, taking its record to seven. Boca won back-to-back titles in 1977 and 1978 and its first Intercontinental Cup."
+          ],
+          "images": [
+            "../assets/argentina/source/image038.webp",
+            "../assets/argentina/source/image039.webp",
+            "../assets/argentina/source/image040.webp"
+          ]
+        },
+        {
+          "heading": "Bringing the interior onto the national stage",
+          "date": "1967–1986",
+          "paragraphs": [
+            "The interior leagues entered AFA in 1934 through the Consejo Federal, which preserved their autonomy over local football, but their clubs remained separate from national competitions.",
+            "From 1967 the traditional Buenos Aires-based league became the Metropolitano and ran alongside the Nacional, which admitted provincial clubs through regional qualification. Rosario Central became the first champion from outside Buenos Aires Province in the 1971 Nacional; Newell’s followed in 1974.",
+            "No club affiliated through the Consejo Federal won the Nacional. Talleres de Córdoba came closest as 1977 runner-up; Racing de Córdoba later lost the 1980 final to Rosario Central.",
+            "In 1985 AFA scrapped the Metropolitano–Nacional system. From 1985/86 Primera adopted a single European-style season, and the 1986/87 Nacional B gave indirectly affiliated interior clubs a permanent promotion route to the top flight."
+          ],
+          "images": [
+            "../assets/argentina/source/image041.webp",
+            "../assets/argentina/source/image042.webp"
+          ]
+        },
+        {
+          "heading": "Short tournaments, Vélez and Boca’s modern dynasty",
+          "date": "1991–2007",
+          "paragraphs": [
+            "From 1991 Argentina adopted short Apertura and Clausura championships, usually creating two league champions per season. Vélez became the decade’s model club under Carlos Bianchi, winning the 1994 Libertadores and Intercontinental Cup, while River dominated domestically.",
+            "Bianchi then built Boca’s modern dynasty. Between 2000 and 2003 the club won three Libertadores and defeated Real Madrid and AC Milan for two Intercontinental Cups. Boca added another Libertadores in 2007, taking its total to six."
+          ],
+          "images": [
+            "../assets/argentina/source/image043.webp",
+            "../assets/argentina/source/image044.webp"
+          ]
+        },
+        {
+          "heading": "River’s fall, recovery and the modern era",
+          "date": "2010s–2026",
+          "paragraphs": [
+            "By 2010 River Plate led Boca Juniors by six league titles, but a deep financial and institutional crisis culminated in River’s historic relegation to Nacional B in 2011. The club returned within a year and revived under Marcelo Gallardo, winning the 2015 and 2018 Libertadores.",
+            "The 2018 final was against Boca and was ultimately played in Madrid after violence forced the second leg away from Argentina.",
+            "The 21st century also brought continental success beyond the giants: San Lorenzo won its first Libertadores in 2014, while Lanús, Arsenal, Defensa y Justicia, Independiente and Racing lifted Sudamericana titles.",
+            "Calendars, relegation rules and tournament sizes now change frequently. In 2026, the 30-team top flight crowns separate Apertura and Clausura champions through two zones and playoffs. The source identifies Belgrano as the Apertura winner and the first indirectly affiliated club to win the league."
+          ],
+          "images": [
+            "../assets/argentina/source/image046.webp",
+            "../assets/argentina/source/image047.webp",
+            "../assets/argentina/source/image048.webp",
+            "../assets/argentina/source/image049.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Apertura, Clausura and a crowded cup calendar",
+      "cards": [
+        {
+          "title": "Liga Profesional",
+          "meta": "30 clubs · Apertura and Clausura",
+          "text": "The 2026 top flight has 30 clubs divided into two zones of 15. Each side plays 14 zonal matches, one clásico interzonal and one additional interzonal game. The top eight from each zone enter single-match playoffs from the round of 16 to the final.",
+          "images": [
+            "../assets/argentina/source/image050.webp",
+            "../assets/argentina/source/image051.webp"
+          ]
+        },
+        {
+          "title": "Annual table and relegation",
+          "meta": "Season-wide aggregate",
+          "text": "Apertura is played in the first half of the year and Clausura in the second. A combined annual table also determines continental places and relegation, while the system continues to use average points and yearly totals in changing combinations.",
+          "images": [
+            "../assets/argentina/source/image052.webp"
+          ]
+        },
+        {
+          "title": "Primera Nacional and the lower pyramid",
+          "meta": "36-club second tier",
+          "text": "The second tier has 36 clubs split into two zones of 18, playing home and away plus an interzonal round. Below it, directly affiliated Buenos Aires clubs and indirectly affiliated provincial clubs follow separate pyramids under AFA and the Consejo Federal.",
+          "images": [
+            "../assets/argentina/source/image053.webp"
+          ]
+        },
+        {
+          "title": "Copa Argentina",
+          "meta": "National knockout cup",
+          "text": "The national knockout cup brings together clubs from every level down to Primera C and Federal A in one-off ties at neutral venues. Every team starts at the round of 64, and the champion qualifies for the Libertadores.",
+          "images": [
+            "../assets/argentina/source/image054.webp"
+          ]
+        },
+        {
+          "title": "Trofeo de Campeones",
+          "meta": "Apertura champion v Clausura champion",
+          "text": "Played each December as a one-off final at a neutral venue. If one club wins both tournaments, the runners-up contest a playoff; if the same club is runner-up twice, it qualifies directly.",
+          "images": [
+            "../assets/argentina/source/image055.webp"
+          ]
+        },
+        {
+          "title": "Supercopa Argentina",
+          "meta": "One-off final",
+          "text": "The previous year’s Trofeo de Campeones winner meets the Copa Argentina winner. If one club wins both, the Trofeo de Campeones runner-up takes the vacant place.",
+          "images": [
+            "../assets/argentina/source/image056.webp"
+          ]
+        },
+        {
+          "title": "Supercopa Internacional",
+          "meta": "Trofeo winner v aggregate-table leader",
+          "text": "Another one-off final, contested by the Trofeo de Campeones winner and the best team in the Primera División aggregate table for the season, or the runner-up when required.",
+          "images": [
+            "../assets/argentina/source/image057.webp"
+          ]
+        },
+        {
+          "title": "Recopa de Campeones",
+          "meta": "Planned for 2027",
+          "text": "The source describes a planned three-team round robin between the Copa Argentina, Supercopa Argentina and Supercopa Internacional winners, with runners-up replacing duplicate qualifiers.",
+          "images": [
+            "../assets/argentina/source/image058.webp"
+          ]
+        },
+        {
+          "title": "CONMEBOL competitions",
+          "meta": "Libertadores and Sudamericana",
+          "text": "Argentina has six Copa Libertadores places: the Apertura, Clausura and Copa Argentina champions plus the next three best teams in the aggregate table. The next six teams qualify for the Copa Sudamericana.",
+          "images": [
+            "../assets/argentina/source/image059.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Big Five and the country’s powerful local identities",
+      "cards": [
+        {
+          "title": "River Plate & Boca Juniors",
+          "meta": "The two giants",
+          "text": "River Plate and Boca Juniors tower over Argentine football in support, revenue and trophies. Their Superclásico is one of sport’s most intense rivalries. River lead the league roll of honour; Boca have six Libertadores and remain the only giant never relegated.",
+          "images": [
+            "../assets/argentina/source/image060.webp",
+            "../assets/argentina/source/image061.webp"
+          ]
+        },
+        {
+          "title": "Independiente, Racing & San Lorenzo",
+          "meta": "Completing the traditional Big Five",
+          "text": "Independiente’s seven Libertadores made it Rey de Copas; Racing were Argentina’s first club world champions; San Lorenzo built a vast popular following despite waiting until 2014 for the Libertadores.",
+          "images": [
+            "../assets/argentina/source/image062.webp",
+            "../assets/argentina/source/image063.webp",
+            "../assets/argentina/source/image064.webp"
+          ]
+        },
+        {
+          "title": "Estudiantes & Vélez",
+          "meta": "The great challengers",
+          "text": "Estudiantes and Vélez combine domestic consistency with major continental success. Rosario Central and Newell’s divide Rosario, while Huracán, Argentinos Juniors and Ferro retain deep historical and neighbourhood importance.",
+          "images": [
+            "../assets/argentina/source/image065.webp",
+            "../assets/argentina/source/image066.webp",
+            "../assets/argentina/source/image067.webp",
+            "../assets/argentina/source/image068.webp"
+          ]
+        },
+        {
+          "title": "The provincial centres",
+          "meta": "Córdoba, Santa Fe, Tucumán and beyond",
+          "text": "Talleres, Belgrano and Instituto make Córdoba a major centre; Colón and Unión divide Santa Fe; Atlético and San Martín dominate Tucumán’s rivalry. Lanús, Banfield, Gimnasia, Godoy Cruz and others underline how strongly Argentine identity is rooted in local clubs.",
+          "images": [
+            "../assets/argentina/source/image069.webp",
+            "../assets/argentina/source/image070.webp",
+            "../assets/argentina/source/image071.webp",
+            "../assets/argentina/source/image072.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From the Río de la Plata rivalry to the 2026 final",
+      "entries": [
+        {
+          "heading": "La Albiceleste is born",
+          "date": "1902–1914",
+          "paragraphs": [
+            "La Albiceleste played its first official international in Montevideo on 20 July 1902, beating Uruguay 6–0. Combined Argentina–Uruguay teams had already faced each other in the previous decade, largely through British expatriate club networks.",
+            "The immediate precedent was a 1901 match arranged by Juan Sardeson of Albion FC and James O. Anderson of Lomas Athletic. In 1902 the predecessors of AFA and AUF organised the official meeting at Paso del Molino.",
+            "Argentina and Uruguay then met relentlessly, creating the Clásico del Río de la Plata. Chile joined the international scene in 1910, while Argentina first met Brazil officially in 1914, winning 3–0 in Buenos Aires before losing the rematch seven days later."
+          ],
+          "images": [
+            "../assets/argentina/source/image073.webp",
+            "../assets/argentina/source/image074.webp",
+            "../assets/argentina/source/image075.webp",
+            "../assets/argentina/source/image076.webp",
+            "../assets/argentina/source/image077.webp",
+            "../assets/argentina/source/image078.webp"
+          ]
+        },
+        {
+          "heading": "The Copa América precursor and the gambeta",
+          "date": "1910s",
+          "paragraphs": [
+            "A 1910 tournament in Buenos Aires between Argentina, Uruguay and Chile honoured the Revolución de Mayo and is presented in the source as the most direct precursor of the Copa América. Argentina won it after beating both neighbours.",
+            "The gambeta grew from informal street football: an individualistic style built on dribbling, feints and invention to carry the ball forward, often answered by defenders with physical and sometimes violent challenges."
+          ],
+          "images": [
+            "../assets/argentina/source/image079.webp"
+          ]
+        },
+        {
+          "heading": "Olympic breakthrough",
+          "date": "1924–1928",
+          "paragraphs": [
+            "Argentina missed Paris 1924 because its football remained split between the FIFA-recognised AAF and the dissident AAmF. A mixed team was discussed, but institutional disputes lasted until the registration deadline expired.",
+            "After Uruguay’s success and the resolution of Argentina’s split, La Albiceleste entered the 1928 Olympics. It beat the United States 11–2, Belgium 6–3 and Egypt 6–0 before meeting Uruguay in the final. The first match ended 1–1; Uruguay won the replay 2–1."
+          ],
+          "images": [
+            "../assets/argentina/source/image080.webp",
+            "../assets/argentina/source/image081.webp"
+          ]
+        },
+        {
+          "heading": "The first World Cup final",
+          "date": "1930–1938",
+          "paragraphs": [
+            "At the 1930 World Cup in Uruguay, Argentina reached the final after beating France 1–0, Mexico 6–3, Chile 3–1 and the United States 6–1. Facing Uruguay again, La Albiceleste led 2–1 at half-time but lost 4–2.",
+            "The 1934 World Cup was very different. Professional clubs refused to release players, so Argentina sent an amateur side and lost 3–2 to Sweden in the first round. It then withdrew from the 1938 tournament after losing the host-selection dispute."
+          ],
+          "images": [
+            "../assets/argentina/source/image090.webp",
+            "../assets/argentina/source/image091.webp"
+          ]
+        },
+        {
+          "heading": "A golden generation away from the World Cup",
+          "date": "1937–1957",
+          "paragraphs": [
+            "Argentina won seven South American Championships between 1937 and 1957, producing legends such as Moreno, Pedernera, Méndez, Pontoni, Labruna and Sívori. Yet an entire golden generation never appeared at a World Cup.",
+            "The 1948 players’ strike sent stars abroad. AFA then skipped the 1949 South American Championship in Brazil; relations worsened and Argentina withdrew from the 1950 World Cup.",
+            "In 1953 Argentina faced England twice in Buenos Aires. A 3–1 victory featured Grillo’s famous 'impossible goal', although England treated it as an unofficial FA XI match. Three days later the official international was abandoned at 0–0 because of torrential rain.",
+            "Argentina did not enter the 1954 World Cup. The source notes that the exact reasons remain unclear, with international isolation, the player exodus and political caution all contributing."
+          ],
+          "images": [
+            "../assets/argentina/source/image092.webp",
+            "../assets/argentina/source/image093.webp",
+            "../assets/argentina/source/image094.webp",
+            "../assets/argentina/source/image095.webp",
+            "../assets/argentina/source/image096.webp",
+            "../assets/argentina/source/image097.webp",
+            "../assets/argentina/source/image098.webp"
+          ]
+        },
+        {
+          "heading": "The Disaster of Sweden and a tactical turn",
+          "date": "1958–1966",
+          "paragraphs": [
+            "Argentina returned at Sweden 1958 convinced of its superiority. After beating Northern Ireland, it lost to West Germany and was destroyed 6–1 by Czechoslovakia. The 'Disaster of Sweden' exposed how far Argentine football had drifted from Europe.",
+            "The reaction was a turn away from relying exclusively on la nuestra—gambeta and individual technique—towards collective discipline, tighter marking, greater physical preparation, tactical fouls and psychological warfare.",
+            "Argentina won the first 1959 South American Championship but then entered a 32-year continental drought. At the 1962 World Cup it beat Bulgaria 1–0, lost 3–1 to England and failed to advance after drawing with Hungary.",
+            "In 1966 Argentina beat Spain and Switzerland and drew with West Germany to reach the quarter-finals. A violent defeat to hosts England, including Antonio Rattín’s controversial dismissal, helped ignite a rivalry that still resonates."
+          ],
+          "images": [
+            "../assets/argentina/source/image105.webp",
+            "../assets/argentina/source/image112.webp",
+            "../assets/argentina/source/image113.webp"
+          ]
+        },
+        {
+          "heading": "Missing Mexico and struggling in 1974",
+          "date": "1970–1974",
+          "paragraphs": [
+            "Argentina missed Mexico 1970 amid institutional chaos. Repeated AFA interventions and coaching changes left Adolfo Pedernera little preparation time; defeats in La Paz and Lima proved fatal, and Peru sealed elimination with a 2–2 draw at La Bombonera.",
+            "Argentina returned in 1974 but struggled. It lost 3–2 to Poland, drew 1–1 with Italy and advanced on goal difference after beating Haiti 4–1. In the second group stage, defeats to the Netherlands and Brazil ended its hopes before a final draw with East Germany."
+          ],
+          "images": [
+            "../assets/argentina/source/image124.webp"
+          ]
+        },
+        {
+          "heading": "Menotti, dictatorship and the 1978 World Cup",
+          "date": "1974–1978",
+          "paragraphs": [
+            "César Luis Menotti rebuilt the team around technical football, aggressive pressing and a national training structure ahead of the 1978 World Cup. In the source’s framing, he recovered a modernised version of la nuestra.",
+            "Argentina hosted the tournament under the military dictatorship installed after the 1976 coup. The regime used the World Cup to project order and national unity while repression and forced disappearances continued.",
+            "Argentina advanced as group runners-up after beating Hungary and France but losing to Italy. In Round 2 it beat Poland and drew Brazil. Needing a four-goal win over Peru to reach the final, it won 6–0 amid lasting suspicions, heightened by Videla’s pre-match visit to Peru’s dressing room."
+          ],
+          "images": [
+            "../assets/argentina/source/image125.webp",
+            "../assets/argentina/source/image126.webp",
+            "../assets/argentina/source/image129.webp"
+          ]
+        },
+        {
+          "heading": "First world title",
+          "date": "1978",
+          "paragraphs": [
+            "In the final at the Monumental, Argentina beat the Netherlands 3–1 after extra time. Kempes opened the scoring, the Dutch equalised late and hit the post in the final minute, but Kempes struck again before Bertoni sealed the victory.",
+            "Menotti became the leading figure of one of Argentina’s great football schools—Menottismo. Yet his decision to omit a 17-year-old Argentinos Juniors star remained controversial: Diego Armando Maradona."
+          ],
+          "images": [
+            "../assets/argentina/source/image132.webp",
+            "../assets/argentina/source/image133.webp"
+          ]
+        },
+        {
+          "heading": "From Menotti to Bilardo",
+          "date": "1979–1983",
+          "paragraphs": [
+            "Maradona scored against Bolivia in the 1979 Copa América, but Argentina finished bottom of its group. At the 1982 World Cup, a loss to Belgium was followed by wins over Hungary and El Salvador, before defeats to Italy and Brazil ended the campaign.",
+            "Maradona scored twice in 1982 but was sent off against Brazil. Menotti stepped down and Carlos Bilardo took over, building a more pragmatic side around the young number 10. Bilardismo placed renewed emphasis on tactical analysis, discipline and results."
+          ],
+          "images": [
+            "../assets/argentina/source/image140.webp",
+            "../assets/argentina/source/image141.webp"
+          ]
+        },
+        {
+          "heading": "Mexico 1986 and Maradona’s defining tournament",
+          "date": "1983–1986",
+          "paragraphs": [
+            "Argentina improved at the 1983 Copa América but went out on goal difference to Brazil. In the 1986 qualifiers it won four of six matches, losing only in Lima and drawing Peru at home. Maradona played all six and scored three.",
+            "At the World Cup, Argentina beat South Korea and Bulgaria and drew with Italy to top its group, then eliminated Uruguay.",
+            "The quarter-final against England became Maradona’s defining match. He scored the 'Hand of God' and then the Goal of the Century. Lineker pulled one back, but Argentina held on 2–1.",
+            "Maradona scored twice against Belgium in the semi-final. In the final, Argentina led West Germany 2–0, was pegged back to 2–2, and then won 3–2 when Maradona released Burruchaga for the decisive goal."
+          ],
+          "images": [
+            "../assets/argentina/source/image142.webp",
+            "../assets/argentina/source/image145.webp",
+            "../assets/argentina/source/image146.webp",
+            "../assets/argentina/source/image147.webp"
+          ]
+        },
+        {
+          "heading": "From disappointment to another World Cup final",
+          "date": "1987–1990",
+          "paragraphs": [
+            "Expectations were high for the 1987 Copa América on home soil, but after a strong group phase against Peru and Ecuador, Argentina lost to Uruguay in the semi-finals. The 1989 edition in Brazil ended with fourth place in the final round.",
+            "Argentina arrived at Italia 1990 weakened and lost the opener to Cameroon. It survived as a best third-placed team, eliminated Brazil through Caniggia, beat Yugoslavia and hosts Italy on penalties, and then lost a grim final 1–0 to West Germany."
+          ],
+          "images": [
+            "../assets/argentina/source/image150.webp",
+            "../assets/argentina/source/image153.webp"
+          ]
+        },
+        {
+          "heading": "Copa champions again, then the 1994 shock",
+          "date": "1991–1994",
+          "paragraphs": [
+            "Without Maradona, Argentina stormed through the 1991 Copa América with six wins and a draw against hosts Chile, ending a 32-year title drought. In 1993 it retained the trophy, beating Brazil and Colombia on penalties before defeating Mexico 2–1 in the final.",
+            "At USA 1994 Argentina opened brilliantly against Greece and Nigeria, but Maradona’s expulsion after a failed drug test shattered the team. Defeat to Bulgaria was followed by a 3–2 round-of-16 loss to Romania."
+          ],
+          "images": [
+            "../assets/argentina/source/image156.webp",
+            "../assets/argentina/source/image157.webp"
+          ]
+        },
+        {
+          "heading": "The Passarella and Bielsa years",
+          "date": "1995–2001",
+          "paragraphs": [
+            "The 1995 Copa América ended in a quarter-final penalty defeat to Brazil after Argentina had finished behind—and lost to—the United States in its group. In 1997 it again advanced as runner-up and lost 2–1 to Peru in the quarter-finals.",
+            "Daniel Passarella’s team reached the 1998 World Cup quarter-finals. Argentina beat England on penalties after a 2–2 epic, but Dennis Bergkamp’s late masterpiece gave the Netherlands a 2–1 win.",
+            "At the 1999 Copa América Argentina again reached the quarter-finals and lost 2–1 to Brazil. It skipped the 2001 edition after AFA withdrew over security concerns and reported threats amid Colombia’s internal conflict."
+          ],
+          "images": [
+            "../assets/argentina/source/image158.webp",
+            "../assets/argentina/source/image159.webp",
+            "../assets/argentina/source/image160.webp"
+          ]
+        },
+        {
+          "heading": "From the 2002 collapse to Olympic gold",
+          "date": "2002–2004",
+          "paragraphs": [
+            "Argentina dominated 2002 World Cup qualifying and arrived as favourites, but the 'group of death' ended in humiliation: a win over Nigeria, defeat to England and a 1–1 draw with Sweden sent the team home.",
+            "Marcelo Bielsa stayed and later won Olympic gold at Athens 2004 without conceding a goal.",
+            "That same year Argentina reached the Copa América final after beating Ecuador and Uruguay, losing to Mexico, then eliminating Peru and Colombia. A last-gasp Adriano equaliser made the final 2–2, and Brazil won the trophy on penalties."
+          ],
+          "images": [
+            "../assets/argentina/source/image165.webp",
+            "../assets/argentina/source/image166.webp"
+          ]
+        },
+        {
+          "heading": "Pékerman, Messi and the 2007 final",
+          "date": "2006–2007",
+          "paragraphs": [
+            "At Germany 2006, José Pékerman’s team played some of the tournament’s finest football, including a 24-pass goal against Serbia and Montenegro. Argentina beat Mexico after extra time but lost the quarter-final to hosts Germany on penalties after surrendering a 1–0 lead.",
+            "Pékerman was criticised for underusing an 18-year-old Lionel Messi. At the 2007 Copa América, Argentina won five straight matches against the United States, Colombia, Paraguay, Peru and Mexico before losing the final 3–0 to Brazil."
+          ],
+          "images": [
+            "../assets/argentina/source/image167.webp",
+            "../assets/argentina/source/image170.webp"
+          ]
+        },
+        {
+          "heading": "Maradona as coach and home disappointment",
+          "date": "2010–2011",
+          "paragraphs": [
+            "Diego Maradona coached Argentina at South Africa 2010. Four straight wins carried the team past Mexico in the round of 16, but Germany exposed its defensive imbalance in a 4–0 quarter-final.",
+            "Expectations were high again for the 2011 Copa América at home, but Argentina exited in the quarter-finals after losing on penalties to Uruguay."
+          ],
+          "images": [
+            "../assets/argentina/source/image171.webp"
+          ]
+        },
+        {
+          "heading": "Brazil 2014 and the Chile heartbreaks",
+          "date": "2014–2016",
+          "paragraphs": [
+            "At Brazil 2014 Argentina won all three group games, then edged Switzerland, Belgium and the Netherlands—the latter on penalties—without conceding a knockout goal. Mario Götze’s extra-time strike gave Germany a 1–0 win in the final.",
+            "The pain deepened in the Copa América. Argentina lost the 2015 and 2016 finals to Chile on penalties. After the Centenario defeat, Messi briefly retired from international football before returning."
+          ],
+          "images": [
+            "../assets/argentina/source/image172.webp",
+            "../assets/argentina/source/image173.webp"
+          ]
+        },
+        {
+          "heading": "Russia 2018",
+          "date": "2018",
+          "paragraphs": [
+            "A 1–1 draw with Iceland and a 3–0 defeat to Croatia left Argentina near elimination, before Marcos Rojo’s late goal beat Nigeria 2–1. Eventual champions France then won a wild round-of-16 match 4–3, ending Jorge Sampaoli’s turbulent reign."
+          ],
+          "images": [
+            "../assets/argentina/source/image174.webp"
+          ]
+        },
+        {
+          "heading": "Scaloni rebuilds the team",
+          "date": "2019–2021",
+          "paragraphs": [
+            "Lionel Scaloni, initially an interim choice, rebuilt the side around collective intensity and Messi’s freedom. Argentina finished third at the 2019 Copa América after being eliminated by Brazil.",
+            "Argentina then went unbeaten through the 2021 Copa América and met Brazil at the Maracanã. Ángel Di María’s chip delivered a 1–0 victory and Argentina’s first major senior title in 28 years."
+          ],
+          "images": [
+            "../assets/argentina/source/image175.webp",
+            "../assets/argentina/source/image176.webp"
+          ]
+        },
+        {
+          "heading": "Qatar 2022 and the third star",
+          "date": "2022",
+          "paragraphs": [
+            "Argentina beat European champions Italy 3–0 in the Finalissima and arrived in Qatar on a 36-match unbeaten run.",
+            "The World Cup began with a historic 2–1 defeat to Saudi Arabia. Argentina recovered against Mexico and Poland, beat Australia, survived a furious Dutch comeback on penalties and defeated Croatia 3–0 to reach the final against France.",
+            "Argentina led the final 2–0, France levelled in 97 seconds, Messi restored the lead in extra time and Mbappé completed a hat-trick. Emiliano Martínez saved in the shootout and Montiel converted: 3–3, 4–2 on penalties and a third star."
+          ],
+          "images": [
+            "../assets/argentina/source/image177.webp",
+            "../assets/argentina/source/image178.webp"
+          ]
+        },
+        {
+          "heading": "A record 16th Copa América",
+          "date": "2024",
+          "paragraphs": [
+            "Argentina defended the Copa América in 2024. It won every group match without conceding, survived Ecuador on penalties and beat Canada again. Lautaro Martínez’s extra-time goal defeated Colombia 1–0 in Miami, delivering a record 16th continental title."
+          ],
+          "images": [
+            "../assets/argentina/source/image179.webp"
+          ]
+        },
+        {
+          "heading": "World Cup holders return in 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Argentina qualified by topping CONMEBOL and entered the 2026 World Cup as holders. It won Group J against Algeria, Austria and Jordan. A 39-year-old Messi scored six group goals, including a hat-trick in the opener, and became the World Cup’s all-time leading scorer.",
+            "The knockouts became a test of nerve. Argentina needed extra time to beat debutants Cabo Verde 3–2, came from 2–0 down to defeat Egypt 3–2, and required extra time against ten-man Switzerland, winning 3–1.",
+            "England led the semi-final until Enzo Fernández equalised in the 85th minute and Lautaro completed a 2–1 comeback in stoppage time. Spain controlled the final, however, and Ferran Torres scored in the 106th minute. Argentina finished runners-up after a 1–0 defeat."
+          ],
+          "images": [
+            "../assets/argentina/source/image186.webp",
+            "../assets/argentina/source/image187.webp",
+            "../assets/argentina/source/image188.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective 4-2-3-1",
+      "intro": "Time for the always-controversial, never-fair, but hard-thought Argentina historical line-up.",
+      "lineup": {
+        "formation": "4-2-3-1",
+        "image": "../assets/argentina/source/image189.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Ubaldo Fillol",
+            "years": "1974–85",
+            "description": "El Pato combined explosive reflexes with authority and courage. He was decisive throughout the 1978 title run and remained elite for more than a decade.",
+            "image": "../assets/argentina/source/image190.webp"
+          },
+          {
+            "position": "RB",
+            "name": "Javier Zanetti",
+            "years": "1994–2011",
+            "description": "Argentina’s great model of consistency: 145 caps, endless running and tactical intelligence.",
+            "image": "../assets/argentina/source/image191.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Roberto Perfumo",
+            "years": "1964–74",
+            "description": "The Marshal was elegant, fast and commanding, the reference Argentine centre-back before Passarella.",
+            "image": "../assets/argentina/source/image192.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Daniel Passarella",
+            "years": "1976–86",
+            "description": "Captain of the 1978 champions, superb in the air and astonishingly prolific for a defender.",
+            "image": "../assets/argentina/source/image193.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Silvio Marzolini",
+            "years": "1960–69",
+            "description": "Technically refined and positionally calm, widely regarded as one of his era’s finest left-backs.",
+            "image": "../assets/argentina/source/image194.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Javier Mascherano",
+            "years": "2003–18",
+            "description": "The heartbeat of La Albiceleste’s midfield, with 147 caps, relentless tackling and leadership.",
+            "image": "../assets/argentina/source/image195.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Fernando Redondo",
+            "years": "1992–99",
+            "description": "An elegant and classy midfielder who dictated the game’s tempo.",
+            "image": "../assets/argentina/source/image196.webp"
+          },
+          {
+            "position": "AM",
+            "name": "Diego Maradona",
+            "years": "1977–94",
+            "description": "THE IDOL.",
+            "image": "../assets/argentina/source/image197.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Lionel Messi",
+            "years": "2005–",
+            "description": "Record 207 caps and 125 goals; world champion and Argentina’s greatest player.",
+            "image": "../assets/argentina/source/image198.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Gabriel Batistuta",
+            "years": "1991–2002",
+            "description": "A complete, ferocious number 9 with 56 goals.",
+            "image": "../assets/argentina/source/image199.webp"
+          },
+          {
+            "position": "LW",
+            "name": "Alfredo Di Stéfano",
+            "years": "1947",
+            "description": "A revolutionary global pioneer of the sport with immense skill.",
+            "image": "../assets/argentina/source/image200.webp"
+          }
+        ]
+      },
+      "closing": "This leaves out enough talent to start another world-class XI: Amadeo Carrizo, Emiliano Martínez, Ruggeri, Ayala, Kempes, Riquelme, Bochini, Sívori, Moreno, Di María, Agüero, Crespo and Stábile."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "National-team, individual and world landmarks",
+      "recordGroups": [
+        {
+          "title": "Match records",
+          "items": [
+            "First official match: Uruguay 0–6 Argentina, 20 July 1902.",
+            "Biggest victory: Ecuador 0–12 Argentina, South American Championship, 22 January 1942.",
+            "Heaviest defeats: 6–1 v Czechoslovakia (1958), Bolivia (2009) and Spain (2018); 5–0 v Colombia (1993)."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Lionel Messi, 207.",
+            "Most goals: Lionel Messi, 125.",
+            "World Cup appearances: Messi, 34.",
+            "World Cup goals: Messi, 21.",
+            "Most Copa América goals: Norberto Méndez, 17.",
+            "Most goals in one World Cup: Guillermo Stábile, 8 (1930)."
+          ]
+        },
+        {
+          "title": "World records",
+          "items": [
+            "First official international outside the British Isles (1902), as presented in the source.",
+            "Messi holds the men’s records for World Cup appearances (34), wins (23), goals (21) and goal contributions, while also scoring in a record nine consecutive final matches."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/argentina/source/image201.webp",
+        "../assets/argentina/source/image202.webp",
+        "../assets/argentina/source/image203.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "The Monumental, La Bombonera and two remarkable historic grounds",
+      "cards": [
+        {
+          "title": "Estadio Monumental",
+          "meta": "Buenos Aires · Opened 1938 · 85,018",
+          "text": "River Plate’s Monumental is Argentina’s national-team home and staged the 1978 World Cup final. Its present capacity is 85,018, the largest in South America; the source says a new roof and upper tier are planned to raise it to around 101,000 before 2030.",
+          "images": [
+            "../assets/argentina/source/image204.webp",
+            "../assets/argentina/source/image205.webp",
+            "../assets/argentina/source/image206.webp",
+            "../assets/argentina/source/image207.webp"
+          ]
+        },
+        {
+          "title": "La Bombonera",
+          "meta": "Buenos Aires · Opened 1940 · 57,000",
+          "text": "Built in the dense La Boca neighbourhood, its steep three-sided bowl and near-vertical box building create a famously intimidating atmosphere. The source describes an expansion project aimed at exceeding 80,000.",
+          "images": [
+            "../assets/argentina/source/image208.webp",
+            "../assets/argentina/source/image209.webp",
+            "../assets/argentina/source/image210.webp",
+            "../assets/argentina/source/image211.webp"
+          ]
+        },
+        {
+          "title": "Estadio Arquitecto Ricardo Etcheverri",
+          "meta": "Caballito · Opened 1905",
+          "text": "Ferro’s ground is the oldest stadium still used by an AFA-affiliated football club. It has remained on the same railway-side site for more than 120 years, although rebuilt and modernised repeatedly.",
+          "images": [
+            "../assets/argentina/source/image212.webp",
+            "../assets/argentina/source/image213.webp",
+            "../assets/argentina/source/image214.webp",
+            "../assets/argentina/source/image215.webp"
+          ]
+        },
+        {
+          "title": "Estadio Saturnino Moure",
+          "meta": "Victoriano Arenas · La Isla del CAVA",
+          "text": "Perhaps Argentina’s strangest ground. It sits in the Brian Meander of the Riachuelo, almost encircled by water. Even its jurisdiction is peculiar: technically in CABA, but practically attached to Avellaneda.",
+          "images": [
+            "../assets/argentina/source/image216.webp",
+            "../assets/argentina/source/image217.webp",
+            "../assets/argentina/source/image218.webp",
+            "../assets/argentina/source/image219.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Already qualified",
+      "host": {
+        "kicker": "Centenary host",
+        "headline": "Argentina is already qualified.",
+        "text": "Argentina is one of the centenary hosts of the 2030 FIFA World Cup and therefore begins the road with its place already secured.",
+        "image": "../assets/argentina/source/image220.webp"
+      }
+    }
+  ]
+}
