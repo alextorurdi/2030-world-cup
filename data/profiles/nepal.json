@@ -1,0 +1,254 @@
+{
+  "meta": {
+    "title": "Nepal · The 211 Files",
+    "description": "Nepal in The 211 Files: country, football origins, competitions, clubs, national team, current affairs and World Cup record.",
+    "source": {
+      "label": "Attached source document",
+      "file": "Nepal.docx"
+    },
+    "numberingNote": "The source uses section number 5 for both Main competitions and Main clubs. That numbering is preserved here."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#001",
+    "country": "Nepal",
+    "flag": "🇳🇵",
+    "association": "All Nepal Football Association",
+    "founded": "1951",
+    "fifa": "1972",
+    "confederation": "AFC",
+    "region": "SAFF",
+    "status": "Suspended",
+    "statusClass": "suspended",
+    "worldCupAppearances": "Never qualified",
+    "bestRecords": [
+      "🏆 2016 AFC Solidarity Cup",
+      "🥈 2021 SAFF Championship"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/afc/001.png",
+    "fallbackLogo": "../assets/nepal/source/image007.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "The country",
+      "subtitle": "A Himalayan state between India and China",
+      "entries": [
+        {
+          "paragraphs": [
+            "Nepal is a landlocked nation between India and China, home to Everest and one of South Asia’s oldest nations. The modern country emerged in the 1700s, when Prithvi Narayan Shah of Gorkha unified rival hill kingdoms and the Kathmandu Valley into a single Nepali state."
+          ],
+          "images": [
+            "../assets/nepal/source/image008.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Royal authority, civil war and republic",
+      "entries": [
+        {
+          "paragraphs": [
+            "Throughout the 20th century, Nepal struggled between royal authority and popular demands for democracy. This political tension was later deepened by a brutal civil war between 1996 and 2006.",
+            "In 2008, the monarchy was abolished and Nepal became a federal republic."
+          ],
+          "images": [
+            "../assets/nepal/source/image009.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "From palace circles to wider public interest",
+      "entries": [
+        {
+          "heading": "The game takes root",
+          "date": "From 1921",
+          "paragraphs": [
+            "Football in Nepal traces its origins to 1921, when young Nepalis who had learned the sport abroad began playing it in Kathmandu.",
+            "At first football was closely linked to the palace environment, but it quickly attracted wider public attention."
+          ],
+          "images": [
+            "../assets/nepal/source/image010.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "first-competitions",
+      "number": "4",
+      "title": "First competitions",
+      "subtitle": "The early cups, ANFA and the Martyr’s Memorial League",
+      "entries": [
+        {
+          "heading": "The first national landmarks",
+          "date": "1934–1955",
+          "paragraphs": [
+            "The earliest major competition was the Ram Janaki Cup, first held in 1934.",
+            "In 1947 King Tribhuvan established the Tribhuvan Challenge Shield, a knockout tournament.",
+            "ANFA was created in 1951, and the Martyr’s Memorial League was introduced in 1955."
+          ],
+          "images": [
+            "../assets/nepal/source/image011.webp",
+            "../assets/nepal/source/image012.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-competitions",
+      "number": "5",
+      "title": "Main competitions",
+      "subtitle": "Kathmandu’s traditional league and the wider National League",
+      "cards": [
+        {
+          "title": "Martyr’s Memorial A-Division League",
+          "meta": "Traditional top tier",
+          "text": "The Martyr’s Memorial A-Division League is Nepal’s traditional top tier. According to the source, no team from outside the Kathmandu Valley has ever played in it. The competition is currently on hiatus.",
+          "images": [
+            "../assets/nepal/source/image011.webp"
+          ]
+        },
+        {
+          "title": "National League",
+          "meta": "Created to expand beyond Kathmandu",
+          "text": "The National League was introduced to broaden top-level football outside the capital area and give clubs from beyond the Kathmandu Valley a national platform.",
+          "images": [
+            "../assets/nepal/source/image012.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Manang Marsyangdi, Three Star and Nepal Police",
+      "cards": [
+        {
+          "title": "Manang Marsyangdi Club",
+          "meta": "Traditional giant",
+          "text": "Manang Marsyangdi is one of Nepal’s traditional football giants and a central name in the Kathmandu club game.",
+          "images": [
+            "../assets/nepal/source/image013.webp"
+          ]
+        },
+        {
+          "title": "Three Star Club",
+          "meta": "Traditional giant",
+          "text": "Three Star is another of Nepal’s major traditional clubs and one of Manang Marsyangdi’s principal domestic rivals.",
+          "images": [
+            "../assets/nepal/source/image014.webp"
+          ]
+        },
+        {
+          "title": "Nepal Police Club",
+          "meta": "Formerly Mahendra Police",
+          "text": "Mahendra Police—now Nepal Police—produced the country’s best AFC club run, reaching the 2007 President’s Cup final. The source describes the competition as a third-tier Asian tournament comparable in concept to the UEFA Conference League.",
+          "images": [
+            "../assets/nepal/source/image015.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From irregular early matches to the Solidarity Cup",
+      "entries": [
+        {
+          "heading": "FIFA membership and official debut",
+          "date": "1972",
+          "paragraphs": [
+            "Although Nepal played irregularly in the 1960s, ANFA entered FIFA in 1972.",
+            "Nepal’s first official match was played against China on 13 October 1972."
+          ],
+          "images": [
+            "../assets/nepal/source/image016.webp"
+          ]
+        },
+        {
+          "heading": "The strongest spell",
+          "date": "Mid-2010s",
+          "paragraphs": [
+            "Nepal’s best spell came in the mid-2010s. The national team won the 2016 AFC Solidarity Cup and also collected regional honours at youth and South Asian Games level."
+          ],
+          "images": [
+            "../assets/nepal/source/image017.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "current-affairs",
+      "number": "7",
+      "title": "Current affairs",
+      "subtitle": "ANFA’s suspension",
+      "entries": [
+        {
+          "heading": "Third-party interference",
+          "paragraphs": [
+            "ANFA is in turmoil. A dispute over its district-based electoral structure led Nepal’s National Sports Council to intervene in the federation’s election process.",
+            "FIFA judged that intervention to constitute third-party interference and suspended ANFA from international football."
+          ],
+          "images": [
+            "../assets/nepal/source/image018.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "world-cup-record",
+      "number": "8",
+      "title": "World Cup record",
+      "subtitle": "Never qualified for the final tournament",
+      "recordGroups": [
+        {
+          "title": "Final tournament",
+          "items": [
+            "Never qualified.",
+            "Best qualifying run: AFC Second Round."
+          ]
+        },
+        {
+          "title": "AFC qualifying — First Round",
+          "items": [
+            "1986",
+            "1990",
+            "1998",
+            "2002",
+            "2010",
+            "2018"
+          ]
+        },
+        {
+          "title": "AFC qualifying — Second Round",
+          "items": [
+            "2014",
+            "2022",
+            "2026"
+          ]
+        },
+        {
+          "title": "Did not complete a campaign",
+          "items": [
+            "1994: Did not enter.",
+            "2006: Withdrew because of financial difficulties."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/nepal/source/image019.webp"
+      ]
+    }
+  ]
+}
