@@ -231,8 +231,7 @@
           "images": [
             "../assets/argentina/source/image046.webp",
             "../assets/argentina/source/image047.webp",
-            "../assets/argentina/source/image048.webp",
-            "../assets/argentina/source/image049.webp"
+            "../assets/argentina/source/image048.webp"
           ]
         }
       ]
@@ -248,6 +247,7 @@
           "meta": "30 clubs · Apertura and Clausura",
           "text": "The 2026 top flight has 30 clubs divided into two zones of 15. Each side plays 14 zonal matches, one clásico interzonal and one additional interzonal game. The top eight from each zone enter single-match playoffs from the round of 16 to the final.",
           "images": [
+            "../assets/argentina/source/image049.webp",
             "../assets/argentina/source/image050.webp",
             "../assets/argentina/source/image051.webp"
           ]
@@ -286,7 +286,7 @@
         },
         {
           "title": "Supercopa Argentina",
-          "meta": "One-off final",
+          "meta": "Trofeo champion v Copa champion",
           "text": "The previous year’s Trofeo de Campeones winner meets the Copa Argentina winner. If one club wins both, the Trofeo de Campeones runner-up takes the vacant place.",
           "images": [
             "../assets/argentina/source/image056.webp"
