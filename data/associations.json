@@ -217,8 +217,9 @@
           "flag": "🇦🇷",
           "confederation": "conmebol",
           "status": "qualified-host",
-          "logo": "",
-          "note": "One of the six hosts of the 2030 FIFA World Cup."
+          "logo": "./assets/logos/conmebol/004.png",
+          "page": "./associations/argentina.html",
+          "note": "Centenary hosts of the 2030 FIFA World Cup."
         },
         {
           "name": "Brazil",
