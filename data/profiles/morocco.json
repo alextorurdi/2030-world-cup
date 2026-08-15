@@ -1,0 +1,741 @@
+{
+  "meta": {
+    "title": "Morocco · The 211 Files",
+    "description": "Morocco in The 211 Files: country, protectorate-era football, competitions, clubs, national-team history, historical XI, records, stadiums and the road to the 2030 FIFA World Cup.",
+    "source": {
+      "label": "Original X thread / supplied text export",
+      "url": "https://x.com/Rumboa2030/status/2087444487446347840?s=20",
+      "file": "morocco.txt",
+      "imageCount": 137
+    },
+    "sourceNote": "The supplied text export contains the complete written thread and 137 direct X-media links. Page data uses local copies of those media."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#005",
+    "country": "Morocco",
+    "flag": "🇲🇦",
+    "association": "Royal Moroccan Football Federation / Fédération Royale Marocaine de Football (FRMF)",
+    "founded": "1956",
+    "fifa": "1960",
+    "confederation": "CAF",
+    "status": "Host",
+    "statusClass": "qualified-host",
+    "worldCupAppearances": "7",
+    "bestRecords": [
+      "4th · FIFA World Cup 2022",
+      "🏆 AFCON: 1976",
+      "🏆 AFCON 2025 · title legally contested in the supplied source"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/caf/005.png",
+    "fallbackLogo": "../assets/morocco/source/m001.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "At the crossroads of Africa, Europe and the Arab world",
+      "entries": [
+        {
+          "paragraphs": [
+            "At Africa’s north-western corner, Morocco faces both the Atlantic and Mediterranean and lies just 14 km from Spain across the Strait of Gibraltar. Home to 38.4 million people, the kingdom sits at a historic crossroads between Africa, Europe and the Arab world."
+          ],
+          "images": [
+            "../assets/morocco/source/m002.webp",
+            "../assets/morocco/source/m003.webp",
+            "../assets/morocco/source/m004.webp",
+            "../assets/morocco/source/m005.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Protectorates, independence and modernisation",
+      "entries": [
+        {
+          "heading": "A divided protectorate system",
+          "date": "1912–1956",
+          "paragraphs": [
+            "Morocco is an old monarchy ruled by the Alaouite dynasty since the 17th century. European pressure intensified in the 19th century until the 1912 Treaty of Fez established a French protectorate while Spain received separate zones of influence.",
+            "Morocco was effectively divided between separate regimes: France controlled most of the country; Spain governed a northern protectorate and the southern Cape Juby sector; Tangier was later formalised as a separate International Zone, all nominally under the Sultan."
+          ],
+          "images": [
+            "../assets/morocco/source/m006.webp",
+            "../assets/morocco/source/m007.webp"
+          ]
+        },
+        {
+          "heading": "Independence and territorial reintegration",
+          "date": "1953–1975",
+          "paragraphs": [
+            "Nationalism grew around Sultan Mohammed V, whom France exiled in 1953. He returned in 1955 and Morocco regained independence in 1956, first from France and then from Spain’s northern protectorate. Tangier was reintegrated soon afterwards.",
+            "Spain later returned Cape Juby in 1958 and Ifni, administered separately from the protectorate, in 1969. In 1975 Spain withdrew from Western Sahara; Morocco controls most of it, but its final status remains disputed and the UN still lists it as a Non-Self-Governing Territory."
+          ],
+          "images": [
+            "../assets/morocco/source/m008.webp",
+            "../assets/morocco/source/m009.webp"
+          ]
+        },
+        {
+          "heading": "A changing economy and society",
+          "date": "Since 1975",
+          "paragraphs": [
+            "Morocco shifted from a largely rural economy toward an urban, diversified one based on industry, tourism, services and exports. Living standards, infrastructure and education improved, and the 2011 Constitution widened rights while the monarchy remained dominant."
+          ],
+          "images": [
+            "../assets/morocco/source/m010.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Three colonial football worlds merged after independence",
+      "entries": [
+        {
+          "heading": "Three different football systems",
+          "date": "1912–1956",
+          "paragraphs": [
+            "Morocco’s football history cannot be told as one linear story. The French and Spanish protectorates developed largely separate football systems, while Tangier followed a third path. Independence eventually had to merge these worlds into one FA."
+          ],
+          "images": [
+            "../assets/morocco/source/m011.webp"
+          ]
+        },
+        {
+          "heading": "French Protectorate — the game spreads",
+          "date": "1900s–1920s",
+          "paragraphs": [
+            "Football spread through ports, military communities, schools and European settler clubs. A legend dates Club Athlétique Militaire in Salé to 1902, but the source notes that there were no French military there at the time and that no primary evidence could be found.",
+            "By the 1910s football was widespread in central Morocco. Contemporary visual evidence may place football at the French military camp in Oujda by 1912–13, while CA Casablanca and US Marocaine were already active.",
+            "CA Casablanca, US Marocaine and Racing were early powers. CA Casablanca won the first Ligue du Maroc title in 1916 and US Marocaine the next four. During the 1920s, Rabat, Fez and Meknès clubs challenged Casablanca, and from 1928 Moroccan clubs entered the North African Championship and Cup."
+          ],
+          "images": [
+            "../assets/morocco/source/m012.webp",
+            "../assets/morocco/source/m013.webp",
+            "../assets/morocco/source/m014.webp",
+            "../assets/morocco/source/m015.webp"
+          ]
+        },
+        {
+          "heading": "French Protectorate — a Moroccan football identity emerges",
+          "date": "1930s–1950s",
+          "paragraphs": [
+            "US Marocaine dominated the 1930s with seven league titles and three North African championships, including Morocco’s first in 1932. The decade also saw the rise of Maghrebi-controlled clubs such as Maghreb Football and US Musulmane.",
+            "Colonial authorities forced Muslim-identified teams to include European players and officials. In a revealing 1937 match, a ‘Morocco’ selection beat France B 4–2, yet only three of the starting XI were actually Moroccan.",
+            "Larbi Ben Barek was one of them. His performance helped launch a career that made him Morocco’s first global superstar. He joined Marseille in 1938 and, because Morocco had no independent FIFA team, represented France before starring for Atlético Madrid.",
+            "Wydad, founded as a multi-sport club in 1937 with a football section from 1939, became a symbol of Moroccan identity and broke settler dominance. Raja followed in 1949 from Casablanca’s working-class Derb Sultan district."
+          ],
+          "images": [
+            "../assets/morocco/source/m016.webp",
+            "../assets/morocco/source/m017.webp",
+            "../assets/morocco/source/m018.webp",
+            "../assets/morocco/source/m019.webp",
+            "../assets/morocco/source/m020.webp"
+          ]
+        },
+        {
+          "heading": "Spanish Protectorate — military roots",
+          "date": "1910s–1930s",
+          "paragraphs": [
+            "Football developed differently in the north, closely linked to Spain’s army. Early military teams such as Radio FC appeared in the 1910s, though they often disappeared when soldiers were occupied with other duties.",
+            "In 1917 important civilian clubs emerged, including FC Hispano-Marroquí and Tetuán FC. The Federación Hispanomarroquí de Fútbol was created in 1931 under the Spanish football system.",
+            "Athletic Tetuán’s exact origin is disputed. Many histories use 1922; historian Ahmed Mgara argues archival evidence points to Basque soldiers founding it in 1933 after earlier failed projects."
+          ],
+          "images": [
+            "../assets/morocco/source/m021.webp",
+            "../assets/morocco/source/m022.webp",
+            "../assets/morocco/source/m023.webp"
+          ]
+        },
+        {
+          "heading": "Spanish Protectorate — Atlético Tetuán reaches La Liga",
+          "date": "1936–1956",
+          "paragraphs": [
+            "Athletic Tetuán, renamed Atlético Tetuán in 1940, became the first non-Ceuti side to win the Hispano-Marroquí League in 1936 and 1943. It climbed Spain’s pyramid, spent six seasons in Segunda and won its group in 1950/51.",
+            "In 1951/52 Atlético Tetuán became the only club from the former Spanish protectorate to play in Spain’s top flight. It finished last but beat reigning champions Atlético Madrid 4–1 and drew 3–3 with Real Madrid after leading 3–1.",
+            "The team was largely Spanish, although Lahcen ‘Chicha’ became its great Moroccan star. The terraces reflected Tétouan’s mixed population, with Muslim, Jewish and Christian supporters.",
+            "After independence, the Spanish administration and federative rights moved to Ceuta and merged into Atlético Ceuta. The link between that colonial club and today’s Moghreb Atlético Tétouan is remembered locally but described by the source as historically disputed.",
+            "The old Spanish footprint remains visible at Saniat Rmel, an enclosure dating to 1913 and adapted for football in the 1940s, where Moghreb Tétouan still play."
+          ],
+          "images": [
+            "../assets/morocco/source/m024.webp",
+            "../assets/morocco/source/m025.webp",
+            "../assets/morocco/source/m026.webp",
+            "../assets/morocco/source/m027.webp",
+            "../assets/morocco/source/m028.webp",
+            "../assets/morocco/source/m029.webp"
+          ]
+        },
+        {
+          "heading": "Tangier — a cosmopolitan football scene",
+          "date": "1910s–1920s",
+          "paragraphs": [
+            "Football took root in Tangier during the 1910s through the movement of European troops and residents. Locals joined in on the beaches and Marshan plain; by 1917 Alfonso XIII FC and Indian FC were active.",
+            "French, Italian and other clubs appeared. Indian FC joined Athletic Club de Tánger, inspired by Athletic Bilbao, to form the Hispano-Moroccan Moghreb Foot-ball Club.",
+            "The Unión Española de Educación Física was formed in 1919 and effectively acted as a local multi-sport federation. Tangier’s peculiar status, limited grounds and little outside competition made clubs difficult to sustain; many disappeared by 1929."
+          ],
+          "images": [
+            "../assets/morocco/source/m030.webp",
+            "../assets/morocco/source/m031.webp",
+            "../assets/morocco/source/m032.webp",
+            "../assets/morocco/source/m033.webp"
+          ]
+        },
+        {
+          "heading": "Tangier — connecting to French and Spanish competition",
+          "date": "1930s–1956",
+          "paragraphs": [
+            "Moghreb FC, Hilal and ASFT first affiliated with the Franco-Moroccan federation in search of stronger opposition, but travel costs made the arrangement difficult.",
+            "Moghreb then switched to the Hispano-Moroccan Federation and became CD Maghreb Al-Aksa, while Alfonso XIII was renamed Centro Español FC.",
+            "In 1939 Escuela Hispano-Árabe de Tánger entered Spain’s Segunda División, the first Tangier club in the national league, but dissolved a year later.",
+            "After Spain’s military occupation of Tangier in 1940, clubs became more closely tied to Spanish football. From 1947 the main rivalry was Spanish-backed UD España against Moroccan CD Maghreb Al-Aksa.",
+            "Maghreb Al-Aksa won its regional title in 1948/49 but folded during 1951/52 under the cost of travel. UD España survived, reached Segunda in 1953 and finished as high as fourth before independence brought its merger with Algeciras CF."
+          ],
+          "images": [
+            "../assets/morocco/source/m034.webp",
+            "../assets/morocco/source/m035.webp",
+            "../assets/morocco/source/m036.webp",
+            "../assets/morocco/source/m037.webp",
+            "../assets/morocco/source/m038.webp",
+            "../assets/morocco/source/m039.webp",
+            "../assets/morocco/source/m040.webp"
+          ]
+        },
+        {
+          "heading": "Independence unifies Moroccan football",
+          "date": "From 1956",
+          "paragraphs": [
+            "The FRMF was created in 1956 and inherited a fragmented football landscape of around 310 clubs. It launched a unified national championship, with Wydad the first champion, and introduced the Throne Cup the following year. Morocco joined FIFA in 1960 and CAF in 1963."
+          ],
+          "images": [
+            "../assets/morocco/source/m041.webp"
+          ]
+        },
+        {
+          "heading": "Domestic football after independence",
+          "date": "1960s–1980s",
+          "paragraphs": [
+            "FAR Rabat dominated the 1960s with seven of ten league titles, while Wydad and MAS Fès interrupted the run. The Throne Cup was far more open.",
+            "The 1970s brought greater balance, with Wydad leading but clubs from Fez, Marrakech, Mohammedia and elsewhere winning honours.",
+            "The 1980s were highly competitive. FAR won three league titles and three straight Throne Cups from 1984 to 1986; in 1985 it became the first Moroccan club crowned African champion."
+          ],
+          "images": [
+            "../assets/morocco/source/m042.webp",
+            "../assets/morocco/source/m043.webp",
+            "../assets/morocco/source/m044.webp"
+          ]
+        },
+        {
+          "heading": "Casablanca, professionalism and continental success",
+          "date": "1990s–2020s",
+          "paragraphs": [
+            "The 1990s shifted power to Casablanca: Wydad won three early league titles before Raja closed the decade with four straight. Wydad won Africa in 1992 and Raja in 1997 and 1999.",
+            "The 2000s remained competitive, with Raja leading the league count while FAR dominated the cup. Wydad, Raja and FAR also added continental trophies.",
+            "The 2010s brought professionalism and a more open Botola. Wydad won four titles and the 2017 Champions League; FUS, MAS and Raja won Confederation Cups.",
+            "The 2020s brought further balance. Wydad and Raja won two Botolas each in the source period, FAR, Berkane and MAS one, while Wydad won the 2022 Champions League and Berkane built a modern Confederation Cup dynasty."
+          ],
+          "images": [
+            "../assets/morocco/source/m045.webp",
+            "../assets/morocco/source/m046.webp",
+            "../assets/morocco/source/m047.webp",
+            "../assets/morocco/source/m048.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Botola, Throne Cup, Excellence Cup and CAF places",
+      "cards": [
+        {
+          "title": "Botola Pro D1",
+          "meta": "16 clubs · 30-match season",
+          "text": "Created in its professional form in 2010, Botola Pro D1 is the top division. Sixteen clubs play home and away. The bottom teams drop to Botola Pro D2, below which the pyramid spreads into amateur and regional competitions administered by the FRMF.",
+          "images": [
+            "../assets/morocco/source/m049.webp",
+            "../assets/morocco/source/m050.webp"
+          ]
+        },
+        {
+          "title": "Coupe du Trône",
+          "meta": "Since 1957",
+          "text": "Morocco’s main knockout cup includes clubs down to regional level, with lower-tier sides entering through regional qualifying rounds.",
+          "images": [
+            "../assets/morocco/source/m051.webp"
+          ]
+        },
+        {
+          "title": "Excellence Cup",
+          "meta": "League Cup · Since 2024",
+          "text": "All 32 Botola Pro 1 and 2 clubs take part through eight groups and knockouts. Squads must include at least ten U23 players, with six playing. Olympique Dcheira won the inaugural edition.",
+          "images": [
+            "../assets/morocco/source/m052.webp"
+          ]
+        },
+        {
+          "title": "CAF qualification",
+          "meta": "4 continental places",
+          "text": "The Botola champions and runners-up qualify for the CAF Champions League. The third-placed league team and Throne Cup winner receive CAF Confederation Cup places.",
+          "images": [
+            "../assets/morocco/source/m053.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Casablanca’s giants, FAR and the modern challengers",
+      "cards": [
+        {
+          "title": "Wydad & Raja",
+          "meta": "Casablanca Derby",
+          "text": "Wydad and Raja form Morocco’s defining rivalry. The source lists Wydad with 22 Botolas and three African Cups/Champions Leagues, and Raja with 13 Botolas and three African Champions Leagues.",
+          "images": [
+            "../assets/morocco/source/m054.webp",
+            "../assets/morocco/source/m055.webp"
+          ]
+        },
+        {
+          "title": "AS FAR",
+          "meta": "Rabat’s historic giant",
+          "text": "The military club are Morocco’s other historic giant: the source lists 13 league titles and a record 12 Throne Cups. FAR were also the first Moroccan African champions in 1985.",
+          "images": [
+            "../assets/morocco/source/m056.webp",
+            "../assets/morocco/source/m057.webp"
+          ]
+        },
+        {
+          "title": "RS Berkane and the regional powers",
+          "meta": "The modern disruptors",
+          "text": "The source describes RS Berkane as modern disruptors, with their first Botola in 2025 and three Confederation Cups in five years. Maghreb de Fès is credited with the 2026 league title, while FUS Rabat, Moghreb Tétouan, Hassania Agadir and Kawkab Marrakech remain major regional names.",
+          "images": [
+            "../assets/morocco/source/m058.webp",
+            "../assets/morocco/source/m059.webp",
+            "../assets/morocco/source/m060.webp",
+            "../assets/morocco/source/m061.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From independence to back-to-back World Cup quarter-finals",
+      "entries": [
+        {
+          "heading": "The Atlas Lions are born",
+          "date": "1957–1960s",
+          "paragraphs": [
+            "Morocco’s first widely recognised match as an independent state came at the 1957 Pan-Arab Games in Beirut, a 3–3 draw with Iraq.",
+            "Morocco openly supported Algeria’s anti-colonial FLN team and played it despite FIFA threats, complicating early international integration while creating a strong North African political bond.",
+            "Morocco won Africa’s route in the 1962 World Cup qualifiers but still had to play an intercontinental playoff because Africa had no direct place. Spain won 1–0 in Casablanca and 3–2 in Madrid."
+          ],
+          "images": [
+            "../assets/morocco/source/m062.webp",
+            "../assets/morocco/source/m063.webp",
+            "../assets/morocco/source/m064.webp",
+            "../assets/morocco/source/m065.webp"
+          ]
+        },
+        {
+          "heading": "The long road to Mexico",
+          "date": "1962–1970",
+          "paragraphs": [
+            "The source records a series of AFCON withdrawals, missed qualifiers and the 1966 African World Cup boycott demanding a direct continental place.",
+            "Morocco finally qualified for the 1970 World Cup through a multi-stage African campaign and became the continent’s sole representative in Mexico.",
+            "They led West Germany before losing 2–1, fell 3–0 in their second match and drew Bulgaria 1–1. After decades of colonial football, the Atlas Lions had reached the World Cup."
+          ],
+          "images": [
+            "../assets/morocco/source/m066.webp",
+            "../assets/morocco/source/m067.webp",
+            "../assets/morocco/source/m068.webp"
+          ]
+        },
+        {
+          "heading": "First AFCON title",
+          "date": "1972–1978",
+          "paragraphs": [
+            "Morocco reached the 1972 AFCON but went out in the group stage on goal difference. A controversial 1974 World Cup qualifying campaign ended with Morocco withdrawing from the final group.",
+            "They returned for the 1976 AFCON, progressed unbeaten through both group stages and won Morocco’s first continental title.",
+            "The champions did not advance from the 1978 AFCON group phase and also missed the 1978 World Cup."
+          ],
+          "images": [
+            "../assets/morocco/source/m069.webp",
+            "../assets/morocco/source/m070.webp",
+            "../assets/morocco/source/m071.webp"
+          ]
+        },
+        {
+          "heading": "A strong 1980s generation",
+          "date": "1980–1988",
+          "paragraphs": [
+            "Morocco opened the decade with AFCON bronze, then missed the next two continental tournaments before returning in 1986 and finishing fourth.",
+            "The 1986 World Cup qualifiers were a dominant run. In Mexico, Morocco drew their first two games before beating Portugal 3–1, becoming the first African nation to reach a World Cup knockout stage.",
+            "West Germany eliminated them in the round of 16 only in the 87th minute through Lothar Matthäus. Badou Zaki, Abdelmajid Dolmy, Mohamed Timoumi and Aziz Bouderbala became the national benchmark for decades.",
+            "Morocco hosted the 1988 AFCON, topped their group and finished fourth after semi-final and third-place defeats."
+          ],
+          "images": [
+            "../assets/morocco/source/m072.webp",
+            "../assets/morocco/source/m073.webp",
+            "../assets/morocco/source/m074.webp",
+            "../assets/morocco/source/m075.webp",
+            "../assets/morocco/source/m076.webp"
+          ]
+        },
+        {
+          "heading": "The difficult 1990s",
+          "date": "1990–1998",
+          "paragraphs": [
+            "Morocco missed Italia ’90 and AFCON 1990, returned in 1992 but finished bottom of their group, then qualified nearly unbeaten for the 1994 World Cup.",
+            "At USA 1994 they narrowly lost all three matches. They also missed AFCON 1994 and 1996.",
+            "Morocco cruised through qualification for both AFCON 1998 and the World Cup. They reached the AFCON quarter-finals. In France they drew Norway 2–2, lost to Brazil and beat Scotland 3–0, but a late result elsewhere eliminated them."
+          ],
+          "images": [
+            "../assets/morocco/source/m077.webp",
+            "../assets/morocco/source/m078.webp",
+            "../assets/morocco/source/m079.webp"
+          ]
+        },
+        {
+          "heading": "Arab Cup appearances and the 2004 AFCON final",
+          "date": "1998–2004",
+          "paragraphs": [
+            "Morocco entered the Arab Cup in 1998 and later used an Olympic side in 2002, reaching the semi-finals.",
+            "They missed the 2002 World Cup on goal difference. At AFCON 2004 Morocco topped a difficult group, won a quarter-final after extra time and swept through the semi-final to reach their second continental final, losing to hosts Tunisia."
+          ],
+          "images": [
+            "../assets/morocco/source/m080.webp",
+            "../assets/morocco/source/m081.webp"
+          ]
+        },
+        {
+          "heading": "A barren spell",
+          "date": "2006–2016",
+          "paragraphs": [
+            "Morocco again missed the 2006 World Cup, struggled at AFCON 2006 and 2008, and then missed the inaugural 2009 CHAN, AFCON 2010 and the 2010 World Cup.",
+            "The local-based side won the 2012 Arab Cup on penalties, while the senior team drew all three matches at AFCON 2013 and missed the 2014 World Cup.",
+            "At the 2014 CHAN Morocco lost a remarkable quarter-final 4–3 after leading 3–0.",
+            "Morocco had been selected to host AFCON 2015 but requested a postponement because of the West African Ebola outbreak. CAF instead removed Morocco from the tournament. The local side then failed to leave its 2016 CHAN group."
+          ],
+          "images": [
+            "../assets/morocco/source/m082.webp",
+            "../assets/morocco/source/m083.webp",
+            "../assets/morocco/source/m084.webp",
+            "../assets/morocco/source/m085.webp",
+            "../assets/morocco/source/m086.webp"
+          ]
+        },
+        {
+          "heading": "Diaspora recruitment and return to the World Cup",
+          "date": "2014–2018",
+          "paragraphs": [
+            "From 2014, FRMF president Fouzi Lekjaa pushed recruitment among Morocco’s diaspora, while Hervé Renard integrated players such as Ziyech, Hakimi, Amrabat and Benatia.",
+            "Morocco reached the 2017 AFCON quarter-finals and then returned to the World Cup after 20 years by topping their qualifying group unbeaten.",
+            "Ahead of Russia 2018, Morocco’s local side won the home CHAN, crushing Nigeria 4–0 in the final.",
+            "At Russia 2018 Morocco earned only one point but were competitive: 1–0 defeats to Iran and Portugal and a 2–2 draw with Spain."
+          ],
+          "images": [
+            "../assets/morocco/source/m087.webp",
+            "../assets/morocco/source/m088.webp",
+            "../assets/morocco/source/m089.webp",
+            "../assets/morocco/source/m090.webp"
+          ]
+        },
+        {
+          "heading": "CHAN dominance and another AFCON frustration",
+          "date": "2019–2022",
+          "paragraphs": [
+            "Morocco won all three group matches at AFCON 2019 but were stunned by Benin on penalties. At the 2021 edition, played in 2022, Egypt eliminated them after extra time in the quarter-final.",
+            "The local side retained the CHAN in the 2020 edition. Political tensions with hosts Algeria then forced Morocco to withdraw from the 2022 CHAN, ending the three-peat attempt.",
+            "At the 2021 FIFA Arab Cup, the local side topped its group but fell to Algeria on penalties in the quarter-finals. Morocco then won all six matches in their Qatar 2022 qualifying group."
+          ],
+          "images": [
+            "../assets/morocco/source/m091.webp",
+            "../assets/morocco/source/m092.webp",
+            "../assets/morocco/source/m093.webp"
+          ]
+        },
+        {
+          "heading": "Qatar 2022: rewriting Africa’s ceiling",
+          "date": "2022",
+          "paragraphs": [
+            "Walid Regragui, appointed only months earlier, led Morocco to a 0–0 draw with Croatia, a 2–0 win over Belgium and a 2–1 win over Canada. Seven points made them group winners.",
+            "Against Spain, Morocco defended through 120 minutes and Bounou dominated the shootout. Hakimi ended it with a Panenka.",
+            "Youssef En-Nesyri’s header defeated Portugal 1–0, making Morocco the first African and first Arab nation to reach a World Cup semi-final.",
+            "France won the semi-final 2–0 and Croatia the third-place match 2–1, but Morocco finished fourth, the best World Cup performance by an African nation."
+          ],
+          "images": [
+            "../assets/morocco/source/m094.webp",
+            "../assets/morocco/source/m095.webp",
+            "../assets/morocco/source/m096.webp",
+            "../assets/morocco/source/m097.webp"
+          ]
+        },
+        {
+          "heading": "AFCON 2023 and a record third CHAN",
+          "date": "2024–2025",
+          "paragraphs": [
+            "At AFCON 2023, played in early 2024, Morocco topped their group unbeaten but South Africa eliminated them 2–0 in the round of 16.",
+            "In the postponed final edition of the 2024 CHAN, played in 2025, Morocco recovered from an early defeat and ultimately won the final 3–2 to claim a record third CHAN title."
+          ],
+          "images": [
+            "../assets/morocco/source/m098.webp",
+            "../assets/morocco/source/m099.webp"
+          ]
+        },
+        {
+          "heading": "A second Arab Cup",
+          "date": "2025",
+          "paragraphs": [
+            "At the 2025 FIFA Arab Cup, Morocco topped their group, survived the knockouts and beat their final opponent 3–2 after extra time. Hamdallah forced extra time and scored again as Morocco claimed their second Arab Cup."
+          ],
+          "images": [
+            "../assets/morocco/source/m100.webp"
+          ]
+        },
+        {
+          "heading": "AFCON 2025 and the contested title",
+          "date": "Dec 2025–2026",
+          "paragraphs": [
+            "Morocco hosted AFCON 2025, topped their group, beat Tanzania 1–0 and Cameroon 2–0, then overcame Nigeria on penalties after a goalless semi-final.",
+            "The final against Senegal became hugely controversial. A stoppage-time penalty to Morocco triggered a 14-minute Senegal walk-off. Senegal returned, Brahim Díaz missed the penalty, and Pape Gueye scored in extra time for a 1–0 Senegal win on the night.",
+            "The supplied source states that CAF’s Appeal Board later ruled the walk-off a forfeit and changed the official result to 3–0 Morocco, awarding the Atlas Lions a second AFCON. It also states that Senegal appealed to CAS, leaving the title legally contested as of August 2026."
+          ],
+          "images": [
+            "../assets/morocco/source/m101.webp",
+            "../assets/morocco/source/m102.webp",
+            "../assets/morocco/source/m103.webp"
+          ]
+        },
+        {
+          "heading": "World Cup 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Morocco qualified with eight wins from eight. At the World Cup they drew Brazil 1–1, beat Scotland 1–0 and Haiti 4–2, advancing unbeaten as Group C runners-up.",
+            "They came from behind against the Netherlands and won the round-of-32 shootout 3–2, then defeated hosts Canada 3–0 to become the first African nation to reach two World Cup quarter-finals and to do so in consecutive editions.",
+            "France again ended the run, winning 2–0 in Boston. The source states that Morocco rose to a record sixth in the FIFA ranking after the tournament."
+          ],
+          "images": [
+            "../assets/morocco/source/m104.webp",
+            "../assets/morocco/source/m105.webp",
+            "../assets/morocco/source/m106.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective 4-4-2",
+      "intro": "A 4-4-2 combining the 1976 and 1986 generations with the diaspora-powered sides that transformed Morocco’s global standing after 2018.",
+      "lineup": {
+        "formation": "4-4-2",
+        "image": "../assets/morocco/source/m107.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Badou Zaki",
+            "years": "1979–1992",
+            "description": "African Ballon d’Or winner in 1986 and hero of Morocco’s historic 1986 World Cup run; later coached the team to the 2004 AFCON final.",
+            "image": "../assets/morocco/source/m108.webp"
+          },
+          {
+            "position": "RB",
+            "name": "Achraf Hakimi",
+            "years": "2016–",
+            "description": "World-class speed, technique and leadership, crowned by the Panenka that sent Morocco into the 2022 World Cup quarter-finals.",
+            "image": "../assets/morocco/source/m109.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Noureddine Naybet",
+            "years": "1990–2006",
+            "description": "A defensive reference for 16 years and Morocco’s record appearance-maker in the supplied source, with 115 caps.",
+            "image": "../assets/morocco/source/m110.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Medhi Benatia",
+            "years": "2008–2019",
+            "description": "Elite European quality, physical presence and leadership as captain.",
+            "image": "../assets/morocco/source/m111.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Abdelkrim El Hadrioui",
+            "years": "1992–2001",
+            "description": "An aggressive, technically gifted left-back and a key member of Morocco’s 1990s side.",
+            "image": "../assets/morocco/source/m112.webp"
+          },
+          {
+            "position": "RM",
+            "name": "Mustapha Hadji",
+            "years": "1993–2002",
+            "description": "African Ballon d’Or winner in 1998, creative genius and a trailblazer in European leagues.",
+            "image": "../assets/morocco/source/m113.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Abdelmajid Dolmy",
+            "years": "1973–1988",
+            "description": "The Maestro: an intelligent deep-lying playmaker and organiser from the great 1970s–80s generations.",
+            "image": "../assets/morocco/source/m114.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Aziz Bouderbala",
+            "years": "1979–1992",
+            "description": "A creative, technical midfielder from the strong 1980s generation.",
+            "image": "../assets/morocco/source/m115.webp"
+          },
+          {
+            "position": "LM",
+            "name": "Mohamed Timoumi",
+            "years": "1979–1990",
+            "description": "An elegant No. 10-type, celebrated for skill and vision and named African Footballer of the Year in 1985.",
+            "image": "../assets/morocco/source/m116.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Larbi Ben Barek",
+            "years": "1938–1954",
+            "description": "The pioneering superstar: a Protectorate-era global talent who dazzled with Marseille and Atlético Madrid.",
+            "image": "../assets/morocco/source/m117.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Ahmed Faras",
+            "years": "1966–1979",
+            "description": "Captain of the 1976 African champions and, in the supplied source, Morocco’s record scorer with 36 goals.",
+            "image": "../assets/morocco/source/m118.webp"
+          }
+        ]
+      },
+      "closing": "Yassine Bounou, Bassir, Chamakh, En-Nesyri, Amrabat, El Kaabi and Brahim Díaz are among the most painful omissions."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "National-team landmarks and African World Cup firsts",
+      "recordGroups": [
+        {
+          "title": "Match & individual records",
+          "items": [
+            "First match after independence: Morocco 3–3 Iraq, 19 October 1957.",
+            "Biggest victory: Morocco 13–1 Saudi Arabia, Pan-Arab Games, 6 September 1961.",
+            "Heaviest defeat: Hungary 6–0 Morocco, Olympics, 11 October 1964.",
+            "Most caps in the supplied source: Noureddine Naybet, 115."
+          ]
+        },
+        {
+          "title": "World Cup records",
+          "items": [
+            "First African team to top a World Cup group: 1986.",
+            "First African team to reach the knockouts: 1986.",
+            "First African team to reach a semi-final: 2022.",
+            "First African team to reach two quarter-finals: 2026.",
+            "Best finish by an African nation: 4th, 2022."
+          ]
+        },
+        {
+          "title": "Further landmarks",
+          "items": [
+            "Morocco’s 2022 run made them the first Arab nation to reach a World Cup semi-final.",
+            "The source credits Morocco in 2026 as the first African side to reach consecutive World Cup quarter-finals.",
+            "The source also says Achraf Hakimi set a new African record for World Cup appearances during the 2026 tournament."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/morocco/source/m119.webp",
+        "../assets/morocco/source/m120.webp",
+        "../assets/morocco/source/m121.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "New showpieces, historic bowls and a desert football ground",
+      "cards": [
+        {
+          "title": "Prince Moulay Abdellah Stadium",
+          "meta": "Rabat · rebuilt 2025 · 69,500",
+          "text": "One of Morocco’s principal national-team venues. The source says it staged the 2025 AFCON opener and the controversial Morocco–Senegal final.",
+          "images": [
+            "../assets/morocco/source/m122.webp",
+            "../assets/morocco/source/m123.webp",
+            "../assets/morocco/source/m124.webp",
+            "../assets/morocco/source/m125.webp"
+          ]
+        },
+        {
+          "title": "Grand Stade de Tanger",
+          "meta": "Tangier · about 75,000",
+          "text": "Morocco’s largest completed stadium in the source, redeveloped as a Mediterranean gateway venue and selected as a 2030 World Cup showpiece.",
+          "images": [
+            "../assets/morocco/source/m126.webp",
+            "../assets/morocco/source/m127.webp",
+            "../assets/morocco/source/m128.webp",
+            "../assets/morocco/source/m129.webp"
+          ]
+        },
+        {
+          "title": "Stade Mohammed V",
+          "meta": "Casablanca · opened 1955",
+          "text": "Opened as Stade Marcel Cerdan and shared by Wydad and Raja. Its importance comes less from size than from the atmosphere of the Casablanca Derby.",
+          "images": [
+            "../assets/morocco/source/m130.webp",
+            "../assets/morocco/source/m131.webp",
+            "../assets/morocco/source/m132.webp",
+            "../assets/morocco/source/m133.webp"
+          ]
+        },
+        {
+          "title": "Stade Père-Jégo",
+          "meta": "Casablanca · opened 1915",
+          "text": "The source identifies it as Morocco’s oldest football stadium still in use. It is now home to Racing Casablanca.",
+          "images": [
+            "../assets/morocco/source/m134.webp",
+            "../assets/morocco/source/m135.webp"
+          ]
+        },
+        {
+          "title": "Tamnougalt Football Ground",
+          "meta": "Near Agdz",
+          "text": "Perhaps Morocco’s strangest pitch: a primitive dirt field beside an ancient kasbah in the Drâa oasis, surrounded by palms, desert and the Atlas Mountains.",
+          "images": [
+            "../assets/morocco/source/m136.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Already qualified",
+      "host": {
+        "kicker": "Qualified host",
+        "headline": "Morocco is already qualified.",
+        "text": "Morocco is one of the hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured.",
+        "image": "../assets/morocco/source/m137.webp"
+      }
+    }
+  ]
+}
