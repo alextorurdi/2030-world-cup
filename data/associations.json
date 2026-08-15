@@ -115,8 +115,9 @@
           "flag": "🇲🇦",
           "confederation": "caf",
           "status": "qualified-host",
-          "logo": "",
-          "note": "One of the six hosts of the 2030 FIFA World Cup."
+          "logo": "./assets/logos/caf/005.png",
+          "page": "./associations/morocco.html",
+          "note": "Host of the 2030 FIFA World Cup."
         },
         {
           "name": "Nigeria",
