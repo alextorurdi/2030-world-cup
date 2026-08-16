@@ -78,6 +78,357 @@
           "confederation": "afc",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "Afghanistan",
+          "associationName": "Afghanistan Football Federation",
+          "code": "AFG",
+          "flag": "🇦🇫",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bahrain",
+          "associationName": "Bahrain Football Association",
+          "code": "BHR",
+          "flag": "🇧🇭",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bangladesh",
+          "associationName": "Bangladesh Football Federation",
+          "code": "BAN",
+          "flag": "🇧🇩",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bhutan",
+          "associationName": "Bhutan Football Federation",
+          "code": "BHU",
+          "flag": "🇧🇹",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Brunei",
+          "associationName": "Football Association of Brunei Darussalam",
+          "code": "BRU",
+          "flag": "🇧🇳",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cambodia",
+          "associationName": "Football Federation of Cambodia",
+          "code": "CAM",
+          "flag": "🇰🇭",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "China PR",
+          "associationName": "Chinese Football Association",
+          "code": "CHN",
+          "flag": "🇨🇳",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Chinese Taipei",
+          "associationName": "Chinese Taipei Football Association",
+          "code": "TPE",
+          "flag": "🇹🇼",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Guam",
+          "associationName": "Guam Football Association",
+          "code": "GUM",
+          "flag": "🇬🇺",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Hong Kong, China",
+          "associationName": "Football Association of Hong Kong, China",
+          "code": "HKG",
+          "flag": "🇭🇰",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "India",
+          "associationName": "All India Football Federation",
+          "code": "IND",
+          "flag": "🇮🇳",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Indonesia",
+          "associationName": "Football Association of Indonesia",
+          "code": "IDN",
+          "flag": "🇮🇩",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Iraq",
+          "associationName": "Iraq Football Association",
+          "code": "IRQ",
+          "flag": "🇮🇶",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Korea DPR",
+          "associationName": "DPR Korea Football Association",
+          "code": "PRK",
+          "flag": "🇰🇵",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Kuwait",
+          "associationName": "Kuwait Football Association",
+          "code": "KUW",
+          "flag": "🇰🇼",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Kyrgyz Republic",
+          "associationName": "Kyrgyz Football Union",
+          "code": "KGZ",
+          "flag": "🇰🇬",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Laos",
+          "associationName": "Lao Football Federation",
+          "code": "LAO",
+          "flag": "🇱🇦",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Lebanon",
+          "associationName": "Lebanese Football Association",
+          "code": "LBN",
+          "flag": "🇱🇧",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Macau",
+          "associationName": "Macau Football Association",
+          "code": "MAC",
+          "flag": "🇲🇴",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Malaysia",
+          "associationName": "Football Association of Malaysia",
+          "code": "MAS",
+          "flag": "🇲🇾",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Maldives",
+          "associationName": "Football Association of Maldives",
+          "code": "MDV",
+          "flag": "🇲🇻",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Mongolia",
+          "associationName": "Mongolian Football Federation",
+          "code": "MNG",
+          "flag": "🇲🇳",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Myanmar",
+          "associationName": "Myanmar Football Federation",
+          "code": "MYA",
+          "flag": "🇲🇲",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Oman",
+          "associationName": "Oman Football Association",
+          "code": "OMA",
+          "flag": "🇴🇲",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Pakistan",
+          "associationName": "Pakistan Football Federation",
+          "code": "PAK",
+          "flag": "🇵🇰",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Palestine",
+          "associationName": "Palestine Football Association",
+          "code": "PLE",
+          "flag": "🇵🇸",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Philippines",
+          "associationName": "Philippine Football Federation",
+          "code": "PHI",
+          "flag": "🇵🇭",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Saudi Arabia",
+          "associationName": "Saudi Arabian Football Federation",
+          "code": "KSA",
+          "flag": "🇸🇦",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Singapore",
+          "associationName": "Football Association of Singapore",
+          "code": "SGP",
+          "flag": "🇸🇬",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Sri Lanka",
+          "associationName": "Football Federation of Sri Lanka",
+          "code": "SRI",
+          "flag": "🇱🇰",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Syria",
+          "associationName": "Syrian Arab Football Association",
+          "code": "SYR",
+          "flag": "🇸🇾",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Tajikistan",
+          "associationName": "Tajikistan Football Federation",
+          "code": "TJK",
+          "flag": "🇹🇯",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Thailand",
+          "associationName": "Football Association of Thailand",
+          "code": "THA",
+          "flag": "🇹🇭",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Timor-Leste",
+          "associationName": "Football Federation of Timor-Leste",
+          "code": "TLS",
+          "flag": "🇹🇱",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Turkmenistan",
+          "associationName": "Football Federation of Turkmenistan",
+          "code": "TKM",
+          "flag": "🇹🇲",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "United Arab Emirates",
+          "associationName": "United Arab Emirates Football Association",
+          "code": "UAE",
+          "flag": "🇦🇪",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Uzbekistan",
+          "associationName": "Uzbekistan Football Association",
+          "code": "UZB",
+          "flag": "🇺🇿",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Vietnam",
+          "associationName": "Vietnam Football Federation",
+          "code": "VIE",
+          "flag": "🇻🇳",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Yemen",
+          "associationName": "Yemen Football Association",
+          "code": "YEM",
+          "flag": "🇾🇪",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
         }
       ]
     },
@@ -145,6 +496,438 @@
           "confederation": "caf",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "Algeria",
+          "associationName": "Algerian Football Federation",
+          "code": "ALG",
+          "flag": "🇩🇿",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Angola",
+          "associationName": "Angolan Football Federation",
+          "code": "ANG",
+          "flag": "🇦🇴",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Benin",
+          "associationName": "Benin Football Federation",
+          "code": "BEN",
+          "flag": "🇧🇯",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Botswana",
+          "associationName": "Botswana Football Association",
+          "code": "BOT",
+          "flag": "🇧🇼",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Burkina Faso",
+          "associationName": "Burkinabé Football Federation",
+          "code": "BFA",
+          "flag": "🇧🇫",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Burundi",
+          "associationName": "Football Federation of Burundi",
+          "code": "BDI",
+          "flag": "🇧🇮",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cabo Verde",
+          "associationName": "Cape Verdean Football Federation",
+          "code": "CPV",
+          "flag": "🇨🇻",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cameroon",
+          "associationName": "Cameroonian Football Federation",
+          "code": "CMR",
+          "flag": "🇨🇲",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Central African Republic",
+          "associationName": "Central African Football Federation",
+          "code": "CTA",
+          "flag": "🇨🇫",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Chad",
+          "associationName": "Chadian Football Federation",
+          "code": "CHA",
+          "flag": "🇹🇩",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Comoros",
+          "associationName": "Comoros Football Federation",
+          "code": "COM",
+          "flag": "🇰🇲",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Congo",
+          "associationName": "Congolese Football Federation",
+          "code": "CGO",
+          "flag": "🇨🇬",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "DR Congo",
+          "associationName": "Congolese Association Football Federation",
+          "code": "COD",
+          "flag": "🇨🇩",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Côte d'Ivoire",
+          "associationName": "Ivorian Football Federation",
+          "code": "CIV",
+          "flag": "🇨🇮",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Djibouti",
+          "associationName": "Djiboutian Football Federation",
+          "code": "DJI",
+          "flag": "🇩🇯",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Equatorial Guinea",
+          "associationName": "Equatoguinean Football Federation",
+          "code": "EQG",
+          "flag": "🇬🇶",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Eritrea",
+          "associationName": "Eritrean National Football Federation",
+          "code": "ERI",
+          "flag": "🇪🇷",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Eswatini",
+          "associationName": "Eswatini Football Association",
+          "code": "SWZ",
+          "flag": "🇸🇿",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Ethiopia",
+          "associationName": "Ethiopian Football Federation",
+          "code": "ETH",
+          "flag": "🇪🇹",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Gabon",
+          "associationName": "Gabonese Football Federation",
+          "code": "GAB",
+          "flag": "🇬🇦",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Gambia",
+          "associationName": "Gambia Football Federation",
+          "code": "GAM",
+          "flag": "🇬🇲",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Guinea",
+          "associationName": "Guinean Football Federation",
+          "code": "GUI",
+          "flag": "🇬🇳",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Guinea-Bissau",
+          "associationName": "Football Federation of Guinea-Bissau",
+          "code": "GNB",
+          "flag": "🇬🇼",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Kenya",
+          "associationName": "Football Kenya Federation",
+          "code": "KEN",
+          "flag": "🇰🇪",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Lesotho",
+          "associationName": "Lesotho Football Association",
+          "code": "LES",
+          "flag": "🇱🇸",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Liberia",
+          "associationName": "Liberia Football Association",
+          "code": "LBR",
+          "flag": "🇱🇷",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Libya",
+          "associationName": "Libyan Football Federation",
+          "code": "LBY",
+          "flag": "🇱🇾",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Madagascar",
+          "associationName": "Malagasy Football Federation",
+          "code": "MAD",
+          "flag": "🇲🇬",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Malawi",
+          "associationName": "Football Association of Malawi",
+          "code": "MWI",
+          "flag": "🇲🇼",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Mali",
+          "associationName": "Malian Football Federation",
+          "code": "MLI",
+          "flag": "🇲🇱",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Mauritania",
+          "associationName": "Football Federation of the Islamic Republic of Mauritania",
+          "code": "MTN",
+          "flag": "🇲🇷",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Mauritius",
+          "associationName": "Mauritius Football Association",
+          "code": "MRI",
+          "flag": "🇲🇺",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Mozambique",
+          "associationName": "Mozambican Football Federation",
+          "code": "MOZ",
+          "flag": "🇲🇿",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Namibia",
+          "associationName": "Namibia Football Association",
+          "code": "NAM",
+          "flag": "🇳🇦",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Niger",
+          "associationName": "Nigerien Football Federation",
+          "code": "NIG",
+          "flag": "🇳🇪",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Rwanda",
+          "associationName": "Rwanda Football Federation",
+          "code": "RWA",
+          "flag": "🇷🇼",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "São Tomé and Príncipe",
+          "associationName": "São Tomé and Príncipe Football Federation",
+          "code": "STP",
+          "flag": "🇸🇹",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Seychelles",
+          "associationName": "Seychelles Football Federation",
+          "code": "SEY",
+          "flag": "🇸🇨",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Sierra Leone",
+          "associationName": "Sierra Leone Football Association",
+          "code": "SLE",
+          "flag": "🇸🇱",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Somalia",
+          "associationName": "Somali Football Federation",
+          "code": "SOM",
+          "flag": "🇸🇴",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "South Sudan",
+          "associationName": "South Sudan Football Association",
+          "code": "SSD",
+          "flag": "🇸🇸",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Sudan",
+          "associationName": "Sudan Football Association",
+          "code": "SDN",
+          "flag": "🇸🇩",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Tanzania",
+          "associationName": "Tanzania Football Federation",
+          "code": "TAN",
+          "flag": "🇹🇿",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Togo",
+          "associationName": "Togolese Football Federation",
+          "code": "TOG",
+          "flag": "🇹🇬",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Tunisia",
+          "associationName": "Tunisian Football Federation",
+          "code": "TUN",
+          "flag": "🇹🇳",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Uganda",
+          "associationName": "Federation of Uganda Football Associations",
+          "code": "UGA",
+          "flag": "🇺🇬",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Zambia",
+          "associationName": "Football Association of Zambia",
+          "code": "ZAM",
+          "flag": "🇿🇲",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Zimbabwe",
+          "associationName": "Zimbabwe Football Association",
+          "code": "ZIM",
+          "flag": "🇿🇼",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
         }
       ]
     },
@@ -207,6 +990,267 @@
           "associationName": "United States Soccer Federation",
           "code": "USA",
           "flag": "🇺🇸",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Anguilla",
+          "associationName": "Anguilla Football Association",
+          "code": "AIA",
+          "flag": "🇦🇮",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Antigua and Barbuda",
+          "associationName": "Antigua and Barbuda Football Association",
+          "code": "ATG",
+          "flag": "🇦🇬",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Aruba",
+          "associationName": "Aruba Football Federation",
+          "code": "ARU",
+          "flag": "🇦🇼",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bahamas",
+          "associationName": "Bahamas Football Association",
+          "code": "BAH",
+          "flag": "🇧🇸",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Barbados",
+          "associationName": "Barbados Football Association",
+          "code": "BRB",
+          "flag": "🇧🇧",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Belize",
+          "associationName": "Football Federation of Belize",
+          "code": "BLZ",
+          "flag": "🇧🇿",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bermuda",
+          "associationName": "Bermuda Football Association",
+          "code": "BER",
+          "flag": "🇧🇲",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "British Virgin Islands",
+          "associationName": "British Virgin Islands Football Association",
+          "code": "VGB",
+          "flag": "🇻🇬",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cayman Islands",
+          "associationName": "Cayman Islands Football Association",
+          "code": "CAY",
+          "flag": "🇰🇾",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cuba",
+          "associationName": "Cuban Football Association",
+          "code": "CUB",
+          "flag": "🇨🇺",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Curaçao",
+          "associationName": "Curaçao Football Federation",
+          "code": "CUW",
+          "flag": "🇨🇼",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Dominica",
+          "associationName": "Dominica Football Association",
+          "code": "DMA",
+          "flag": "🇩🇲",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Dominican Republic",
+          "associationName": "Dominican Football Federation",
+          "code": "DOM",
+          "flag": "🇩🇴",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "El Salvador",
+          "associationName": "Salvadoran Football Federation",
+          "code": "SLV",
+          "flag": "🇸🇻",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Grenada",
+          "associationName": "Grenada Football Association",
+          "code": "GRN",
+          "flag": "🇬🇩",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Guatemala",
+          "associationName": "National Football Federation of Guatemala",
+          "code": "GUA",
+          "flag": "🇬🇹",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Guyana",
+          "associationName": "Guyana Football Federation",
+          "code": "GUY",
+          "flag": "🇬🇾",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Haiti",
+          "associationName": "Haitian Football Federation",
+          "code": "HAI",
+          "flag": "🇭🇹",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Honduras",
+          "associationName": "Honduran Football Federation",
+          "code": "HON",
+          "flag": "🇭🇳",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Montserrat",
+          "associationName": "Montserrat Football Association",
+          "code": "MSR",
+          "flag": "🇲🇸",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Nicaragua",
+          "associationName": "Nicaraguan Football Federation",
+          "code": "NCA",
+          "flag": "🇳🇮",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Puerto Rico",
+          "associationName": "Puerto Rican Football Federation",
+          "code": "PUR",
+          "flag": "🇵🇷",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Saint Kitts and Nevis",
+          "associationName": "Saint Kitts and Nevis Football Association",
+          "code": "SKN",
+          "flag": "🇰🇳",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Saint Lucia",
+          "associationName": "Saint Lucia Football Association",
+          "code": "LCA",
+          "flag": "🇱🇨",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Saint Vincent and the Grenadines",
+          "associationName": "Saint Vincent and the Grenadines Football Federation",
+          "code": "VIN",
+          "flag": "🇻🇨",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Suriname",
+          "associationName": "Surinamese Football Association",
+          "code": "SUR",
+          "flag": "🇸🇷",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Trinidad and Tobago",
+          "associationName": "Trinidad and Tobago Football Association",
+          "code": "TRI",
+          "flag": "🇹🇹",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Turks and Caicos Islands",
+          "associationName": "Turks and Caicos Islands Football Association",
+          "code": "TCA",
+          "flag": "🇹🇨",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "US Virgin Islands",
+          "associationName": "US Virgin Islands Soccer Federation",
+          "code": "VIR",
+          "flag": "🇻🇮",
           "confederation": "concacaf",
           "status": "active",
           "logo": ""
@@ -279,6 +1323,42 @@
           "status": "qualified-host",
           "logo": "",
           "note": "One of the six hosts of the 2030 FIFA World Cup."
+        },
+        {
+          "name": "Bolivia",
+          "associationName": "Bolivian Football Federation",
+          "code": "BOL",
+          "flag": "🇧🇴",
+          "confederation": "conmebol",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Ecuador",
+          "associationName": "Ecuadorian Football Federation",
+          "code": "ECU",
+          "flag": "🇪🇨",
+          "confederation": "conmebol",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Peru",
+          "associationName": "Peruvian Football Federation",
+          "code": "PER",
+          "flag": "🇵🇪",
+          "confederation": "conmebol",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Venezuela",
+          "associationName": "Venezuelan Football Federation",
+          "code": "VEN",
+          "flag": "🇻🇪",
+          "confederation": "conmebol",
+          "status": "active",
+          "logo": ""
         }
       ]
     },
@@ -344,6 +1424,51 @@
           "confederation": "ofc",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "American Samoa",
+          "associationName": "Football Federation American Samoa",
+          "code": "ASA",
+          "flag": "🇦🇸",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cook Islands",
+          "associationName": "Cook Islands Football Association",
+          "code": "COK",
+          "flag": "🇨🇰",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Samoa",
+          "associationName": "Football Federation Samoa",
+          "code": "SAM",
+          "flag": "🇼🇸",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Tonga",
+          "associationName": "Tonga Football Association",
+          "code": "TGA",
+          "flag": "🇹🇴",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Vanuatu",
+          "associationName": "Vanuatu Football Federation",
+          "code": "VAN",
+          "flag": "🇻🇺",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
         }
       ]
     },
@@ -405,7 +1530,6 @@
         {
           "name": "Russia",
           "associationName": "Russian Football Union",
-          
           "flag": "ru",
           "confederation": "uefa",
           "status": "eliminated",
@@ -416,13 +1540,444 @@
         {
           "name": "Spain",
           "associationName": "Royal Spanish Football Federation",
-          
           "flag": "🇪🇸",
           "confederation": "uefa",
           "status": "qualified-host",
           "logo": "./assets/logos/uefa/003.png",
           "page": "./associations/spain.html",
           "note": "One of the six hosts of the 2030 FIFA World Cup."
+        },
+        {
+          "name": "Albania",
+          "associationName": "Albanian Football Association",
+          "code": "ALB",
+          "flag": "🇦🇱",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Andorra",
+          "associationName": "Andorran Football Federation",
+          "code": "AND",
+          "flag": "🇦🇩",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Armenia",
+          "associationName": "Football Federation of Armenia",
+          "code": "ARM",
+          "flag": "🇦🇲",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Austria",
+          "associationName": "Austrian Football Association",
+          "code": "AUT",
+          "flag": "🇦🇹",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Azerbaijan",
+          "associationName": "Association of Football Federations of Azerbaijan",
+          "code": "AZE",
+          "flag": "🇦🇿",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Belarus",
+          "associationName": "Football Federation of Belarus",
+          "code": "BLR",
+          "flag": "🇧🇾",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Belgium",
+          "associationName": "Royal Belgian Football Association",
+          "code": "BEL",
+          "flag": "🇧🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bosnia and Herzegovina",
+          "associationName": "Football Association of Bosnia and Herzegovina",
+          "code": "BIH",
+          "flag": "🇧🇦",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Bulgaria",
+          "associationName": "Bulgarian Football Union",
+          "code": "BUL",
+          "flag": "🇧🇬",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Croatia",
+          "associationName": "Croatian Football Federation",
+          "code": "CRO",
+          "flag": "🇭🇷",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cyprus",
+          "associationName": "Cyprus Football Association",
+          "code": "CYP",
+          "flag": "🇨🇾",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Czechia",
+          "associationName": "Football Association of the Czech Republic",
+          "code": "CZE",
+          "flag": "🇨🇿",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Denmark",
+          "associationName": "Danish Football Association",
+          "code": "DEN",
+          "flag": "🇩🇰",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Estonia",
+          "associationName": "Estonian Football Association",
+          "code": "EST",
+          "flag": "🇪🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Faroe Islands",
+          "associationName": "Faroe Islands Football Association",
+          "code": "FRO",
+          "flag": "🇫🇴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Finland",
+          "associationName": "Football Association of Finland",
+          "code": "FIN",
+          "flag": "🇫🇮",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Georgia",
+          "associationName": "Georgian Football Federation",
+          "code": "GEO",
+          "flag": "🇬🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Gibraltar",
+          "associationName": "Gibraltar Football Association",
+          "code": "GIB",
+          "flag": "🇬🇮",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Greece",
+          "associationName": "Hellenic Football Federation",
+          "code": "GRE",
+          "flag": "🇬🇷",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Hungary",
+          "associationName": "Hungarian Football Federation",
+          "code": "HUN",
+          "flag": "🇭🇺",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Iceland",
+          "associationName": "Football Association of Iceland",
+          "code": "ISL",
+          "flag": "🇮🇸",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Israel",
+          "associationName": "Israel Football Association",
+          "code": "ISR",
+          "flag": "🇮🇱",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Kazakhstan",
+          "associationName": "Football Federation of Kazakhstan",
+          "code": "KAZ",
+          "flag": "🇰🇿",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Kosovo",
+          "associationName": "Football Federation of Kosovo",
+          "code": "KVX",
+          "flag": "🇽🇰",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Latvia",
+          "associationName": "Latvian Football Federation",
+          "code": "LVA",
+          "flag": "🇱🇻",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Liechtenstein",
+          "associationName": "Liechtenstein Football Association",
+          "code": "LIE",
+          "flag": "🇱🇮",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Lithuania",
+          "associationName": "Lithuanian Football Federation",
+          "code": "LTU",
+          "flag": "🇱🇹",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Luxembourg",
+          "associationName": "Luxembourg Football Federation",
+          "code": "LUX",
+          "flag": "🇱🇺",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Malta",
+          "associationName": "Malta Football Association",
+          "code": "MLT",
+          "flag": "🇲🇹",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Moldova",
+          "associationName": "Moldovan Football Federation",
+          "code": "MDA",
+          "flag": "🇲🇩",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Montenegro",
+          "associationName": "Football Association of Montenegro",
+          "code": "MNE",
+          "flag": "🇲🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Netherlands",
+          "associationName": "Royal Netherlands Football Association",
+          "code": "NED",
+          "flag": "🇳🇱",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "North Macedonia",
+          "associationName": "Football Federation of Macedonia",
+          "code": "MKD",
+          "flag": "🇲🇰",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Northern Ireland",
+          "associationName": "Irish Football Association",
+          "code": "NIR",
+          "flag": "🇬🇧",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Norway",
+          "associationName": "Norwegian Football Federation",
+          "code": "NOR",
+          "flag": "🇳🇴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Poland",
+          "associationName": "Polish Football Association",
+          "code": "POL",
+          "flag": "🇵🇱",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Republic of Ireland",
+          "associationName": "Football Association of Ireland",
+          "code": "IRL",
+          "flag": "🇮🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Romania",
+          "associationName": "Romanian Football Federation",
+          "code": "ROU",
+          "flag": "🇷🇴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "San Marino",
+          "associationName": "San Marino Football Federation",
+          "code": "SMR",
+          "flag": "🇸🇲",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Scotland",
+          "associationName": "Scottish Football Association",
+          "code": "SCO",
+          "flag": "🏴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Serbia",
+          "associationName": "Football Association of Serbia",
+          "code": "SRB",
+          "flag": "🇷🇸",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Slovakia",
+          "associationName": "Slovak Football Association",
+          "code": "SVK",
+          "flag": "🇸🇰",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Slovenia",
+          "associationName": "Football Association of Slovenia",
+          "code": "SVN",
+          "flag": "🇸🇮",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Sweden",
+          "associationName": "Swedish Football Association",
+          "code": "SWE",
+          "flag": "🇸🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Switzerland",
+          "associationName": "Swiss Football Association",
+          "code": "SUI",
+          "flag": "🇨🇭",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Türkiye",
+          "associationName": "Turkish Football Federation",
+          "code": "TUR",
+          "flag": "🇹🇷",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Ukraine",
+          "associationName": "Ukrainian Association of Football",
+          "code": "UKR",
+          "flag": "🇺🇦",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Wales",
+          "associationName": "Football Association of Wales",
+          "code": "WAL",
+          "flag": "🏴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
         }
       ]
     }
