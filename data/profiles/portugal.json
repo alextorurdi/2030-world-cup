@@ -208,8 +208,8 @@
           "images": [
             "../assets/portugal/source/p033.webp",
             "../assets/portugal/source/p034.webp",
-            "../assets/portugal/source/p035.webp",
-            "../assets/portugal/source/p036.webp"
+            "../assets/portugal/source/p035.webp"
+            
           ]
         }
       ]
@@ -225,7 +225,7 @@
           "meta": "18 clubs · 34 matches",
           "text": "The top flight uses a conventional double round-robin. The bottom two are relegated to Liga Portugal 2, while 16th enters a playoff against the second tier’s third-placed eligible club.",
           "images": [
-            "../assets/portugal/source/p037.webp"
+            "../assets/portugal/source/p036.webp"
           ]
         },
         {
@@ -233,7 +233,7 @@
           "meta": "18-club second tier",
           "text": "The top two are promoted and third enters the playoff. Below it, the FPF runs Liga 3 and the Campeonato de Portugal before the pyramid fragments into the district associations that remain a major feature of Portuguese football.",
           "images": [
-            "../assets/portugal/source/p038.webp"
+            "../assets/portugal/source/p037.webp"
           ]
         },
         {
@@ -241,7 +241,7 @@
           "meta": "National knockout cup",
           "text": "The Taça de Portugal includes clubs far down the pyramid. Its final is traditionally staged at the Estádio Nacional in Jamor.",
           "images": [
-            "../assets/portugal/source/p039.webp"
+            "../assets/portugal/source/p038.webp"
           ]
         },
         {
@@ -249,7 +249,7 @@
           "meta": "League Cup",
           "text": "A knockout competition for Liga 1 and Liga 2 clubs. Under the source’s current format, only the highest-placed teams from each league take part.",
           "images": [
-            "../assets/portugal/source/p040.webp"
+            "../assets/portugal/source/p039.webp"
           ]
         },
         {
@@ -257,7 +257,7 @@
           "meta": "Annual super cup",
           "text": "The Liga champions face the Taça de Portugal winners. If one club wins both, the cup runners-up take the second place.",
           "images": [
-            "../assets/portugal/source/p041.webp"
+            "../assets/portugal/source/p040.webp"
           ]
         },
         {
@@ -265,9 +265,8 @@
           "meta": "European qualification",
           "text": "The source assigns Portugal two Champions League places, two Europa League places and one Conference League place, distributed through league position and the Taça de Portugal.",
           "images": [
-            "../assets/portugal/source/p042.webp",
-            "../assets/portugal/source/p043.webp",
-            "../assets/portugal/source/p044.webp"
+            
+            "../assets/portugal/source/p041.webp"
           ]
         }
       ]
@@ -283,6 +282,10 @@
           "meta": "The Três Grandes",
           "text": "The three giants dominate Portuguese football. In the supplied source, Benfica lead the league record with 38, Porto have 31 and Sporting 21. Benfica and Porto each have two European Cups; Sporting won the Cup Winners’ Cup.",
           "images": [
+            
+            "../assets/portugal/source/p042.webp",
+            "../assets/portugal/source/p043.webp",
+            "../assets/portugal/source/p044.webp",
             "../assets/portugal/source/p045.webp"
           ]
         },
