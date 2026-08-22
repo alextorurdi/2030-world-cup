@@ -1518,15 +1518,16 @@
           "logo": ""
         },
         {
-          "name": "Portugal",
-          "associationName": "Portuguese Football Federation",
-          "code": "POR",
-          "flag": "🇵🇹",
-          "confederation": "uefa",
-          "status": "qualified-host",
-          "logo": "",
-          "note": "One of the six hosts of the 2030 FIFA World Cup."
-        },
+  "name": "Portugal",
+  "associationName": "Portuguese Football Federation",
+  "code": "POR",
+  "flag": "🇵🇹",
+  "confederation": "uefa",
+  "status": "qualified-host",
+  "logo": "./assets/logos/uefa/006.png",
+  "page": "./associations/portugal.html",
+  "note": "Host of the 2030 FIFA World Cup."
+},
         {
           "name": "Russia",
           "associationName": "Russian Football Union",
