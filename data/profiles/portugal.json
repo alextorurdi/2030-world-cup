@@ -1,0 +1,798 @@
+{
+  "meta": {
+    "title": "Portugal · The 211 Files",
+    "description": "Portugal in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the 2030 World Cup road.",
+    "source": {
+      "label": "Supplied Portugal thread export",
+      "file": "Portugal.docx",
+      "imageCount": 124
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 124 direct X-media links. The profile uses local paths for all source images."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#006",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "association": "Portuguese Football Federation / Federação Portuguesa de Futebol (FPF)",
+    "founded": "1914",
+    "fifa": "1923",
+    "confederation": "UEFA",
+    "status": "Host",
+    "statusClass": "qualified-host",
+    "worldCupAppearances": "9",
+    "bestRecords": [
+      "🥉 FIFA World Cup: 1966",
+      "🏆 UEFA Euro: 2016",
+      "🏆 UEFA Nations League: 2019, 2025"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/uefa/006.png",
+    "fallbackLogo": "../assets/portugal/source/p001.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Europe’s Atlantic edge",
+      "entries": [
+        {
+          "paragraphs": [
+            "Occupying Europe’s Atlantic edge, Portugal covers the western Iberian Peninsula plus Madeira and the Azores. Home to around 11.4 million people, it built one of history’s largest maritime empires and today combines deep Atlantic links with EU membership."
+          ],
+          "images": [
+            "../assets/portugal/source/p002.webp",
+            "../assets/portugal/source/p003.webp",
+            "../assets/portugal/source/p004.webp",
+            "../assets/portugal/source/p005.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Republic, dictatorship, revolution and European integration",
+      "entries": [
+        {
+          "heading": "From monarchy to Estado Novo",
+          "date": "1910–1974",
+          "paragraphs": [
+            "Portugal’s monarchy was overthrown in 1910, creating a turbulent First Republic. A 1926 military coup ended it and ultimately produced the Estado Novo, the authoritarian regime led for most of its existence by António de Oliveira Salazar.",
+            "From 1961, Portugal fought costly colonial wars in Angola, Guinea and Mozambique. On 25 April 1974, the military-led Carnation Revolution overthrew the Estado Novo, restored democracy and accelerated the independence of almost all Portugal’s African colonies."
+          ],
+          "images": [
+            "../assets/portugal/source/p006.webp",
+            "../assets/portugal/source/p007.webp",
+            "../assets/portugal/source/p008.webp"
+          ]
+        },
+        {
+          "heading": "European Portugal",
+          "date": "From 1976",
+          "paragraphs": [
+            "A democratic constitution followed in 1976. Portugal entered the European Economic Community in 1986 and later adopted the euro, anchoring itself firmly in Europe. Yet its language, migration and former empire still give the country unusually strong links across four continents."
+          ],
+          "images": [
+            "../assets/portugal/source/p009.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "British connections, regional football and the rise of the Big Three",
+      "entries": [
+        {
+          "heading": "British communities and Madeira",
+          "date": "19th century",
+          "paragraphs": [
+            "Britain and Portugal’s centuries-old alliance fostered large, influential British communities in Portugal, especially Madeira and Lisbon. Merchants, wine houses, sailors and engineers brought their institutions, schools, clubs and sports.",
+            "Madeira was especially British socially. By the 19th century, hundreds of Britons lived around Funchal. One was Harry Hinton, Madeiran-born into an English family and educated in England."
+          ],
+          "images": [
+            "../assets/portugal/source/p010.webp",
+            "../assets/portugal/source/p011.webp"
+          ]
+        },
+        {
+          "heading": "The Harry Hinton tradition",
+          "date": "1875",
+          "paragraphs": [
+            "Tradition says that in summer 1875, 18-year-old Hinton returned with a football and organised games at Achada. The source warns that no contemporary 1875 report survives and that the story rests mainly on Hinton’s much later testimony, recorded in 1945.",
+            "Football was probably known on the island even earlier, perhaps not under Association rules. The 1874 Europe–Brazil submarine cable brought British telegraph workers who joined the expatriate community and helped spread sport.",
+            "The Western Telegraph Company can be traced spreading football along the cable route in places such as Cape Verde and Brazil. The source explicitly cautions against simplistic 'one man brought a ball home' origin stories and treats football’s diffusion as an organic social process."
+          ],
+          "images": [
+            "../assets/portugal/source/p012.webp",
+            "../assets/portugal/source/p013.webp",
+            "../assets/portugal/source/p014.webp",
+            "../assets/portugal/source/p015.webp"
+          ]
+        },
+        {
+          "heading": "Carcavelos and the mainland game",
+          "date": "1889–1906",
+          "paragraphs": [
+            "The Western Telegraph station at Carcavelos also helped spread football on mainland Portugal. In 1889, a Portuguese XI organised by the Pinto Basto brothers beat an English XI including cable workers at Lisbon’s Campo Pequeno.",
+            "The sport initially grew among aristocrats, students and British-connected communities. Foot-Ball Club Lisbonense appeared in 1892, followed by enduring clubs such as FC Porto in 1893, Sport Lisboa in 1904 and Sporting CP in 1906."
+          ],
+          "images": [
+            "../assets/portugal/source/p016.webp",
+            "../assets/portugal/source/p017.webp"
+          ]
+        },
+        {
+          "heading": "The first national and regional competitions",
+          "date": "1894–1914",
+          "paragraphs": [
+            "National competition can be traced to 1894, when King Carlos I offered a cup for city selections. Lisbon beat Porto 1–0 in its only edition. Later events such as the Jogos Olímpicos Nacionais also provided a platform for nationwide competition.",
+            "Football remained strongly regional in the early 20th century. Regional championships emerged in Lisbon, Portalegre, Évora and Porto, while district and regional associations formed around the same period.",
+            "On 31 March 1914, the Lisbon, Porto and Portalegre associations created the União Portuguesa de Futebol. World War I delayed its national-tournament plans until the Campeonato de Portugal began in 1921/22, with FC Porto as first champions."
+          ],
+          "images": [
+            "../assets/portugal/source/p018.webp",
+            "../assets/portugal/source/p019.webp",
+            "../assets/portugal/source/p020.webp"
+          ]
+        },
+        {
+          "heading": "Campeonato de Portugal",
+          "date": "1920s–1938",
+          "paragraphs": [
+            "The initial Campeonato de Portugal was a knockout competition for regional champions. During the 1920s only Porto and Belenenses won it more than once, while Sporting, Olhanense, Marítimo, Carcavelinhos and Benfica also lifted the trophy.",
+            "In 1926, the UPF became the Federação Portuguesa de Futebol. A national round-robin league was launched experimentally in 1934; in 1938 the FPF formalised the Campeonato Nacional and transformed the old knockout championship into the Taça de Portugal."
+          ],
+          "images": [
+            "../assets/portugal/source/p021.webp",
+            "../assets/portugal/source/p022.webp"
+          ]
+        },
+        {
+          "heading": "The Três Grandes emerge",
+          "date": "1930s–1950s",
+          "paragraphs": [
+            "Benfica, Sporting and Porto—the Três Grandes—quickly monopolised the Liga. Sporting started slightly behind, winning their first league only in 1940/41.",
+            "Sporting’s famous Cinco Violinos attack scored more than 800 goals together and delivered five 1940s league titles, including three straight from 1947 to 1949. Fernando Peyroteo alone scored 332 league goals, a championship record in the source.",
+            "Players born in Angola, Mozambique and other Portuguese colonies became central to the leading clubs. For 16 years, teams from Angola, Mozambique, Guinea and Cape Verde were also invited into the Taça de Portugal.",
+            "Belenenses broke the Big Three’s monopoly with the 1945/46 title. Sporting’s dominance carried into the 1950s, while Porto ended a 16-year title drought in 1955/56."
+          ],
+          "images": [
+            "../assets/portugal/source/p023.webp",
+            "../assets/portugal/source/p024.webp",
+            "../assets/portugal/source/p025.webp",
+            "../assets/portugal/source/p026.webp"
+          ]
+        },
+        {
+          "heading": "Benfica’s great era",
+          "date": "1956–1976",
+          "paragraphs": [
+            "Hegemony shifted to Benfica, who won 14 of 20 Ligas from 1956/57 to 1975/76, interrupted mostly by Sporting. Porto, champions in 1958/59, then entered a 19-year title drought.",
+            "Béla Guttmann’s Benfica ended Real Madrid’s European supremacy by winning consecutive European Cups. They beat Barcelona 3–2 in 1961 and Real Madrid 5–3 in 1962, with Eusébio scoring twice. Benfica later reached five more European Cup finals without winning again.",
+            "Sporting added Portugal’s other major 1960s European trophy, winning the 1964 Cup Winners’ Cup after a remarkable run that included a 16–1 win over APOEL and a comeback against Manchester United."
+          ],
+          "images": [
+            "../assets/portugal/source/p027.webp",
+            "../assets/portugal/source/p028.webp",
+            "../assets/portugal/source/p029.webp"
+          ]
+        },
+        {
+          "heading": "The Porto era",
+          "date": "1977–1999",
+          "paragraphs": [
+            "Porto finally ended their league drought in 1977/78 under José Maria Pedroto and retained the title in 1978/79. Sporting then entered an 18-year drought after titles in 1979/80 and 1981/82.",
+            "Porto became a European power in the 1980s. Rabah Madjer’s backheel inspired the 1987 European Cup final comeback against Bayern Munich. Porto also won the European Super Cup and Intercontinental Cup.",
+            "The 1990s became Porto’s great domestic dynasty, including a Portuguese-record five consecutive league titles from 1995 to 1999. Sporting finally ended their drought in 1999/2000."
+          ],
+          "images": [
+            "../assets/portugal/source/p030.webp",
+            "../assets/portugal/source/p031.webp",
+            "../assets/portugal/source/p032.webp"
+          ]
+        },
+        {
+          "heading": "Mourinho, Boavista and the modern era",
+          "date": "2000s–2020s",
+          "paragraphs": [
+            "Boavista won the 2000/01 league, becoming only the second club outside the Big Three to do so. José Mourinho’s Porto won the UEFA Cup in 2003 and the Champions League in 2004.",
+            "Sporting lost the 2005 UEFA Cup final at their own Alvalade. Porto dominated the decade domestically and returned to continental glory in 2011, beating Braga in the only all-Portuguese European final.",
+            "Benfica lost consecutive Europa League finals in 2013 and 2014. The 2010s alternated mainly between Benfica and Porto, while Braga established itself as the strongest regular challenger.",
+            "Sporting ended another 19-year title drought in 2021 and added championships in 2024 and 2025. The source credits Porto with the 2025/26 league and second-tier Torreense with a shock Taça de Portugal win."
+          ],
+          "images": [
+            "../assets/portugal/source/p033.webp",
+            "../assets/portugal/source/p034.webp",
+            "../assets/portugal/source/p035.webp",
+            "../assets/portugal/source/p036.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Liga Portugal, cups and UEFA qualification",
+      "cards": [
+        {
+          "title": "Liga Portugal",
+          "meta": "18 clubs · 34 matches",
+          "text": "The top flight uses a conventional double round-robin. The bottom two are relegated to Liga Portugal 2, while 16th enters a playoff against the second tier’s third-placed eligible club.",
+          "images": [
+            "../assets/portugal/source/p037.webp"
+          ]
+        },
+        {
+          "title": "Liga Portugal 2 and the pyramid",
+          "meta": "18-club second tier",
+          "text": "The top two are promoted and third enters the playoff. Below it, the FPF runs Liga 3 and the Campeonato de Portugal before the pyramid fragments into the district associations that remain a major feature of Portuguese football.",
+          "images": [
+            "../assets/portugal/source/p038.webp"
+          ]
+        },
+        {
+          "title": "Taça de Portugal",
+          "meta": "National knockout cup",
+          "text": "The Taça de Portugal includes clubs far down the pyramid. Its final is traditionally staged at the Estádio Nacional in Jamor.",
+          "images": [
+            "../assets/portugal/source/p039.webp"
+          ]
+        },
+        {
+          "title": "Taça da Liga",
+          "meta": "League Cup",
+          "text": "A knockout competition for Liga 1 and Liga 2 clubs. Under the source’s current format, only the highest-placed teams from each league take part.",
+          "images": [
+            "../assets/portugal/source/p040.webp"
+          ]
+        },
+        {
+          "title": "Supertaça Cândido de Oliveira",
+          "meta": "Annual super cup",
+          "text": "The Liga champions face the Taça de Portugal winners. If one club wins both, the cup runners-up take the second place.",
+          "images": [
+            "../assets/portugal/source/p041.webp"
+          ]
+        },
+        {
+          "title": "UEFA competitions",
+          "meta": "European qualification",
+          "text": "The source assigns Portugal two Champions League places, two Europa League places and one Conference League place, distributed through league position and the Taça de Portugal.",
+          "images": [
+            "../assets/portugal/source/p042.webp",
+            "../assets/portugal/source/p043.webp",
+            "../assets/portugal/source/p044.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Big Three and Portugal’s regional identities",
+      "cards": [
+        {
+          "title": "Benfica, Sporting & Porto",
+          "meta": "The Três Grandes",
+          "text": "The three giants dominate Portuguese football. In the supplied source, Benfica lead the league record with 38, Porto have 31 and Sporting 21. Benfica and Porto each have two European Cups; Sporting won the Cup Winners’ Cup.",
+          "images": [
+            "../assets/portugal/source/p045.webp"
+          ]
+        },
+        {
+          "title": "Lisbon and O Clássico",
+          "meta": "The defining rivalries",
+          "text": "Benfica–Sporting is Lisbon’s Derby Eterno. Benfica–Porto became O Clássico as Porto challenged Lisbon’s historical dominance, adding north–south and regional identity to the sporting rivalry.",
+          "images": [
+            "../assets/portugal/source/p046.webp",
+            "../assets/portugal/source/p047.webp",
+            "../assets/portugal/source/p048.webp",
+            "../assets/portugal/source/p049.webp"
+          ]
+        },
+        {
+          "title": "Boavista, Belenenses, Braga & Vitória",
+          "meta": "The principal challengers",
+          "text": "Boavista and Belenenses are the only clubs outside the Big Three to win the league. Braga have become the most consistent modern challenger, while Minho rivals Vitória SC command one of the country’s strongest regional fanbases.",
+          "images": [
+            "../assets/portugal/source/p050.webp",
+            "../assets/portugal/source/p051.webp",
+            "../assets/portugal/source/p052.webp",
+            "../assets/portugal/source/p053.webp"
+          ]
+        },
+        {
+          "title": "Other historic centres",
+          "meta": "Coimbra, Setúbal and the islands",
+          "text": "Académica carries Coimbra’s student identity; Vitória de Setúbal, Marítimo and Nacional represent other important historic centres. Portuguese club culture remains strongly local beneath the global Big Three.",
+          "images": [
+            "../assets/portugal/source/p054.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From Madrid 1921 to the Ronaldo era",
+      "entries": [
+        {
+          "heading": "The Seleção debuts",
+          "date": "1921–1928",
+          "paragraphs": [
+            "The Seleção das Quinas debuted in Madrid on 18 December 1921, losing 3–1 to Spain. Portugal joined FIFA in 1923 and earned their first international victory in 1925, beating Italy 1–0.",
+            "At the 1928 Amsterdam Olympics, Portugal came from 2–0 down to beat Chile 4–2, then defeated the Kingdom of Serbs, Croats and Slovenes with a late goal before Egypt eliminated them 2–1 in the quarter-finals."
+          ],
+          "images": [
+            "../assets/portugal/source/p055.webp",
+            "../assets/portugal/source/p056.webp"
+          ]
+        },
+        {
+          "heading": "World Cup frustration and the first win over Spain",
+          "date": "1930–1954",
+          "paragraphs": [
+            "Portugal declined to travel to the 1930 World Cup. Spain crushed them 9–0 in 1934 qualifying and Switzerland stopped them in 1938. Portugal did not beat Spain until 1947.",
+            "That breakthrough came at the Estádio Nacional in the 16th Iberian Derby. Spain scored almost immediately, but Portugal overturned the match and won 4–1.",
+            "Spain again stopped Portugal in 1950 qualifying. Portugal later declined an invitation to Brazil after Turkey withdrew. In 1954, a 9–1 defeat in Austria ended another qualifying campaign."
+          ],
+          "images": [
+            "../assets/portugal/source/p057.webp",
+            "../assets/portugal/source/p058.webp",
+            "../assets/portugal/source/p059.webp"
+          ]
+        },
+        {
+          "heading": "Close calls before Eusébio",
+          "date": "1958–1964",
+          "paragraphs": [
+            "Portugal finished behind Northern Ireland and Italy in the 1958 World Cup qualifiers, despite beating the Italians 3–0 at home. In the first European Championship qualifying campaign, Yugoslavia eliminated them in the quarter-finals.",
+            "A 6–0 win over Luxembourg and draw with England seemed to put Portugal on course for the 1962 World Cup, but a shock 4–2 defeat in Luxembourg derailed the campaign. Bulgaria then knocked them out of the 1964 Euro qualifiers.",
+            "During the Luxembourg defeat, a young Mozambique-born Eusébio made his Portugal debut and scored. He soon became the symbol of Benfica’s second European Cup triumph."
+          ],
+          "images": [
+            "../assets/portugal/source/p060.webp",
+            "../assets/portugal/source/p061.webp",
+            "../assets/portugal/source/p062.webp"
+          ]
+        },
+        {
+          "heading": "The Magriços reach England",
+          "date": "1965–1966",
+          "paragraphs": [
+            "With Eusébio established, Portugal swept through 1966 World Cup qualifying and reached their first major tournament.",
+            "In England, a team built largely around Benfica’s European champions beat Hungary, Bulgaria and holders Brazil to win the group. Eusébio scored twice against Brazil.",
+            "North Korea raced 3–0 ahead in the quarter-final, but Eusébio scored four times as Portugal recovered to win 5–3. Hosts England won the semi-final 2–1 at Wembley.",
+            "Portugal beat the USSR 2–1 for bronze. Eusébio’s nine goals won the Golden Boot and 1966 remains Portugal’s best World Cup finish."
+          ],
+          "images": [
+            "../assets/portugal/source/p063.webp",
+            "../assets/portugal/source/p064.webp",
+            "../assets/portugal/source/p065.webp",
+            "../assets/portugal/source/p066.webp"
+          ]
+        },
+        {
+          "heading": "Eighteen years outside the finals",
+          "date": "1967–1983",
+          "paragraphs": [
+            "The 1966 breakthrough did not produce continuity. Portugal missed Euro 1968, Mexico 1970, Euro 1972 and the 1974 World Cup. Eusébio ended his international career in October 1973 with 64 caps and 41 goals.",
+            "Without him, results deteriorated further. Portugal missed Euro 1976 and narrowly failed to reach the 1978 World Cup after a decisive home defeat to Poland.",
+            "They also missed Euro 1980 and the 1982 World Cup. The drought finally ended when Portugal topped their Euro 1984 qualifying group."
+          ],
+          "images": [
+            "../assets/portugal/source/p067.webp",
+            "../assets/portugal/source/p068.webp",
+            "../assets/portugal/source/p069.webp"
+          ]
+        },
+        {
+          "heading": "Euro 1984",
+          "date": "1984",
+          "paragraphs": [
+            "Portugal advanced from a group with West Germany, Spain and Romania to face hosts France in Marseille. Jordão scored twice to put Portugal 2–1 ahead in extra time, but Domergue equalised and Michel Platini struck in the 119th minute for a 3–2 French win."
+          ],
+          "images": [
+            "../assets/portugal/source/p070.webp"
+          ]
+        },
+        {
+          "heading": "Mexico 1986 and the Saltillo Affair",
+          "date": "1986",
+          "paragraphs": [
+            "Portugal returned to the World Cup after Carlos Manuel’s famous qualifying winner in West Germany. They beat England 1–0 but defeats to Poland and Morocco sent them home.",
+            "The campaign was overshadowed by the Saltillo Affair. Players rebelled against the FPF over bonuses, image rights and poor conditions. After the group-stage exit, eight players were initially banned and the crisis helped force federation reforms."
+          ],
+          "images": [
+            "../assets/portugal/source/p071.webp",
+            "../assets/portugal/source/p072.webp"
+          ]
+        },
+        {
+          "heading": "The Golden Generation",
+          "date": "1989–1996",
+          "paragraphs": [
+            "Portugal won consecutive FIFA U-20 World Cups in 1989 and 1991 under Carlos Queiroz, producing Luís Figo, Rui Costa and João Pinto.",
+            "The senior team still missed Euro 1988, the 1990 World Cup, Euro 1992 and the 1994 World Cup. The Golden Generation finally qualified for Euro 1996 by topping its group.",
+            "Portugal won a group containing Croatia, Denmark and Türkiye before Karel Poborský’s famous lob gave Czechia a 1–0 quarter-final victory."
+          ],
+          "images": [
+            "../assets/portugal/source/p073.webp",
+            "../assets/portugal/source/p074.webp",
+            "../assets/portugal/source/p075.webp"
+          ]
+        },
+        {
+          "heading": "Euro 2000",
+          "date": "2000",
+          "paragraphs": [
+            "After missing France 1998 by one point, Portugal returned at Euro 2000. They came from 2–0 down to beat England 3–2, defeated Romania and Germany, then beat Türkiye 2–0 in the quarter-final.",
+            "France again stopped them. Zidane’s golden-goal penalty after Abel Xavier’s handball ended a bitter 2–1 semi-final."
+          ],
+          "images": [
+            "../assets/portugal/source/p076.webp"
+          ]
+        },
+        {
+          "heading": "World Cup 2002 disappointment",
+          "date": "2002",
+          "paragraphs": [
+            "Portugal qualified ahead of the Netherlands and Ireland, but the World Cup was a shock. They lost 3–2 to the United States, beat Poland 4–0, then lost 1–0 to co-hosts South Korea after João Pinto and Beto were sent off."
+          ],
+          "images": [
+            "../assets/portugal/source/p077.webp"
+          ]
+        },
+        {
+          "heading": "Euro 2004 at home",
+          "date": "2004",
+          "paragraphs": [
+            "Portugal lost the opener 2–1 to Greece, recovered to eliminate Russia and Spain, survived England on penalties and beat the Netherlands 2–1 in the semi-final. Cristiano Ronaldo, then 19, scored his first international goal in the opener.",
+            "Portugal’s first senior major final was against Greece again in Lisbon. Angelos Charisteas’ header gave Greece a 1–0 win and sent the Golden Generation home without a major senior trophy."
+          ],
+          "images": [
+            "../assets/portugal/source/p078.webp",
+            "../assets/portugal/source/p079.webp"
+          ]
+        },
+        {
+          "heading": "A permanent major-tournament nation",
+          "date": "From 2004",
+          "paragraphs": [
+            "Led increasingly by Cristiano Ronaldo, Portugal qualified for every subsequent major tournament in the source period. France 1998 therefore remains the last major competition they missed."
+          ],
+          "images": [
+            "../assets/portugal/source/p080.webp"
+          ]
+        },
+        {
+          "heading": "Germany 2006",
+          "date": "2006",
+          "paragraphs": [
+            "Portugal won all three group games, beat the Netherlands 1–0 in the chaotic Battle of Nuremberg and eliminated England on penalties. France again ended the run, Zidane’s penalty deciding the semi-final, before Germany beat Portugal to third place."
+          ],
+          "images": [
+            "../assets/portugal/source/p081.webp"
+          ]
+        },
+        {
+          "heading": "2008–2014",
+          "date": "2008–2014",
+          "paragraphs": [
+            "Portugal reached the Euro 2008 quarter-finals before losing to Germany. At the 2010 World Cup they conceded only once, in a round-of-16 defeat to eventual champions Spain, after a group stage featuring a 7–0 win over North Korea.",
+            "At Euro 2012, Portugal escaped a difficult group and reached the semi-final against Spain. It ended 0–0 after 120 minutes before Spain won the shootout 4–2.",
+            "Brazil 2014 ended in the group stage after a 4–0 defeat to Germany, a draw with the United States and a win over Ghana."
+          ],
+          "images": [
+            "../assets/portugal/source/p082.webp",
+            "../assets/portugal/source/p083.webp",
+            "../assets/portugal/source/p084.webp"
+          ]
+        },
+        {
+          "heading": "European champions",
+          "date": "2016",
+          "paragraphs": [
+            "Euro 2016 began with three group draws, sending Portugal through in third without a win. They then edged Croatia in extra time, Poland on penalties and Wales 2–0.",
+            "Cristiano Ronaldo was injured after 25 minutes of the final against hosts France. Portugal resisted until substitute Éder scored in the 109th minute. Ninety-five years after their first match, Portugal were European champions."
+          ],
+          "images": [
+            "../assets/portugal/source/p085.webp",
+            "../assets/portugal/source/p086.webp"
+          ]
+        },
+        {
+          "heading": "Confederations Cup and Russia 2018",
+          "date": "2017–2018",
+          "paragraphs": [
+            "Portugal finished third at the 2017 Confederations Cup. At Russia 2018, Ronaldo’s hat-trick rescued a 3–3 draw with Spain; victory over Morocco and a draw with Iran sent Portugal through before Uruguay won the round of 16 2–1."
+          ],
+          "images": [
+            "../assets/portugal/source/p087.webp"
+          ]
+        },
+        {
+          "heading": "First Nations League champions",
+          "date": "2019",
+          "paragraphs": [
+            "Portugal hosted the inaugural Nations League finals. Ronaldo scored a hat-trick against Switzerland in the semi-final and Gonçalo Guedes scored the only goal against the Netherlands in the final."
+          ],
+          "images": [
+            "../assets/portugal/source/p088.webp"
+          ]
+        },
+        {
+          "heading": "Euro 2020 and Nations League defence",
+          "date": "2020–2021",
+          "paragraphs": [
+            "At Euro 2020, played in 2021, Portugal escaped a difficult group but Belgium eliminated the holders 1–0 in the round of 16.",
+            "Portugal also failed to defend the Nations League title, finishing behind France in a group with Croatia and Sweden."
+          ],
+          "images": [
+            "../assets/portugal/source/p089.webp",
+            "../assets/portugal/source/p090.webp"
+          ]
+        },
+        {
+          "heading": "Qatar 2022",
+          "date": "2022",
+          "paragraphs": [
+            "Portugal topped a group with Ghana, Uruguay and South Korea. Fernando Santos then benched Ronaldo and Gonçalo Ramos scored a hat-trick in a 6–1 demolition of Switzerland. Morocco stunned Portugal 1–0 in the quarter-final, ending Santos’ eight-year reign."
+          ],
+          "images": [
+            "../assets/portugal/source/p091.webp"
+          ]
+        },
+        {
+          "heading": "Euro 2024",
+          "date": "2024",
+          "paragraphs": [
+            "Spain prevented Portugal from reaching the 2023 Nations League finals. At Euro 2024 Portugal beat Czechia and Türkiye before losing to Georgia, then survived Slovenia on penalties with Diogo Costa saving all three spot-kicks. France eliminated them in another quarter-final shootout."
+          ],
+          "images": [
+            "../assets/portugal/source/p092.webp"
+          ]
+        },
+        {
+          "heading": "Nations League champions again",
+          "date": "2025",
+          "paragraphs": [
+            "Portugal topped a Nations League group with Croatia, Scotland and Poland, overturned a first-leg defeat to Denmark in the quarter-finals and came from behind to beat hosts Germany 2–1.",
+            "Spain led twice in the final, but Nuno Mendes and Cristiano Ronaldo equalised. Diogo Costa saved Morata’s penalty and Portugal won the shootout 5–3, becoming the first nation to win the Nations League twice."
+          ],
+          "images": [
+            "../assets/portugal/source/p093.webp",
+            "../assets/portugal/source/p094.webp"
+          ]
+        },
+        {
+          "heading": "World Cup 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Portugal qualified only on the final matchday, thrashing Armenia 9–1. At the finals they drew DR Congo 1–1, beat Uzbekistan 5–0 and drew Colombia 0–0, advancing as Group K runners-up.",
+            "Against Uzbekistan, a 41-year-old Ronaldo scored twice to become the first player to score at six different World Cups. Portugal then came from behind to beat Croatia 2–1 in the round of 32.",
+            "Neighbours Spain ended the run 1–0 in the round of 16. The source finishes Ronaldo’s tournament on a world-record 233 caps and 146 goals."
+          ],
+          "images": [
+            "../assets/portugal/source/p095.webp",
+            "../assets/portugal/source/p096.webp",
+            "../assets/portugal/source/p097.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective 4-3-3",
+      "intro": "A 4-3-3 built around three generations: the 1966 pioneers, the Golden Generation and the side that finally turned Portuguese talent into trophies.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/portugal/source/p098.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Vítor Baía",
+            "years": "1990–2002",
+            "description": "Most frequently selected all-time Portuguese keeper in the source; dominant at Porto, briefly at Barcelona, and a commanding shot-stopper.",
+            "image": "../assets/portugal/source/p099.webp"
+          },
+          {
+            "position": "RB",
+            "name": "João Pinto",
+            "years": "1983–1996",
+            "description": "Porto captain and one of Europe’s finest right-backs of his era.",
+            "image": "../assets/portugal/source/p101.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Pepe",
+            "years": "2007–2024",
+            "description": "141 caps, ferocious competitiveness and extraordinary longevity; a defensive pillar of the Euro 2016 and Nations League-winning sides.",
+            "image": "../assets/portugal/source/p102.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Ricardo Carvalho",
+            "years": "2003–2016",
+            "description": "Elegant, fast-reading and technically superb; a key defender from Euro 2004 through the 2016 title.",
+            "image": "../assets/portugal/source/p103.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Fábio Coentrão",
+            "years": "2009–2017",
+            "description": "The source’s preferred pure left-back of the modern era: dynamic going forward and solid defensively.",
+            "image": "../assets/portugal/source/p104.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Mário Coluna",
+            "years": "1955–1968",
+            "description": "The commanding 'Sacred Monster' of Benfica and the 1966 side.",
+            "image": "../assets/portugal/source/p106.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Deco",
+            "years": "2003–2010",
+            "description": "Technique, rhythm and invention at the heart of the 2004–06 team.",
+            "image": "../assets/portugal/source/p107.webp"
+          },
+          {
+            "position": "AM",
+            "name": "Rui Costa",
+            "years": "1993–2004",
+            "description": "The elegant creative symbol of the Golden Generation.",
+            "image": "../assets/portugal/source/p108.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Luís Figo",
+            "years": "1991–2006",
+            "description": "127 caps, Ballon d’Or winner and leader of the Golden Generation.",
+            "image": "../assets/portugal/source/p109.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Eusébio",
+            "years": "1961–1973",
+            "description": "The Black Panther: 1966 Golden Boot and Portugal’s first global superstar.",
+            "image": "../assets/portugal/source/p109.webp"
+          },
+          {
+            "position": "LW",
+            "name": "Cristiano Ronaldo",
+            "years": "2003–",
+            "description": "233 caps, 146 goals in the source and the leader of Portugal’s trophy era.",
+            "image": "../assets/portugal/source/p109.webp"
+          }
+        ]
+      },
+      "closing": "Rui Patrício, Humberto Coelho, Hilário, Paulo Futre, Chalana, João Moutinho, Bernardo Silva, Bruno Fernandes and Vitinha are among the major omissions. Peyroteo, José Águas, Pauleta and Nuno Gomes make the forward choices especially brutal."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "National-team, individual and world landmarks",
+      "recordGroups": [
+        {
+          "title": "Match records",
+          "items": [
+            "First match: Spain 3–1 Portugal, 18 December 1921.",
+            "Biggest victory: Portugal 9–0 Luxembourg, Euro qualifier, 11 September 2023.",
+            "Heaviest defeat: Portugal 0–10 England, friendly, 25 May 1947.",
+            "Heaviest competitive defeat: Spain 9–0 Portugal, World Cup qualifier, 11 March 1934."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Cristiano Ronaldo, 233.",
+            "Most goals: Cristiano Ronaldo, 146.",
+            "World Cup goals: Ronaldo, 11.",
+            "EURO goals: Ronaldo, 14.",
+            "Most goals at one World Cup: Eusébio, 9 (1966).",
+            "Most Portuguese league goals: Fernando Peyroteo, 332."
+          ]
+        },
+        {
+          "title": "World records",
+          "items": [
+            "Cristiano Ronaldo holds the men’s international records for caps and goals in the source.",
+            "In 2026 he became the first man to score at six World Cups.",
+            "He also holds the EURO finals records for appearances (30) and goals (14) in the source."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/portugal/source/p110.webp",
+        "../assets/portugal/source/p111.webp",
+        "../assets/portugal/source/p112.webp",
+        "../assets/portugal/source/p113.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Jamor, the Big Three and Portugal’s quarry stadium",
+      "cards": [
+        {
+          "title": "Estádio Nacional",
+          "meta": "Jamor · opened 1944 · 37,593",
+          "text": "Built as Portugal’s national stadium and still the traditional Taça de Portugal final venue. Celtic supporters also revere Jamor as the site of their 1967 European Cup triumph.",
+          "images": [
+            "../assets/portugal/source/p114.webp",
+            "../assets/portugal/source/p115.webp"
+          ]
+        },
+        {
+          "title": "Estádio da Luz",
+          "meta": "Lisbon · Euro 2004 · about 68,100",
+          "text": "Benfica’s current home stands on the site of its gigantic predecessor, which once held around 120,000. The modern Catedral hosted the 2014 and 2020 Champions League finals and is Portugal’s largest 2030 venue in the source.",
+          "images": [
+            "../assets/portugal/source/p116.webp",
+            "../assets/portugal/source/p117.webp"
+          ]
+        },
+        {
+          "title": "Estádio do Dragão",
+          "meta": "Porto · opened 2003 · 50,033",
+          "text": "Built to replace the Antas, it hosted Euro 2004 and the 2019 Nations League final. Together with Luz and Alvalade, it is assigned 2030 World Cup matches.",
+          "images": [
+            "../assets/portugal/source/p118.webp",
+            "../assets/portugal/source/p119.webp"
+          ]
+        },
+        {
+          "title": "Estádio José Alvalade",
+          "meta": "Lisbon · opened 2003 · 50,095",
+          "text": "Sporting’s home hosted the Euro 2004 Portugal–Netherlands semi-final and the 2005 UEFA Cup final. Its inauguration also featured the performance that helped send Cristiano Ronaldo to Manchester United.",
+          "images": [
+            "../assets/portugal/source/p120.webp",
+            "../assets/portugal/source/p121.webp"
+          ]
+        },
+        {
+          "title": "Estádio do Bessa Século XXI",
+          "meta": "Porto · historic site from 1910 · 28,263",
+          "text": "Boavista’s Bessa site has hosted sport since 1910. The present stadium was rebuilt stand-by-stand on the same site for Euro 2004 while the club kept playing there.",
+          "images": [
+            "../assets/portugal/source/p122.webp",
+            "../assets/portugal/source/p123.webp"
+          ]
+        },
+        {
+          "title": "Estádio Municipal de Braga",
+          "meta": "Braga · A Pedreira · about 30,000",
+          "text": "Perhaps Portugal’s strangest elite ground. Built for Euro 2004 inside a disused granite quarry, it has only two lateral stands: one goal faces a sheer rock wall and the other opens toward the valley.",
+          "images": [
+            "../assets/portugal/source/p124.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Already qualified",
+      "host": {
+        "kicker": "Qualified host",
+        "headline": "Portugal is already qualified.",
+        "text": "Portugal is one of the hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured."
+      }
+    }
+  ]
+}
