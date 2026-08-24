@@ -586,8 +586,7 @@
           ],
           "images": [
             "../assets/portugal/source/p095.webp",
-            "../assets/portugal/source/p096.webp",
-            "../assets/portugal/source/p097.webp"
+            "../assets/portugal/source/p096.webp"
           ]
         }
       ]
@@ -600,84 +599,84 @@
       "intro": "A 4-3-3 built around three generations: the 1966 pioneers, the Golden Generation and the side that finally turned Portuguese talent into trophies.",
       "lineup": {
         "formation": "4-3-3",
-        "image": "../assets/portugal/source/p098.webp",
+        "image": "../assets/portugal/source/p097.webp",
         "players": [
           {
             "position": "GK",
             "name": "Vítor Baía",
             "years": "1990–2002",
             "description": "Most frequently selected all-time Portuguese keeper in the source; dominant at Porto, briefly at Barcelona, and a commanding shot-stopper.",
-            "image": "../assets/portugal/source/p099.webp"
+            "image": "../assets/portugal/source/p098.webp"
           },
           {
             "position": "RB",
             "name": "João Pinto",
             "years": "1983–1996",
             "description": "Porto captain and one of Europe’s finest right-backs of his era.",
-            "image": "../assets/portugal/source/p101.webp"
+            "image": "../assets/portugal/source/p099.webp"
           },
           {
             "position": "CB",
             "name": "Pepe",
             "years": "2007–2024",
             "description": "141 caps, ferocious competitiveness and extraordinary longevity; a defensive pillar of the Euro 2016 and Nations League-winning sides.",
-            "image": "../assets/portugal/source/p102.webp"
+            "image": "../assets/portugal/source/p100.webp"
           },
           {
             "position": "CB",
             "name": "Ricardo Carvalho",
             "years": "2003–2016",
             "description": "Elegant, fast-reading and technically superb; a key defender from Euro 2004 through the 2016 title.",
-            "image": "../assets/portugal/source/p103.webp"
+            "image": "../assets/portugal/source/p101.webp"
           },
           {
             "position": "LB",
             "name": "Fábio Coentrão",
             "years": "2009–2017",
             "description": "The source’s preferred pure left-back of the modern era: dynamic going forward and solid defensively.",
-            "image": "../assets/portugal/source/p104.webp"
+            "image": "../assets/portugal/source/p102.webp"
           },
           {
             "position": "CM",
             "name": "Mário Coluna",
             "years": "1955–1968",
             "description": "The commanding 'Sacred Monster' of Benfica and the 1966 side.",
-            "image": "../assets/portugal/source/p106.webp"
+            "image": "../assets/portugal/source/p103.webp"
           },
           {
             "position": "CM",
             "name": "Deco",
             "years": "2003–2010",
             "description": "Technique, rhythm and invention at the heart of the 2004–06 team.",
-            "image": "../assets/portugal/source/p107.webp"
+            "image": "../assets/portugal/source/p104.webp"
           },
           {
             "position": "AM",
             "name": "Rui Costa",
             "years": "1993–2004",
             "description": "The elegant creative symbol of the Golden Generation.",
-            "image": "../assets/portugal/source/p108.webp"
+            "image": "../assets/portugal/source/p105.webp"
           },
           {
             "position": "RW",
             "name": "Luís Figo",
             "years": "1991–2006",
             "description": "127 caps, Ballon d’Or winner and leader of the Golden Generation.",
-            "image": "../assets/portugal/source/p109.webp"
+            "image": "../assets/portugal/source/p106.webp"
           },
           {
             "position": "CF",
             "name": "Eusébio",
             "years": "1961–1973",
             "description": "The Black Panther: 1966 Golden Boot and Portugal’s first global superstar.",
-            "image": "../assets/portugal/source/p109.webp"
+            "image": "../assets/portugal/source/p107.webp"
           },
           {
             "position": "LW",
             "name": "Cristiano Ronaldo",
             "years": "2003–",
             "description": "233 caps, 146 goals in the source and the leader of Portugal’s trophy era.",
-            "image": "../assets/portugal/source/p109.webp"
+            "image": "../assets/portugal/source/p108.webp"
           }
         ]
       },
