@@ -285,14 +285,21 @@
             
             "../assets/portugal/source/p042.webp",
             "../assets/portugal/source/p043.webp",
-            "../assets/portugal/source/p044.webp",
-            "../assets/portugal/source/p045.webp"
+            "../assets/portugal/source/p044.webp"
           ]
         },
         {
           "title": "Lisbon and O Clássico",
           "meta": "The defining rivalries",
           "text": "Benfica–Sporting is Lisbon’s Derby Eterno. Benfica–Porto became O Clássico as Porto challenged Lisbon’s historical dominance, adding north–south and regional identity to the sporting rivalry.",
+          "images": [
+            "../assets/portugal/source/p045.webp"           
+          ]
+        },
+        {
+          "title": "Boavista, Belenenses, Braga & Vitória",
+          "meta": "The principal challengers",
+          "text": "Boavista and Belenenses are the only clubs outside the Big Three to win the league. Braga have become the most consistent modern challenger, while Minho rivals Vitória SC command one of the country’s strongest regional fanbases.",
           "images": [
             "../assets/portugal/source/p046.webp",
             "../assets/portugal/source/p047.webp",
@@ -301,22 +308,14 @@
           ]
         },
         {
-          "title": "Boavista, Belenenses, Braga & Vitória",
-          "meta": "The principal challengers",
-          "text": "Boavista and Belenenses are the only clubs outside the Big Three to win the league. Braga have become the most consistent modern challenger, while Minho rivals Vitória SC command one of the country’s strongest regional fanbases.",
-          "images": [
-            "../assets/portugal/source/p050.webp",
-            "../assets/portugal/source/p051.webp",
-            "../assets/portugal/source/p052.webp",
-            "../assets/portugal/source/p053.webp"
-          ]
-        },
-        {
           "title": "Other historic centres",
           "meta": "Coimbra, Setúbal and the islands",
           "text": "Académica carries Coimbra’s student identity; Vitória de Setúbal, Marítimo and Nacional represent other important historic centres. Portuguese club culture remains strongly local beneath the global Big Three.",
           "images": [
-            "../assets/portugal/source/p054.webp"
+             "../assets/portugal/source/p050.webp",
+            "../assets/portugal/source/p051.webp",
+            "../assets/portugal/source/p052.webp",
+            "../assets/portugal/source/p053.webp"
           ]
         }
       ]
@@ -335,6 +334,7 @@
             "At the 1928 Amsterdam Olympics, Portugal came from 2–0 down to beat Chile 4–2, then defeated the Kingdom of Serbs, Croats and Slovenes with a late goal before Egypt eliminated them 2–1 in the quarter-finals."
           ],
           "images": [
+            "../assets/portugal/source/p054.webp",
             "../assets/portugal/source/p055.webp",
             "../assets/portugal/source/p056.webp"
           ]
