@@ -719,9 +719,7 @@
       ],
       "images": [
         "../assets/portugal/source/p110.webp",
-        "../assets/portugal/source/p111.webp",
-        "../assets/portugal/source/p112.webp",
-        "../assets/portugal/source/p113.webp"
+        "../assets/portugal/source/p111.webp"
       ]
     },
     {
@@ -735,8 +733,8 @@
           "meta": "Jamor · opened 1944 · 37,593",
           "text": "Built as Portugal’s national stadium and still the traditional Taça de Portugal final venue. Celtic supporters also revere Jamor as the site of their 1967 European Cup triumph.",
           "images": [
-            "../assets/portugal/source/p114.webp",
-            "../assets/portugal/source/p115.webp"
+            "../assets/portugal/source/p112.webp",
+            "../assets/portugal/source/p113.webp"
           ]
         },
         {
@@ -744,8 +742,8 @@
           "meta": "Lisbon · Euro 2004 · about 68,100",
           "text": "Benfica’s current home stands on the site of its gigantic predecessor, which once held around 120,000. The modern Catedral hosted the 2014 and 2020 Champions League finals and is Portugal’s largest 2030 venue in the source.",
           "images": [
-            "../assets/portugal/source/p116.webp",
-            "../assets/portugal/source/p117.webp"
+            "../assets/portugal/source/p114.webp",
+            "../assets/portugal/source/p115.webp"
           ]
         },
         {
@@ -753,8 +751,8 @@
           "meta": "Porto · opened 2003 · 50,033",
           "text": "Built to replace the Antas, it hosted Euro 2004 and the 2019 Nations League final. Together with Luz and Alvalade, it is assigned 2030 World Cup matches.",
           "images": [
-            "../assets/portugal/source/p118.webp",
-            "../assets/portugal/source/p119.webp"
+            "../assets/portugal/source/p116.webp",
+            "../assets/portugal/source/p1117.webp"
           ]
         },
         {
@@ -762,8 +760,8 @@
           "meta": "Lisbon · opened 2003 · 50,095",
           "text": "Sporting’s home hosted the Euro 2004 Portugal–Netherlands semi-final and the 2005 UEFA Cup final. Its inauguration also featured the performance that helped send Cristiano Ronaldo to Manchester United.",
           "images": [
-            "../assets/portugal/source/p120.webp",
-            "../assets/portugal/source/p121.webp"
+            "../assets/portugal/source/p118.webp",
+            "../assets/portugal/source/p119.webp"
           ]
         },
         {
@@ -771,8 +769,8 @@
           "meta": "Porto · historic site from 1910 · 28,263",
           "text": "Boavista’s Bessa site has hosted sport since 1910. The present stadium was rebuilt stand-by-stand on the same site for Euro 2004 while the club kept playing there.",
           "images": [
-            "../assets/portugal/source/p122.webp",
-            "../assets/portugal/source/p123.webp"
+            "../assets/portugal/source/p120.webp",
+            "../assets/portugal/source/p121.webp"
           ]
         },
         {
@@ -780,7 +778,8 @@
           "meta": "Braga · A Pedreira · about 30,000",
           "text": "Perhaps Portugal’s strangest elite ground. Built for Euro 2004 inside a disused granite quarry, it has only two lateral stands: one goal faces a sheer rock wall and the other opens toward the valley.",
           "images": [
-            "../assets/portugal/source/p124.webp"
+            "../assets/portugal/source/p122.webp",
+            "../assets/portugal/source/p123.webp"
           ]
         }
       ]
@@ -794,6 +793,9 @@
         "kicker": "Qualified host",
         "headline": "Portugal is already qualified.",
         "text": "Portugal is one of the hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured."
+        "images": [
+            "../assets/portugal/source/p124.webp"
+          ]
       }
     }
   ]
