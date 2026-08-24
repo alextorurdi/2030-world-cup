@@ -793,9 +793,7 @@
         "kicker": "Qualified host",
         "headline": "Portugal is already qualified.",
         "text": "Portugal is one of the hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured.",
-        "images": [
-            "../assets/portugal/source/p124.webp"
-          ]
+        "images": "../assets/portugal/source/p124.webp"
       }
     }
   ]
