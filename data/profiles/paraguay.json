@@ -1,0 +1,624 @@
+{
+  "meta": {
+    "title": "Paraguay · The 211 Files",
+    "description": "Paraguay in The 211 Files: country, history, football origins, competitions, clubs, national team, historical XI, records, stadiums and the 2030 World Cup road.",
+    "source": {
+      "label": "Supplied Paraguay thread export",
+      "file": "Se ha pegado el markdown.md",
+      "selectedImageCount": 88
+    }
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#007",
+    "country": "Paraguay",
+    "flag": "🇵🇾",
+    "association": "Paraguayan Football Association / Asociación Paraguaya de Fútbol (APF)",
+    "founded": "1906",
+    "fifa": "1925",
+    "confederation": "CONMEBOL",
+    "status": "Centenary Host",
+    "statusClass": "qualified-host",
+    "worldCupAppearances": "9",
+    "bestRecords": [
+      "🏆 Copa América: 1953, 1979",
+      "🥈 Olympic Games: 2004"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/007.png",
+    "fallbackLogo": "../assets/paraguay/source/HQolVv0W8AADz4d.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A bilingual country divided by the Paraguay River",
+      "entries": [
+        {
+          "paragraphs": [
+            "Landlocked between Argentina, Brazil and Bolivia, Paraguay is divided by the Paraguay River between the populous eastern region and the vast Chaco. Home to 6.46 million people, it is officially bilingual in Spanish and Guaraní—the latter spoken throughout society."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQolrl3WkAA0iCD.webp",
+            "../assets/paraguay/source/HQomZd-WIAA-0kz.webp",
+            "../assets/paraguay/source/HQomhgZWgAE7495.webp",
+            "../assets/paraguay/source/HQonHkAWAAAnilF.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "War, dictatorship and democracy",
+      "entries": [
+        {
+          "heading": "Independence and the Triple Alliance",
+          "date": "1811–1870",
+          "paragraphs": [
+            "Paraguay broke from Spanish rule in 1811 and developed as an unusually isolated state under José Gaspar Rodríguez de Francia and the López family.",
+            "That first national cycle ended catastrophically in the War of the Triple Alliance against Argentina, Brazil and Uruguay. The country lost enormous numbers of people and territory and spent decades rebuilding."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQonfV8WcAA9T73.webp",
+            "../assets/paraguay/source/HQooV-9XQAA7REi.webp"
+          ]
+        },
+        {
+          "heading": "The Chaco War and Stroessner",
+          "date": "1932–1989",
+          "paragraphs": [
+            "Paraguay defeated Bolivia in the Chaco War and retained most of the disputed region, but at immense human cost.",
+            "In 1954 General Alfredo Stroessner seized power and built one of Latin America’s longest dictatorships."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQoo3I8WIAAKrgv.webp"
+          ]
+        },
+        {
+          "heading": "Democratic era",
+          "date": "From 1989",
+          "paragraphs": [
+            "Stroessner was overthrown in 1989 after 35 years. A 1992 constitution consolidated democracy. Fernando Lugo’s 2008 victory ended 61 years of uninterrupted Colorado rule; after his 2012 impeachment, the Colorados returned to the presidency from 2013."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQoqkl5XoAAIYDM.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Questioning the hero myth and tracing the institutions that built Paraguayan football",
+      "entries": [
+        {
+          "heading": "The William Paats story under scrutiny",
+          "date": "Late 19th century",
+          "paragraphs": [
+            "Paraguay’s standard football story credits Dutchman William Paats with introducing the game, teaching it at the Escuela Normal and founding Olimpia. An older tradition places a first match at Borja in 1886 between supposed British railwaymen and locals.",
+            "The supplied thread questions both neat origin stories: railway dates do not fit comfortably and surviving British press in Paraguay records cricket but not football.",
+            "It instead identifies Paraná–Plata commerce and Argentina’s educational network as more plausible transmission routes."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpNJrNWoAA9xsU.webp",
+            "../assets/paraguay/source/HQpOm1sXEAAtVpO.webp",
+            "../assets/paraguay/source/HQpQIU0XMAAE118.webp"
+          ]
+        },
+        {
+          "heading": "Escuela Normal and the first documented exhibition",
+          "date": "1890s–1903",
+          "paragraphs": [
+            "The Escuela Normal, where the first recorded football activity appears, was founded by Argentine educators in the 1890s. Football was already widespread in Argentina.",
+            "The first well-documented public exhibition came in Asunción in November 1901. Paats founded Club Olimpia on 25 July 1902 and Guaraní followed in 1903."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpREsfX0AATwku.webp",
+            "../assets/paraguay/source/HQpRlZ_XUAI27ut.webp"
+          ]
+        },
+        {
+          "heading": "The birth of the APF",
+          "date": "1906–1917",
+          "paragraphs": [
+            "On 18 June 1906, representatives of Olimpia, Guaraní, Nacional, Libertad and General Díaz de Asunción created the Liga Paraguaya de Football Association, direct ancestor of today’s APF.",
+            "The first championship began on 8 July 1906. Guaraní became the first champion and defended the title in 1907.",
+            "A dissident Liga Centenario operated from 1911 until its clubs were reintegrated in 1917."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpTUZvXYAAfCvx.webp",
+            "../assets/paraguay/source/HQpT1KpXcAAg61p.webp",
+            "../assets/paraguay/source/HQpVAKbWUAAa5Jm.webp"
+          ]
+        },
+        {
+          "heading": "Cerro Porteño and Sajonia",
+          "date": "1912–1920s",
+          "paragraphs": [
+            "Cerro Porteño was founded in working-class Barrio Obrero in 1912. Its red and blue colours symbolically combined Paraguay’s rival Colorado and Liberal political traditions.",
+            "The Liga built the Sajonia national ground in 1916–17. It opened on 4 November 1917 with Olimpia 0–1 Libertad and eventually became the Defensores del Chaco.",
+            "Olimpia’s growing rivalry with Cerro became the Superclásico that would dominate Paraguayan football."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpVdhTXIAATt-d.webp",
+            "../assets/paraguay/source/HQpWfrcW0AA8qAv.webp"
+          ]
+        },
+        {
+          "heading": "The professional era and Arsenio Erico",
+          "date": "1930s",
+          "paragraphs": [
+            "The Chaco War halted organised football. Competition resumed in 1935 with Cerro Porteño winning the championship generally regarded as the first of the professional era.",
+            "Nacional striker Arsenio Erico joined a Red Cross team touring Argentina and Uruguay to raise funds. Independiente signed him in 1933; he scored 295 league goals there and became Paraguay’s first global football icon."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpXMJSWQAAMe-Q.webp",
+            "../assets/paraguay/source/HQpXYHqWcAAxa_g.webp"
+          ]
+        },
+        {
+          "heading": "Breaking Asunción’s monopoly",
+          "date": "1951–1953",
+          "paragraphs": [
+            "Sportivo Luqueño became the first club from outside Asunción to win the league in 1951. Presidente Hayes followed in 1952 and Luqueño struck again in 1953."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpbY8eXUAACKe2.webp"
+          ]
+        },
+        {
+          "heading": "Olimpia goes continental",
+          "date": "1956–1979",
+          "paragraphs": [
+            "Olimpia won five consecutive championships from 1956 to 1960 and reached the inaugural Copa Libertadores final in 1960.",
+            "After a record six straight domestic championships from 1978 to 1983, Olimpia beat Boca Juniors in the 1979 Libertadores final and Malmö for the Intercontinental Cup. Paraguay’s national team also won Copa América that year."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpbzToXQAA55oA.webp",
+            "../assets/paraguay/source/HQpd3MfXwAAkLkg.webp"
+          ]
+        },
+        {
+          "heading": "Olimpia’s unique continental stature",
+          "date": "1990–2002",
+          "paragraphs": [
+            "Under Luis Cubilla, Olimpia conquered South America again in 1990 and added the Supercopa and Recopa.",
+            "A third Libertadores arrived in Olimpia’s centenary year, 2002."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpf4XJWYAAMWnv.webp",
+            "../assets/paraguay/source/HQpjo8OXMAAWrTd.webp"
+          ]
+        },
+        {
+          "heading": "Libertad’s rise and modern parity",
+          "date": "2000s–2020s",
+          "paragraphs": [
+            "Libertad’s 2002 league title began a sustained modern era of domestic championships and continental appearances.",
+            "Olimpia lost the 2013 Libertadores final on penalties and Nacional reached the 2014 final.",
+            "From 2008, Apertura and Clausura became separate official championships. The Copa Paraguay later widened national participation and produced unexpected winners."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQpkGWXWIAADh7w.webp",
+            "../assets/paraguay/source/HQpkl3XXUAAfkez.webp",
+            "../assets/paraguay/source/HQppQDQW0AAMZjF.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "División de Honor, Intermedia and the national cup",
+      "cards": [
+        {
+          "title": "División de Honor",
+          "meta": "12 clubs · two champions each year",
+          "text": "Apertura and Clausura are each 22-round double round robins. The bottom two in the multi-season average table are relegated to División Intermedia.",
+          "images": [
+            "../assets/paraguay/source/HQppnc7WMAAwac_.webp"
+          ]
+        },
+        {
+          "title": "División Intermedia",
+          "meta": "The national convergence point",
+          "text": "The semi-professional second tier links APF-affiliated clubs from Asunción and its surroundings with the regional leagues of the interior.",
+          "images": [
+            "../assets/paraguay/source/HQqtu0vWUAAIP32.webp"
+          ]
+        },
+        {
+          "title": "Copa Paraguay",
+          "meta": "National knockout cup",
+          "text": "The great integrator. In the source, 74 clubs entered in 2026 from the national divisions plus all 17 departmental UFI champions. Ties are single-match knockouts.",
+          "images": [
+            "../assets/paraguay/source/HQquXMfXQAAjgVJ.webp"
+          ]
+        },
+        {
+          "title": "Supercopa Paraguay",
+          "meta": "One-match season finale",
+          "text": "The Copa Paraguay champion faces the league champion with the best annual points total.",
+          "images": [
+            "../assets/paraguay/source/HQqu1TfXwAErooG.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Superclásico, Libertad and Paraguay’s broader club culture",
+      "cards": [
+        {
+          "title": "Olimpia & Cerro Porteño",
+          "meta": "The Superclásico",
+          "text": "Olimpia bring the larger trophy cabinet and three Libertadores; Cerro answer with enormous popular support and a history of major continental campaigns.",
+          "images": [
+            "../assets/paraguay/source/HQqwDIkWkAAsX-u.webp",
+            "../assets/paraguay/source/HQqwDZdWcAAOQEK.webp"
+          ]
+        },
+        {
+          "title": "Libertad & Guaraní",
+          "meta": "Historic founders",
+          "text": "Libertad are the modern third power, while Guaraní remain the first national champions and one of Asunción’s foundational institutions.",
+          "images": [
+            "../assets/paraguay/source/HQqwhcYWcAEgiSU.webp",
+            "../assets/paraguay/source/HQqwhuiXQAA0g1v.webp"
+          ]
+        },
+        {
+          "title": "Nacional, Luqueño and beyond",
+          "meta": "Tradition outside the big three",
+          "text": "Nacional carry the prestige of Arsenio Erico and the 2014 Libertadores final. Sportivo Luqueño embody Luque’s football identity, while Sol de América, Trinidense, 2 de Mayo and others preserve strong neighbourhood or regional followings.",
+          "images": [
+            "../assets/paraguay/source/HQq5c5cWwAAvLH6.webp",
+            "../assets/paraguay/source/HQq5dNuWIAAA3MA.webp",
+            "../assets/paraguay/source/HQq5diIW4AEOzTS.webp",
+            "../assets/paraguay/source/HQq5d1HXAAAmfjV.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Two Copa Américas, a 2010 quarter-final and the return in 2026",
+      "entries": [
+        {
+          "heading": "The Albirroja begins",
+          "date": "1919–1930",
+          "paragraphs": [
+            "Paraguay played its first recognised full international in Asunción on 11 May 1919, losing 5–1 to Argentina. Two years later they achieved their first victory and entered the South American Championship.",
+            "Paraguay finished second in the brilliant 1929 Sudamericano campaign. At the 1930 World Cup they lost to the United States, beat Belgium and failed to advance."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQtSxqUW8AA_yvx.webp",
+            "../assets/paraguay/source/HQtoLeJW8AAGe_S.webp"
+          ]
+        },
+        {
+          "heading": "First continental title",
+          "date": "1953",
+          "paragraphs": [
+            "The 1953 Sudamericano was meant for Paraguay but moved to Peru. Paraguay beat Chile, Bolivia and Brazil, finished level with Brazil and won the playoff 3–2 to become South American champions."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQuiRaDXgAAjcqs.webp"
+          ]
+        },
+        {
+          "heading": "Sweden 1958",
+          "date": "1958",
+          "paragraphs": [
+            "Paraguay lost a wild opener 7–3 to France, beat Scotland 3–2 and drew Yugoslavia 3–3. Nine goals in three matches were not enough to advance."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQumRRRX0AEUsir.webp"
+          ]
+        },
+        {
+          "heading": "Copa América champions again",
+          "date": "1979",
+          "paragraphs": [
+            "Paraguay overcame Uruguay and Ecuador, then Brazil in the semi-finals. In the final they beat Chile 3–0 in Asunción, lost 1–0 in Santiago and drew the neutral playoff 0–0 after extra time. Aggregate advantage crowned Paraguay for a second time."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQvZtwRWIAAoIsL.webp"
+          ]
+        },
+        {
+          "heading": "Mexico 1986",
+          "date": "1986",
+          "paragraphs": [
+            "Paraguay returned to the World Cup after 28 years, beat Iraq and drew Mexico and Belgium to advance unbeaten. England won the round of 16 3–0."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQvc-v0WsAANYWr.webp"
+          ]
+        },
+        {
+          "heading": "The Chilavert generation",
+          "date": "1998",
+          "paragraphs": [
+            "Chilavert, Gamarra, Celso Ayala and Francisco Arce formed the spine of a golden generation. Paraguay finished second in qualifying and reached the round of 16 in France.",
+            "Hosts France needed 114 minutes to break them, Laurent Blanc scoring the first golden goal in World Cup history."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQwj12LXMAECkM8.webp",
+            "../assets/paraguay/source/HQwkB2dW8AAHWxK.webp"
+          ]
+        },
+        {
+          "heading": "Three straight World Cups and Olympic silver",
+          "date": "2002–2006",
+          "paragraphs": [
+            "Paraguay advanced from the 2002 group before Germany eliminated them 1–0 in the round of 16.",
+            "At Athens 2004, Paraguay reached the Olympic final and earned the first Olympic medal in the country’s history."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQwmZOzXoAAXQ6E.webp",
+            "../assets/paraguay/source/HQwm84tXYAAmYjL.webp"
+          ]
+        },
+        {
+          "heading": "South Africa 2010 — the peak",
+          "date": "2010",
+          "paragraphs": [
+            "Paraguay topped a World Cup group for the first time, then beat Japan on penalties to reach their first quarter-final.",
+            "Against Spain, both teams had penalties saved in a dramatic sequence before David Villa scored the only goal in the 83rd minute."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQwr6wTXIAAPOiJ.webp",
+            "../assets/paraguay/source/HQwsMRKWgAA7mE9.webp",
+            "../assets/paraguay/source/HQwsk25WcAECmDB.webp"
+          ]
+        },
+        {
+          "heading": "The strangest Copa América run",
+          "date": "2011–2015",
+          "paragraphs": [
+            "Paraguay reached the 2011 Copa América final without winning a match, drawing five times before Uruguay beat them 3–0.",
+            "They reached another semi-final in 2015 after eliminating Brazil on penalties, but Argentina won 6–1."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQwwdi1WgAAO7nc.webp",
+            "../assets/paraguay/source/HQwx1DyWkAAu9VD.webp"
+          ]
+        },
+        {
+          "heading": "Collapse and Alfaro’s turnaround",
+          "date": "2016–2025",
+          "paragraphs": [
+            "Paraguay missed the 2014, 2018 and 2022 World Cups. Copa América 2024 brought three defeats and another low point.",
+            "Gustavo Alfaro then restored the compact, combative identity of Paraguay’s best generations. A 0–0 draw with Ecuador on 4 September 2025 sealed qualification for 2026."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQw9XzmWsAAPNPg.webp",
+            "../assets/paraguay/source/HQw94mdXYAA9jBd.webp",
+            "../assets/paraguay/source/HQw-YMiXgAE4MBI.webp"
+          ]
+        },
+        {
+          "heading": "World Cup 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Paraguay recovered from a 4–1 opening loss to hosts USA by beating Türkiye 1–0 with ten men and drawing Australia 0–0, advancing as a best third-placed side.",
+            "They drew Germany 1–1 in the round of 32 and won the shootout 4–3, goalkeeper Orlando Gill saving twice.",
+            "France ended the run 1–0 in the round of 16 through a Kylian Mbappé penalty."
+          ],
+          "images": [
+            "../assets/paraguay/source/HQw_JKTXwAAwUd8.webp",
+            "../assets/paraguay/source/HQxAFWAXcAA7Orf.webp",
+            "../assets/paraguay/source/HQxAZytW0AAaBsb.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective 4-2-4",
+      "intro": "A 4-2-4 built around the defensive spine of the late-1990s golden generation, Romerito’s creativity and Paraguay’s greatest goalscorers.",
+      "lineup": {
+        "formation": "4-2-4",
+        "image": "../assets/paraguay/source/HQykRetX0AA9RAb.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "José Luis Chilavert",
+            "years": "1989–2003",
+            "description": "Goalkeeper, captain, free-kick taker and symbol of an era. He earned 74 caps and scored eight international goals.",
+            "image": "../assets/paraguay/source/HQykhfuWUAE4zg0.webp"
+          },
+          {
+            "position": "RB",
+            "name": "Francisco Arce",
+            "years": "1995–2004",
+            "description": "A precise crosser and dead-ball specialist, central to the 1998 and 2002 sides.",
+            "image": "../assets/paraguay/source/HQykuRFX0AAst2z.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Carlos Gamarra",
+            "years": "1993–2006",
+            "description": "Elegant, quick and almost impossibly clean in the tackle; Paraguay’s defensive reference for three World Cups.",
+            "image": "../assets/paraguay/source/HQykzxxXkAAn_AL.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Heriberto Herrera",
+            "years": "1953",
+            "description": "1953 Copa América winner and a dominant defender of his era.",
+            "image": "../assets/paraguay/source/HQyl92wXQAArKqa.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Juan Torales",
+            "years": "1979–1989",
+            "description": "1979 Copa América winner and a solid left-back who provided defensive stability.",
+            "image": "../assets/paraguay/source/HQymDMEWYAArteT.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Carlos Paredes",
+            "years": "1998–2008",
+            "description": "Strength, timing and leadership at the base.",
+            "image": "../assets/paraguay/source/HQymSYFXIAAiXa8.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Julio César Romero “Romerito”",
+            "years": "1979–1990",
+            "description": "1985 South American Footballer of the Year and the creative star of 1986.",
+            "image": "../assets/paraguay/source/HQynVBiWIAAK-UK.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Roque Santa Cruz",
+            "years": "1999–2016",
+            "description": "Record scorer in the supplied source, with 32 goals.",
+            "image": "../assets/paraguay/source/HQyn0nLXQAAA8rt.webp"
+          },
+          {
+            "position": "CF",
+            "name": "José Saturnino Cardozo",
+            "years": "1991–2006",
+            "description": "Twenty-five goals in 82 caps and one of Paraguay’s great penalty-box strikers.",
+            "image": "../assets/paraguay/source/HQyn8CgWkAAcEUo.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Arsenio Erico",
+            "years": "1933–1934",
+            "description": "Frequently named the greatest Paraguayan player ever and an Argentine-league scoring legend.",
+            "image": "../assets/paraguay/source/HQyo7YkWQAAEboa.webp"
+          },
+          {
+            "position": "LW/CF",
+            "name": "Delfín Benítez Cáceres",
+            "years": "1929–1933/46",
+            "description": "Boca Juniors legend and top foreign scorer; later a Racing top scorer.",
+            "image": "../assets/paraguay/source/HQypA5_XAAAOHyT.webp"
+          }
+        ]
+      },
+      "closing": "Justo Villar, Celso Ayala, Gustavo Gómez, Roberto Acuña, Saturnino Arrúa, Miguel Almirón and Nelson Haedo Valdez are among the painful omissions."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Match, individual and tournament landmarks",
+      "recordGroups": [
+        {
+          "title": "Match records",
+          "items": [
+            "First match: Paraguay 1–5 Argentina, 11 May 1919.",
+            "Biggest victories: 7–0 v Bolivia (1949) and 7–0 v Hong Kong (2010).",
+            "Heaviest defeat: Argentina 8–0 Paraguay, Copa América, 20 October 1926."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Paulo da Silva, 150.",
+            "Most goals: Roque Santa Cruz, 32.",
+            "Most World Cup appearances: Denis Caniza and Roque Santa Cruz, 12.",
+            "Most World Cup goals: Nelson Cuevas, 3.",
+            "Goalkeeper goals: José Luis Chilavert, 8."
+          ]
+        },
+        {
+          "title": "Tournament records",
+          "items": [
+            "Best World Cup: quarter-finals, 2010.",
+            "Copa América champions: 1953, 1979.",
+            "Olympic Games: silver medal, 2004.",
+            "2011 Copa América: runners-up without winning a match.",
+            "World Cups qualified: 9, including four consecutive editions from 1998 to 2010."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/paraguay/source/HQypub9WEAAVvIO.webp",
+        "../assets/paraguay/source/HQyqCQXWoAENRSf.webp",
+        "../assets/paraguay/source/HQyqpdwW4AAmisf.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Historic Asunción, a jungle ground and Olimpia’s 2030 redevelopment",
+      "cards": [
+        {
+          "title": "Defensores del Chaco",
+          "meta": "Asunción · opened 1917",
+          "text": "Built in 1916 and opened in 1917 as Estadio de Sajonia, Paraguay’s historic national ground staged the Paraguayan leg of the inaugural Libertadores final in 1960 and remains the Albirroja’s spiritual home.",
+          "images": [
+            "../assets/paraguay/source/HQyrGWcXoAAmamd.webp",
+            "../assets/paraguay/source/HQyrKkiXQAAJHXu.webp"
+          ]
+        },
+        {
+          "title": "General Pablo Rojas · La Nueva Olla",
+          "meta": "Cerro Porteño · rebuilt 2017 · about 45,000",
+          "text": "The original ground opened in 1970 and was comprehensively rebuilt in 2017. Its steep bowl in Barrio Obrero is Paraguay’s great modern club stadium.",
+          "images": [
+            "../assets/paraguay/source/HQyrfSnWcAAISUU.webp",
+            "../assets/paraguay/source/HQyrkDlXIAAoXgG.webp"
+          ]
+        },
+        {
+          "title": "La Huerta",
+          "meta": "Libertad · Las Mercedes",
+          "text": "The source describes Libertad’s home as arguably Paraguay’s oldest stadium still in active use. The club settled on the site shortly after its 1905 foundation and has rebuilt it several times.",
+          "images": [
+            "../assets/paraguay/source/HQyuGhYWQAAkMJn.webp",
+            "../assets/paraguay/source/HQyumooWgAA7Lqr.webp"
+          ]
+        },
+        {
+          "title": "Infierno Verde",
+          "meta": "Boquerón · Paraguayan Chaco",
+          "text": "A football ground surrounded by forest and extreme heat, nicknamed La Selva de Boquerón. The source gives 500 seats and around 2,000 standing places.",
+          "images": [
+            "../assets/paraguay/source/HQyxi3aXQAA-KEq.webp",
+            "../assets/paraguay/source/HQyxjWtX0AA6UNW.webp"
+          ]
+        },
+        {
+          "title": "Estadio Osvaldo Domínguez Dibb",
+          "meta": "Olimpia · redevelopment of Para Uno",
+          "text": "Olimpia’s traditional El Bosque/Para Uno/Manuel Ferreira is being rebuilt in the source as Estadio Osvaldo Domínguez Dibb for the 2030 World Cup.",
+          "images": [
+            "../assets/paraguay/source/HQy0OHNXkAAZKAX.webp",
+            "../assets/paraguay/source/HQy0RFrXgAEwGVs.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Already qualified",
+      "host": {
+        "kicker": "Centenary host",
+        "headline": "Paraguay is already qualified.",
+        "text": "Paraguay is one of the centenary hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured.",
+        "image": "../assets/paraguay/source/HQy0qs-XQAAvmC6.webp"
+      }
+    }
+  ]
+}
