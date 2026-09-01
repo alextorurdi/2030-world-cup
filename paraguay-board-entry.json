@@ -1,0 +1,11 @@
+{
+  "name": "Paraguay",
+  "associationName": "Paraguayan Football Association",
+  "code": "PAR",
+  "flag": "🇵🇾",
+  "confederation": "conmebol",
+  "status": "qualified-host",
+  "logo": "./assets/logos/conmebol/007.png",
+  "page": "./associations/paraguay.html",
+  "note": "Centenary host of the 2030 FIFA World Cup."
+}

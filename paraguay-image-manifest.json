@@ -1,0 +1,442 @@
+[
+  {
+    "key": "hero",
+    "source": "https://pbs.twimg.com/media/HQolVv0W8AADz4d.jpg",
+    "local": "assets/paraguay/source/HQolVv0W8AADz4d.webp"
+  },
+  {
+    "key": "country1",
+    "source": "https://pbs.twimg.com/media/HQolrl3WkAA0iCD.jpg",
+    "local": "assets/paraguay/source/HQolrl3WkAA0iCD.webp"
+  },
+  {
+    "key": "country2",
+    "source": "https://pbs.twimg.com/media/HQomZd-WIAA-0kz.jpg",
+    "local": "assets/paraguay/source/HQomZd-WIAA-0kz.webp"
+  },
+  {
+    "key": "country3",
+    "source": "https://pbs.twimg.com/media/HQomhgZWgAE7495.jpg",
+    "local": "assets/paraguay/source/HQomhgZWgAE7495.webp"
+  },
+  {
+    "key": "country4",
+    "source": "https://pbs.twimg.com/media/HQonHkAWAAAnilF.jpg",
+    "local": "assets/paraguay/source/HQonHkAWAAAnilF.webp"
+  },
+  {
+    "key": "history1",
+    "source": "https://pbs.twimg.com/media/HQonfV8WcAA9T73.png",
+    "local": "assets/paraguay/source/HQonfV8WcAA9T73.webp"
+  },
+  {
+    "key": "history2",
+    "source": "https://pbs.twimg.com/media/HQooV-9XQAA7REi.jpg",
+    "local": "assets/paraguay/source/HQooV-9XQAA7REi.webp"
+  },
+  {
+    "key": "history3",
+    "source": "https://pbs.twimg.com/media/HQoo3I8WIAAKrgv.png",
+    "local": "assets/paraguay/source/HQoo3I8WIAAKrgv.webp"
+  },
+  {
+    "key": "history4",
+    "source": "https://pbs.twimg.com/media/HQoqkl5XoAAIYDM.png",
+    "local": "assets/paraguay/source/HQoqkl5XoAAIYDM.webp"
+  },
+  {
+    "key": "origin1",
+    "source": "https://pbs.twimg.com/media/HQpNJrNWoAA9xsU.png",
+    "local": "assets/paraguay/source/HQpNJrNWoAA9xsU.webp"
+  },
+  {
+    "key": "origin2",
+    "source": "https://pbs.twimg.com/media/HQpOm1sXEAAtVpO.png",
+    "local": "assets/paraguay/source/HQpOm1sXEAAtVpO.webp"
+  },
+  {
+    "key": "origin3",
+    "source": "https://pbs.twimg.com/media/HQpQIU0XMAAE118.jpg",
+    "local": "assets/paraguay/source/HQpQIU0XMAAE118.webp"
+  },
+  {
+    "key": "origin4",
+    "source": "https://pbs.twimg.com/media/HQpREsfX0AATwku.png",
+    "local": "assets/paraguay/source/HQpREsfX0AATwku.webp"
+  },
+  {
+    "key": "origin5",
+    "source": "https://pbs.twimg.com/media/HQpRlZ_XUAI27ut.png",
+    "local": "assets/paraguay/source/HQpRlZ_XUAI27ut.webp"
+  },
+  {
+    "key": "origin6",
+    "source": "https://pbs.twimg.com/media/HQpTUZvXYAAfCvx.png",
+    "local": "assets/paraguay/source/HQpTUZvXYAAfCvx.webp"
+  },
+  {
+    "key": "origin7",
+    "source": "https://pbs.twimg.com/media/HQpT1KpXcAAg61p.png",
+    "local": "assets/paraguay/source/HQpT1KpXcAAg61p.webp"
+  },
+  {
+    "key": "origin8",
+    "source": "https://pbs.twimg.com/media/HQpVAKbWUAAa5Jm.png",
+    "local": "assets/paraguay/source/HQpVAKbWUAAa5Jm.webp"
+  },
+  {
+    "key": "origin9",
+    "source": "https://pbs.twimg.com/media/HQpVdhTXIAATt-d.png",
+    "local": "assets/paraguay/source/HQpVdhTXIAATt-d.webp"
+  },
+  {
+    "key": "sajonia",
+    "source": "https://pbs.twimg.com/media/HQpWfrcW0AA8qAv.png",
+    "local": "assets/paraguay/source/HQpWfrcW0AA8qAv.webp"
+  },
+  {
+    "key": "professional",
+    "source": "https://pbs.twimg.com/media/HQpXMJSWQAAMe-Q.jpg",
+    "local": "assets/paraguay/source/HQpXMJSWQAAMe-Q.webp"
+  },
+  {
+    "key": "erico",
+    "source": "https://pbs.twimg.com/media/HQpXYHqWcAAxa_g.jpg",
+    "local": "assets/paraguay/source/HQpXYHqWcAAxa_g.webp"
+  },
+  {
+    "key": "luqueno",
+    "source": "https://pbs.twimg.com/media/HQpbY8eXUAACKe2.jpg",
+    "local": "assets/paraguay/source/HQpbY8eXUAACKe2.webp"
+  },
+  {
+    "key": "olimpia1960",
+    "source": "https://pbs.twimg.com/media/HQpbzToXQAA55oA.png",
+    "local": "assets/paraguay/source/HQpbzToXQAA55oA.webp"
+  },
+  {
+    "key": "olimpia1979",
+    "source": "https://pbs.twimg.com/media/HQpd3MfXwAAkLkg.png",
+    "local": "assets/paraguay/source/HQpd3MfXwAAkLkg.webp"
+  },
+  {
+    "key": "olimpia1990",
+    "source": "https://pbs.twimg.com/media/HQpf4XJWYAAMWnv.jpg",
+    "local": "assets/paraguay/source/HQpf4XJWYAAMWnv.webp"
+  },
+  {
+    "key": "olimpia2002",
+    "source": "https://pbs.twimg.com/media/HQpjo8OXMAAWrTd.jpg",
+    "local": "assets/paraguay/source/HQpjo8OXMAAWrTd.webp"
+  },
+  {
+    "key": "libertad2002",
+    "source": "https://pbs.twimg.com/media/HQpkGWXWIAADh7w.jpg",
+    "local": "assets/paraguay/source/HQpkGWXWIAADh7w.webp"
+  },
+  {
+    "key": "libertadores_near",
+    "source": "https://pbs.twimg.com/media/HQpkl3XXUAAfkez.jpg",
+    "local": "assets/paraguay/source/HQpkl3XXUAAfkez.webp"
+  },
+  {
+    "key": "modernleague",
+    "source": "https://pbs.twimg.com/media/HQppQDQW0AAMZjF.jpg",
+    "local": "assets/paraguay/source/HQppQDQW0AAMZjF.webp"
+  },
+  {
+    "key": "league",
+    "source": "https://pbs.twimg.com/media/HQppnc7WMAAwac_.jpg",
+    "local": "assets/paraguay/source/HQppnc7WMAAwac_.webp"
+  },
+  {
+    "key": "intermedia",
+    "source": "https://pbs.twimg.com/media/HQqtu0vWUAAIP32.jpg",
+    "local": "assets/paraguay/source/HQqtu0vWUAAIP32.webp"
+  },
+  {
+    "key": "copaparaguay",
+    "source": "https://pbs.twimg.com/media/HQquXMfXQAAjgVJ.jpg",
+    "local": "assets/paraguay/source/HQquXMfXQAAjgVJ.webp"
+  },
+  {
+    "key": "supercopa",
+    "source": "https://pbs.twimg.com/media/HQqu1TfXwAErooG.jpg",
+    "local": "assets/paraguay/source/HQqu1TfXwAErooG.webp"
+  },
+  {
+    "key": "olimpia",
+    "source": "https://pbs.twimg.com/media/HQqwDIkWkAAsX-u.jpg",
+    "local": "assets/paraguay/source/HQqwDIkWkAAsX-u.webp"
+  },
+  {
+    "key": "cerro",
+    "source": "https://pbs.twimg.com/media/HQqwDZdWcAAOQEK.jpg",
+    "local": "assets/paraguay/source/HQqwDZdWcAAOQEK.webp"
+  },
+  {
+    "key": "libertad",
+    "source": "https://pbs.twimg.com/media/HQqwhcYWcAEgiSU.jpg",
+    "local": "assets/paraguay/source/HQqwhcYWcAEgiSU.webp"
+  },
+  {
+    "key": "guarani",
+    "source": "https://pbs.twimg.com/media/HQqwhuiXQAA0g1v.jpg",
+    "local": "assets/paraguay/source/HQqwhuiXQAA0g1v.webp"
+  },
+  {
+    "key": "nacional",
+    "source": "https://pbs.twimg.com/media/HQq5c5cWwAAvLH6.jpg",
+    "local": "assets/paraguay/source/HQq5c5cWwAAvLH6.webp"
+  },
+  {
+    "key": "luqueno2",
+    "source": "https://pbs.twimg.com/media/HQq5dNuWIAAA3MA.jpg",
+    "local": "assets/paraguay/source/HQq5dNuWIAAA3MA.webp"
+  },
+  {
+    "key": "sol",
+    "source": "https://pbs.twimg.com/media/HQq5diIW4AEOzTS.jpg",
+    "local": "assets/paraguay/source/HQq5diIW4AEOzTS.webp"
+  },
+  {
+    "key": "regional",
+    "source": "https://pbs.twimg.com/media/HQq5d1HXAAAmfjV.jpg",
+    "local": "assets/paraguay/source/HQq5d1HXAAAmfjV.webp"
+  },
+  {
+    "key": "nt1919",
+    "source": "https://pbs.twimg.com/media/HQtSxqUW8AA_yvx.jpg",
+    "local": "assets/paraguay/source/HQtSxqUW8AA_yvx.webp"
+  },
+  {
+    "key": "wc1930",
+    "source": "https://pbs.twimg.com/media/HQtoLeJW8AAGe_S.jpg",
+    "local": "assets/paraguay/source/HQtoLeJW8AAGe_S.webp"
+  },
+  {
+    "key": "copa1953",
+    "source": "https://pbs.twimg.com/media/HQuiRaDXgAAjcqs.jpg",
+    "local": "assets/paraguay/source/HQuiRaDXgAAjcqs.webp"
+  },
+  {
+    "key": "wc1958",
+    "source": "https://pbs.twimg.com/media/HQumRRRX0AEUsir.jpg",
+    "local": "assets/paraguay/source/HQumRRRX0AEUsir.webp"
+  },
+  {
+    "key": "copa1979",
+    "source": "https://pbs.twimg.com/media/HQvZtwRWIAAoIsL.jpg",
+    "local": "assets/paraguay/source/HQvZtwRWIAAoIsL.webp"
+  },
+  {
+    "key": "wc1986",
+    "source": "https://pbs.twimg.com/media/HQvc-v0WsAANYWr.jpg",
+    "local": "assets/paraguay/source/HQvc-v0WsAANYWr.webp"
+  },
+  {
+    "key": "wc1998",
+    "source": "https://pbs.twimg.com/media/HQwj12LXMAECkM8.jpg",
+    "local": "assets/paraguay/source/HQwj12LXMAECkM8.webp"
+  },
+  {
+    "key": "wc1998france",
+    "source": "https://pbs.twimg.com/media/HQwkB2dW8AAHWxK.jpg",
+    "local": "assets/paraguay/source/HQwkB2dW8AAHWxK.webp"
+  },
+  {
+    "key": "wc2002",
+    "source": "https://pbs.twimg.com/media/HQwmZOzXoAAXQ6E.jpg",
+    "local": "assets/paraguay/source/HQwmZOzXoAAXQ6E.webp"
+  },
+  {
+    "key": "olympics2004",
+    "source": "https://pbs.twimg.com/media/HQwm84tXYAAmYjL.jpg",
+    "local": "assets/paraguay/source/HQwm84tXYAAmYjL.webp"
+  },
+  {
+    "key": "wc2010",
+    "source": "https://pbs.twimg.com/media/HQwr6wTXIAAPOiJ.jpg",
+    "local": "assets/paraguay/source/HQwr6wTXIAAPOiJ.webp"
+  },
+  {
+    "key": "japan2010",
+    "source": "https://pbs.twimg.com/media/HQwsMRKWgAA7mE9.jpg",
+    "local": "assets/paraguay/source/HQwsMRKWgAA7mE9.webp"
+  },
+  {
+    "key": "spain2010",
+    "source": "https://pbs.twimg.com/media/HQwsk25WcAECmDB.jpg",
+    "local": "assets/paraguay/source/HQwsk25WcAECmDB.webp"
+  },
+  {
+    "key": "copa2011",
+    "source": "https://pbs.twimg.com/media/HQwwdi1WgAAO7nc.jpg",
+    "local": "assets/paraguay/source/HQwwdi1WgAAO7nc.webp"
+  },
+  {
+    "key": "copa2015",
+    "source": "https://pbs.twimg.com/media/HQwx1DyWkAAu9VD.jpg",
+    "local": "assets/paraguay/source/HQwx1DyWkAAu9VD.webp"
+  },
+  {
+    "key": "copa2024",
+    "source": "https://pbs.twimg.com/media/HQw9XzmWsAAPNPg.jpg",
+    "local": "assets/paraguay/source/HQw9XzmWsAAPNPg.webp"
+  },
+  {
+    "key": "alfaro",
+    "source": "https://pbs.twimg.com/media/HQw94mdXYAA9jBd.jpg",
+    "local": "assets/paraguay/source/HQw94mdXYAA9jBd.webp"
+  },
+  {
+    "key": "qualify2026",
+    "source": "https://pbs.twimg.com/media/HQw-YMiXgAE4MBI.jpg",
+    "local": "assets/paraguay/source/HQw-YMiXgAE4MBI.webp"
+  },
+  {
+    "key": "wc2026group",
+    "source": "https://pbs.twimg.com/media/HQw_JKTXwAAwUd8.jpg",
+    "local": "assets/paraguay/source/HQw_JKTXwAAwUd8.webp"
+  },
+  {
+    "key": "wc2026germany",
+    "source": "https://pbs.twimg.com/media/HQxAFWAXcAA7Orf.jpg",
+    "local": "assets/paraguay/source/HQxAFWAXcAA7Orf.webp"
+  },
+  {
+    "key": "wc2026france",
+    "source": "https://pbs.twimg.com/media/HQxAZytW0AAaBsb.jpg",
+    "local": "assets/paraguay/source/HQxAZytW0AAaBsb.webp"
+  },
+  {
+    "key": "formation",
+    "source": "https://pbs.twimg.com/media/HQykRetX0AA9RAb.jpg",
+    "local": "assets/paraguay/source/HQykRetX0AA9RAb.webp"
+  },
+  {
+    "key": "chilavert",
+    "source": "https://pbs.twimg.com/media/HQykhfuWUAE4zg0.jpg",
+    "local": "assets/paraguay/source/HQykhfuWUAE4zg0.webp"
+  },
+  {
+    "key": "arce",
+    "source": "https://pbs.twimg.com/media/HQykuRFX0AAst2z.png",
+    "local": "assets/paraguay/source/HQykuRFX0AAst2z.webp"
+  },
+  {
+    "key": "gamarra",
+    "source": "https://pbs.twimg.com/media/HQykzxxXkAAn_AL.png",
+    "local": "assets/paraguay/source/HQykzxxXkAAn_AL.webp"
+  },
+  {
+    "key": "herrera",
+    "source": "https://pbs.twimg.com/media/HQyl92wXQAArKqa.png",
+    "local": "assets/paraguay/source/HQyl92wXQAArKqa.webp"
+  },
+  {
+    "key": "torales",
+    "source": "https://pbs.twimg.com/media/HQymDMEWYAArteT.png",
+    "local": "assets/paraguay/source/HQymDMEWYAArteT.webp"
+  },
+  {
+    "key": "paredes",
+    "source": "https://pbs.twimg.com/media/HQymSYFXIAAiXa8.png",
+    "local": "assets/paraguay/source/HQymSYFXIAAiXa8.webp"
+  },
+  {
+    "key": "romerito",
+    "source": "https://pbs.twimg.com/media/HQynVBiWIAAK-UK.png",
+    "local": "assets/paraguay/source/HQynVBiWIAAK-UK.webp"
+  },
+  {
+    "key": "santacruz",
+    "source": "https://pbs.twimg.com/media/HQyn0nLXQAAA8rt.jpg",
+    "local": "assets/paraguay/source/HQyn0nLXQAAA8rt.webp"
+  },
+  {
+    "key": "cardozo",
+    "source": "https://pbs.twimg.com/media/HQyn8CgWkAAcEUo.png",
+    "local": "assets/paraguay/source/HQyn8CgWkAAcEUo.webp"
+  },
+  {
+    "key": "erico_xi",
+    "source": "https://pbs.twimg.com/media/HQyo7YkWQAAEboa.jpg",
+    "local": "assets/paraguay/source/HQyo7YkWQAAEboa.webp"
+  },
+  {
+    "key": "benitez",
+    "source": "https://pbs.twimg.com/media/HQypA5_XAAAOHyT.png",
+    "local": "assets/paraguay/source/HQypA5_XAAAOHyT.webp"
+  },
+  {
+    "key": "records1",
+    "source": "https://pbs.twimg.com/media/HQypub9WEAAVvIO.png",
+    "local": "assets/paraguay/source/HQypub9WEAAVvIO.webp"
+  },
+  {
+    "key": "records2",
+    "source": "https://pbs.twimg.com/media/HQyqCQXWoAENRSf.jpg",
+    "local": "assets/paraguay/source/HQyqCQXWoAENRSf.webp"
+  },
+  {
+    "key": "records3",
+    "source": "https://pbs.twimg.com/media/HQyqpdwW4AAmisf.jpg",
+    "local": "assets/paraguay/source/HQyqpdwW4AAmisf.webp"
+  },
+  {
+    "key": "defensores1",
+    "source": "https://pbs.twimg.com/media/HQyrGWcXoAAmamd.jpg",
+    "local": "assets/paraguay/source/HQyrGWcXoAAmamd.webp"
+  },
+  {
+    "key": "defensores2",
+    "source": "https://pbs.twimg.com/media/HQyrKkiXQAAJHXu.jpg",
+    "local": "assets/paraguay/source/HQyrKkiXQAAJHXu.webp"
+  },
+  {
+    "key": "olla1",
+    "source": "https://pbs.twimg.com/media/HQyrfSnWcAAISUU.png",
+    "local": "assets/paraguay/source/HQyrfSnWcAAISUU.webp"
+  },
+  {
+    "key": "olla2",
+    "source": "https://pbs.twimg.com/media/HQyrkDlXIAAoXgG.png",
+    "local": "assets/paraguay/source/HQyrkDlXIAAoXgG.webp"
+  },
+  {
+    "key": "huerta1",
+    "source": "https://pbs.twimg.com/media/HQyuGhYWQAAkMJn.jpg",
+    "local": "assets/paraguay/source/HQyuGhYWQAAkMJn.webp"
+  },
+  {
+    "key": "huerta2",
+    "source": "https://pbs.twimg.com/media/HQyumooWgAA7Lqr.jpg",
+    "local": "assets/paraguay/source/HQyumooWgAA7Lqr.webp"
+  },
+  {
+    "key": "infierno1",
+    "source": "https://pbs.twimg.com/media/HQyxi3aXQAA-KEq.png",
+    "local": "assets/paraguay/source/HQyxi3aXQAA-KEq.webp"
+  },
+  {
+    "key": "infierno2",
+    "source": "https://pbs.twimg.com/media/HQyxjWtX0AA6UNW.png",
+    "local": "assets/paraguay/source/HQyxjWtX0AA6UNW.webp"
+  },
+  {
+    "key": "olimpia_stadium1",
+    "source": "https://pbs.twimg.com/media/HQy0OHNXkAAZKAX.jpg",
+    "local": "assets/paraguay/source/HQy0OHNXkAAZKAX.webp"
+  },
+  {
+    "key": "olimpia_stadium2",
+    "source": "https://pbs.twimg.com/media/HQy0RFrXgAEwGVs.jpg",
+    "local": "assets/paraguay/source/HQy0RFrXgAEwGVs.webp"
+  },
+  {
+    "key": "road",
+    "source": "https://pbs.twimg.com/media/HQy0qs-XQAAvmC6.png",
+    "local": "assets/paraguay/source/HQy0qs-XQAAvmC6.webp"
+  }
+]
