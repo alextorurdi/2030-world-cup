@@ -1322,8 +1322,9 @@
           "flag": "🇺🇾",
           "confederation": "conmebol",
           "status": "qualified-host",
-          "logo": "",
-          "note": "One of the six hosts of the 2030 FIFA World Cup."
+          "logo": "./assets/logos/conmebol/008.png",
+          "page": "./associations/uruguay.html",
+          "note": "Centenary host of the 2030 FIFA World Cup."
         },
         {
           "name": "Bolivia",
