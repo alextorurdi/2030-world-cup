@@ -1,0 +1,841 @@
+{
+  "meta": {
+    "title": "Uruguay · The 211 Files",
+    "description": "Uruguay in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the 2030 World Cup road.",
+    "source": {
+      "label": "Supplied Uruguay thread export",
+      "file": "Uruguay.docx",
+      "imageCount": 147
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 147 direct X-media links. The website profile references local WebP copies of those source images."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#008",
+    "country": "Uruguay",
+    "flag": "🇺🇾",
+    "association": "Uruguayan Football Association / Asociación Uruguaya de Fútbol (AUF)",
+    "founded": "1900",
+    "fifa": "1923",
+    "confederation": "CONMEBOL",
+    "status": "Centenary Host",
+    "statusClass": "qualified-host",
+    "worldCupAppearances": "15",
+    "bestRecords": [
+      "🏆 FIFA World Cup: 1930, 1950",
+      "🏆 Copa América: 15 titles",
+      "🥇 Olympic football: 1924, 1928"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/008.png",
+    "fallbackLogo": "../assets/uruguay/source/u001.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A small Río de la Plata state with an enormous football footprint",
+      "entries": [
+        {
+          "paragraphs": [
+            "Wedged between Brazil and Argentina on the Río de la Plata, Uruguay is South America’s second-smallest sovereign state. Home to around 3.5 million people—almost half in Greater Montevideo—it has produced a football influence wildly disproportionate to its size."
+          ],
+          "images": [
+            "../assets/uruguay/source/u002.webp",
+            "../assets/uruguay/source/u003.webp",
+            "../assets/uruguay/source/u004.webp",
+            "../assets/uruguay/source/u005.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Artigas, the buffer state, civil war and democratic consolidation",
+      "entries": [
+        {
+          "heading": "From Artigas to independence",
+          "date": "1811–1830",
+          "paragraphs": [
+            "Uruguay’s national story grew from the struggle between Spain, Portugal/Brazil and Buenos Aires. José Artigas led an autonomous federal movement from 1811, but Portuguese forces occupied the territory and annexed it to Brazil as the Cisplatina Province.",
+            "The Thirty-Three Orientals revolted in 1825 and declared union with the United Provinces, triggering war with Brazil. British mediation produced the 1828 Preliminary Peace Convention and an independent buffer state; Uruguay’s first constitution followed in 1830."
+          ],
+          "images": [
+            "../assets/uruguay/source/u006.webp",
+            "../assets/uruguay/source/u007.webp"
+          ]
+        },
+        {
+          "heading": "Blancos, Colorados and the Guerra Grande",
+          "date": "1830s–1904",
+          "paragraphs": [
+            "The new country was soon divided by Blancos and Colorados. Their rivalry fuelled the Guerra Grande and repeated civil wars until the Colorado victory of 1904 finally consolidated central state authority—the same period in which organised football was taking root."
+          ],
+          "images": [
+            "../assets/uruguay/source/u008.webp"
+          ]
+        },
+        {
+          "heading": "Welfare democracy, dictatorship and return",
+          "date": "20th century",
+          "paragraphs": [
+            "Uruguay built one of Latin America’s strongest welfare democracies, but economic crisis and political violence culminated in the 1973 civic-military dictatorship.",
+            "Democratic government returned in 1985; since then power has alternated peacefully between the country’s major political blocs."
+          ],
+          "images": [
+            "../assets/uruguay/source/u009.webp",
+            "../assets/uruguay/source/u010.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "British clubs, criollo football, institutional splits and the rise of a continental power",
+      "entries": [
+        {
+          "heading": "British Montevideo",
+          "date": "1870s–1891",
+          "paragraphs": [
+            "Football reached Montevideo through its British community by the late 1870s. Pedro Campbell Towers later recalled games against British sailors in 1878, although the source notes that no contemporary record is known and even the nature of the football being played is disputed.",
+            "By 1881 matches involving Montevideo Cricket and Montevideo Rowing produced Uruguay’s first surviving football chronicle. British schools also helped spread the game: Henry Castle Ayre’s English High School had a Junior Cricket and Athletic Club practising football by 1884.",
+            "Albion emerged from that school world in 1891 under Henry Candid Lichtenberger and became the first club primarily devoted to football. The same year, British railway workers created the Central Uruguay Railway Cricket Club—CURCC—at Peñarol."
+          ],
+          "images": [
+            "../assets/uruguay/source/u011.webp",
+            "../assets/uruguay/source/u012.webp",
+            "../assets/uruguay/source/u013.webp",
+            "../assets/uruguay/source/u014.webp"
+          ]
+        },
+        {
+          "heading": "Nacional and the localisation of the game",
+          "date": "1899–1904",
+          "paragraphs": [
+            "Those first institutions were heavily foreign in composition. Nacional changed the picture: founded by local students in 1899, it presented itself as a criollo club for Uruguayans and rapidly became the sporting expression of football’s localisation.",
+            "On 30 March 1900, Albion, CURCC, Deutscher FK and Uruguay Athletic founded the Uruguay Association Football League, today’s AUF, on Lichtenberger’s initiative. CURCC won the inaugural championship; Nacional entered the following season.",
+            "The 1904 championship had to be abandoned during Uruguay’s last civil war. When competition resumed, Nacional and CURCC increasingly displaced the old British and German clubs."
+          ],
+          "images": [
+            "../assets/uruguay/source/u015.webp",
+            "../assets/uruguay/source/u016.webp",
+            "../assets/uruguay/source/u017.webp"
+          ]
+        },
+        {
+          "heading": "Wanderers, River Plate and the early working-class game",
+          "date": "1902–1914",
+          "paragraphs": [
+            "Disagreements at Albion over opportunities for younger players led the Sardeson brothers and a largely student group to found Montevideo Wanderers in 1902. Wanderers won the 1906 championship.",
+            "Several Río de la Plata competitions linked Uruguayan and Argentine clubs and helped create a dense cross-border football culture. In Uruguay, the Copa de Honor and Copa Competencia coexisted with the league until the 1930s.",
+            "River Plate FC emerged from working-class sides around Montevideo’s port in 1902, drawing dockworkers, newsboys and labourers. It reached Primera in 1907 and won the championship in 1908.",
+            "CURCC’s transformation into Peñarol remains Uruguay’s great football historiographical dispute. Peñarol treats itself as the railway club’s direct continuation from 1891; opponents argue a separate club emerged in 1913."
+          ],
+          "images": [
+            "../assets/uruguay/source/u018.webp",
+            "../assets/uruguay/source/u019.webp",
+            "../assets/uruguay/source/u020.webp",
+            "../assets/uruguay/source/u021.webp"
+          ]
+        },
+        {
+          "heading": "From plural competition to the two giants",
+          "date": "1909–1921",
+          "paragraphs": [
+            "River Plate broke the early monopoly with championships in 1910, 1913 and 1914, while Wanderers also challenged. From 1915, however, Nacional and Peñarol increasingly took command, with Nacional winning eight titles between 1915 and 1925."
+          ],
+          "images": [
+            "../assets/uruguay/source/u022.webp"
+          ]
+        },
+        {
+          "heading": "The AUF–FUF split",
+          "date": "1922–1927",
+          "paragraphs": [
+            "In 1922 Peñarol and Central defied the AUF by playing Racing and Independiente, clubs from Argentina’s dissident federation. Both were expelled and helped create the rival FUF, producing parallel championships and rival national teams.",
+            "President José Serrato arbitrated the conflict in 1925. Both organisations halted their championships and reunification followed through a provisional competition in 1926. A single AUF league returned in 1927, with Rampla Juniors crowned champions.",
+            "Rampla had been founded around the port in 1914 and moved to industrial Villa del Cerro in 1919, where frigorífico workers transformed it into one of Uruguay’s great working-class clubs."
+          ],
+          "images": [
+            "../assets/uruguay/source/u023.webp",
+            "../assets/uruguay/source/u024.webp",
+            "../assets/uruguay/source/u025.webp"
+          ]
+        },
+        {
+          "heading": "Professionalism and the Quinquenio de Oro",
+          "date": "1932–1949",
+          "paragraphs": [
+            "Professionalism was formally introduced in 1932, with Peñarol winning the first professional championship. For more than four decades, no club outside Nacional and Peñarol would win the professional league.",
+            "Nacional produced the first great professional dynasty with five straight championships from 1939 to 1943—the Quinquenio de Oro. The 1941 side completed the league with a perfect record.",
+            "Peñarol answered with the Máquina del 49 and then another dynasty from 1958 to 1962."
+          ],
+          "images": [
+            "../assets/uruguay/source/u026.webp",
+            "../assets/uruguay/source/u027.webp",
+            "../assets/uruguay/source/u028.webp"
+          ]
+        },
+        {
+          "heading": "Peñarol conquers South America and the world",
+          "date": "1960s",
+          "paragraphs": [
+            "Peñarol won the inaugural Copa Libertadores in 1960 and retained it in 1961, then beat Benfica to become Intercontinental champions. They conquered South America and the world again in 1966, with Alberto Spencer becoming the Libertadores’ all-time record scorer."
+          ],
+          "images": [
+            "../assets/uruguay/source/u029.webp"
+          ]
+        },
+        {
+          "heading": "Nacional’s redemption",
+          "date": "1971",
+          "paragraphs": [
+            "Nacional spent the 1960s repeatedly falling at the last hurdle, losing Libertadores finals in 1964, 1967 and 1969. Redemption arrived in 1971: Nacional beat Estudiantes in a playoff and then Panathinaikos to claim their first Libertadores and Intercontinental Cup."
+          ],
+          "images": [
+            "../assets/uruguay/source/u030.webp"
+          ]
+        },
+        {
+          "heading": "Defensor breaks the professional duopoly",
+          "date": "1976",
+          "paragraphs": [
+            "Defensor became the first professional-era champion outside Nacional and Peñarol in 1976, ending a 44-season monopoly.",
+            "The club had grown from informal teams of factory workers and neighbourhood youths in Punta Carretas and formally entered the Uruguayan League in 1913."
+          ],
+          "images": [
+            "../assets/uruguay/source/u031.webp",
+            "../assets/uruguay/source/u032.webp"
+          ]
+        },
+        {
+          "heading": "The final continental golden age",
+          "date": "1980–1988",
+          "paragraphs": [
+            "Nacional won the Libertadores and Intercontinental Cup again in 1980; Peñarol did the same in 1982 and added a fifth Libertadores in 1987; Nacional answered in 1988 with their third continental and world crowns."
+          ],
+          "images": [
+            "../assets/uruguay/source/u033.webp",
+            "../assets/uruguay/source/u034.webp"
+          ]
+        },
+        {
+          "heading": "The Quinquenio de los Chicos",
+          "date": "1984–1991",
+          "paragraphs": [
+            "The domestic field widened dramatically. Central Español won in 1984 immediately after promotion, Defensor in 1987, Danubio in 1988, Progreso in 1989, Bella Vista in 1990 and Defensor again in 1991.",
+            "Central grew from Palermo neighbourhood teams around the Cementerio Central; Danubio from schoolboys in working-class Curva de Maroñas; Progreso from La Teja’s worker and anarchist milieu; Bella Vista from neighbourhood youngsters around Bulevar Artigas and Agraciada."
+          ],
+          "images": [
+            "../assets/uruguay/source/u035.webp",
+            "../assets/uruguay/source/u036.webp",
+            "../assets/uruguay/source/u037.webp",
+            "../assets/uruguay/source/u038.webp",
+            "../assets/uruguay/source/u039.webp"
+          ]
+        },
+        {
+          "heading": "Apertura, Clausura and the 21st century",
+          "date": "1994–2016",
+          "paragraphs": [
+            "Nacional and especially Peñarol restored control after 1991, with Peñarol winning five straight league titles from 1993 to 1997. In 1994 the Campeonato shifted to an Apertura/Clausura system.",
+            "The AUF moved to a September–June calendar in 2005. Nacional then dominated much of the early 21st century, while Danubio and Defensor Sporting repeatedly showed that strong development systems could challenge the giants.",
+            "Continental power declined sharply. Peñarol reached the 2011 Libertadores final and the 2024 semi-final, but no Uruguayan club has won the competition since Nacional in 1988.",
+            "Outside Montevideo, OFI—founded in 1946—organised the Interior’s regional leagues. Plaza Colonia became a landmark outsider by winning the 2016 Clausura and 2021 Apertura."
+          ],
+          "images": [
+            "../assets/uruguay/source/u040.webp",
+            "../assets/uruguay/source/u041.webp",
+            "../assets/uruguay/source/u042.webp",
+            "../assets/uruguay/source/u043.webp",
+            "../assets/uruguay/source/u044.webp"
+          ]
+        },
+        {
+          "heading": "Back to the calendar year and new champions",
+          "date": "2017–2026",
+          "paragraphs": [
+            "In 2017 the AUF returned to the calendar year and inserted the Intermedio between Apertura and Clausura.",
+            "Liverpool broke through in 2023, defeating Peñarol to win their first Uruguayan championship. Nacional recovered the crown in 2025; in 2026 Racing won a historic Apertura and Peñarol took the Intermedio.",
+            "Liverpool had emerged from schoolboys at the Capuchin college in working-class Nuevo París, while Racing was founded by neighbourhood youngsters in Reducto and adopted green and white from local tramcars."
+          ],
+          "images": [
+            "../assets/uruguay/source/u045.webp",
+            "../assets/uruguay/source/u046.webp",
+            "../assets/uruguay/source/u047.webp",
+            "../assets/uruguay/source/u048.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Apertura, Intermedio, Clausura and two parallel pyramids",
+      "cards": [
+        {
+          "title": "Liga AUF Uruguaya",
+          "meta": "16 clubs · Apertura + Intermedio + Clausura",
+          "text": "Apertura and Clausura are separate 15-match round robins. Between them sits the Intermedio, with two groups of eight and a one-match final. Points from all three feed the Tabla Anual.",
+          "images": [
+            "../assets/uruguay/source/u049.webp",
+            "../assets/uruguay/source/u050.webp"
+          ]
+        },
+        {
+          "title": "How the champion is decided",
+          "meta": "Playoff structure",
+          "text": "The Uruguayan champion is decided through a playoff involving the Apertura and Clausura winners and the leader of the Tabla Anual, with shortcuts when the same club occupies more than one role. If one team wins both Apertura and Clausura, it becomes champion automatically.",
+          "images": [
+            "../assets/uruguay/source/u051.webp"
+          ]
+        },
+        {
+          "title": "AUF and OFI branches",
+          "meta": "Montevideo and the Interior",
+          "text": "Uruguay has two branches: clubs directly affiliated to the AUF, mostly from Montevideo, and the regional leagues of the Interior, organised through OFI.",
+          "images": [
+            "../assets/uruguay/source/u052.webp"
+          ]
+        },
+        {
+          "title": "Copa AUF Uruguay",
+          "meta": "Nationwide knockout cup · since 2022",
+          "text": "The cup created a genuine nationwide knockout tournament. The source’s 2026 edition contains 40 clubs: 30 from AUF divisions and 10 from OFI.",
+          "images": [
+            "../assets/uruguay/source/u053.webp"
+          ]
+        },
+        {
+          "title": "Supercopa Uruguaya",
+          "meta": "Uruguayan champion v Intermedio champion",
+          "text": "If one club wins both trophies, it meets the Intermedio runner-up.",
+          "images": [
+            "../assets/uruguay/source/u054.webp"
+          ]
+        },
+        {
+          "title": "Copa de la Liga AUF",
+          "meta": "New league cup",
+          "text": "The source describes a new single-knockout league cup for Primera División clubs, with Progreso as the current champion.",
+          "images": [
+            "../assets/uruguay/source/u055.webp"
+          ]
+        },
+        {
+          "title": "CONMEBOL qualification",
+          "meta": "4 Libertadores + 4 Sudamericana",
+          "text": "The source assigns Libertadores places to the Uruguayan champion, runner-up, Copa AUF winner and best remaining team in the Annual Table. Sudamericana places go to the Apertura, Intermedio and Clausura winners plus the best remaining Annual Table team.",
+          "images": [
+            "../assets/uruguay/source/u056.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Clásico, the development clubs and neighbourhood football",
+      "cards": [
+        {
+          "title": "Nacional & Peñarol",
+          "meta": "The great Clásico",
+          "text": "The two giants dominate Uruguayan club football. Their Clásico is older than most national leagues and divides a country far beyond Montevideo. Together they have won more than 100 recognised top-flight championships and eight Libertadores in the source.",
+          "images": [
+            "../assets/uruguay/source/u057.webp",
+            "../assets/uruguay/source/u058.webp"
+          ]
+        },
+        {
+          "title": "Defensor Sporting & Danubio",
+          "meta": "The strongest challengers",
+          "text": "Both have four professional league titles in the source and are celebrated for elite youth development. Liverpool joined the champions’ list in 2023, while Wanderers, Rampla Juniors, Progreso, Bella Vista and Central Español carry older championship traditions.",
+          "images": [
+            "../assets/uruguay/source/u059.webp",
+            "../assets/uruguay/source/u060.webp",
+            "../assets/uruguay/source/u061.webp",
+            "../assets/uruguay/source/u062.webp"
+          ]
+        },
+        {
+          "title": "A neighbourhood map",
+          "meta": "Montevideo and the Interior",
+          "text": "Uruguay’s club geography is intensely local: Cerro and Rampla divide Villa del Cerro; Wanderers belong to Prado; Liverpool to Belvedere; Defensor to Parque Rodó and Danubio to Jardines. Beyond Montevideo, clubs such as Plaza Colonia and Cerro Largo have reached Primera.",
+          "images": [
+            "../assets/uruguay/source/u063.webp",
+            "../assets/uruguay/source/u064.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Four stars, fifteen Copas América and a century of global influence",
+      "entries": [
+        {
+          "heading": "First internationals and the sky-blue shirt",
+          "date": "1902–1910",
+          "paragraphs": [
+            "La Celeste’s first FIFA-recognised international came on 20 July 1902 at Albion’s ground: Argentina won 6–0.",
+            "Uruguay’s first victory became foundational mythology. On 13 September 1903, CURCC refused to release players, so Nacional supplied the entire XI and Uruguay beat Argentina 3–2 in Buenos Aires.",
+            "On 15 August 1910 Uruguay wore sky blue for the first time at Liverpool’s Belvedere ground and beat Argentina 3–1. The colour honoured River Plate FC’s celebrated alternative shirt."
+          ],
+          "images": [
+            "../assets/uruguay/source/u065.webp",
+            "../assets/uruguay/source/u066.webp",
+            "../assets/uruguay/source/u067.webp",
+            "../assets/uruguay/source/u068.webp"
+          ]
+        },
+        {
+          "heading": "First continental champions",
+          "date": "1916–1923",
+          "paragraphs": [
+            "Uruguay won the inaugural South American Championship in 1916 and defended it at home in 1917. The country was also one of CONMEBOL’s four founding members.",
+            "Brazil stopped Uruguay in a marathon playoff in 1919. Uruguay returned to win in 1920, then captured the 1923 championship unbeaten using only AUF players during the domestic institutional split."
+          ],
+          "images": [
+            "../assets/uruguay/source/u069.webp",
+            "../assets/uruguay/source/u070.webp",
+            "../assets/uruguay/source/u071.webp",
+            "../assets/uruguay/source/u072.webp"
+          ]
+        },
+        {
+          "heading": "Paris 1924 — Europe meets La Celeste",
+          "date": "1924",
+          "paragraphs": [
+            "Uruguay crossed the Atlantic with little European reputation and used warm-up matches in Spain to help finance the trip.",
+            "At the Olympics they stunned Europe with speed, short passing and positional movement, beating Yugoslavia 7–0, the United States 3–0, France 5–1, the Netherlands 2–1 and Switzerland 3–0 in the final.",
+            "Uruguay were Olympic champions and, in the source’s framing, recognised by FIFA as football’s world champions."
+          ],
+          "images": [
+            "../assets/uruguay/source/u073.webp",
+            "../assets/uruguay/source/u074.webp"
+          ]
+        },
+        {
+          "heading": "Another Copa and Amsterdam gold",
+          "date": "1924–1928",
+          "paragraphs": [
+            "Uruguay won the 1924 South American Championship at home, skipped the 1925 edition during the AUF/FUF conflict and won again unbeaten in 1926.",
+            "A bitter 1927 defeat to Argentina set the stage for Amsterdam 1928. Uruguay beat the Netherlands, Germany and Italy before meeting Argentina in the final.",
+            "After a 1–1 draw, a replay was required three days later. Goals from Figueroa and Scarone gave Uruguay a 2–1 victory and a second straight Olympic gold."
+          ],
+          "images": [
+            "../assets/uruguay/source/u075.webp",
+            "../assets/uruguay/source/u076.webp",
+            "../assets/uruguay/source/u077.webp",
+            "../assets/uruguay/source/u078.webp"
+          ]
+        },
+        {
+          "heading": "The first World Cup",
+          "date": "1930",
+          "paragraphs": [
+            "The first World Cup coincided with the centenary of Uruguay’s constitution. The new Estadio Centenario opened during the tournament.",
+            "Uruguay beat Peru, Romania and Yugoslavia to reach another Río de la Plata final against Argentina. Trailing 2–1 at half-time, La Celeste surged back to win 4–2 before a packed Centenario."
+          ],
+          "images": [
+            "../assets/uruguay/source/u079.webp",
+            "../assets/uruguay/source/u080.webp",
+            "../assets/uruguay/source/u081.webp"
+          ]
+        },
+        {
+          "heading": "Absence from Europe and another continental title",
+          "date": "1934–1942",
+          "paragraphs": [
+            "Uruguay refused to defend the World Cup in Italy in 1934 and also skipped France 1938. At continental level they won the 1935 Sudamericano and returned to winning ways again in 1942, taking all six matches at home with a +19 goal difference."
+          ],
+          "images": [
+            "../assets/uruguay/source/u082.webp",
+            "../assets/uruguay/source/u083.webp",
+            "../assets/uruguay/source/u084.webp"
+          ]
+        },
+        {
+          "heading": "Brazil 1950 — the Maracanazo",
+          "date": "1950",
+          "paragraphs": [
+            "Few expected much from Uruguay. Withdrawals handed them direct qualification and left them in a two-team group with Bolivia, whom they beat 8–0.",
+            "In the final round Uruguay drew Spain and came from behind to beat Sweden. Brazil needed only a draw in the last match at the Maracanã.",
+            "Brazil scored first before nearly 174,000 official spectators, but Obdulio Varela slowed the restart and Uruguay refused to collapse. Schiaffino equalised and Ghiggia scored in the 79th minute: Brazil 1–2 Uruguay."
+          ],
+          "images": [
+            "../assets/uruguay/source/u085.webp",
+            "../assets/uruguay/source/u086.webp",
+            "../assets/uruguay/source/u087.webp"
+          ]
+        },
+        {
+          "heading": "Still among the world elite",
+          "date": "1953–1960",
+          "paragraphs": [
+            "At Switzerland 1954 Uruguay reached the semi-final without ever having lost a World Cup match. Hungary finally beat them 4–2 after extra time; Austria then won the bronze match.",
+            "Uruguay won another home Sudamericano in 1956 and a tenth title in the second 1959 edition, after missing the 1958 World Cup."
+          ],
+          "images": [
+            "../assets/uruguay/source/u088.webp",
+            "../assets/uruguay/source/u089.webp",
+            "../assets/uruguay/source/u090.webp",
+            "../assets/uruguay/source/u091.webp"
+          ]
+        },
+        {
+          "heading": "1960s resurgence",
+          "date": "1962–1967",
+          "paragraphs": [
+            "Uruguay returned to the World Cup in 1962 but exited a difficult group. They withdrew from the 1963 Sudamericano over playing in La Paz at altitude.",
+            "At England 1966 Uruguay reached the quarter-finals before a bitter 4–0 defeat to West Germany with two players sent off.",
+            "Back at home in 1967, Uruguay won the Sudamericano through a decisive final-match victory over Argentina."
+          ],
+          "images": [
+            "../assets/uruguay/source/u092.webp",
+            "../assets/uruguay/source/u093.webp",
+            "../assets/uruguay/source/u094.webp"
+          ]
+        },
+        {
+          "heading": "Mexico 1970 and a long World Cup downturn",
+          "date": "1970–1979",
+          "paragraphs": [
+            "Uruguay reached another World Cup semi-final in Mexico 1970 after Víctor Espárrago’s late extra-time goal eliminated the Soviet Union. Brazil won the semi-final and West Germany the bronze match.",
+            "The 1974 World Cup ended in the group stage, and Uruguay then missed both 1978 and 1982. In the new Copa América format, they fell in the 1975 semi-finals and were eliminated in the 1979 group."
+          ],
+          "images": [
+            "../assets/uruguay/source/u095.webp",
+            "../assets/uruguay/source/u096.webp",
+            "../assets/uruguay/source/u097.webp"
+          ]
+        },
+        {
+          "heading": "Mundialito and two more Copas",
+          "date": "1980–1987",
+          "paragraphs": [
+            "Uruguay celebrated the World Cup’s 50th anniversary by hosting the 1980–81 Mundialito and beating Brazil in the final.",
+            "La Celeste won the 1983 Copa América over two legs against Brazil, then retained the title in 1987 after entering directly at the semi-final stage."
+          ],
+          "images": [
+            "../assets/uruguay/source/u098.webp",
+            "../assets/uruguay/source/u099.webp",
+            "../assets/uruguay/source/u100.webp",
+            "../assets/uruguay/source/u101.webp"
+          ]
+        },
+        {
+          "heading": "World Cups of 1986 and 1990",
+          "date": "1986–1990",
+          "paragraphs": [
+            "Uruguay advanced from the 1986 group despite a 6–1 defeat to Denmark, but Argentina eliminated them in the round of 16.",
+            "Italia 1990 followed a similar pattern: Daniel Fonseca’s stoppage-time winner against South Korea secured qualification before hosts Italy won the round of 16."
+          ],
+          "images": [
+            "../assets/uruguay/source/u102.webp",
+            "../assets/uruguay/source/u103.webp",
+            "../assets/uruguay/source/u104.webp"
+          ]
+        },
+        {
+          "heading": "Home soil restores continental supremacy",
+          "date": "1991–1999",
+          "paragraphs": [
+            "Uruguay missed the 1994 World Cup and struggled at the 1993 Copa América, but hosting the 1995 tournament restored continental pride.",
+            "After an unbeaten run to the final, Uruguay drew Brazil 1–1 at the Centenario and won the shootout 5–3 for a 14th title.",
+            "Uruguay missed the 1998 World Cup but reached the 1999 Copa América final despite winning only one match in regulation time; Brazil won 3–0."
+          ],
+          "images": [
+            "../assets/uruguay/source/u105.webp",
+            "../assets/uruguay/source/u106.webp",
+            "../assets/uruguay/source/u107.webp"
+          ]
+        },
+        {
+          "heading": "2002, missed 2006 and the Tabárez process",
+          "date": "2001–2007",
+          "paragraphs": [
+            "Uruguay qualified for the 2002 World Cup through a playoff against Australia but went out in the group after an extraordinary 3–3 comeback against Senegal.",
+            "The 2004 and 2007 Copas América both ended with semi-final penalty defeats to Brazil.",
+            "Australia denied Uruguay a place at Germany 2006. Óscar Tabárez returned soon after and launched the long Proceso de Selecciones, integrating youth teams and rebuilding national-team standards."
+          ],
+          "images": [
+            "../assets/uruguay/source/u108.webp",
+            "../assets/uruguay/source/u109.webp",
+            "../assets/uruguay/source/u110.webp"
+          ]
+        },
+        {
+          "heading": "South Africa 2010",
+          "date": "2010",
+          "paragraphs": [
+            "Uruguay barely qualified through a playoff with Costa Rica, then topped a World Cup group with France, South Africa and Mexico and beat South Korea in the round of 16.",
+            "Against Ghana, Luis Suárez deliberately handled a goal-bound header in the 120th minute. Asamoah Gyan hit the resulting penalty against the bar; Uruguay won the shootout.",
+            "The Netherlands won the semi-final 3–2 and Germany the bronze match by the same score. Diego Forlán won the Golden Ball."
+          ],
+          "images": [
+            "../assets/uruguay/source/u111.webp",
+            "../assets/uruguay/source/u112.webp",
+            "../assets/uruguay/source/u113.webp"
+          ]
+        },
+        {
+          "heading": "A 15th Copa América",
+          "date": "2011",
+          "paragraphs": [
+            "One year later Uruguay conquered Argentina. They eliminated the hosts on penalties, beat Peru 2–0 and swept Paraguay aside 3–0 in the final. The 15th title put Uruguay alone atop the Copa América roll of honour at the time."
+          ],
+          "images": [
+            "../assets/uruguay/source/u114.webp"
+          ]
+        },
+        {
+          "heading": "Brazil 2014 to Russia 2018",
+          "date": "2014–2018",
+          "paragraphs": [
+            "At Brazil 2014 Uruguay recovered from defeat to Costa Rica by beating England and Italy, but Suárez’s bite on Giorgio Chiellini brought a long suspension. Colombia won the round of 16.",
+            "The 2015 and 2016 Copas América marked the fading of that generation. Uruguay nevertheless qualified for Russia 2018 as CONMEBOL runners-up.",
+            "At Russia 2018 Uruguay won all three group matches without conceding, beat Portugal 2–1 through two Cavani goals and lost 2–0 to eventual champions France in the quarter-final."
+          ],
+          "images": [
+            "../assets/uruguay/source/u115.webp",
+            "../assets/uruguay/source/u116.webp",
+            "../assets/uruguay/source/u117.webp"
+          ]
+        },
+        {
+          "heading": "Penalty heartbreak and Qatar disappointment",
+          "date": "2019–2022",
+          "paragraphs": [
+            "Peru eliminated Uruguay on penalties in the 2019 Copa América quarter-final and Colombia did the same in 2021.",
+            "Qatar 2022 ended in the group stage. Uruguay finished level with South Korea on points and goal difference but were eliminated on goals scored."
+          ],
+          "images": [
+            "../assets/uruguay/source/u118.webp",
+            "../assets/uruguay/source/u119.webp"
+          ]
+        },
+        {
+          "heading": "Bielsa rebuilds the side",
+          "date": "2023–2025",
+          "paragraphs": [
+            "Tabárez had left in 2021; after Diego Alonso completed Qatar qualification, Marcelo Bielsa took over in 2023. Uruguay beat Brazil in Montevideo and world champions Argentina in Buenos Aires during 2026 qualifying.",
+            "At Copa América 2024, Uruguay won all three group matches, eliminated Brazil on penalties, lost the semi-final to Colombia and beat Canada on penalties for third place.",
+            "A 3–0 win over Peru in September 2025 sealed qualification for the 2026 World Cup."
+          ],
+          "images": [
+            "../assets/uruguay/source/u120.webp",
+            "../assets/uruguay/source/u121.webp"
+          ]
+        },
+        {
+          "heading": "World Cup 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Uruguay drew 1–1 with Saudi Arabia and 2–2 with debutants Cabo Verde. Needing a result against Spain, they lost 1–0 to an Alex Baena goal. Two points meant third place in Group H and elimination before the knockouts."
+          ],
+          "images": [
+            "../assets/uruguay/source/u122.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An entirely subjective offensive 3-3-4",
+      "intro": "Old-school roles are adapted into an attacking 3-3-4 combining the Olympic pioneers, the Maracanazo generation and the strongest modern Celeste.",
+      "lineup": {
+        "formation": "3-3-4",
+        "image": "../assets/uruguay/source/u123.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Ladislao Mazurkiewicz",
+            "years": "1965–1974",
+            "description": "One of the great keepers of his era: agile, calm and superbly positioned. He starred at Mexico 1970.",
+            "image": "../assets/uruguay/source/u124.webp"
+          },
+          {
+            "position": "CB",
+            "name": "José Nasazzi",
+            "years": "1923–1936",
+            "description": "El Gran Mariscal: captain and leader of Uruguay’s first golden age.",
+            "image": "../assets/uruguay/source/u125.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Diego Godín",
+            "years": "2005–2022",
+            "description": "Record 161 caps in the source, elite positioning and captain of the modern revival.",
+            "image": "../assets/uruguay/source/u126.webp"
+          },
+          {
+            "position": "CB",
+            "name": "José Santamaría",
+            "years": "1952–1957",
+            "description": "Legendary Real Madrid defender and a pillar of the 1950s Celeste.",
+            "image": "../assets/uruguay/source/u127.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Obdulio Varela",
+            "years": "1939–1954",
+            "description": "The captain and psychological centre of the Maracanazo.",
+            "image": "../assets/uruguay/source/u128.webp"
+          },
+          {
+            "position": "CM",
+            "name": "José Leandro Andrade",
+            "years": "1923–1930",
+            "description": "La Maravilla Negra, a global star of the Olympic teams.",
+            "image": "../assets/uruguay/source/u129.webp"
+          },
+          {
+            "position": "AM",
+            "name": "Juan Alberto Schiaffino",
+            "years": "1946–1954",
+            "description": "Elegant creator and scorer of Uruguay’s equaliser in the 1950 final round decider.",
+            "image": "../assets/uruguay/source/u130.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Alcides Ghiggia",
+            "years": "1950–1952",
+            "description": "Scorer of the decisive Maracanazo goal and a scorer in every Uruguay match at the 1950 World Cup.",
+            "image": "../assets/uruguay/source/u131.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Héctor Scarone",
+            "years": "1917–1930",
+            "description": "The great inside-forward of Uruguay’s first world-conquering generation.",
+            "image": "../assets/uruguay/source/u132.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Luis Suárez",
+            "years": "2007–2024",
+            "description": "Record 69 goals in the source and a uniquely decisive competitor.",
+            "image": "../assets/uruguay/source/u133.webp"
+          },
+          {
+            "position": "LW",
+            "name": "Diego Forlán",
+            "years": "2002–2015",
+            "description": "2010 World Cup Golden Ball and the face of Uruguay’s modern rebirth.",
+            "image": "../assets/uruguay/source/u134.webp"
+          }
+        ]
+      },
+      "closing": "Máspoli, Muslera, Montero, Lugano, Gambetta, Francescoli, Pedro Rocha, Bengoechea, Petrone, Míguez and Cavani form a frightening bench. Francescoli’s omission is particularly painful."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "National-team, World Cup and Copa América landmarks",
+      "recordGroups": [
+        {
+          "title": "Match & individual records",
+          "items": [
+            "First FIFA-recognised match: Uruguay 0–6 Argentina, 20 July 1902.",
+            "Biggest victory: Uruguay 9–0 Bolivia, Copa América, 6 November 1927.",
+            "Heaviest defeat: Uruguay 0–6 Argentina, 20 July 1902.",
+            "Most caps: Diego Godín, 161.",
+            "Most goals: Luis Suárez, 69."
+          ]
+        },
+        {
+          "title": "World Cup records",
+          "items": [
+            "FIFA World Cup titles: 1930, 1950.",
+            "Olympic world titles in the source: 1924, 1928.",
+            "World Cup appearances: 15.",
+            "Most World Cup goals: Óscar Míguez, 8.",
+            "Most World Cup appearances by a player: Fernando Muslera, 19 after 2026."
+          ]
+        },
+        {
+          "title": "Copa América",
+          "items": [
+            "15 titles: 1916, 1917, 1920, 1923, 1924, 1926, 1935, 1942, 1956, 1959, 1967, 1983, 1987, 1995 and 2011.",
+            "The source notes that Uruguay won every edition it hosted outright through 1995 and did not lose a match in those home tournaments.",
+            "Uruguay remains the smallest country by population ever to become FIFA World Cup champion."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/uruguay/source/u135.webp",
+        "../assets/uruguay/source/u136.webp",
+        "../assets/uruguay/source/u137.webp",
+        "../assets/uruguay/source/u138.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Centenario, Parque Central, Peñarol’s new home and a cliffside classic",
+      "cards": [
+        {
+          "title": "Estadio Centenario",
+          "meta": "Montevideo · opened during the 1930 World Cup",
+          "text": "Built in barely nine months for the first World Cup, its name and tower commemorate the centenary of Uruguay’s first Constitution. It staged the first World Cup final and remains La Celeste’s spiritual home.",
+          "images": [
+            "../assets/uruguay/source/u139.webp",
+            "../assets/uruguay/source/u140.webp"
+          ]
+        },
+        {
+          "title": "Gran Parque Central",
+          "meta": "Nacional · opened 1900 · about 34,000",
+          "text": "Still on its original historic site. On 13 July 1930 it hosted USA 3–0 Belgium, one of the first two World Cup matches ever played, and remains one of the world’s oldest major grounds in regular use.",
+          "images": [
+            "../assets/uruguay/source/u141.webp",
+            "../assets/uruguay/source/u142.webp"
+          ]
+        },
+        {
+          "title": "Estadio Campeón del Siglo",
+          "meta": "Peñarol · opened 2016 · about 40,000",
+          "text": "Peñarol’s purpose-built modern home on Montevideo’s outskirts finally gave one of South America’s largest clubs a permanent stadium of its own.",
+          "images": [
+            "../assets/uruguay/source/u143.webp",
+            "../assets/uruguay/source/u144.webp"
+          ]
+        },
+        {
+          "title": "Estadio Olímpico",
+          "meta": "Rampla Juniors · Cerro · cliffside site since 1923",
+          "text": "Few grounds can match its scenery. Rampla’s small stands look across Montevideo Bay and the Río de la Plata. The rocky terrain that supporters helped clear inspired the nickname Los Picapiedras.",
+          "images": [
+            "../assets/uruguay/source/u145.webp",
+            "../assets/uruguay/source/u146.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Already qualified",
+      "host": {
+        "kicker": "Centenary host",
+        "headline": "Uruguay is already qualified.",
+        "text": "Uruguay is one of the centenary hosts of the 2030 FIFA World Cup and therefore begins The 211 Files with its place already secured.",
+        "image": "../assets/uruguay/source/u147.webp"
+      }
+    }
+  ]
+}
