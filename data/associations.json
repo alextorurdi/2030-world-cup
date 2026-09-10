@@ -1091,7 +1091,9 @@
           "flag": "🇨🇼",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/008.png",
+          "page": "./associations/curacao.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Dominica",
