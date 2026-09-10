@@ -1,0 +1,744 @@
+{
+  "meta": {
+    "title": "Curaçao · The 211 Files",
+    "description": "Curaçao in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Curaçao thread export",
+      "file": "Curaçao.docx",
+      "imageCount": 109
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 109 direct X-media links. The profile references local WebP copies of all of them."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#008",
+    "country": "Curaçao",
+    "flag": "🇨🇼",
+    "association": "Curaçao Football Federation / Federashon Futbòl Kòrsou (FFK)",
+    "founded": "1921",
+    "fifa": "1932",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "1",
+    "bestRecords": [
+      "FIFA World Cup: Group stage, 2026",
+      "🏆 Caribbean Cup: 2017",
+      "🥉 CONCACAF Championship: 1963, 1969 (Netherlands Antilles)"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/008.png",
+    "fallbackLogo": "../assets/curacao/source/c001.webp"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A Dutch Caribbean country just north of Venezuela",
+      "entries": [
+        {
+          "paragraphs": [
+            "Just 65 km north of Venezuela, Curaçao is a 444-km² Caribbean island and one of the four constituent countries of the Kingdom of the Netherlands. Home to about 158,000 people, its capital Willemstad mixes Dutch, Caribbean and Latin American influences."
+          ],
+          "images": [
+            "../assets/curacao/source/c002.webp",
+            "../assets/curacao/source/c003.webp",
+            "../assets/curacao/source/c004.webp",
+            "../assets/curacao/source/c005.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Colonial rule, oil, the Netherlands Antilles and autonomy",
+      "entries": [
+        {
+          "heading": "Spanish claim and Dutch conquest",
+          "date": "1499–1863",
+          "paragraphs": [
+            "Spain claimed Curaçao in 1499, but the Dutch West India Company seized it in 1634. Willemstad’s deep natural harbour made the island an important trading centre and a hub of the Atlantic slave trade. Slavery was abolished by the Netherlands in 1863."
+          ],
+          "images": [
+            "../assets/curacao/source/c006.webp"
+          ]
+        },
+        {
+          "heading": "The refinery transforms the island",
+          "date": "20th century",
+          "paragraphs": [
+            "After oil discoveries in Venezuela, Shell established a huge refinery at Willemstad in the 1910s. It became Curaçao’s economic engine and was strategically important to Allied fuel supply during World War II."
+          ],
+          "images": [
+            "../assets/curacao/source/c007.webp"
+          ]
+        },
+        {
+          "heading": "Netherlands Antilles and Trinta di Mei",
+          "date": "1954–1969",
+          "paragraphs": [
+            "In 1954 Curaçao became part of the self-governing Netherlands Antilles. Economic inequality and limited Afro-Curaçaoan political power fuelled tension, culminating in the Trinta di Mei uprising of 30 May 1969."
+          ],
+          "images": [
+            "../assets/curacao/source/c008.webp"
+          ]
+        },
+        {
+          "heading": "A country within the Kingdom",
+          "date": "1986–2010",
+          "paragraphs": [
+            "Aruba left the Netherlands Antilles in 1986. The remaining federation survived until 10 October 2010, when Curaçao and Sint Maarten became autonomous countries within the Kingdom while Bonaire, Saba and Sint Eustatius became Dutch public bodies."
+          ],
+          "images": [
+            "../assets/curacao/source/c009.webp"
+          ]
+        },
+        {
+          "heading": "Language and government today",
+          "paragraphs": [
+            "Curaçao governs its internal affairs while defence and foreign relations remain Kingdom matters. Dutch is official, but Papiamentu dominates everyday life; English is also official."
+          ],
+          "images": [
+            "../assets/curacao/source/c010.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Dutch connections, Catholic education and a century of changing federations",
+      "entries": [
+        {
+          "heading": "The game arrives",
+          "date": "Early 20th century",
+          "paragraphs": [
+            "Football arrived through Curaçao’s Dutch colonial connection—soldiers, sailors and Dutch-educated islanders—but Catholic Dutch friars were crucial in turning it into a mass sport through their educational system.",
+            "In 1909, CVV Republic became the island’s first known club. With no proper pitch, its first match against Dutch marines was played in the garden of Santa Famia church.",
+            "Football grounds were scarce. Friars, teachers and young players cleared rough plots themselves, helping the game spread through Willemstad’s neighbourhoods."
+          ],
+          "images": [
+            "../assets/curacao/source/c011.webp",
+            "../assets/curacao/source/c012.webp",
+            "../assets/curacao/source/c013.webp"
+          ]
+        },
+        {
+          "heading": "First championship and a difficult federation birth",
+          "date": "1913–1925",
+          "paragraphs": [
+            "The first island championship was staged in 1921 as an eight-club knockout. Sparta, already active by 1913, drew 0–0 with Juliana before winning the replay 2–1.",
+            "The federation’s exact birth is complicated. FFK dates the CVB to 23 May 1921, while the source’s press reconstruction places formal foundation on 2 November. It also notes evidence of a short-lived Republic/Sparta federation around 1913–15.",
+            "The C.V.B. collapsed in 1922 after a dispute involving Leonidas and Sparta, returned in 1923, dissolved again in 1925 over Juliana Sportpark and was subsequently re-founded."
+          ],
+          "images": [
+            "../assets/curacao/source/c014.webp",
+            "../assets/curacao/source/c015.webp",
+            "../assets/curacao/source/c016.webp"
+          ]
+        },
+        {
+          "heading": "Jong Holland and the early champions",
+          "date": "1919–1930s",
+          "paragraphs": [
+            "Curaçaose Rooms Katholieke Sport Vereniging Jong Holland was born in Catholic circles in 1919. The Trikolor became the island’s oldest surviving club and won championships in 1926, 1928, 1932, 1938 and 1940.",
+            "Now-extinct clubs also shaped the era: Shell-linked Sportclub Asiento won in 1929 and 1930; Surinamese-community VV Transvaal in 1933; and CVB founder Volharding in 1931.",
+            "Dutch Football Club went from bottom in 1926 to champion in 1927 before disappearing. Racing Club Curaçao won the 1937 title; its football section later folded although the multisport institution survived."
+          ],
+          "images": [
+            "../assets/curacao/source/c017.webp",
+            "../assets/curacao/source/c018.webp",
+            "../assets/curacao/source/c019.webp"
+          ]
+        },
+        {
+          "heading": "S.U.B.T. and the mid-century duopoly",
+          "date": "1925–1950s",
+          "paragraphs": [
+            "Trappers was founded in 1925 and merged with Bismarck as Sport Unie Bismarck Trappers. During World War II the German name was dropped in favour of Brion, producing today’s S.U.B.T.",
+            "Sport Unie Brion Trappers and Jong Holland dominated the 1940s and 1950s. S.U.B.T.—the Barikahel—collected ten titles before 1960, while Jong Holland won six in the same period.",
+            "Sportclub Independiente briefly broke their grip, winning the 1942/43 championship unbeaten."
+          ],
+          "images": [
+            "../assets/curacao/source/c020.webp",
+            "../assets/curacao/source/c021.webp",
+            "../assets/curacao/source/c022.webp"
+          ]
+        },
+        {
+          "heading": "The first Aruba–Curaçao federation attempt",
+          "date": "1941–1946",
+          "paragraphs": [
+            "Curaçao and Aruba created the N.A.V.B. in 1941, which attempted to inherit the C.V.B.’s FIFA place and organise an Antillean championship. FIFA later rejected the transfer and the N.A.V.B. folded in 1946."
+          ],
+          "images": [
+            "../assets/curacao/source/c023.webp"
+          ]
+        },
+        {
+          "heading": "NAVU and the Kopa Antiano",
+          "date": "1958–1980s",
+          "paragraphs": [
+            "After the political creation of the Netherlands Antilles, renewed football unification produced NAVU in 1958. The first Kopa Antiano followed in 1960 with two Curaçao clubs and two from Aruba.",
+            "Curaçao clubs won 44 of 46 editions. Jong Colombia of Boca Samí became the most successful with 11 titles; the club was founded in 1951 and took its name from Colombian flour sacks used to make its first shirts.",
+            "Sithoc won eight Kopa Antiano titles. Veendam completed a Curaçao/Kopa double in 1963, while Scherpenheuvel won the Antillean title in 1967.",
+            "Jong Colombia reached the CONCACAF Champions’ Cup final in 1967 and 1979. No Curaçao club has yet won CONCACAF’s principal club championship."
+          ],
+          "images": [
+            "../assets/curacao/source/c024.webp",
+            "../assets/curacao/source/c025.webp",
+            "../assets/curacao/source/c026.webp",
+            "../assets/curacao/source/c027.webp",
+            "../assets/curacao/source/c028.webp"
+          ]
+        },
+        {
+          "heading": "New challengers",
+          "date": "1970s–1980s",
+          "paragraphs": [
+            "From 1972 to 1984 only Jong Holland, Jong Colombia and S.U.B.T. won the Kopa. UNDEBA of Banda Abou broke through in 1985 and eventually won three Kopa Antiano titles.",
+            "Victory Boys, rooted in Zapateer/Santa Rosa, peaked in 1986 by winning the Kopa Antiano despite never becoming Curaçao champions."
+          ],
+          "images": [
+            "../assets/curacao/source/c029.webp",
+            "../assets/curacao/source/c030.webp"
+          ]
+        },
+        {
+          "heading": "Semi-professionalisation and the FFK name",
+          "date": "1974–1986",
+          "paragraphs": [
+            "Domestic organisation fractured again in 1974 when 20 clubs created a semi-professional federation. The dispute was settled and the first semi-professional Curaçao league began on 8 September that year.",
+            "In 1977 the Curaçaose Voetbal Bond adopted its Papiamentu name, Federashon Futbòl Kòrsou. When Aruba obtained Status Aparte in 1986, its federation left the Antillean structure."
+          ],
+          "images": [
+            "../assets/curacao/source/c031.webp",
+            "../assets/curacao/source/c032.webp"
+          ]
+        },
+        {
+          "heading": "Sithoc, Centro Barber and the Dutch-player strategy",
+          "date": "1990s–2000s",
+          "paragraphs": [
+            "Sithoc dominated the 1990s, including four consecutive titles. In the 2000s, a FIFA Goal project provided a development centre while Curaçao increasingly recruited eligible players developed in the Netherlands.",
+            "Centro Barber of Banda Abou exploded after 2000: five island titles in six seasons and seven consecutive Kopa Antiano crowns from 2002 to 2008."
+          ],
+          "images": [
+            "../assets/curacao/source/c033.webp",
+            "../assets/curacao/source/c034.webp"
+          ]
+        },
+        {
+          "heading": "Curaçao succeeds the Netherlands Antilles",
+          "date": "2010",
+          "paragraphs": [
+            "When the Netherlands Antilles dissolved politically in 2010, NAVU ceased to exist. FIFA recognised Curaçao as its sporting successor and FFK inherited the affiliation and activities."
+          ],
+          "images": [
+            "../assets/curacao/source/c035.webp"
+          ]
+        },
+        {
+          "heading": "Interrupted league, then a new champion",
+          "date": "2023–2026",
+          "paragraphs": [
+            "Domestic football struggled with small-market realities and interruptions. The 2023/24 championship was abandoned and 2024/25 was not held, but the league returned in 2025/26. Inter Willemstad then won their first top-flight title."
+          ],
+          "images": [
+            "../assets/curacao/source/c036.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Promé Divishon and the long Caribbean route to CONCACAF",
+      "cards": [
+        {
+          "title": "Promé Divishon",
+          "meta": "10 clubs · multi-stage championship",
+          "text": "The source describes an 18-match double round robin followed by Kaya 6, a single round robin for the top six, then Kaya 4 for the top four, with the top two meeting in the final.",
+          "images": [
+            "../assets/curacao/source/c037.webp"
+          ]
+        },
+        {
+          "title": "The national pyramid",
+          "meta": "Three levels",
+          "text": "Inter Willemstad beat Scherpenheuvel 1–0 in the 2026 final at Ergilio Hato Stadium. S.U.B.T. were relegated to Segundo Divishon; below that sits Terser Divishon.",
+          "images": [
+            "../assets/curacao/source/c038.webp"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "First continental step",
+          "text": "Curaçao’s champions enter the CFU Club Shield, CONCACAF’s competition for Caribbean leagues outside the professional Caribbean Cup. Its finalists progress into the Caribbean Cup.",
+          "images": [
+            "../assets/curacao/source/c039.webp"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "The CONCACAF route",
+          "text": "The Caribbean Cup sends its top three to the CONCACAF Champions Cup. No Curaçao club has completed that route since the Shield was introduced in 2018, although Jong Colombia reached the old continental final twice.",
+          "images": [
+            "../assets/curacao/source/c040.webp",
+            "../assets/curacao/source/c041.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Historic champions from Willemstad, Boca Samí and Banda Abou",
+      "cards": [
+        {
+          "title": "S.U.B.T.",
+          "meta": "18 Curaçao league titles",
+          "text": "Curaçao’s historic record champions. Founded in Willemstad’s Otrobanda area, they dominated several eras but were relegated in 2026.",
+          "images": [
+            "../assets/curacao/source/c042.webp"
+          ]
+        },
+        {
+          "title": "Jong Holland",
+          "meta": "17 titles",
+          "text": "Founded in 1919, the Trikolor are one of Curaçao’s great old institutions and supplied stars including Ergilio Hato.",
+          "images": [
+            "../assets/curacao/source/c043.webp"
+          ]
+        },
+        {
+          "title": "Jong Colombia and the next tier",
+          "meta": "11 titles · two CONCACAF finals",
+          "text": "Boca Samí’s Jong Colombia have special continental status after reaching the CONCACAF Champions’ Cup finals of 1967 and 1979. Sithoc, Centro Barber and Centro Dominguito form the next tier of historic winners.",
+          "images": [
+            "../assets/curacao/source/c044.webp",
+            "../assets/curacao/source/c045.webp",
+            "../assets/curacao/source/c046.webp",
+            "../assets/curacao/source/c047.webp"
+          ]
+        },
+        {
+          "title": "Inter Willemstad",
+          "meta": "First title: 2026",
+          "text": "Founded in 1939 by KLM workers excluded from Shell’s sports club, C.V.V. Willemstad later evolved into Inter Willemstad. After decades outside the old elite, they became champions in 2026.",
+          "images": [
+            "../assets/curacao/source/c048.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Curaçao, the Netherlands Antilles and one continuous FIFA lineage",
+      "entries": [
+        {
+          "heading": "Two names, one lineage",
+          "paragraphs": [
+            "Curaçao’s international history has two names but one FIFA lineage. The island first competed as Curaçao, supplied the core of the Netherlands Antilles from the 1940s to 2010, then returned to the Curaçao name after dissolution."
+          ],
+          "images": [
+            "../assets/curacao/source/c049.webp"
+          ]
+        },
+        {
+          "heading": "The earliest representative years",
+          "date": "1924–1941",
+          "paragraphs": [
+            "Curaçao’s alleged debut came in 1924, a 4–0 win over Aruba. The team toured Haiti in 1926 and regularly faced Jamaica, Suriname and Aruba, losing only twice before the end of 1935.",
+            "Curaçao helped found the CCCF in 1938 and finished third at its first championship in 1941, including a 9–1 win over Nicaragua."
+          ],
+          "images": [
+            "../assets/curacao/source/c050.webp",
+            "../assets/curacao/source/c051.webp"
+          ]
+        },
+        {
+          "heading": "Feyenoord, the Caribbean Games and Hato",
+          "date": "1946–1952",
+          "paragraphs": [
+            "For the CVB’s 25th anniversary in 1946, Curaçao hosted Aruba, Suriname, a Colombian side and Feyenoord—and beat them all. The 4–0 win over Feyenoord became a local legend and goalkeeper Ergilio Hato emerged as the great star.",
+            "Curaçao missed the 1943 and 1946 CCCF Championships amid wartime/post-war disruption and the failed NAVB federation project, but won bronze at the 1946 Caribbean Games and finished fourth at the 1948 CCCF.",
+            "At the 1950 Central American and Caribbean Games, Curaçao won gold. Hato—the Black Panther—became the symbol of the side.",
+            "They skipped the 1951 CCCF because of a polio outbreak in host Panama, then appeared at the 1952 Helsinki Olympics under the Netherlands Antilles flag, losing 2–1 to Türkiye."
+          ],
+          "images": [
+            "../assets/curacao/source/c052.webp",
+            "../assets/curacao/source/c053.webp",
+            "../assets/curacao/source/c054.webp",
+            "../assets/curacao/source/c055.webp"
+          ]
+        },
+        {
+          "heading": "The Antillean golden age",
+          "date": "1953–1961",
+          "paragraphs": [
+            "After another fourth place in 1953, the Netherlands Antilles were CCCF runners-up in 1955 and 1957 with just one defeat in each tournament. In 1960 they finished level with Costa Rica but lost the playoff.",
+            "The side also won bronze at the 1955 Pan American Games, silver at the 1959 Central American and Caribbean Games and gold three years later with a perfect 5–0 record."
+          ],
+          "images": [
+            "../assets/curacao/source/c056.webp",
+            "../assets/curacao/source/c057.webp"
+          ]
+        },
+        {
+          "heading": "First World Cup qualifying campaigns",
+          "date": "1958–1966",
+          "paragraphs": [
+            "The Netherlands Antilles entered World Cup qualifying for the first time ahead of 1958 but were eliminated by Costa Rica. In the 1962 cycle they overcame Suriname before finishing last in a final group with Mexico and Costa Rica. Jamaica eliminated them in the 1966 cycle."
+          ],
+          "images": [
+            "../assets/curacao/source/c058.webp"
+          ]
+        },
+        {
+          "heading": "CONCACAF bronze medals",
+          "date": "1963–1969",
+          "paragraphs": [
+            "At the inaugural CONCACAF Championship in 1963, the Netherlands Antilles beat Haiti, Jamaica, Honduras and Mexico and finished third behind Costa Rica and El Salvador.",
+            "After a poor 1967 campaign, they again took bronze at the 1969 CONCACAF Championship, finishing ahead of Mexico. It was the swan song of the golden generation."
+          ],
+          "images": [
+            "../assets/curacao/source/c059.webp",
+            "../assets/curacao/source/c060.webp",
+            "../assets/curacao/source/c061.webp"
+          ]
+        },
+        {
+          "heading": "Lean decades and talent leakage",
+          "date": "1970s–2000s",
+          "paragraphs": [
+            "The Netherlands Antilles never reached a World Cup and became increasingly peripheral in CONCACAF. Aruba’s 1986 departure further reduced the player pool.",
+            "A major problem was talent leakage to the Dutch system. Curaçao-born players often represented the Netherlands at youth level, and Vurnon Anita even reached the senior Oranje before later switching to Curaçao."
+          ],
+          "images": [
+            "../assets/curacao/source/c062.webp",
+            "../assets/curacao/source/c063.webp"
+          ]
+        },
+        {
+          "heading": "Caribbean Cup returns",
+          "date": "1989–1998",
+          "paragraphs": [
+            "The Netherlands Antilles qualified for the 1989 Caribbean Cup and finished only one point short of the final. They qualified unbeaten for the 1998 edition but finished last in their finals group."
+          ],
+          "images": [
+            "../assets/curacao/source/c064.webp",
+            "../assets/curacao/source/c065.webp"
+          ]
+        },
+        {
+          "heading": "The diaspora becomes the solution",
+          "date": "From 2003",
+          "paragraphs": [
+            "FFK/NAVU began actively recruiting Dutch-based players of Antillean descent rather than relying almost entirely on island football. That strategy laid the foundation for Curaçao’s modern rise.",
+            "After 2010 Curaçao entered qualifying under its own name. Patrick Kluivert became coach in 2015 and recruited players such as Cuco Martina, Leandro Bacuna and Eloy Room."
+          ],
+          "images": [
+            "../assets/curacao/source/c066.webp",
+            "../assets/curacao/source/c067.webp"
+          ]
+        },
+        {
+          "heading": "Caribbean champions",
+          "date": "2014–2017",
+          "paragraphs": [
+            "Curaçao qualified for the 2014 Caribbean Cup but lost all three finals matches. Three years later the Blue Wave returned, survived a demanding qualifying route and beat Martinique 2–1 in the semi-final.",
+            "In their first senior final, Curaçao beat Jamaica 2–1 with Elson Hooi scoring both goals. They completed the campaign 7–0–1 and won their first senior international trophy."
+          ],
+          "images": [
+            "../assets/curacao/source/c068.webp",
+            "../assets/curacao/source/c069.webp",
+            "../assets/curacao/source/c070.webp"
+          ]
+        },
+        {
+          "heading": "Gold Cup breakthrough",
+          "date": "2017–2019",
+          "paragraphs": [
+            "As Caribbean champions Curaçao debuted at the Gold Cup in 2017. They also earned a place in Nations League A through the 2019/20 qualifiers.",
+            "At the 2019 Gold Cup, Leandro Bacuna scored in a 1–0 win over Honduras—Curaçao’s first Gold Cup victory—and Juriën Gaari’s 93rd-minute goal against Jamaica sent them to the quarter-finals, where the United States won 1–0."
+          ],
+          "images": [
+            "../assets/curacao/source/c071.webp",
+            "../assets/curacao/source/c072.webp"
+          ]
+        },
+        {
+          "heading": "COVID interrupts the momentum",
+          "date": "2020–2021",
+          "paragraphs": [
+            "Curaçao finished second in their Nations League A group, but a COVID outbreak forced withdrawal from the 2021 Gold Cup. The source records 175 island deaths in 2021 and an 18.4% economic contraction in 2020 in the tourism-dependent economy."
+          ],
+          "images": [
+            "../assets/curacao/source/c073.webp"
+          ]
+        },
+        {
+          "heading": "Qatar cycle and Nations League instability",
+          "date": "2021–2024",
+          "paragraphs": [
+            "In Qatar 2022 qualifying, Curaçao topped their first-round group but lost 2–1 on aggregate to Panama. They stayed in Nations League A after finishing last in 2022/23 because there were no relegations, then were relegated in 2023/24."
+          ],
+          "images": [
+            "../assets/curacao/source/c074.webp",
+            "../assets/curacao/source/c075.webp"
+          ]
+        },
+        {
+          "heading": "Dick Advocaat and another promotion",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Dick Advocaat arrived in January 2024. Curaçao won promotion back to League A and qualified for the 2025 Gold Cup, drawing El Salvador and Canada before losing 2–1 to Honduras."
+          ],
+          "images": [
+            "../assets/curacao/source/c076.webp"
+          ]
+        },
+        {
+          "heading": "The 2026 qualifying miracle",
+          "date": "2025",
+          "paragraphs": [
+            "Curaçao swept the second qualifying round 4–0–0, scoring 15 goals. In the final round they drew Trinidad & Tobago away, beat Bermuda and Jamaica, then drew Trinidad again.",
+            "A 7–0 win away to Bermuda left one final task: avoid defeat in Jamaica. A tense 0–0 draw in Kingston completed an unbeaten 3–3–0 final round and sent Curaçao directly to the World Cup for the first time."
+          ],
+          "images": [
+            "../assets/curacao/source/c077.webp",
+            "../assets/curacao/source/c078.webp",
+            "../assets/curacao/source/c079.webp"
+          ]
+        },
+        {
+          "heading": "The smallest World Cup nation",
+          "date": "2026",
+          "paragraphs": [
+            "With roughly 158,000 inhabitants and only 444 km², Curaçao became the smallest country ever to qualify for a FIFA World Cup by both population and land area in the source.",
+            "The Netherlands connection was decisive: 25 of the 26 World Cup players were born in the Netherlands; Tahith Chong was the lone squad member born on the island. E muchanan tabata bek na kas."
+          ],
+          "images": [
+            "../assets/curacao/source/c080.webp",
+            "../assets/curacao/source/c081.webp",
+            "../assets/curacao/source/c082.webp",
+            "../assets/curacao/source/c083.webp"
+          ]
+        },
+        {
+          "heading": "World Cup debut",
+          "date": "2026",
+          "paragraphs": [
+            "Germany won Curaçao’s World Cup debut 7–1, but Livano Comenencia scored the island’s first World Cup goal.",
+            "Against Ecuador, Eloy Room led a superb defensive performance in a 0–0 draw, earning Curaçao’s first World Cup point.",
+            "Côte d’Ivoire won the final group match 2–0. Curaçao finished fourth in Group E with one point. The adventure lasted only three games—but simply reaching the stage had broken a century-old ceiling. E FUTURO TA BRIYANTE."
+          ],
+          "images": [
+            "../assets/curacao/source/c084.webp",
+            "../assets/curacao/source/c085.webp",
+            "../assets/curacao/source/c086.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "Curaçao and genuinely Curaçao-linked Netherlands Antilles players",
+      "intro": "FIFA treats FFK as successor to the Netherlands Antilles, so Antillean-era players are eligible—but the source restricts the XI to players genuinely tied to Curaçao.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/curacao/source/c087.webp",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Ergilio Hato",
+            "years": "1940s–1950s",
+            "description": "The Black Panther: star of the 1946 Netherlands tour, 1950 CAC Games gold and 1952 Olympics. Curaçao’s national stadium now carries his name.",
+            "image": "../assets/curacao/source/c088.webp"
+          },
+          {
+            "position": "RB",
+            "name": "Cuco Martina",
+            "years": "2011–",
+            "description": "Long-time captain and the first Curaçao international to score in the Premier League.",
+            "image": "../assets/curacao/source/c089.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Darryl Lachman",
+            "years": "2015–2022",
+            "description": "A calm, experienced centre-back and important part of the 2017 Caribbean Cup and 2019 Gold Cup sides.",
+            "image": "../assets/curacao/source/c090.webp"
+          },
+          {
+            "position": "CB",
+            "name": "Riechedly Bazoer",
+            "years": "2025–",
+            "description": "A versatile and powerful defender with extensive top-level experience in the Netherlands.",
+            "image": "../assets/curacao/source/c091.webp"
+          },
+          {
+            "position": "LB",
+            "name": "Pedro Koolman",
+            "years": "1955",
+            "description": "A historical standout from Curaçao’s 1950s golden generation.",
+            "image": "../assets/curacao/source/c092.webp"
+          },
+          {
+            "position": "DM",
+            "name": "Guillermo Giribaldie",
+            "years": "1946–1957",
+            "description": "A key figure across Curaçao’s 1946 bronze, 1950 gold and the 1952 Olympics.",
+            "image": "../assets/curacao/source/c093.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Leandro Bacuna",
+            "years": "2016–",
+            "description": "Captain and modern appearance record holder in the source.",
+            "image": "../assets/curacao/source/c094.webp"
+          },
+          {
+            "position": "CM",
+            "name": "Juninho Bacuna",
+            "years": "2019–",
+            "description": "Technique, goals and control in the modern midfield.",
+            "image": "../assets/curacao/source/c095.webp"
+          },
+          {
+            "position": "RW",
+            "name": "Elson Hooi",
+            "years": "2015–2024",
+            "description": "Scored both goals in the 2017 Caribbean Cup final.",
+            "image": "../assets/curacao/source/c096.webp"
+          },
+          {
+            "position": "CF",
+            "name": "Rangelo Janga",
+            "years": "2016–",
+            "description": "Curaçao’s modern record scorer in the source, with 21 goals.",
+            "image": "../assets/curacao/source/c097.webp"
+          },
+          {
+            "position": "LW",
+            "name": "Gevaro Nepomuceno",
+            "years": "2014–2024",
+            "description": "A constant creative threat through the 2017–19 breakthrough years.",
+            "image": "../assets/curacao/source/c098.webp"
+          }
+        ]
+      },
+      "closing": "Juriën Gaari, Pedro Matrona, Willys Heyliger, Ruben Brandborg, Eloy Room, Kenji Gorré, Gervane Kastaneer and Tahith Chong all have cases. The diaspora era simply produced far more documented football."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Representative, individual and World Cup landmarks",
+      "recordGroups": [
+        {
+          "title": "Match records",
+          "items": [
+            "Earliest recorded representative match: Aruba 0–4 Curaçao, 6 April 1924 (disputed).",
+            "Biggest win: Netherlands Antilles 15–0 Puerto Rico, CAC Games, 7 January 1959.",
+            "Earlier Curaçao record: 14–0 Puerto Rico, CAC Games, 15 December 1946."
+          ]
+        },
+        {
+          "title": "Heaviest defeats",
+          "items": [
+            "Netherlands 8–0 Netherlands Antilles, friendly, 5 September 1962.",
+            "Mexico 8–0 Netherlands Antilles, CONCACAF/WCQ, 8 December 1973.",
+            "Modern Curaçao: Germany 7–1 Curaçao, World Cup, 14 June 2026."
+          ]
+        },
+        {
+          "title": "Individual & world records",
+          "items": [
+            "Most modern caps: Leandro Bacuna, 74.",
+            "Modern top scorer: Rangelo Janga, 21.",
+            "First World Cup scorer: Livano Comenencia v Germany, 2026.",
+            "First World Cup clean sheet: Eloy Room v Ecuador, 2026.",
+            "Smallest World Cup qualifier in the source: about 158,000 people and 444 km².",
+            "Dick Advocaat became the oldest World Cup coach in the source: 78 years, 260 days."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/curacao/source/c099.webp",
+        "../assets/curacao/source/c100.webp",
+        "../assets/curacao/source/c101.webp",
+        "../assets/curacao/source/c102.webp"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "The national ground, a surviving golden-age venue and a pitch beside the Caribbean Sea",
+      "cards": [
+        {
+          "title": "Ergilio Hato Stadium / SDK",
+          "meta": "Willemstad · 10,000",
+          "text": "Curaçao’s largest ground and national-team home. Renovated in 2013, it carries the name of legendary goalkeeper Ergilio Hato and hosts the biggest FFK matches.",
+          "images": [
+            "../assets/curacao/source/c103.webp",
+            "../assets/curacao/source/c104.webp"
+          ]
+        },
+        {
+          "title": "Rif Stadion / Johnny Vrutaal Stadium",
+          "meta": "Willemstad waterfront · active by 1943",
+          "text": "Around 9,000 spectators packed the ground in 1946 to see Curaçao beat Feyenoord 4–0. Now used mainly for baseball, it survives as a physical link to the island’s football golden age.",
+          "images": [
+            "../assets/curacao/source/c105.webp",
+            "../assets/curacao/source/c106.webp"
+          ]
+        },
+        {
+          "title": "Rignaal “Jean” Francisca Stadium",
+          "meta": "Brievengat · 3,000",
+          "text": "FFK’s compact football centre has an artificial pitch and hosts domestic and regional matches. Renamed in 2021, it co-hosted the 2024 CFU Club Shield.",
+          "images": [
+            "../assets/curacao/source/c107.webp",
+            "../assets/curacao/source/c108.webp"
+          ]
+        },
+        {
+          "title": "Jong Colombia ground",
+          "meta": "Boka Sami / Sint Michiel",
+          "text": "The source’s most distinctive Curaçao pitch sits in the coastal village west of Willemstad. One side is only about 30 metres from the Caribbean Sea, with open views over the water.",
+          "images": [
+            "../assets/curacao/source/c109.webp"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Still eligible",
+      "entries": [
+        {
+          "heading": "Curaçao remains in the race",
+          "paragraphs": [
+            "CONCACAF qualifying begins in September 2027. According to the source, if Curaçao remain among the region’s top 13 teams in the FIFA Ranking, they will bypass Round One and enter directly into the Round Two group stage."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
