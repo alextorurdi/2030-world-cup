@@ -1,0 +1,731 @@
+{
+  "meta": {
+    "title": "Aruba · The 211 Files",
+    "description": "Aruba in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Aruba thread export",
+      "file": "Aruba.docx",
+      "imageCount": 95
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 95 direct X-media links. All local source images retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#010",
+    "country": "Aruba",
+    "flag": "🇦🇼",
+    "association": "Aruban Football Federation / Arubaanse Voetbal Bond (AVB)",
+    "founded": "1932",
+    "fifa": "1988",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🏆 FIFA Series Rwanda B: 2026",
+      "CCCF Championship: 5th, 1955"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/010.png",
+    "fallbackLogo": "../assets/aruba/source/HSRrvwuXoAAPRYO.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A small Dutch Caribbean country just off Venezuela",
+      "entries": [
+        {
+          "paragraphs": [
+            "Only 25 km north of Venezuela, Aruba is a 180-km² Caribbean island and an autonomous constituent country of the Kingdom of the Netherlands. Around 110,000 people live there; Dutch and Papiamento are official languages, with Spanish and English also widespread."
+          ],
+          "images": [
+            "../assets/aruba/source/HSRsRUoWAAAME3E.png",
+            "../assets/aruba/source/HSRsb4dWAAAY6yN.png",
+            "../assets/aruba/source/HSRsjMqXEAA8YT3.png",
+            "../assets/aruba/source/HSRs2_ZWAAALLtC.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Caquetío roots, Dutch rule, oil and Status Aparte",
+      "entries": [
+        {
+          "heading": "Caquetío Aruba and Spanish rule",
+          "date": "Before 1636",
+          "paragraphs": [
+            "Aruba’s first known inhabitants were Caquetío Arawaks with close links to today’s Venezuela. Spain claimed the island after Alonso de Ojeda’s 1499 voyage; many Caquetíos were deported in 1514, although some were later returned from the mainland."
+          ],
+          "images": [
+            "../assets/aruba/source/HSRtm5UXIAAgABC.jpg"
+          ]
+        },
+        {
+          "heading": "Dutch rule and the old island economy",
+          "date": "1636–1920s",
+          "paragraphs": [
+            "The Dutch West India Company seized Aruba from Spain in 1636. Apart from British occupation during the Napoleonic Wars, Dutch rule endured. Gold, phosphate and aloe shaped the 19th-century economy."
+          ],
+          "images": [
+            "../assets/aruba/source/HSRtzhRXoAApuEu.jpg"
+          ]
+        },
+        {
+          "heading": "Oil transforms Aruba",
+          "date": "1924–20th century",
+          "paragraphs": [
+            "Lago Oil opened in 1924 to refine Venezuelan crude and turned Aruba into an industrial hub. During World War II the refinery was strategically important to Allied aviation fuel and was attacked by a German submarine in 1942. Tourism later grew as oil employment declined."
+          ],
+          "images": [
+            "../assets/aruba/source/HSRuBUYXAAASauN.jpg"
+          ]
+        },
+        {
+          "heading": "Status Aparte",
+          "date": "1954–1994",
+          "paragraphs": [
+            "Aruba became part of the autonomous Netherlands Antilles in 1954. A long movement for separation culminated on 1 January 1986, when Status Aparte made Aruba a country of its own within the Kingdom. A planned route to full independence was dropped in 1994."
+          ],
+          "images": [
+            "../assets/aruba/source/HSRuZpcWgAAevri.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "A catalogue ball, oil-company football and the rise of Aruba’s great clubs",
+      "entries": [
+        {
+          "heading": "Gerard de Veer’s football",
+          "date": "1909",
+          "paragraphs": [
+            "Aruban football begins with a catalogue. In 1909 businessman Gerard de Veer saw a football advertised and ordered one for his sons Eddy and Geffy. That year pastor Gerrit Eybers and the De Veer brothers formed Aruba Voetbal Vereniging, the island’s first club.",
+            "The pioneers cleared a cactus-covered plot in Oranjestad and initially split AVV into red and blue sides because there was nobody else to play. Dutch teaching brothers later introduced football in schools."
+          ],
+          "images": [
+            "../assets/aruba/source/HSSJat0XUAAvULE.jpg",
+            "../assets/aruba/source/HSVM1RKXMAAO6jQ.jpg"
+          ]
+        },
+        {
+          "heading": "The first championship",
+          "date": "1921–1924",
+          "paragraphs": [
+            "Around 1920/21 an early football association appeared, although even the AVB no longer knows its name or officials. It organised Aruba’s first recorded championship in 1921, won by Wilhelmina.",
+            "Vitesse, founded the next year, became one of the 1920s’ most popular clubs. Aruba’s first recorded inter-island club match came in 1924 when Sparta of Curaçao visited Vitesse."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVOW3TWsAAbNpi.jpg",
+            "../assets/aruba/source/HSVPBBVWsAAqCD2.jpg"
+          ]
+        },
+        {
+          "heading": "Oil spreads the game",
+          "date": "1920s–1932",
+          "paragraphs": [
+            "Lago and other oil companies transformed the island. Workers, money and new settlements carried football beyond Oranjestad to Savaneta, Santa Cruz and Noord.",
+            "In April 1930 an Aruba selection travelled to Curaçao. A new Arubaanse Voetbal Bond formed that October under Dr Jacobo ‘Coco’ Arends. To secure land for its own sports park, the AVB was formally constituted on 29 January 1932—the date it uses today."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVR1pDXwAANc17.jpg"
+          ]
+        },
+        {
+          "heading": "Hollandia, Lago and an uncertain first AVB champion",
+          "date": "1920s–1931",
+          "paragraphs": [
+            "Several clubs appeared during the 1920s, including Hollandia in Oranjestad in 1923 and Lago FC, created by oil-company exploration workers around 1929.",
+            "The first AVB champion remains uncertain in the source: the federation’s own account names Hollandia, while contemporary press mentions Lago for 1930/31."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVUdzCXAAAbUDa.png"
+          ]
+        },
+        {
+          "heading": "Wilhelmina Sport Park and Aruba Juniors",
+          "date": "1932–1930s",
+          "paragraphs": [
+            "Wilhelmina Sport Park opened in 1933 with two visits from the Curaçao selection. Aruba Juniors became the first Aruban club to tour Curaçao, while sides from Bonaire, Suriname, Venezuela and Colombia visited Aruba during the decade.",
+            "SV Aruba Juniors had been founded in Socotoro on 5 February 1932 by neighbourhood friends led by Selin Fingal, who proposed the name after reading about Argentinos Juniors and Boca Juniors."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVWGqMXIAAz2lL.jpg",
+            "../assets/aruba/source/HSVWVTrXIAAH2Rf.jpg"
+          ]
+        },
+        {
+          "heading": "RCA — the first dynasty",
+          "date": "1934–1960",
+          "paragraphs": [
+            "Racing Club Aruba was founded in Solito/Oranjestad in 1934 from a team organised the year before by Emirto Reinhardt. It was first formally called A.B.C.—Aruba’s Beste Club.",
+            "The club adopted RCA in 1937. From 1938 to 1960 it won every championship except five: four went to Aruba Juniors and one to Hollandia."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVYjLuXMAErDp2.jpg",
+            "../assets/aruba/source/HSVdGTzW4AAWKN4.jpg"
+          ]
+        },
+        {
+          "heading": "NAVB, NAVU and the Kopa Antiano",
+          "date": "1941–1970",
+          "paragraphs": [
+            "Aruba and Curaçao created the N.A.V.B. in 1941, but the experiment ended in 1946. After the Netherlands Antilles were formed politically, the N.A.V.U. followed in 1958 and the first Kopa Antiano was staged in 1960.",
+            "Aruban clubs won only two editions. RCA became champions in 1965 after two dramatic matches against Scherpenheuvel; in 1970 Dakota and Estrella finished level at the top."
+          ],
+          "images": [
+            "../assets/aruba/source/HSVdNP8WAAAu1_S.png",
+            "../assets/aruba/source/HSV58wQW8AANJBr.png"
+          ]
+        },
+        {
+          "heading": "Dakota and Estrella",
+          "date": "1947–1980s",
+          "paragraphs": [
+            "SV Dakota, founded in the Oranjestad neighbourhood of Dakota in 1947, became RCA’s great domestic rival and won its first championship in 1961.",
+            "Estrella was born in Santa Cruz in 1948 as the football arm of the Catholic Sint Jozefbond youth association. From the 1960s through the 1970s, RCA, Dakota and Estrella shared almost all the major domestic honours."
+          ],
+          "images": [
+            "../assets/aruba/source/HSV9VFZXEAAqVO0.png",
+            "../assets/aruba/source/HSV_i8UXsAIC_wo.png",
+            "../assets/aruba/source/HSWAdbWXsAA86bz.png"
+          ]
+        },
+        {
+          "heading": "Status Aparte gives Aruba its own FIFA identity",
+          "date": "1986–1988",
+          "paragraphs": [
+            "Status Aparte changed the football map. Aruba left the Netherlands Antilles in 1986 and gained its own international identity; the AVB entered FIFA in 1988. From then on Aruban clubs competed solely for the Aruban championship and the national team could enter FIFA competitions."
+          ],
+          "images": [
+            "../assets/aruba/source/HSWjBNpW4AAYTQE.png"
+          ]
+        },
+        {
+          "heading": "The LIPROF breakaway",
+          "date": "1990",
+          "paragraphs": [
+            "RCA, La Fama, Bubali, Dakota and San Luis broke away into the dissident semi-professional LIPROF in 1990 over complaints against the AVB. RCA won the one-season competition, but the title is not official.",
+            "The split nevertheless altered the island’s football landscape. With traditional powers missing, the AVB promoted lower-division sides and two eventually became champions."
+          ],
+          "images": [
+            "../assets/aruba/source/HSWlfNMXkAAP2uU.png",
+            "../assets/aruba/source/HSZ7QzwXUAAz_Yf.jpg"
+          ]
+        },
+        {
+          "heading": "Riverplate and Deportivo Nacional",
+          "date": "1990s–2000",
+          "paragraphs": [
+            "Riverplate, founded in Madiki in 1953 and inspired by its Argentine namesake, won the Aruban title in 1993. Deportivo Nacional, born in Palm Beach in 1970, later completed its rise from the lower ranks by becoming champion in 2000."
+          ],
+          "images": [
+            "../assets/aruba/source/HSZ89iHXYAAsiGZ.jpg"
+          ]
+        },
+        {
+          "heading": "Britannia becomes a modern power",
+          "date": "2000s–2026",
+          "paragraphs": [
+            "SV Britannia, founded in Piedra Plat in 1957, reached the top flight only in 2001 but quickly became a major force. The source credits the club with seven league titles.",
+            "In 2018, Deportivo Nacional became the first Aruban club to progress beyond the group stage of the CFU Club Shield and, in the source, remains the only Aruban side ever to advance beyond the first round of a Caribbean or continental club competition.",
+            "COVID hit tourism-dependent Aruba hard and the 2019/20 league was abandoned. The competition returned in reduced form in 2020/21.",
+            "Britannia entered the source’s present day on a three-year championship streak, with Dakota and RCA still their principal challengers."
+          ],
+          "images": [
+            "../assets/aruba/source/HSaC-5VXMAAMMVu.jpg",
+            "../assets/aruba/source/HSaccKCWsAALBQ3.jpg",
+            "../assets/aruba/source/HSadD07WIAAKeA3.jpg",
+            "../assets/aruba/source/HSadpozW4AAT6Ew.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Gold League, Silver League, Calle 4 and the Caribbean route",
+      "cards": [
+        {
+          "title": "Division di Honor",
+          "meta": "10 clubs",
+          "text": "Clubs first play a single nine-match round. The top six advance to the Gold League; the bottom four enter the Silver League promotion/relegation phase.",
+          "images": [
+            "../assets/aruba/source/HSbAIRTXwAADJcx.jpg"
+          ]
+        },
+        {
+          "title": "Gold League → Calle 4 → Final",
+          "meta": "The championship route",
+          "text": "The six Gold League clubs play a double round robin. The top four move into Calle 4, another three-match round robin, and the top two meet in the Championship Final. Britannia beat Sporting 3–1 in the source’s 2026 final.",
+          "images": [
+            "../assets/aruba/source/HSbASCLWcAAcyrT.jpg"
+          ]
+        },
+        {
+          "title": "Silver League",
+          "meta": "Promotion and relegation",
+          "text": "The bottom four Honor Division clubs mix with Division Uno sides in two groups. Group winners stay in or are promoted to the top flight, while playoff winners take the remaining Honor places.",
+          "images": [
+            "../assets/aruba/source/HSbCkBqWYAE_LPV.jpg"
+          ]
+        },
+        {
+          "title": "Copa Betico Croes",
+          "meta": "National knockout cup · since 2005",
+          "text": "All Division di Honor clubs and the best six from Division Uno take part. Britannia lead the source’s roll of honour with eight wins; Dakota beat La Fama 4–2 in the 2026 final.",
+          "images": [
+            "../assets/aruba/source/HSbI_U4XEAAofCF.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "First continental step",
+          "text": "Aruba’s league champions enter the CFU Club Shield. Its finalists qualify for the professional Caribbean Cup.",
+          "images": [
+            "../assets/aruba/source/HSbKrLFXsAA2k-l.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "CONCACAF pathway",
+          "text": "The Caribbean Cup sends its top three into the CONCACAF Champions Cup. No Aruban club has completed that full route since the Shield was introduced in 2018.",
+          "images": [
+            "../assets/aruba/source/HSbK31-XUAEUN1x.jpg",
+            "../assets/aruba/source/HSbK4OGXUAEhxTc.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "RCA, Dakota, Estrella and a modern Britannia dynasty",
+      "cards": [
+        {
+          "title": "Racing Club Aruba",
+          "meta": "Record 33 league titles in the source",
+          "text": "RCA are Aruba’s historic giant. Founded in 1934, they dominated the early AVB era and became the island’s first Kopa Antiano champions in 1965.",
+          "images": [
+            "../assets/aruba/source/HSbYjQ3XoAAy60S.jpg"
+          ]
+        },
+        {
+          "title": "Dakota & Estrella",
+          "meta": "The classic challengers",
+          "text": "Dakota have 17 league titles in the source and dominated much of the 1960s–80s. Santa Cruz’s Estrella have 12 and supplied Aruba’s other Antillean championship in 1970.",
+          "images": [
+            "../assets/aruba/source/HSbZJEUWoAAEPVV.jpg",
+            "../assets/aruba/source/HSbZJUoW0AEcxPg.jpg"
+          ]
+        },
+        {
+          "title": "Britannia",
+          "meta": "The modern force",
+          "text": "The Piedra Plat club won its first league in 2004/05 and has seven in the source, including the 2024–26 three-peat. Britannia also lead the Copa Betico Croes roll of honour.",
+          "images": [
+            "../assets/aruba/source/HSbZwAXXoAAVdEK.jpg"
+          ]
+        },
+        {
+          "title": "Nacional, Bubali, La Fama & Riverplate",
+          "meta": "The wider modern cast",
+          "text": "Noord’s Deportivo Nacional and Bubali, Savaneta’s La Fama and Madiki’s Riverplate complete much of Aruba’s modern historic club landscape.",
+          "images": [
+            "../assets/aruba/source/HSbbTpMW8AAbGpj.jpg",
+            "../assets/aruba/source/HSbbT9mXwAAv6wv.jpg",
+            "../assets/aruba/source/HSbbUOrWwAAoO72.jpg",
+            "../assets/aruba/source/HSbbUgzXwAANZmA.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From island selection to an independent FIFA team",
+      "entries": [
+        {
+          "heading": "Two lives",
+          "paragraphs": [
+            "Aruba’s national-team history has two lives. An island selection existed from 1930, but internationally Aruba largely belonged to the Netherlands Antilles. Only after Status Aparte and FIFA admission in 1988 did today’s FIFA national team fully emerge."
+          ],
+          "images": [
+            "../assets/aruba/source/HSeOM2uWcAASu8D.jpg"
+          ]
+        },
+        {
+          "heading": "The first island selection",
+          "date": "1930–1944",
+          "paragraphs": [
+            "The first Aruba selection travelled to Curaçao in April 1930. Trips to Curaçao, Suriname and Trinidad followed. The rivalry with Curaçao gradually became competitive, with first draws in 1937 and, according to the AVB, Aruba’s first victory in 1944."
+          ],
+          "images": [
+            "../assets/aruba/source/HSeQAAdWoAAGzY_.jpg"
+          ]
+        },
+        {
+          "heading": "Arubans in the Netherlands Antilles Olympic team",
+          "date": "1952",
+          "paragraphs": [
+            "Seven Arubans made the Helsinki Olympic squad. Briezen, Brion and Brokke started against Türkiye, and Juan Briezen scored in the 82nd minute. It remains Aruba’s only Olympic football appearance."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfGK3SWYAAV7r8.jpg"
+          ]
+        },
+        {
+          "heading": "Aruba at the CCCF Championship",
+          "date": "1955",
+          "paragraphs": [
+            "Aruba entered separately in the 1955 CCCF Championship, beating Cuba 5–1 and drawing Honduras 1–1. Fifth place remains the island’s best CCCF finish."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfHe3CWsAAw_P8.jpg"
+          ]
+        },
+        {
+          "heading": "The Antillean golden generation",
+          "date": "1960–1969",
+          "paragraphs": [
+            "Aruba then fed fully into the Netherlands Antilles. With a strong Aruban presence, the 1960 CCCF side finished level with Costa Rica before losing a playoff, and the 1961 team finished third.",
+            "The Netherlands Antilles swept the 1962 Central American and Caribbean Games, then took bronze at the inaugural 1963 CONCACAF Championship and again in 1969. The latter was the swan song of the generation, with Aruban representation already declining."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfIRUiWUAAh9DS.jpg",
+            "../assets/aruba/source/HSfI9brXoAABxtB.jpg",
+            "../assets/aruba/source/HSfJxrNXsAAnTKf.jpg",
+            "../assets/aruba/source/HSfJ5AJXcAAGssY.jpg"
+          ]
+        },
+        {
+          "heading": "An independent national team returns",
+          "date": "1986–1989",
+          "paragraphs": [
+            "Status Aparte revived Aruba’s independent national team. After FIFA admission, the 1989 Caribbean Championship campaign was brutal: Trinidad & Tobago won 11–0, still the heaviest recorded defeat in the source. A 0–0 draw with Grenada delivered the first FIFA-era point."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfLCIuXIAAT2Q0.jpg",
+            "../assets/aruba/source/HSfN1V4WYAAonG3.png"
+          ]
+        },
+        {
+          "heading": "The difficult early 1990s",
+          "date": "1990–1995",
+          "paragraphs": [
+            "Aruba did not win a match in the 1990, 1991 or 1992 Caribbean Cup qualifiers and skipped 1993 and 1994. In 1995 two vibrant ties against the old Netherlands Antilles rivals ended in a 7–5 aggregate defeat."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfSjJWXIAAxhOK.png"
+          ]
+        },
+        {
+          "heading": "First World Cup qualifying campaign",
+          "date": "1996–1998",
+          "paragraphs": [
+            "Aruba entered World Cup qualifying for the first time in 1996 and lost both legs to the Dominican Republic.",
+            "In 1997 Caribbean Cup qualifying, Aruba beat the Netherlands Antilles 2–1 before Jamaica stopped them in the second phase. In 1998 they beat French Guiana and drew Suriname 3–3, but another defeat to the Netherlands Antilles ended the campaign."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfUjZUX0AE5zGq.png",
+            "../assets/aruba/source/HSfWnPtW4AAarqw.png"
+          ]
+        },
+        {
+          "heading": "First World Cup qualifying victory",
+          "date": "2000",
+          "paragraphs": [
+            "Aruba beat Puerto Rico 4–2 at home and drew 2–2 away to advance 6–4 on aggregate—their first World Cup qualifying tie victory. Barbados ended the run in the next round."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfX8FMXwAAVXkr.png"
+          ]
+        },
+        {
+          "heading": "A difficult decade and a wider diaspora",
+          "date": "2000s",
+          "paragraphs": [
+            "The next decade brought heavy qualifying defeats, but Aruba gradually became more connected to its Dutch diaspora, widening the available player pool."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfZGkxXoAAOhCA.png"
+          ]
+        },
+        {
+          "heading": "Record win at home",
+          "date": "2014",
+          "paragraphs": [
+            "Hosting preliminary Caribbean Cup qualifying, Aruba beat Turks & Caicos Islands 1–0 and British Virgin Islands 7–0—the record victory in the source—but a 2–0 loss to French Guiana prevented progression."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfaPGMWoAAg2ys.png"
+          ]
+        },
+        {
+          "heading": "The strange Barbados disqualification",
+          "date": "2018 World Cup qualifying",
+          "paragraphs": [
+            "Barbados won both legs against Aruba but fielded suspended Hadan Holligan in the second. FIFA awarded Aruba a 3–0 victory, turning a 3–0 aggregate defeat into a 3–2 passage.",
+            "Saint Vincent & the Grenadines then won the next tie 3–2 on aggregate despite two Erixon Danso goals in Oranjestad."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfbSnWXUAAB32t.png",
+            "../assets/aruba/source/HSfb6nVXgAAL67Y.png"
+          ]
+        },
+        {
+          "heading": "Nations League begins",
+          "date": "2019–2024",
+          "paragraphs": [
+            "Aruba took the final League B place in 2019–20 qualifying but then lost every group match against Jamaica, Guyana and Antigua & Barbuda and fell to League C.",
+            "In 2022/23 they beat Saint Martin but Saint Kitts & Nevis took promotion. The 2023/24 campaign was completely different: Aruba won all four matches against Cayman Islands and US Virgin Islands and returned to League B."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfeQbSXQAAvJWG.jpg",
+            "../assets/aruba/source/HSffY16X0AAk1NS.png",
+            "../assets/aruba/source/HSfgb1CXYAA3yrA.png"
+          ]
+        },
+        {
+          "heading": "Qatar 2022 qualifying",
+          "date": "2021",
+          "paragraphs": [
+            "Aruba lost heavily to Suriname and Bermuda, beat Cayman Islands 3–1 and then lost 7–0 to Canada. Three points left them fourth in the group."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfg5y2XQAAuamN.jpg"
+          ]
+        },
+        {
+          "heading": "League B proves too difficult",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Aruba went winless against Haiti, Puerto Rico and Sint Maarten in 2024/25. A 5–1 defeat to Puerto Rico mathematically relegated them, and Aruba returned to League C for 2026/27."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfiU0FWUAAXWdP.jpg"
+          ]
+        },
+        {
+          "heading": "2026 World Cup qualifying",
+          "date": "2024–2025",
+          "paragraphs": [
+            "The World Cup road ended in Round Two. Aruba lost to Curaçao, surrendered a 2–0 lead against Saint Lucia, drew Barbados and lost heavily to Haiti. Two points left them well short of the two group leaders."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfih7dW4AA4YSo.jpg"
+          ]
+        },
+        {
+          "heading": "FIFA Series champions",
+          "date": "2026",
+          "paragraphs": [
+            "An unexpected breakthrough followed at the FIFA Series Rwanda B. Aruba beat Macau 4–1 and Liechtenstein 4–1 to win the section. The source describes FIFA as calling it the most prestigious title in the national team’s history. Jaybriën Romano scored three goals and won Player of the Series."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfi1k4XoAAklLk.jpg"
+          ]
+        },
+        {
+          "heading": "The next Nations League challenge",
+          "date": "2026/27",
+          "paragraphs": [
+            "Aruba enter League C, Group B with Antigua & Barbuda and Anguilla. Group winners plus the best runner-up advance to the new League C Championship and earn promotion to League B."
+          ],
+          "images": [
+            "../assets/aruba/source/HSfjUXzWUAA_j6q.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An XI spanning the pre-FIFA, Netherlands Antilles and modern eras",
+      "intro": "Comparing the old island selections, Arubans who represented the Netherlands Antilles and the modern FIFA national team is unusually difficult, so the source deliberately spans all three eras.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/aruba/source/HSfo8AVXgAE2oBB.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Eric Abdul",
+            "years": "2011–2023",
+            "description": "A long-serving goalkeeper developed in Sparta Rotterdam’s youth system who guarded Aruba through three World Cup cycles.",
+            "image": "../assets/aruba/source/HSfpb-YWYAAaNcA.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Theric Ruiz",
+            "years": "2004–2016",
+            "description": "A durable defender across more than a decade and nine World Cup qualifying appearances.",
+            "image": "../assets/aruba/source/HSfp2MgW4AAXaUe.png"
+          },
+          {
+            "position": "CB",
+            "name": "Nickenson Paul",
+            "years": "2015–",
+            "description": "The modern caps record holder in the source and a mainstay of Aruba’s back line.",
+            "image": "../assets/aruba/source/HSfp8NvXUAAACcK.png"
+          },
+          {
+            "position": "CB",
+            "name": "François Croes",
+            "years": "2008–2021",
+            "description": "A centre-back with more than 20 international caps who also played locally for SV Estrella.",
+            "image": "../assets/aruba/source/HSfr3IfXsAEDS5f.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Leroy Oehlers",
+            "years": "2013–2019",
+            "description": "A Dutch-born Aruba left-back who earned around 20 caps.",
+            "image": "../assets/aruba/source/HSfr_mJWYAAWVJn.png"
+          },
+          {
+            "position": "DM",
+            "name": "Gregor Breinburg",
+            "years": "2015–2022",
+            "description": "The island’s most accomplished modern club professional, with long spells at De Graafschap, NEC, Sparta and ADO.",
+            "image": "../assets/aruba/source/HSfsvFGWYAATGsZ.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Erik Santos de Gouveia",
+            "years": "2011–2021",
+            "description": "A consistent midfield presence for a decade, with 20+ caps and international goals.",
+            "image": "../assets/aruba/source/HSfs0vvXMAAyB3l.png"
+          },
+          {
+            "position": "AM",
+            "name": "Walter Bennett",
+            "years": "2018–",
+            "description": "A modern attacking midfielder with 30+ caps in the source.",
+            "image": "../assets/aruba/source/HSfs6uWXAAA6Ag2.png"
+          },
+          {
+            "position": "RW",
+            "name": "Joshua John",
+            "years": "2018–2023",
+            "description": "One of the highest-level club players to represent Aruba, with experience at Sparta Rotterdam and Nordsjælland among others.",
+            "image": "../assets/aruba/source/HSfttA7WgAAzbrY.png"
+          },
+          {
+            "position": "CF",
+            "name": "Terence Groothusen",
+            "years": "2019–",
+            "description": "Six international goals in the source and a long-running reference point in attack.",
+            "image": "../assets/aruba/source/HSftxaMWAAASekN.png"
+          },
+          {
+            "position": "LW",
+            "name": "Juan Briezen",
+            "years": "1950s",
+            "description": "Aruba’s Olympic goalscorer with the Netherlands Antilles at Helsinki 1952.",
+            "image": "../assets/aruba/source/HSfvGvdWEAAiZl-.png"
+          }
+        ]
+      },
+      "closing": "Jorge Brion, Ricardo Helder, Lucas Hernandez, Leo Rodriguez, Matthew Lentink, Ronald Gómez, Benjamin Maria, Diederick Luydens and current captain Bradley Martis are among the omissions."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Island-selection, FIFA-era and individual landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First island selection: v Curaçao, April 1930.",
+            "First FIFA-era point: 0–0 v Grenada, 21 May 1989.",
+            "Biggest win: 7–0 v British Virgin Islands, 1 June 2014.",
+            "Heaviest recorded defeat: Trinidad & Tobago 11–0 Aruba, 23 April 1989.",
+            "Best FIFA ranking in the source: 112th."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Nickenson Paul, 37.",
+            "Top scorer: Roviën Ostiana, 8."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/aruba/source/HSfvz_qXcAANVcn.jpg",
+        "../assets/aruba/source/HSfwqwtWUAA0IB_.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "The national stadium and three unmistakably local grounds",
+      "cards": [
+        {
+          "title": "Compleho Deportivo Guillermo Prospero Trinidad",
+          "meta": "Oranjestad · national stadium",
+          "text": "The national ground opened in April 1952 as Wilhelmina Stadion, replacing the old Wilhelmina Sport Park. After major redevelopment it reopened in 1994 under its present name and remains Aruba’s main international venue.",
+          "images": [
+            "../assets/aruba/source/HSgGaYxWAAAReNg.png",
+            "../assets/aruba/source/HSgO6C_XoAEaMu9.jpg"
+          ]
+        },
+        {
+          "title": "Compleho Deportivo Frans Figaroa",
+          "meta": "Noord · opened 2005",
+          "text": "Aruba’s principal alternative football venue. It honours Frans Figaroa, former AVB chairman, Netherlands Antilles Olympic Committee head and Aruban political leader. Several Division di Honor clubs use the ground.",
+          "images": [
+            "../assets/aruba/source/HSgPU1OWkAATM47.png",
+            "../assets/aruba/source/HSgPYePW4AA9-c8.png"
+          ]
+        },
+        {
+          "title": "Compleho Deportivo Franklyn Bareño",
+          "meta": "Piedra Plat · Britannia",
+          "text": "A distinctive community ground with Aruba’s Hooiberg rising behind it. The complex is the home of modern powerhouse SV Britannia.",
+          "images": [
+            "../assets/aruba/source/HSgcW0rWUAAVhDX.jpg",
+            "../assets/aruba/source/HSgcXXqXsAAQ8jw.jpg"
+          ]
+        },
+        {
+          "title": "SV La Fama home ground",
+          "meta": "Savaneta",
+          "text": "A modest, unmistakably local football ground with a small covered stand and the club’s name painted across its facilities—a neighbourhood home in southern Aruba.",
+          "images": [
+            "../assets/aruba/source/HSgfQBgWYAAsD73.jpg",
+            "../assets/aruba/source/HSgfQetXYAAfFZd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Still eligible",
+      "entries": [
+        {
+          "heading": "Aruba remains in the race",
+          "paragraphs": [
+            "CONCACAF qualifying begins in September 2027. Aruba remains eligible for the 2030 FIFA World Cup qualification process."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
