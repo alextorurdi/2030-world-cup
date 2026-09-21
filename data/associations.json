@@ -1014,12 +1014,14 @@
         },
         {
           "name": "Aruba",
-          "associationName": "Aruba Football Federation",
+          "associationName": "Aruban Football Federation",
           "code": "ARU",
           "flag": "🇦🇼",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/010.png",
+          "page": "./associations/aruba.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Bahamas",
