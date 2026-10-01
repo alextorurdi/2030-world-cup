@@ -1346,7 +1346,9 @@
           "flag": "🇪🇨",
           "confederation": "conmebol",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/conmebol/011.png",
+          "page": "./associations/ecuador.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Peru",
