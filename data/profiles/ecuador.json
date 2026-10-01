@@ -1,0 +1,844 @@
+{
+  "meta": {
+    "title": "Ecuador · The 211 Files",
+    "description": "Ecuador in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Ecuador thread export",
+      "file": "Ecuador.docx",
+      "imageCount": 109
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 109 direct X-media links. All local source images retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#011",
+    "country": "Ecuador",
+    "flag": "🇪🇨",
+    "association": "Ecuadorian Football Federation / Federación Ecuatoriana de Fútbol (FEF)",
+    "founded": "1925",
+    "fifa": "1926",
+    "confederation": "CONMEBOL",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "5",
+    "bestRecords": [
+      "FIFA World Cup: Round of 16, 2006",
+      "Copa América: 4th, 1959 & 1993"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/011.png",
+    "fallbackLogo": "../assets/ecuador/source/HSuw0y7XsAA2fjs.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Pacific coast, Andes, Amazon and Galápagos",
+      "entries": [
+        {
+          "paragraphs": [
+            "Straddling the Equator on South America’s Pacific coast, Ecuador runs from the coastal lowlands across the Andes to the Amazon and includes the Galápagos Islands. Home to about 18.3 million people, its geography is unusually compressed and diverse."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSu8H7RXIAAbHQP.png",
+            "../assets/ecuador/source/HSu8OqUWsAAwRsn.jpg",
+            "../assets/ecuador/source/HSu8ry5WcAEALSd.png",
+            "../assets/ecuador/source/HSu8xToXUAAUF0n.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "From Gran Colombia to dollarisation",
+      "entries": [
+        {
+          "heading": "Independence and regional rivalry",
+          "date": "1822–1895",
+          "paragraphs": [
+            "Ecuador emerged from Spanish rule in 1822 as part of Gran Colombia and became a separate republic in 1830. The 19th century was shaped by struggles between conservative Quito and liberal, commercial Guayaquil before Eloy Alfaro’s Liberal Revolution of 1895."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSu9WDWWgAAMeiK.jpg"
+          ]
+        },
+        {
+          "heading": "Military interventions and the Peru dispute",
+          "date": "20th century",
+          "paragraphs": [
+            "Military interventions punctuated the 20th century, while a long border dispute with Peru produced wars in 1941 and 1995. Civilian constitutional government returned in 1979, and the 1998 Brasilia accords finally settled the boundary."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSvCc6EWgAAZAGT.png"
+          ]
+        },
+        {
+          "heading": "Banking crisis and the dollar",
+          "date": "1999–2000",
+          "paragraphs": [
+            "A severe banking and currency crisis struck in 1999. Ecuador adopted the US dollar in 2000, abandoning the sucre. Political instability remained recurrent, but dollarisation endured as a defining feature of the modern economy."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSvC8XQW8AE7IOC.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Guayaquil’s overseas links, Quito’s parallel culture and the eventual national league",
+      "entries": [
+        {
+          "heading": "Guayaquil introduces the game",
+          "date": "1899–1902",
+          "paragraphs": [
+            "Football emerged through Guayaquil’s overseas connections. In 1899, young members of the port’s cacao-era elite formed Club Sport Guayaquil with football among its activities; newspapers were already reporting football by October.",
+            "Documented matches between local enthusiasts followed in January 1900. Club Sport Ecuador appeared in 1902, followed by Asociación de Empleados, Libertador Bolívar, Unión and Gimnástico."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSvqKoKWoAAGFON.png",
+            "../assets/ecuador/source/HSvsb5gWYAEUhPg.jpg"
+          ]
+        },
+        {
+          "heading": "Quito develops separately",
+          "date": "1900s–1920s",
+          "paragraphs": [
+            "In Quito the game developed later, with Gladiador, Gimnástico and Sport Club Quito appearing in the 1900s. Guayaquil and Quito built separate club cultures, while travel across the Andes made regular national competition difficult."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSvtF2eXAAA6QeI.png"
+          ]
+        },
+        {
+          "heading": "Fedeguayas and the first coastal championship",
+          "date": "1922",
+          "paragraphs": [
+            "Provincial associations and amateur championships preceded a national league. In Guayaquil the Federación Deportiva del Guayas—Fedeguayas—was founded in 1922 and staged its own tournament, with Racing Club de Guayaquil as first champion."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSy-NRbWIAA0t5p.jpg"
+          ]
+        },
+        {
+          "heading": "Racing, Córdova and Norte América",
+          "date": "1910s–1930s",
+          "paragraphs": [
+            "Racing had been founded in 1916 in a fire station and dominated 1920s Guayaquil alongside Club Sport General Córdova, founded by cocoa workers. Both disappeared in the 1930s. Norte América, rooted in the shoe industry, was another important side."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzDhZLXkAA44Yl.png"
+          ]
+        },
+        {
+          "heading": "Barcelona and Emelec",
+          "date": "1925–1929",
+          "paragraphs": [
+            "Two clubs founded in this era would reshape Guayaquil. Barcelona SC appeared in 1925 in the home of Catalan Eutimio Pérez; George Capwell and employees of the Empresa Eléctrica del Ecuador founded Emelec in 1929. Their rivalry became the Clásico del Astillero."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzE0NCWAAAiIII.jpg",
+            "../assets/ecuador/source/HSzE6ZsWoAAGNC8.jpg"
+          ]
+        },
+        {
+          "heading": "Pichincha organises",
+          "date": "1924",
+          "paragraphs": [
+            "Quito had local tournaments by the 1910s but remained loosely organised. In 1924, fourteen clubs and sporting institutions founded the Liga Deportiva de Pichincha, establishing a federated championship with Gladiador as first champion."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzIsa4WIAAhrvE.jpg"
+          ]
+        },
+        {
+          "heading": "Gladiador and LDU",
+          "date": "1918–1932",
+          "paragraphs": [
+            "Sociedad Deportiva Gladiador became Quito’s first great power. Founded in 1918 from the Sport Club Quito circle, it won seven straight local titles from 1922 to 1928 and thirteen overall.",
+            "Club Universitario, created by Universidad Central students in 1918, was formally reorganised as Liga Deportiva Universitaria in January 1930. LDU won its first Pichincha title two years later, ending Gladiador’s dominance."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzJTXHXQAAoV-F.jpg",
+            "../assets/ecuador/source/HSzShiSWAAEdtk8.png"
+          ]
+        },
+        {
+          "heading": "FEDENADOR and international affiliation",
+          "date": "1925–1927",
+          "paragraphs": [
+            "On 30 May 1925 representatives created the Federación Deportiva Nacional del Ecuador—FEDENADOR—which governed football alongside other sports. It joined FIFA in 1926 and CONMEBOL in 1927, although Guayaquil and Quito continued to run separate championships."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzSqsWWIAANHLz.jpg"
+          ]
+        },
+        {
+          "heading": "Professional football begins",
+          "date": "1951–1954",
+          "paragraphs": [
+            "Professionalism arrived first on the coast: Guayaquil clubs turned professional in 1951. Quito followed in 1954 with the Campeonato Profesional Interandino, leaving Ecuador with two professional centres but still no regular national league."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzUBDsW8AALH4u.jpg"
+          ]
+        },
+        {
+          "heading": "Deportivo Quito and the regional professional era",
+          "date": "1940s–1967",
+          "paragraphs": [
+            "Sociedad Deportiva Argentina had emerged from Quito’s Plaza del Teatro barrio in 1940, wearing Argentina-inspired sky blue and white. After professionalisation it became Sociedad Deportivo Quito in 1955.",
+            "LDU and Deportivo Quito won most Interandino championships between 1954 and 1967, while Barcelona and Emelec dominated the coastal competition, challenged by Valdez of Milagro and Guayaquil’s Patria."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzmx95WUAAgAXE.jpg",
+            "../assets/ecuador/source/HSzol_pXUAA4BiB.png"
+          ]
+        },
+        {
+          "heading": "The first national championship",
+          "date": "1957–1960",
+          "paragraphs": [
+            "In 1957, Emelec, Barcelona, Deportivo Quito and Aucas played Ecuador’s first national professional championship. Emelec became inaugural champions by beating Aucas 2–0 on the final day at the Capwell.",
+            "No national tournament was held in 1958 or 1959, but from 1960 it became permanent. Barcelona won the return edition and rapidly became the country’s most successful club."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzo3R3XcAAKW2R.png",
+            "../assets/ecuador/source/HSzpLWVWIAA5k2l.jpg"
+          ]
+        },
+        {
+          "heading": "El Nacional and a diverse 1960s",
+          "date": "1960s",
+          "paragraphs": [
+            "El Nacional grew from Ecuadorian Army side Club Mariscal Sucre and was built to field only home-grown players. It entered the top flight in 1964 and won its first national championship in 1967.",
+            "The decade produced a remarkably diverse group of champions: Emelec, Barcelona, Deportivo Quito, El Nacional, LDU and Everest all lifted the title."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzrDtSXkAAshlv.png",
+            "../assets/ecuador/source/HSzsv2mWAAA1g6Q.jpg"
+          ]
+        },
+        {
+          "heading": "The modern FEF emerges",
+          "date": "1967–1978",
+          "paragraphs": [
+            "On 30 June 1967 the Asociación Ecuatoriana de Fútbol was constituted as an independent football body, separating the game institutionally from FEDENADOR. Under the 1978 sports law it became the present Federación Ecuatoriana de Fútbol."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzt9GMWkAAMbf8.png"
+          ]
+        },
+        {
+          "heading": "El Nacional, Barcelona and the first Libertadores breakthroughs",
+          "date": "1970s",
+          "paragraphs": [
+            "El Nacional dominated the late 1970s with three straight championships from 1976 to 1978. Barcelona, Emelec and LDU each added titles around them.",
+            "Barcelona provided Ecuador’s first great Libertadores adventures. The 1971 Hazaña de La Plata—a 1–0 semi-final win over reigning champions Estudiantes—became an early continental landmark. Barcelona returned to the semi-final group in 1972, while LDU reached the same stage in 1975 and 1976."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzvDVXXwAAo4od.jpg",
+            "../assets/ecuador/source/HSzwe_QW0AAwg1K.png"
+          ]
+        },
+        {
+          "heading": "The 1980s",
+          "date": "1980–1989",
+          "paragraphs": [
+            "Barcelona dominated the domestic decade with five titles. El Nacional won another three-peat from 1982 to 1984 and added a fourth title in 1986; Emelec claimed 1988."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzyDOvWcAAiNs7.jpg"
+          ]
+        },
+        {
+          "heading": "Barcelona reaches the Libertadores final",
+          "date": "1990 & 1998",
+          "paragraphs": [
+            "Barcelona finally reached the Libertadores final in 1990, losing to Olimpia, and returned in 1998 when Vasco da Gama defeated them. The runs established the Guayaquil giant internationally, although Ecuador still lacked a senior CONMEBOL club trophy."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSzyR6jWwAAK7mU.jpg"
+          ]
+        },
+        {
+          "heading": "The Big Four share the 1990s",
+          "date": "1990s",
+          "paragraphs": [
+            "LDU and Barcelona claimed three league titles each in the decade, while Emelec and El Nacional won two apiece. The four traditional powers shared every Ecuadorian championship of the 1990s."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz0TP7W0AAgfYh.png"
+          ]
+        },
+        {
+          "heading": "Olmedo and Deportivo Cuenca break through",
+          "date": "2000–2004",
+          "paragraphs": [
+            "Olmedo of Riobamba broke the Big Four’s grip in 2000, becoming the first national champion from outside Quito or Guayaquil. Deportivo Cuenca followed in 2004, giving Azuay its first national title."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz3uheW8AEmjjH.png"
+          ]
+        },
+        {
+          "heading": "The 2000s domestically",
+          "date": "2000s",
+          "paragraphs": [
+            "Deportivo Quito returned to the top with back-to-back championships in 2008 and 2009. LDU won three league titles, while Emelec and El Nacional added two each. Barcelona meanwhile endured an unprecedented drought after 1997."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz44Y6WIAAHiGW.jpg"
+          ]
+        },
+        {
+          "heading": "LDU conquers South America",
+          "date": "2008–2010",
+          "paragraphs": [
+            "Liga de Quito changed Ecuadorian club history in 2008. After a 5–5 aggregate final against Fluminense, LDU won the Libertadores on penalties at the Maracanã—the first Ecuadorian club to conquer South America. They later added the 2009 Sudamericana and two Recopas."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz5ZKQWEAA2s5H.jpg"
+          ]
+        },
+        {
+          "heading": "Barcelona returns, Emelec dominates",
+          "date": "2010s",
+          "paragraphs": [
+            "LDU won again in 2010 and 2018. Barcelona ended its 15-year drought in 2012 and won again in 2016. The decade’s dominant domestic force, however, was Emelec, with a first-ever three-peat from 2013 to 2015 and another title in 2017. Deportivo Quito also won in 2011."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz68ySWEAE9UyR.jpg"
+          ]
+        },
+        {
+          "heading": "Independiente del Valle changes the model",
+          "date": "2010s–2020s",
+          "paragraphs": [
+            "Independiente José Terán, founded in 1958 and later renamed Independiente del Valle, rose rapidly through youth development after 2007. IDV reached the 2016 Libertadores final after eliminating River Plate and Boca Juniors.",
+            "The Matagigantes then converted promise into trophies: Sudamericana champions in 2019 and 2022 and Recopa winners in 2023. Their academy produced Moisés Caicedo, Piero Hincapié, Willian Pacho, Kendry Páez and others."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz7Mk6WcAAZSoZ.png",
+            "../assets/ecuador/source/HSz7iXBWUAAtXPj.jpg"
+          ]
+        },
+        {
+          "heading": "Delfín takes Manabí to the summit",
+          "date": "2019",
+          "paragraphs": [
+            "Delfín, founded in Manta in 1989 from the takeover of 9 de Octubre, rose from the lower tiers to challenge Ecuador’s giants. Runners-up in 2017, they beat LDU on penalties in 2019 to deliver Manabí its first national championship."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz8aBPWoAA0rKv.jpg"
+          ]
+        },
+        {
+          "heading": "The 2020s",
+          "date": "2020–2025",
+          "paragraphs": [
+            "Barcelona won the pandemic-hit 2020 season. Independiente del Valle became first-time champions in 2021, finished runners-up to LDU in 2023 and 2024, then reclaimed the crown in 2025. In between, national-league founders Aucas won their first national title in 2022."
+          ],
+          "images": [
+            "../assets/ecuador/source/HSz-S_HXEAAmtHU.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Serie A, national cups and the route into CONMEBOL",
+      "cards": [
+        {
+          "title": "LigaPro Serie A",
+          "meta": "16 clubs",
+          "text": "In the source’s 2026 format, clubs first play a 30-match home-and-away phase. The table then splits into a Championship Hexagonal, a Relegation Hexagonal and a four-team group deciding the last Sudamericana berth.",
+          "images": [
+            "../assets/ecuador/source/HSz_GeCWkAA7uYT.jpg"
+          ]
+        },
+        {
+          "title": "Relegation and Segunda Categoría",
+          "meta": "Two down",
+          "text": "The Relegation Hexagonal sends two clubs to Serie B. Below it, provincial championship qualifiers enter a national knockout. The finalists are promoted to Serie B and the winner becomes Segunda Categoría champion.",
+          "images": [
+            "../assets/ecuador/source/HS0AJiTWwAA0fdL.jpg"
+          ]
+        },
+        {
+          "title": "Copa Ecuador",
+          "meta": "Nationwide knockout",
+          "text": "The source’s 2026 edition begins with provincial champions, Serie B clubs, an amateur champion and a qualifier before Serie A clubs enter later. Lower-ranked teams normally receive home advantage in single-match ties.",
+          "images": [
+            "../assets/ecuador/source/HS0ClTyXAAALW19.png"
+          ]
+        },
+        {
+          "title": "Supercopa Ecuador",
+          "meta": "Since 2020",
+          "text": "The Serie A champion faces the Copa Ecuador winner in one match. If one club wins both competitions, the Copa Ecuador runner-up takes the second place.",
+          "images": [
+            "../assets/ecuador/source/HS0DCHlXoAAM9LC.png"
+          ]
+        },
+        {
+          "title": "CONMEBOL places",
+          "meta": "4 Libertadores + 4 Sudamericana",
+          "text": "The top three teams in the Championship Hexagonal qualify for Libertadores alongside the Copa Ecuador winner. The other three Hexagonal teams earn Sudamericana places and the Sudamericana Quadrangular winner takes the final berth.",
+          "images": [
+            "../assets/ecuador/source/HS0FKLeXAAAvfme.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Guayaquil giants, Quito powerhouses and a new Sangolquí model",
+      "cards": [
+        {
+          "title": "Barcelona SC & Emelec",
+          "meta": "Clásico del Astillero",
+          "text": "Barcelona are Ecuador’s most decorated league club and one of its great popular institutions. Emelec are fourteen-time champions in the source and the country’s first national winners.",
+          "images": [
+            "../assets/ecuador/source/HS0Fo6kWAAAUFve.jpg",
+            "../assets/ecuador/source/HS0FmY1W4AAugEN.png"
+          ]
+        },
+        {
+          "title": "Quito’s traditional powers",
+          "meta": "LDU · El Nacional · Deportivo Quito · Aucas",
+          "text": "LDU are Ecuador’s only Libertadores champions and most successful international club. El Nacional built an identity around Ecuadorian players, while Deportivo Quito and Aucas carry deep capital-city traditions.",
+          "images": [
+            "../assets/ecuador/source/HS0F1JCWMAAROyq.png",
+            "../assets/ecuador/source/HS0F5rPWUAAOccn.png",
+            "../assets/ecuador/source/HS0F-JEWUAAmC1A.png",
+            "../assets/ecuador/source/HS0GCf3XUAAYL1M.png"
+          ]
+        },
+        {
+          "title": "Independiente del Valle",
+          "meta": "Sangolquí",
+          "text": "Once a small club, IDV became Libertadores finalists, twice Sudamericana champions and one of South America’s reference youth-development projects.",
+          "images": [
+            "../assets/ecuador/source/HS0GN0pX0AAdCeE.png"
+          ]
+        },
+        {
+          "title": "The wider national map",
+          "meta": "Cuenca · Ambato · Manta · Chimborazo",
+          "text": "Deportivo Cuenca represent the southern highlands; Macará and Técnico Universitario divide Ambato; Delfín delivered Manta a national title; and Mushuc Runa, founded by an Indigenous cooperative in Chimborazo, added a distinctive identity to the elite.",
+          "images": [
+            "../assets/ecuador/source/HS0GenJXAAA1cSy.png",
+            "../assets/ecuador/source/HS0GjA3XQAAKJKK.png",
+            "../assets/ecuador/source/HS0GrCFXcAAUM16.jpg",
+            "../assets/ecuador/source/HS0GwLzXYAASCKE.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From South American struggles to a regular World Cup presence",
+      "entries": [
+        {
+          "heading": "La Tri appears",
+          "date": "1938–1949",
+          "paragraphs": [
+            "Ecuador’s first national side appeared at the 1938 Bolivarian Games in Bogotá, initially wearing black. Their first recognised match was a 1–1 draw with Bolivia; three days later Peru beat them 9–1, but Ecuador soon earned a first win, 5–2 over Venezuela.",
+            "Ecuador debuted in the Sudamericano in 1939 and spent decades near the continent’s bottom. Argentina’s 12–0 victory in 1942 remains the record defeat; Ecuador’s first Copa América win came in 1949, 4–1 over Colombia."
+          ],
+          "images": [
+            "../assets/ecuador/source/HS0HM5aXMAA7Oj_.png",
+            "../assets/ecuador/source/HS-jOR7WsAAcq8w.jpg"
+          ]
+        },
+        {
+          "heading": "The disputed 1950 qualifying route",
+          "date": "1950",
+          "paragraphs": [
+            "Ecuador’s first World Cup qualifiers should have come for Brazil 1950. After a Peru–Uruguay dispute over the group venue, FIFA changed the format to a single Peru–Ecuador playoff in Lima. Ecuador protested and withdrew."
+          ],
+          "images": [
+            "../assets/ecuador/source/HS-q6zFWMAA2vTr.jpg"
+          ]
+        },
+        {
+          "heading": "Professionalisation before the qualifiers",
+          "date": "1954–1963",
+          "paragraphs": [
+            "Ecuador also missed the 1954 and 1958 World Cup qualifiers while domestic football was professionalising and the Quito and Guayaquil competitions were being unified.",
+            "At the second 1959 Sudamericano, Ecuador beat Paraguay 3–1 and finished fourth—their best placement to that point. Carlos Alberto Raffo then scored six goals in the 1963 tournament despite Ecuador finishing sixth."
+          ],
+          "images": [
+            "../assets/ecuador/source/HS_Dx52WAAApkDs.jpg",
+            "../assets/ecuador/source/HS_FsjzW8AAJzJ8.jpg"
+          ]
+        },
+        {
+          "heading": "So close to England 1966",
+          "date": "1966 qualifying",
+          "paragraphs": [
+            "Ecuador beat Colombia home and away and drew Chile at home. Avoiding defeat in Santiago would have sent them to the World Cup, but Chile won 3–1 and then defeated Ecuador again in a playoff in Lima."
+          ],
+          "images": [
+            "../assets/ecuador/source/HS_dGnpXcAAS2rt.jpg"
+          ]
+        },
+        {
+          "heading": "A memorable 1963 win and a bleak era",
+          "date": "1963–1980s",
+          "paragraphs": [
+            "Ecuador beat Colombia 4–3 at the 1963 Sudamericano with an 88th-minute winner, but still finished near the bottom. They failed to reach the 1967 tournament after losing a rare qualifying round to Paraguay.",
+            "For roughly two decades major wins were scarce. Victories over Uruguay in the 1979 Copa América and 1989 edition, plus a 3–1 win over Paraguay in 1990 World Cup qualifying, stood out before the trajectory finally changed."
+          ],
+          "images": [
+            "../assets/ecuador/source/HS_fqA9WQAA1VQq.jpg",
+            "../assets/ecuador/source/HTNZxGAXIAAUkd8.jpg"
+          ]
+        },
+        {
+          "heading": "The 1990s generation",
+          "date": "1990s",
+          "paragraphs": [
+            "Álex Aguinaga became the creative leader, with Iván Hurtado, Ulises de la Cruz, José Francisco Cevallos and Agustín Delgado forming the spine of a much more competitive side.",
+            "Hosting Copa América 1993, Ecuador swept Venezuela, the United States and Uruguay, beat Paraguay 3–0 in the quarter-final, then lost to Mexico and Colombia to finish fourth. In 1997 they won their group before Mexico eliminated them on penalties."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTNe63CWEAAxdQw.jpg",
+            "../assets/ecuador/source/HTNonQfXsAAGxDf.jpg"
+          ]
+        },
+        {
+          "heading": "First World Cup qualification",
+          "date": "2002 cycle",
+          "paragraphs": [
+            "Francisco Maturana had taken Ecuador close to France 1998, but Hernán Darío ‘Bolillo’ Gómez delivered the breakthrough. Ecuador transformed Quito into a fortress and finished second in the 2002 CONMEBOL qualifiers, above Brazil, Paraguay and Uruguay."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTNpHs0W4AAO-Qe.jpg"
+          ]
+        },
+        {
+          "heading": "Korea/Japan 2002",
+          "date": "2002",
+          "paragraphs": [
+            "Ecuador lost to Italy and Mexico, with Agustín Delgado scoring the country’s first World Cup goal. Already eliminated, they beat Croatia 1–0 through Édison Méndez for their first World Cup victory."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTNpbKIXEAAaPMu.jpg"
+          ]
+        },
+        {
+          "heading": "Germany 2006 — Ecuador’s best World Cup",
+          "date": "2006",
+          "paragraphs": [
+            "Ecuador beat Poland 2–0 and Costa Rica 3–0 to reach the knockout stage with a match to spare. Germany won the group decider, leaving England waiting in Stuttgart.",
+            "Carlos Tenorio hit the crossbar, but David Beckham’s free kick decided the round of 16. The 1–0 defeat remains Ecuador’s best World Cup finish."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTR_vgpWsAATLek.jpg",
+            "../assets/ecuador/source/HTSXsp5XAAAUoAz.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil 2014",
+          "date": "2010–2014",
+          "paragraphs": [
+            "Ecuador missed South Africa 2010 by one point, but Reinaldo Rueda took them back for Brazil 2014. The qualifying campaign was overshadowed by striker Christian Benítez’s sudden death in 2013.",
+            "At the finals Ecuador lost late to Switzerland, beat Honduras 2–1 through two Enner Valencia goals and drew France 0–0 with ten men. Four points were not enough to advance."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTSYBhKXIAAdQ2z.jpg",
+            "../assets/ecuador/source/HTSYYynXAAAEbHU.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América Centenario",
+          "date": "2016",
+          "paragraphs": [
+            "After draws with Brazil and Peru and a 4–0 win over Haiti, Ecuador reached the Copa América quarter-finals for the first time in 23 years. Hosts United States eliminated them 2–1."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTScgfWXEAA_JDQ.jpg"
+          ]
+        },
+        {
+          "heading": "The 2018 collapse",
+          "date": "2015–2017",
+          "paragraphs": [
+            "Ecuador began 2018 qualifying with four straight wins, including victory in Argentina, but won only two of the next fourteen matches and missed Russia. Enner Valencia meanwhile emerged as the new national-team scoring reference."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTSdSh2W4AEqaeo.jpg"
+          ]
+        },
+        {
+          "heading": "Quarter-finals again",
+          "date": "2021–2024",
+          "paragraphs": [
+            "Ecuador reached the 2021 Copa América quarter-finals without winning a group match and lost 3–0 to Argentina. In 2024, victory over Jamaica and a goalless draw with Mexico took them back to the quarter-finals, where Argentina again eliminated them—this time on penalties."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTSx_Z5W8AALvkG.jpg"
+          ]
+        },
+        {
+          "heading": "Qatar 2022",
+          "date": "2022",
+          "paragraphs": [
+            "Gustavo Alfaro led one of CONMEBOL’s youngest squads to qualification in fourth place. Ecuador beat hosts Qatar 2–0 and drew the Netherlands 1–1, with Enner Valencia scoring all three goals.",
+            "A draw against Senegal would have been enough, but Ecuador lost 2–1. Moisés Caicedo equalised before Kalidou Koulibaly restored Senegal’s lead three minutes later."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTSyijFXYAEx20E.jpg",
+            "../assets/ecuador/source/HTSzYQPWcAASu8o.jpg"
+          ]
+        },
+        {
+          "heading": "Beccacece and the 2026 qualifying campaign",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Sebastián Beccacece took over after Copa América. Ecuador had started 2026 qualifying with a three-point deduction over the Byron Castillo case, yet built the continent’s best defence and finished second behind Argentina.",
+            "La Tri finished with 29 points despite the deduction. Under Beccacece they conceded only two goals in twelve qualifiers, including clean sheets against Brazil, Uruguay and Paraguay, and ended by beating world champions Argentina 1–0."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTS3anaWEAA5wmb.jpg",
+            "../assets/ecuador/source/HTS3rcAXwAAFVCU.jpg"
+          ]
+        },
+        {
+          "heading": "World Cup 2026",
+          "date": "2026",
+          "paragraphs": [
+            "Ecuador opened with a painful 1–0 defeat to Côte d’Ivoire after a 90th-minute goal, then drew debutants Curaçao 0–0 with Germany waiting in the final Group E match.",
+            "La Tri responded with one of their greatest World Cup wins, beating Germany 2–1 at New York/New Jersey and advancing as one of the best third-placed teams.",
+            "The reward was a round-of-32 tie against co-hosts Mexico at Estadio Ciudad de México. Mexico won 2–0. Ecuador finished joint-25th, securing a second knockout appearance but falling short of the 2006 benchmark."
+          ],
+          "images": [
+            "../assets/ecuador/source/HTTeIp1XoAEGAoo.jpg",
+            "../assets/ecuador/source/HTTegu9W0AA0svO.jpg",
+            "../assets/ecuador/source/HTTeupMXkAAIz3Z.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-4-2 spanning the pioneers and the World Cup generations",
+      "intro": "The source combines the players who first raised Ecuador’s ceiling with the generations that made World Cup qualification a regular expectation.",
+      "lineup": {
+        "formation": "4-4-2",
+        "image": "../assets/ecuador/source/HTVtrqjWUAArCdL.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "José Francisco Cevallos",
+            "years": "1994–2010",
+            "description": "A commanding figure through Ecuador’s breakthrough era, starter at the 2002 World Cup and later the shootout hero of LDU’s 2008 Libertadores triumph.",
+            "image": "../assets/ecuador/source/HTVt_TCWAAAB170.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Ulises de la Cruz",
+            "years": "1995–2010",
+            "description": "101 caps, relentless running and one of the symbols of the 2002–06 generation.",
+            "image": "../assets/ecuador/source/HTVufidWUAAkMfM.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Iván Hurtado",
+            "years": "1992–2014",
+            "description": "Ecuador’s record appearance-maker in the source, quick, composed and captain across two decades.",
+            "image": "../assets/ecuador/source/HTVuf_QWsAAzmYI.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Vicente Lecaro",
+            "years": "1959–1969",
+            "description": "A Barcelona SC legend praised in the source as Ecuador’s finest central defender.",
+            "image": "../assets/ecuador/source/HTVvY9nWYAAFlfZ.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Walter Ayoví",
+            "years": "2001–2017",
+            "description": "121 caps, two World Cups and major tactical versatility as full-back or midfielder.",
+            "image": "../assets/ecuador/source/HTVvZZvXQAAPUay.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Moisés Caicedo",
+            "years": "2020–",
+            "description": "The modern midfield reference: intensity, recovery and elite distribution.",
+            "image": "../assets/ecuador/source/HTVxEUpWYAAaOP_.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Édison Méndez",
+            "years": "2000–2014",
+            "description": "Scorer of Ecuador’s first World Cup-winning goal and a key figure across three cycles.",
+            "image": "../assets/ecuador/source/HTVxEzIXYAAfYOp.jpg"
+          },
+          {
+            "position": "RM",
+            "name": "Antonio Valencia",
+            "years": "2004–2019",
+            "description": "99 caps, explosive power and a decade at Manchester United.",
+            "image": "../assets/ecuador/source/HTVx8E9WUAA3Ag-.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Álex Aguinaga",
+            "years": "1987–2004",
+            "description": "The great creative icon of Ecuador’s 1990s rise.",
+            "image": "../assets/ecuador/source/HTVx8eiWwAAEKAu.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Enner Valencia",
+            "years": "2012–",
+            "description": "Ecuador’s record scorer in the source and its leading World Cup marksman.",
+            "image": "../assets/ecuador/source/HTVyeojWwAAQvq2.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Alberto Spencer",
+            "years": "1959–1972",
+            "description": "Copa Libertadores’ all-time leading scorer and Ecuador’s first continental superstar.",
+            "image": "../assets/ecuador/source/HTVyfHyXkAA2mJZ.jpg"
+          }
+        ]
+      },
+      "closing": "Agustín Delgado, Christian Benítez, Eduardo Hurtado, Carlos Tenorio, Polo Carrera, Jorge Bolaños, José Villafuerte, Luis Capurro, Giovanny Espinoza and Christian Noboa are among the major omissions. Kendry Páez and Willian Pacho may force their way in."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and continental landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First match: Bolivia 1–1 Ecuador, 8 August 1938.",
+            "Biggest victory: Ecuador 6–0 Peru, 22 June 1975.",
+            "Heaviest defeat: Argentina 12–0 Ecuador, Copa América, 22 January 1942.",
+            "Best World Cup: Round of 16, 2006.",
+            "Best Copa América: 4th, 1959 & 1993."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Iván Hurtado, 168.",
+            "Top scorer: Enner Valencia, 49.",
+            "World Cup goals: Enner Valencia, 6.",
+            "Most World Cup appearances: Édison Méndez, 8.",
+            "Copa América top scorer in one edition: Carlos Alberto Raffo, 6 in 1963."
+          ]
+        },
+        {
+          "title": "Continental record",
+          "items": [
+            "Alberto Spencer remains the Copa Libertadores’ all-time leading scorer in the source with 54 goals: 48 for Peñarol and 6 for Barcelona SC."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/ecuador/source/HTVzAk-WEAAMLe7.jpg",
+        "../assets/ecuador/source/HTVzYB7WAAEYguz.jpg",
+        "../assets/ecuador/source/HTVztuXW4AAHw45.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Guayaquil giants, Quito altitude, Riobamba history and a waterfall ground",
+      "cards": [
+        {
+          "title": "Estadio Monumental",
+          "meta": "Barcelona SC · Guayaquil · opened 1987 · ~59,000",
+          "text": "Ecuador’s largest club ground in the source. Its enormous yellow bowl has staged Libertadores finals, national-team matches and countless Clásicos del Astillero.",
+          "images": [
+            "../assets/ecuador/source/HTXQlY6WkAAB8MV.jpg",
+            "../assets/ecuador/source/HTXQl4rXUAArmzU.jpg"
+          ]
+        },
+        {
+          "title": "Estadio George Capwell",
+          "meta": "Emelec · Guayaquil · opened 1945 · ~40,000",
+          "text": "Opened originally with a baseball game before football arrived later that year. Embedded in central Guayaquil and repeatedly rebuilt, it hosted every match of the 1947 South American Championship.",
+          "images": [
+            "../assets/ecuador/source/HTXQ2Y_WEAAMW9W.jpg",
+            "../assets/ecuador/source/HTXQ2zpXMAAkgba.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Olímpico Atahualpa",
+          "meta": "Quito · opened 1951 · ~2,780 m altitude",
+          "text": "The great home of La Tri’s rise. Altitude became a strategic weapon during the 1990s and 2000s, and the stadium witnessed Ecuador’s first World Cup qualification in 2001.",
+          "images": [
+            "../assets/ecuador/source/HTXRMk5WsAA4ty8.jpg",
+            "../assets/ecuador/source/HTXRPLSWAAEhMxU.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Rodrigo Paz Delgado",
+          "meta": "LDU · Quito · opened 1997 · ~2,700 m",
+          "text": "Known as Casa Blanca, it staged the first leg of the 2008 Libertadores final and later became a regular national-team home.",
+          "images": [
+            "../assets/ecuador/source/HTXSZOeWMAA-Nc8.jpg",
+            "../assets/ecuador/source/HTXSZnBWMAAJQ_X.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Olímpico Fernando Guerrero",
+          "meta": "Riobamba · opened 14 March 1926 · ~14,400",
+          "text": "The source identifies it as Ecuador’s oldest actively used stadium and the country’s first purpose-built professional football ground. It remains home to Olmedo.",
+          "images": [
+            "../assets/ecuador/source/HTXUfqpW0AAps6V.jpg",
+            "../assets/ecuador/source/HTXUgGqXMAAa1oa.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Coronel José Silva Romo",
+          "meta": "Baños de Agua Santa · opened 2010 · ~4,000",
+          "text": "Set beside cliffs and cascading waterfalls, it is one of Ecuador’s most distinctive grounds—a place where football sits directly against the Andean landscape.",
+          "images": [
+            "../assets/ecuador/source/HTXU9QNWkAA5um8.jpg",
+            "../assets/ecuador/source/HTXU9jVWAAAjLlO.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Ecuador remains in the race",
+          "paragraphs": [
+            "Ecuador is eligible for the 2030 FIFA World Cup and will compete in the CONMEBOL qualifiers."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
