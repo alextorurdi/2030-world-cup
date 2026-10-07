@@ -1,0 +1,730 @@
+{
+  "meta": {
+    "title": "Trinidad & Tobago · The 211 Files",
+    "description": "Trinidad & Tobago in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Trinidad & Tobago thread export",
+      "file": "T&T.docx",
+      "imageCount": 99
+    },
+    "sourceNote": "All local source images retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#012",
+    "country": "Trinidad & Tobago",
+    "flag": "🇹🇹",
+    "association": "Trinidad and Tobago Football Association (TTFA)",
+    "founded": "1908",
+    "fifa": "1963",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "1",
+    "bestRecords": [
+      "FIFA World Cup: Group stage, 2006",
+      "CONCACAF: 1973 / Gold Cup semi-final, 2000",
+      "🏆 10× Caribbean champions"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/012.png",
+    "fallbackLogo": "../assets/trinidad-tobago/source/HThc5YQXwAAJ9bB.jpg"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A twin-island republic at the Caribbean’s southern edge",
+      "entries": [
+        {
+          "paragraphs": [
+            "Just off Venezuela at the Caribbean’s southern edge, Trinidad & Tobago is a twin-island republic of about 1.5 million people. Trinidad holds most of the population while smaller Tobago retains a strong identity of its own. Carnival, calypso and soca are global exports."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTiKpqVWAAA1Q7N.png",
+            "../assets/trinidad-tobago/source/HTiKvOIWgAEiku3.png",
+            "../assets/trinidad-tobago/source/HTiKyFwXoAA71fi.jpg",
+            "../assets/trinidad-tobago/source/HTiK5IhWAAETEmT.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Different colonial paths, emancipation, migration and independence",
+      "entries": [
+        {
+          "heading": "Two islands, two colonial histories",
+          "paragraphs": [
+            "Trinidad remained Spanish until Britain captured it in 1797. Tobago changed hands repeatedly among European powers before British control became permanent. Britain formally united the two islands in 1889."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTiLceyXEAAuDNt.png"
+          ]
+        },
+        {
+          "heading": "Emancipation and Indian indenture",
+          "date": "1838–1917",
+          "paragraphs": [
+            "Slavery shaped both plantation economies. Full emancipation came in 1838; from 1845 to 1917 more than 140,000 migrants arrived from India to work mainly on Trinidad’s estates, joining Afro-Caribbean, European, Chinese and other communities."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTiMH88XQAAMAU4.jpg"
+          ]
+        },
+        {
+          "heading": "Independence, republic and energy",
+          "date": "1962–present",
+          "paragraphs": [
+            "Trinidad & Tobago became independent from Britain on 31 August 1962 and a republic in 1976. The modern Tobago House of Assembly was re-established in 1980 for local administration. Oil and especially natural gas later made the country one of the Caribbean’s major energy economies."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTiNRnqWwAEwQwl.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "British clubs, race and class, the national league and Caribbean club power",
+      "entries": [
+        {
+          "heading": "The colonial game takes root",
+          "date": "1890s–1908",
+          "paragraphs": [
+            "Organised football took root in colonial Trinidad through British residents, schools, the military and commercial circles. Scottish expatriates founded Clydesdale in 1897; Irish-rooted Shamrock followed, while Queen’s Park Cricket Club joined.",
+            "English expatriates formed Casuals in 1904, while Police, Local Forces, Queen’s Royal College and St Mary’s also played. The game centred on Port of Spain’s Queen’s Park Savannah.",
+            "On 23 July 1908 the Trinidad Amateur Football Association was formed. That September it launched its first league at the Savannah, with Clydesdale as inaugural champion."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTsFuFVWQAAst68.png",
+            "../assets/trinidad-tobago/source/HTsF9HbWIAAPsTu.png",
+            "../assets/trinidad-tobago/source/HTs42sdXcAAllhz.jpg"
+          ]
+        },
+        {
+          "heading": "Football and colonial society",
+          "date": "1910s–1930s",
+          "paragraphs": [
+            "The early clubs mirrored colonial society. Clydesdale, Shamrock and Casuals drew heavily from white expatriate communities. Maple, founded in 1917, drew educated Black and mixed-race players from schools and the civil service.",
+            "Sporting Club of Port of Spain became the first mixed team to win the Trinidad Championship in 1926, fielding Chinese, French Creole and African players. Maple won in 1927 and 1928.",
+            "Everton FC from Belmont then won three straight championships from 1930 to 1932, although the old white clubs remained competitive."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HTtx4M8WMAANjT5.png",
+            "../assets/trinidad-tobago/source/HT23DVdWsAAC6B_.jpg"
+          ]
+        },
+        {
+          "heading": "Malvern and the post-war shift",
+          "date": "1940s–1950s",
+          "paragraphs": [
+            "Founded in 1942, Malvern opened another important space for Black footballers, earning the nickname Glamour Boys for their stylish play. They won championships in 1948 and 1949.",
+            "Maple, Malvern, Sporting Club and Notre Dame helped make the Port of Spain league one of the Caribbean’s strongest competitions."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3AbqVXcAENX1B.png",
+            "../assets/trinidad-tobago/source/HT3CYSCW4AA8nD8.jpg"
+          ]
+        },
+        {
+          "heading": "Tobago develops its own game",
+          "date": "1930s–1960s",
+          "paragraphs": [
+            "Tobago football grew through village cricket clubs and schools, with a schools’ cup established in 1931. In the 1960s the Tobago FA and clubs such as Slammers modernised the game, inspired by Trinidadian giants like Maple."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3FbTdW4AAcp5u.png"
+          ]
+        },
+        {
+          "heading": "Maple and Regiment",
+          "date": "1960s",
+          "paragraphs": [
+            "Maple dominated the 1960s with seven titles. Two of the remaining three went to Regiment, a military side rooted in the 2nd Battalion of the West India Regiment. Stable army employment attracted talented footballers from across the Caribbean."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3JjEqX0AAthMY.png"
+          ]
+        },
+        {
+          "heading": "Defence Force transforms the national league",
+          "date": "1970s–1995",
+          "paragraphs": [
+            "A national league replaced the Port of Spain-centred order in the 1970s. Defence Force, founded in 1974 from the Regiment team, won 15 national championships in the 22 seasons from 1974 to 1995.",
+            "They shared the 1978 CONCACAF Champions’ Cup after the final stage was abandoned and won outright in 1985 by beating Olimpia of Honduras. They remain Trinidad & Tobago’s only continental champions."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3QE-UWwAA0IBo.png",
+            "../assets/trinidad-tobago/source/HT3RKSmXgAAIUx4.png"
+          ]
+        },
+        {
+          "heading": "The professional era",
+          "date": "1996–2010s",
+          "paragraphs": [
+            "The domestic game moved through a semi-professional phase from 1996 before the TT Pro League launched in 1999. Defence Force were challenged by W Connection, Joe Public, San Juan Jabloteh and later Central FC.",
+            "Trinidadian clubs ruled much of the Caribbean club championship: Joe Public won in 1998 and 2000; W Connection in 2002, 2006 and 2009; Jabloteh in 2003; Central FC in 2015 and 2016; Caledonia and other Trinidadian clubs also took titles."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3R9JvXAAAKp70.png",
+            "../assets/trinidad-tobago/source/HT3oROKWsAAnt4r.png"
+          ]
+        },
+        {
+          "heading": "The TTPFL relaunch",
+          "date": "2023–2026",
+          "paragraphs": [
+            "The professional era was never financially easy: clubs withdrew, returned or disappeared. In 2023 the TTFA launched the TT Premier Football League and took direct oversight of an elite two-tier structure.",
+            "1976 FC Phoenix won the inaugural Tier II in 2023 and became the first Tobago-based Tier I club. Defence Force won the 2025/26 championship ahead of Club Sando."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT3pyiQXEAARBY8.jpg",
+            "../assets/trinidad-tobago/source/HT3qICCXYAAU-l0.png",
+            "../assets/trinidad-tobago/source/HT3qSgxWkAEIKfc.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "TTPFL, licensing and the Caribbean route",
+      "cards": [
+        {
+          "title": "TT Premier Football League",
+          "meta": "Tier I · 12 clubs",
+          "text": "The source describes a double round robin from October to May. Defence Force are the 2025/26 champions.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT3xagwW0AAr9yA.png"
+          ]
+        },
+        {
+          "title": "Promotion, relegation and licensing",
+          "meta": "Two professional tiers",
+          "text": "Promotion and relegation connect the tiers, but sporting results alone do not guarantee promotion: clubs must also meet TTFA licensing requirements.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT3yL9dWgAAKjNI.png"
+          ]
+        },
+        {
+          "title": "First Citizens Cup",
+          "meta": "League Cup",
+          "text": "The source says the First Citizens Cup is the only active national knockout competition, involving clubs from both TTPFL Tier I and Tier II.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT39pj9WYAARA_s.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup berths",
+          "meta": "Champion + runner-up",
+          "text": "The TTPFL champion and runner-up qualify directly for the Caribbean Cup, whose top three advance to the CONCACAF Champions Cup.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT4AF0bXoAAuuod.jpg",
+            "../assets/trinidad-tobago/source/HT4AGIRWoAAt1Y7.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "Third place",
+          "text": "The TTPFL’s third-placed team enters the CFU Club Shield, where the top two qualify for the Caribbean Cup.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT4AGdiWcAMaPGz.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Institutional giants and regional identities",
+      "cards": [
+        {
+          "title": "Defence Force",
+          "meta": "Historic standard",
+          "text": "Defence Force are the defining domestic power: dominant national champions from the 1970s onward and winners of the 1978 and 1985 CONCACAF Champions’ Cups.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT4AxnMXAAAXyUI.jpg"
+          ]
+        },
+        {
+          "title": "Police FC",
+          "meta": "Institutional survivor",
+          "text": "The Police Service Sports Club football team is one of the few transversal institutional sides still prominent. The source credits three league titles, three FA Cups and a CONCACAF Championship final in 1991.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT4vtg3WIAAkSug.jpg"
+          ]
+        },
+        {
+          "title": "San Juan Jabloteh",
+          "meta": "San Juan / Santa Cruz",
+          "text": "A major regional club from the San Juan–Santa Cruz area and one of the professional era’s important powers.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT48vraXQAA3G_6.jpg"
+          ]
+        },
+        {
+          "title": "Central FC",
+          "meta": "Couva / Central Trinidad",
+          "text": "A leading representative of Central Trinidad and back-to-back Caribbean club champion in 2015 and 2016.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT48v9OXkAAzGEm.jpg"
+          ]
+        },
+        {
+          "title": "Club Sando",
+          "meta": "San Fernando / South Trinidad",
+          "text": "A strong standard-bearer for San Fernando and southern Trinidad in the current TTPFL.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT48wyPW0AAHpL0.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From colonial internationals to Germany 2006 and the modern Soca Warriors",
+      "entries": [
+        {
+          "heading": "The representative side begins",
+          "date": "1905–1963",
+          "paragraphs": [
+            "On 21 July 1905 the colonial representative side travelled to Georgetown and beat British Guiana 4–1. For decades most internationals remained Caribbean affairs.",
+            "Trinidad & Tobago won the 1947 Standard Life Trophy against British Guiana and Jamaica. FIFA membership came after independence, in 1963."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT7G7twXUAAZDRM.jpg",
+            "../assets/trinidad-tobago/source/HT7HXr-WwAAyoBI.jpg"
+          ]
+        },
+        {
+          "heading": "First World Cup campaigns",
+          "date": "1965–1970",
+          "paragraphs": [
+            "The first World Cup campaign was for England 1966. T&T beat Suriname 4–1 at home but lost the return 6–1; defeats to Costa Rica ended the attempt. For 1970 they earned a first official qualifying victory against Haiti."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT7JGjsXkAADIiw.jpg"
+          ]
+        },
+        {
+          "heading": "The CONCACAF near-miss",
+          "date": "1967–1973",
+          "paragraphs": [
+            "T&T finished fourth at the 1967 CONCACAF Championship, fifth in 1969 and fifth again at home in 1971.",
+            "In the 1973 final round in Haiti, T&T lost 2–1 to the hosts after several efforts were disallowed; the source notes that match officials were later banned by FIFA over tournament misconduct.",
+            "Haiti took the region’s only 1974 World Cup place. T&T nevertheless beat Mexico 4–0 in the same final round."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT7LzyxWkAAzLbu.jpg",
+            "../assets/trinidad-tobago/source/HT7NyaoXkAAGNjC.jpg",
+            "../assets/trinidad-tobago/source/HT7N-7MXIAAhri7.jpg"
+          ]
+        },
+        {
+          "heading": "First Caribbean title",
+          "date": "1978–1981",
+          "paragraphs": [
+            "T&T finished runners-up in the inaugural 1978 CFU Championship, last in 1979, then bounced back in 1981 to claim their first regional title without conceding."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT7hQ2qWIAAds-H.jpg"
+          ]
+        },
+        {
+          "heading": "Strike Squad era",
+          "date": "1988–1990",
+          "paragraphs": [
+            "T&T won the 1988 CFU Championship and finished third in the 1989 CONCACAF Championship, two points short of Italia ’90.",
+            "In the inaugural 1989 Caribbean Cup they beat Grenada 2–1 in the final. The 1990 edition at home was abandoned after an attempted coup d’état."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT7riCaWQAARN7K.png",
+            "../assets/trinidad-tobago/source/HT7uVPnX0AAoc48.jpg",
+            "../assets/trinidad-tobago/source/HT70pZrWIAAjOns.png"
+          ]
+        },
+        {
+          "heading": "Caribbean supremacy",
+          "date": "1991–1999",
+          "paragraphs": [
+            "The 1990s became Trinidad & Tobago’s great regional decade: runners-up in 1991, champions in 1992, third in 1993, then four consecutive Caribbean Cups from 1994 to 1997.",
+            "Jamaica stopped the streak in the 1998 final. Hosting again in 1999, T&T reclaimed the trophy when Stern John’s 119th-minute golden goal beat Cuba 2–1."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT72mdCWwAAtdTD.jpg",
+            "../assets/trinidad-tobago/source/HT75jkeW8AApI5-.png",
+            "../assets/trinidad-tobago/source/HT8Be9rWsAA9Z2N.png",
+            "../assets/trinidad-tobago/source/HT8DoYAXYAAMW3y.jpg",
+            "../assets/trinidad-tobago/source/HT8F4HpXkAA83p5.png",
+            "../assets/trinidad-tobago/source/HT8H_D0XkAEBBZi.jpg",
+            "../assets/trinidad-tobago/source/HT8LcofW8AEyHbY.jpg"
+          ]
+        },
+        {
+          "heading": "Gold Cup 2000 — continental high point",
+          "date": "2000",
+          "paragraphs": [
+            "T&T progressed from a group with Mexico and Guatemala, then beat Costa Rica with a golden goal to reach their first Gold Cup semi-final. Eventual champions Canada won 1–0."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8MycQXEAEvB4S.png"
+          ]
+        },
+        {
+          "heading": "Tenth Caribbean title",
+          "date": "2001",
+          "paragraphs": [
+            "At the 2001 Caribbean Cup, T&T beat Cuba in the semi-final and Haiti 3–0 in the final. It was their tenth—and so far last—senior Caribbean title."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8O_niXoAAMB8w.png"
+          ]
+        },
+        {
+          "heading": "World Cup qualifying frustration",
+          "date": "2002–2005",
+          "paragraphs": [
+            "T&T reached the final hexagonal of the 2002 World Cup qualifiers but finished bottom. They missed the 2003 Gold Cup and were third in the 2005 Caribbean Cup final round before another Gold Cup group-stage exit."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8XaV5WwAAJu2C.png",
+            "../assets/trinidad-tobago/source/HT8YonPWUAA9GZk.png"
+          ]
+        },
+        {
+          "heading": "Germany 2006 qualification",
+          "date": "2005",
+          "paragraphs": [
+            "Leo Beenhakker arrived during the campaign. T&T survived the final CONCACAF round in fourth and met Bahrain in the intercontinental playoff.",
+            "The first leg ended 1–1 through Chris Birchall. In Manama, Dennis Lawrence headed Dwight Yorke’s corner into the net and T&T qualified 2–1 on aggregate."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8ZKpMWMAAnUvX.jpg",
+            "../assets/trinidad-tobago/source/HT8ZhsXWMAADIfT.jpg"
+          ]
+        },
+        {
+          "heading": "Germany 2006",
+          "date": "2006",
+          "paragraphs": [
+            "Debutants immediately produced their defining finals result. Avery John was sent off against Sweden, but Shaka Hislop inspired ten men to a 0–0 draw.",
+            "England and Paraguay both won 2–0, leaving T&T bottom with one point and no goals, but the Soca Warriors returned home as national heroes."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8Z87TXsAA9Pgj.png",
+            "../assets/trinidad-tobago/source/HT8aGoeW4AAB_4T.jpg"
+          ]
+        },
+        {
+          "heading": "Post-2006 transition",
+          "date": "2007–2011",
+          "paragraphs": [
+            "T&T lost the 2007 Caribbean Cup final to Haiti, finished bottom of their Gold Cup group, missed the 2009 and 2011 Gold Cups and finished bottom of the final South Africa 2010 hexagonal."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8bI3gXEAAjbRJ.jpg",
+            "../assets/trinidad-tobago/source/HT8cf90WMAAjA11.jpg"
+          ]
+        },
+        {
+          "heading": "Regional recovery",
+          "date": "2012–2015",
+          "paragraphs": [
+            "T&T reached the 2012 Caribbean Cup final and lost to Cuba after extra time. At the 2013 Gold Cup they reached the quarter-final before Mexico won 1–0.",
+            "They reached another Caribbean Cup final in 2014 and lost to Jamaica on penalties. At the 2015 Gold Cup a 4–4 draw with Mexico gave T&T first place in the group, but Panama won a nine-round quarter-final shootout."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT8d8buXUAAPQrk.jpg",
+            "../assets/trinidad-tobago/source/HT88Pf4XYAAYbyr.jpg",
+            "../assets/trinidad-tobago/source/HT8-I7vWQAARcZJ.jpg"
+          ]
+        },
+        {
+          "heading": "Couva 2017",
+          "date": "2017",
+          "paragraphs": [
+            "T&T missed the 2017 Caribbean Cup and Gold Cup and finished bottom of the 2018 World Cup final round. Already eliminated, they became unlikely spoilers.",
+            "USA needed only a draw in Couva. An own goal and Alvin Jones’ spectacular strike produced a 2–1 T&T win and ended the Americans’ seven-World-Cup streak."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9AAomWEAAm-Po.jpg",
+            "../assets/trinidad-tobago/source/HT9ATEBW8AASrAX.jpg"
+          ]
+        },
+        {
+          "heading": "Governance crisis",
+          "date": "2020",
+          "paragraphs": [
+            "FIFA appointed a Normalisation Committee in March 2020 amid debt and governance concerns. When former TTFA officials challenged the intervention in local courts, FIFA suspended the association for two months."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9Ak5MWMAAKmuL.jpg",
+            "../assets/trinidad-tobago/source/HT9C5ziXoAENFMK.jpg"
+          ]
+        },
+        {
+          "heading": "Gold Cup 2021 and Qatar 2022",
+          "date": "2021",
+          "paragraphs": [
+            "T&T held defending champions Mexico 0–0 at the 2021 Gold Cup but a loss to El Salvador and draw with Guatemala meant another group exit. Qatar 2022 hopes had ended in the first round, one point behind Saint Kitts & Nevis."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9EPNeXgAAw8ik.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League reprieve",
+          "date": "2022–2023",
+          "paragraphs": [
+            "T&T finished one point behind Nicaragua in League B, but Nicaragua were sanctioned for fielding an ineligible player. The Soca Warriors took their place in League A and qualified directly for the 2023 Gold Cup."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9FfqbXMAAHnGo.jpg"
+          ]
+        },
+        {
+          "heading": "Gold Cups 2023 and 2025",
+          "date": "2023–2025",
+          "paragraphs": [
+            "At the 2023 Gold Cup, T&T beat Saint Kitts & Nevis 3–0 before defeats to Jamaica and the United States. They reached the 2025 edition through a 6–1 aggregate playoff win over Cuba but again exited in the group stage."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9Gla2WYAA-QJp.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League A",
+          "date": "2023–2025",
+          "paragraphs": [
+            "In 2023/24 T&T finished second, one point behind Panama and ahead of Martinique, Guatemala, Curaçao and El Salvador, reaching the quarter-finals where the United States eliminated them. In 2024/25 they finished fourth and narrowly avoided relegation."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9JiytWUAA1CMX.jpg"
+          ]
+        },
+        {
+          "heading": "2026 World Cup qualifying",
+          "date": "2025",
+          "paragraphs": [
+            "T&T reached the final round with Curaçao, Jamaica and Bermuda. A home draw with Curaçao and defeat in Jamaica put them under immediate pressure.",
+            "They beat Bermuda 3–0 away, drew in Curaçao and at home to Jamaica, then beat Bermuda 2–1. Nine points meant third place: Curaçao qualified and Jamaica reached the playoff."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9Jv6ZW4AAGLs4.jpg",
+            "../assets/trinidad-tobago/source/HT9J8DRWAAAbj6a.jpg"
+          ]
+        },
+        {
+          "heading": "The 2026/27 Nations League",
+          "date": "2026",
+          "paragraphs": [
+            "The campaign began painfully: T&T led Haiti 2–1 before conceding twice in stoppage time to lose 3–2, then fell 2–1 at home to Dominican Republic. Their group also contains Curaçao, Costa Rica and Nicaragua."
+          ],
+          "images": [
+            "../assets/trinidad-tobago/source/HT9KN4IWYAA6L5G.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-4-2 mixing the Strike Squad, Germany 2006 and the country’s greatest overseas stars",
+      "intro": "The source combines the 1989 Strike Squad, the 2006 World Cup generation and Trinidad & Tobago’s most accomplished overseas players.",
+      "lineup": {
+        "formation": "4-4-2",
+        "image": "../assets/trinidad-tobago/source/HT9bY_1WgAEEin7.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Shaka Hislop",
+            "years": "1999–2006",
+            "description": "A Premier League veteran whose defining national-team night came at the World Cup, producing a superb clean sheet as ten-man T&T held Sweden 0–0.",
+            "image": "../assets/trinidad-tobago/source/HT9b-5DX0AAnY_Y.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Carlos Edwards",
+            "years": "1995–2010",
+            "description": "A 2006 World Cup hero with Premier League experience and enormous longevity.",
+            "image": "../assets/trinidad-tobago/source/HT9dakYWgAA67OV.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Marvin Andrews",
+            "years": "1996–2009",
+            "description": "Powerful, committed and a centurion whose presence embodied the qualifying side’s resilience.",
+            "image": "../assets/trinidad-tobago/source/HT9da0ZXgAAQnIS.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Dennis Lawrence",
+            "years": "2000–2009",
+            "description": "At 2.01m impossible to miss—and his header in Bahrain sent T&T to the World Cup.",
+            "image": "../assets/trinidad-tobago/source/HT9eFxSXUAECc90.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Avery John",
+            "years": "1996–2009",
+            "description": "Athletic, versatile and a long-serving defender whose red card did not stop the famous draw with Sweden.",
+            "image": "../assets/trinidad-tobago/source/HT9eGD2WcAA81PF.jpg"
+          },
+          {
+            "position": "LM",
+            "name": "Russell Latapy",
+            "years": "1988–2009",
+            "description": "The Little Magician, creative brain of two eras from the Strike Squad to 2006.",
+            "image": "../assets/trinidad-tobago/source/HT9giwLW4AAbRgc.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Emerald Cummings",
+            "years": "1965–1980",
+            "description": "A North American Soccer League midfielder and major figure in the 1973 CONCACAF campaign.",
+            "image": "../assets/trinidad-tobago/source/HT9gjATWIAAVkAI.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Dwight Yorke",
+            "years": "1989–2009",
+            "description": "The 2006 captain and 1999 English Treble winner with Manchester United.",
+            "image": "../assets/trinidad-tobago/source/HT9hlR1XQAAv6eu.jpg"
+          },
+          {
+            "position": "LM",
+            "name": "Angus Eve",
+            "years": "1994–2005",
+            "description": "The appearance record-holder in the source, tireless and tactically intelligent.",
+            "image": "../assets/trinidad-tobago/source/HT9hlnjWkAArm8X.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Stern John",
+            "years": "1995–2011",
+            "description": "Trinidad & Tobago’s record scorer in the source with 70 international goals.",
+            "image": "../assets/trinidad-tobago/source/HT9iE48XwAEdEi_.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Steve David",
+            "years": "1972–1976",
+            "description": "The explosive star of the 1973 qualifying side and later a NASL scoring phenomenon.",
+            "image": "../assets/trinidad-tobago/source/HT9iFKVWEAAIhkb.jpg"
+          }
+        ]
+      },
+      "closing": "Michael Maurice, Clayton Morris, Hutson Charles, David Nakhid, Leonson Lewis, Kenwyne Jones, Cornell Glen, Chris Birchall, Kevin Molino and Levi García are among the painful omissions."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and regional landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First recorded representative match: British Guiana 1–4 Trinidad, 21 July 1905.",
+            "First World Cup qualifier: Trinidad & Tobago 4–1 Suriname, 7 February 1965.",
+            "Biggest win: Trinidad & Tobago 15–0 Anguilla, 10 November 2019.",
+            "Heaviest defeat: Mexico 7–0 Trinidad & Tobago, 8 October 2000.",
+            "Best FIFA ranking in the source: 25th, 2001."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Angus Eve, 118 (RSSSF count in the source).",
+            "Most goals: Stern John, 70 in 115 matches.",
+            "Only World Cup point: 0–0 v Sweden, 10 June 2006."
+          ]
+        },
+        {
+          "title": "Regional records",
+          "items": [
+            "10 senior Caribbean titles: 1981 & 1988 CFU Championships plus eight Caribbean Cups.",
+            "Caribbean Cup titles: 1989, 1992, 1994–97, 1999 and 2001.",
+            "Best Gold Cup: semi-final, 2000.",
+            "Defence Force remain the country’s only CONCACAF club champions."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/trinidad-tobago/source/HT9jOhVWEAA8LbH.jpg",
+        "../assets/trinidad-tobago/source/HT9jffiWYAASWUN.jpg",
+        "../assets/trinidad-tobago/source/HT9mc7FWEAEDqhj.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "National memories, Couva, Skinner Park and an oil-refinery ground",
+      "cards": [
+        {
+          "title": "Hasely Crawford Stadium",
+          "meta": "Port of Spain · opened 1982 · ~23,000",
+          "text": "Opened as the National Stadium and now the Soca Warriors’ main home. Its defining football memory is bittersweet: a packed crowd watched the 0–1 USA defeat that denied T&T a place at Italia ’90.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT-NBQwW4AA6T4P.jpg",
+            "../assets/trinidad-tobago/source/HT-NBvIWwAAyf3P.jpg"
+          ]
+        },
+        {
+          "title": "Ato Boldon Stadium",
+          "meta": "Couva · built for the 2001 FIFA U-17 World Championship · ~8,000",
+          "text": "An important national and club venue. On 10 October 2017 it hosted T&T’s famous 2–1 win that eliminated the United States from the 2018 World Cup.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT-XwskWQAAkZSb.jpg",
+            "../assets/trinidad-tobago/source/HT-Xw-0XUAEUmam.jpg"
+          ]
+        },
+        {
+          "title": "Skinner Park",
+          "meta": "San Fernando · opened 1926 as Usine Park",
+          "text": "One of Trinidad & Tobago’s oldest active football grounds and a historic heart of the game in southern Trinidad. It has witnessed generations of local talent and was recently redeveloped.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT-YcI9WUAAxbvR.jpg",
+            "../assets/trinidad-tobago/source/HT-YcxVWwAACClZ.jpg"
+          ]
+        },
+        {
+          "title": "Guaracara Park",
+          "meta": "Point-a-Pierre · ~5,000",
+          "text": "Probably the country’s oddest football setting. The cricket-and-football ground sits within the historic Petrotrin oil refinery complex and served as a home venue for W Connection FC.",
+          "images": [
+            "../assets/trinidad-tobago/source/HT-bN1UWIAAJDDy.jpg",
+            "../assets/trinidad-tobago/source/HT-bONxXQAA-n_J.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Trinidad & Tobago remain in the race",
+          "paragraphs": [
+            "CONCACAF qualifying begins in September 2027. The source says the top 13 regional teams in the FIFA ranking skip Round One; Trinidad & Tobago are currently 12th and therefore provisionally inside the bye places. Round Two has six groups of four, with the top two advancing."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
