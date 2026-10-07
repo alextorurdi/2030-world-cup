@@ -1239,7 +1239,9 @@
           "flag": "🇹🇹",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/012.png",
+          "page": "./associations/trinidad-tobago.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Turks and Caicos Islands",
