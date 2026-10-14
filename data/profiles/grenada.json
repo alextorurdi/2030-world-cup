@@ -1,0 +1,678 @@
+{
+  "meta": {
+    "title": "Grenada · The 211 Files",
+    "description": "Grenada in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Grenada thread export",
+      "file": "Grenada.docx",
+      "imageCount": 74
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread text and 74 direct X-media images. All local source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#013",
+    "country": "Grenada",
+    "flag": "🇬🇩",
+    "association": "Grenada Football Association (GFA)",
+    "founded": "1924",
+    "fifa": "1978",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🥈 Caribbean Cup: 1989, 2008",
+      "Gold Cup: 3 appearances"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/013.png",
+    "fallbackLogo": "../assets/grenada/source/HUCCaM5XgAAmATE.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "The Spice Isle at the southern end of the Lesser Antilles",
+      "entries": [
+        {
+          "paragraphs": [
+            "Grenada is a tiny volcanic island state at the southern end of the Lesser Antilles. The Spice Isle comprises Grenada, Carriacou and Petite Martinique, covers just 344 km²—slightly larger than Malta—and has around 117,000 people. St George’s is its capital."
+          ],
+          "images": [
+            "../assets/grenada/source/HUCDxkoWoAEYzcu.jpg",
+            "../assets/grenada/source/HUCD-BKWsAA0lMX.jpg",
+            "../assets/grenada/source/HUCEKHtWAAAi9Zh.jpg",
+            "../assets/grenada/source/HUCENigXgAAlYYd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Colonial rule, revolution, invasion and democratic restoration",
+      "entries": [
+        {
+          "heading": "French and British Grenada",
+          "date": "17th century–1834",
+          "paragraphs": [
+            "France colonised Grenada in the 17th century before Britain secured it in 1783. African slavery powered a plantation economy built around sugar and later cocoa and spices. Emancipation came in 1834, but British colonial rule continued deep into the 20th century."
+          ],
+          "images": [
+            "../assets/grenada/source/HUCE7G_WMAALja8.png"
+          ]
+        },
+        {
+          "heading": "Independence",
+          "date": "1967–1979",
+          "paragraphs": [
+            "Grenada gained internal self-government as an Associated State in 1967 and full independence on 7 February 1974 under Eric Gairy. Political conflict intensified and, in March 1979, the New Jewel Movement overthrew Gairy while he was abroad."
+          ],
+          "images": [
+            "../assets/grenada/source/HUCFNbBW4AE1OWS.jpg"
+          ]
+        },
+        {
+          "heading": "The Bishop government",
+          "date": "1979–1983",
+          "paragraphs": [
+            "Maurice Bishop’s People’s Revolutionary Government aligned increasingly with Cuba and pursued major social projects, but an internal power struggle exploded in October 1983. Bishop and several supporters were executed after briefly escaping house arrest."
+          ],
+          "images": [
+            "../assets/grenada/source/HUCGeGBWUAA7zSR.jpg"
+          ]
+        },
+        {
+          "heading": "Invasion and democratic restoration",
+          "date": "1983–present",
+          "paragraphs": [
+            "Six days later US and Caribbean forces invaded Grenada. Civilian government was restored and elections returned in 1984. The democratic system has endured since, despite major shocks such as Hurricane Ivan, which devastated much of the island in 2004."
+          ],
+          "images": [
+            "../assets/grenada/source/HUCGsTaWsAA2e_s.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Sparse records, district football, schools and deeply local clubs",
+      "entries": [
+        {
+          "heading": "The first documented match",
+          "date": "1918",
+          "paragraphs": [
+            "The earliest football match documented in the source dates from 13 June 1918, when St George’s beat a combined St Andrew’s–St Patrick’s side 3–0 at Queen’s Park. Its district-versus-district nature suggests the game was already established beyond the capital."
+          ],
+          "images": [
+            "../assets/grenada/source/HUVq_ZrXsAE3tI1.jpg"
+          ]
+        },
+        {
+          "heading": "A wider Windward sporting culture",
+          "date": "19th–early 20th century",
+          "paragraphs": [
+            "Football, alongside cricket and other British sports, formed part of colonial society across the Windward Islands long before formal associations appeared. The source points to Barbados, where references to non-FA football reach back to the 1830s, as evidence of that broader regional culture."
+          ],
+          "images": [
+            "../assets/grenada/source/HUVsXXwWwAA-1dl.jpg"
+          ]
+        },
+        {
+          "heading": "The GFA and the missing early decades",
+          "date": "1920s",
+          "paragraphs": [
+            "Grenada’s documentary record is unusually thin. Later accounts suggest a Grenada Football Association was established in the early 1920s and a national league by 1924, but the source has almost no contemporary detail until the 1960s."
+          ],
+          "images": [
+            "../assets/grenada/source/HUWGBnmWcAIMEHU.jpg"
+          ]
+        },
+        {
+          "heading": "Schools and district football",
+          "paragraphs": [
+            "The source’s working impression is that the early competition relied heavily on town and district representative sides, while schools were another major organised football environment. Grenada Boys’ Secondary School, founded in 1885, was one of the island’s important sporting institutions."
+          ],
+          "images": [
+            "../assets/grenada/source/HUWH8T3WMAEptdt.jpg"
+          ]
+        },
+        {
+          "heading": "St John’s Sports and the post-war community game",
+          "date": "1926–1960s",
+          "paragraphs": [
+            "St John’s Sports of Gouyave was founded in 1926 and is regarded locally as Grenada’s oldest football club. After World War II the game remained intensely community-based."
+          ],
+          "images": [
+            "../assets/grenada/source/HUc9jtxWUAAuIEa.jpg"
+          ]
+        },
+        {
+          "heading": "Hurricanes, Green Street and the surviving record",
+          "date": "1960s",
+          "paragraphs": [
+            "St John’s Sports and Hurricanes of Victoria became major powers. One famous, if imperfectly documented, final supposedly saw Hurricanes recover from 0–4 down to win 5–4. The first champion preserved in the surviving record is Green Street in 1962, while much of the rest of the decade remains blank."
+          ],
+          "images": [
+            "../assets/grenada/source/HUc-pETXkAAmHmn.jpg"
+          ]
+        },
+        {
+          "heading": "Queen’s Park Rangers rise",
+          "date": "1969–1990s",
+          "paragraphs": [
+            "Queen’s Park Rangers were founded in St George’s in 1969, climbed rapidly from the Third Division and became the best-documented early league dynasty. QPR won in 1975/76, 1982 and 1984, then three straight known titles from 1994 to 1996."
+          ],
+          "images": [
+            "../assets/grenada/source/HUc_MsHWgAAYojJ.jpg"
+          ]
+        },
+        {
+          "heading": "Carenage and a community-centred league",
+          "date": "1970s–1980s",
+          "paragraphs": [
+            "Carenage were another leading force and are recorded as 1986 champions. The domestic game remained centred on small community grounds, with clubs tied closely to Gouyave, Victoria, Sauteurs, Grenville and St George’s."
+          ],
+          "images": [
+            "../assets/grenada/source/HUc_6vsWQAAbe50.jpg"
+          ]
+        },
+        {
+          "heading": "The field broadens",
+          "date": "1990s–2010s",
+          "paragraphs": [
+            "The modern title race broadened after the 1990s. Fontenoy, St Andrew’s Football League, Grenada Boys’ Secondary School and other sides became champions, while Hard Rock won three straight leagues from 2011 to 2013."
+          ],
+          "images": [
+            "../assets/grenada/source/HUdA2E-XAAAxcRI.jpg"
+          ]
+        },
+        {
+          "heading": "Hurricanes and Paradise",
+          "date": "2000s–2025",
+          "paragraphs": [
+            "Hurricanes and Paradise became the dominant modern clubs. Hurricanes won six known league crowns between 2003 and 2021/22; Paradise matched six known titles by 2024/25 and also became the dominant side in the Waggy T Super Knockout."
+          ],
+          "images": [
+            "../assets/grenada/source/HUdBcxjWkAAuGm2.jpg"
+          ]
+        },
+        {
+          "heading": "A perfect Paradise season, then St John’s",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Paradise’s 2024/25 league campaign was extraordinary: eighteen wins from eighteen, 64 goals scored and only eight conceded. In 2025 St John’s Sports then went unbeaten, ending a decades-long wait for a recorded modern championship and bringing the crown back to Gouyave."
+          ],
+          "images": [
+            "../assets/grenada/source/HUdB6AAXIAA2R-m.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Premier League, lower divisions, national knockouts and the Caribbean route",
+      "cards": [
+        {
+          "title": "GFA Premier League",
+          "meta": "10 clubs",
+          "text": "Grenada’s top level is not entirely professional, although professionalisation is one of the GFA’s objectives. The source describes a home-and-away season usually beginning in May and running to December or January.",
+          "images": [
+            "../assets/grenada/source/HUdu_1rXoAAhj96.jpg"
+          ]
+        },
+        {
+          "title": "First & Second Divisions",
+          "meta": "Promotion and relegation",
+          "text": "Below the Premier sit the First and Second Divisions. Usually the top two sides in the lower tier replace the bottom two in the division above.",
+          "images": [
+            "../assets/grenada/source/HUdwJ90XUAAFSYr.jpg"
+          ]
+        },
+        {
+          "title": "Waggy T Super Knockout",
+          "meta": "Open national knockout",
+          "text": "Grenada’s long-running knockout tournament admits GFA clubs from the Premier League, Division I and Division II, but also independent teams and youth sides outside the national league pyramid.",
+          "images": [
+            "../assets/grenada/source/HUe7m5nWgAAscv5.jpg"
+          ]
+        },
+        {
+          "title": "GFA Super Cup",
+          "meta": "Premier + First + Second Division clubs",
+          "text": "The source identifies the Super Cup as Grenada’s third national competition. Paradise FC International are the current champions.",
+          "images": [
+            "../assets/grenada/source/HUe-mjrXQAAxGGL.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "Premier League champion",
+          "text": "The league champion enters the CFU Club Shield, CONCACAF’s tournament for Caribbean leagues outside the professional Caribbean Cup. The finalists progress to the Caribbean Cup.",
+          "images": [
+            "../assets/grenada/source/HUe_n_EXsAAI4PS.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "Continental pathway",
+          "text": "The Caribbean Cup sends its top three clubs to the CONCACAF Champions Cup. The source notes that no Grenadian club has completed this route since the Shield was introduced in 2018.",
+          "images": [
+            "../assets/grenada/source/HUe__b3WsAA4CI8.jpg",
+            "../assets/grenada/source/HUe__w0WQAAQFoA.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "St George’s, Victoria, St Andrew, Gouyave and the parish-based game",
+      "cards": [
+        {
+          "title": "Queen’s Park Rangers",
+          "meta": "7 known titles",
+          "text": "QPR are the historical benchmark in the surviving league record. Founded in St George’s in 1969, they climbed the divisions almost immediately and, in the source, are the only club never relegated.",
+          "images": [
+            "../assets/grenada/source/HUfAzGEWIAAQM5E.jpg"
+          ]
+        },
+        {
+          "title": "Hurricanes & Paradise",
+          "meta": "6 known titles each",
+          "text": "Victoria’s Hurricanes and St Andrew’s Paradise are the great modern rivals for statistical supremacy. Paradise’s recent run includes back-to-back 2023/24 and 2024/25 championships.",
+          "images": [
+            "../assets/grenada/source/HUfByxLWUAADiP9.jpg",
+            "../assets/grenada/source/HUfBzICXgAA37OV.jpg"
+          ]
+        },
+        {
+          "title": "St John’s Sports",
+          "meta": "Gouyave · founded 1926",
+          "text": "Perhaps Grenada’s deepest community football institution. St John’s dominated parts of the poorly recorded 1960s and became official Premier League champions in 2025 after an unbeaten season.",
+          "images": [
+            "../assets/grenada/source/HUfCPckXYAAQIsq.jpg"
+          ]
+        },
+        {
+          "title": "The wider domestic map",
+          "meta": "Hard Rock · GBSS · Fontenoy · Camerhogne · St David’s",
+          "text": "Hard Rock of St Patrick won three straight leagues from 2011 to 2013. GBSS, Fontenoy, Camerhogne and St David’s add other strands to a league where clubs function less as global brands than as extensions of schools, villages, parishes and neighbourhoods.",
+          "images": [
+            "../assets/grenada/source/HUfD5IMWoAAA43I.jpg",
+            "../assets/grenada/source/HUfD5jMXMAAS66a.jpg",
+            "../assets/grenada/source/HUfD576XoAAr1ak.jpg",
+            "../assets/grenada/source/HUfD6P2XsAAvI8e.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "The Spice Boys from Windward football to three Gold Cups",
+      "entries": [
+        {
+          "heading": "First known international",
+          "date": "1934",
+          "paragraphs": [
+            "The Spice Boys played their first known international on 13 October 1934, beating British Guiana 2–1. They later defeated Barbados and British Guiana again before World War II, but for decades Grenada’s international life remained mainly Caribbean."
+          ],
+          "images": [
+            "../assets/grenada/source/HUfr5VIXYAACjbx.jpg"
+          ]
+        },
+        {
+          "heading": "Windward Islands champions",
+          "date": "1961–1970",
+          "paragraphs": [
+            "The Windward Islands tournament became a major stage. Grenada won the 1961 edition after recovering from a 6–3 loss to St Vincent to beat St Lucia 4–0 and Dominica 8–1, then won again in 1962 and four straight editions from 1967 to 1970."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhA6wUX0AA3U77.png"
+          ]
+        },
+        {
+          "heading": "Into FIFA and CFU competition",
+          "date": "1978–1979",
+          "paragraphs": [
+            "After joining FIFA and CONCACAF in 1978, Grenada entered CFU competition. Their first official Caribbean qualifiers in 1979 ended with narrow 1–0 and 2–1 defeats to Trinidad & Tobago."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhDl9mXUAAA8Ez.png"
+          ]
+        },
+        {
+          "heading": "First World Cup qualifying attempt",
+          "date": "1982 cycle",
+          "paragraphs": [
+            "Grenada entered the 1982 World Cup qualifying cycle. Guyana won 5–2 in Georgetown and 3–2 in St George’s, eliminating the Spice Boys 8–4 on aggregate."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhELp0WMAAXd9d.jpg"
+          ]
+        },
+        {
+          "heading": "The 1989 breakthrough",
+          "date": "1989",
+          "paragraphs": [
+            "After missing several CFU campaigns, Grenada returned in 1989 and reached the Caribbean Championship finals by topping their qualifying group."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhF-VgXoAAJpMC.png"
+          ]
+        },
+        {
+          "heading": "Caribbean runners-up",
+          "date": "1989",
+          "paragraphs": [
+            "At the final stage they beat St Vincent & the Grenadines 2–0 and drew the Netherlands Antilles 1–1 to win the group. Trinidad & Tobago beat Grenada 2–1 in the final, giving the Spice Boys their first Caribbean silver medal."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhGn9UWIAANtV7.png"
+          ]
+        },
+        {
+          "heading": "Back to the finals",
+          "date": "1997",
+          "paragraphs": [
+            "Grenada failed to qualify for the next Caribbean Cups until 1997, when they topped their first group and reached the semi-final. An extra-time goal stopped them and they eventually finished fourth."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhe8_QXkAMj3Ou.jpg"
+          ]
+        },
+        {
+          "heading": "1999 and a World Cup glimpse",
+          "date": "1999–2004",
+          "paragraphs": [
+            "Grenada returned to the Caribbean Cup finals in 1999, beating Guadeloupe before defeats to Trinidad & Tobago and Jamaica ended the group stage.",
+            "In 2006 World Cup qualifying they eliminated Guyana and then faced the United States, pushing the eventual World Cup side hard in a tie that included a 3–2 second-leg defeat."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhqQohWMAADkm8.jpg"
+          ]
+        },
+        {
+          "heading": "Caribbean Cup silver again",
+          "date": "2008",
+          "paragraphs": [
+            "Grenada beat Trinidad & Tobago 2–1 and Barbados 4–2, then drew Cuba 2–2 in the semi-final and survived a 6–5 penalty shootout. Jamaica won the final 2–0."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhqed9XUAAeErV.jpg"
+          ]
+        },
+        {
+          "heading": "First Gold Cup",
+          "date": "2009",
+          "paragraphs": [
+            "The silver medal delivered something unprecedented: a place at the 2009 Gold Cup. Grenada faced the United States, Haiti and Honduras, lost all three and failed to score, but had reached CONCACAF’s main stage for the first time."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhq1MLWoAAcOjN.jpg"
+          ]
+        },
+        {
+          "heading": "Gold Cup 2011",
+          "date": "2010–2011",
+          "paragraphs": [
+            "Grenada finished fourth at the 2010 Caribbean Cup to return to the Gold Cup. The 2011 tournament was even harder—defeats to Jamaica, Honduras and Guatemala—but Clive Murray’s goal against Honduras became Grenada’s first at the competition."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhrX05XUAAvQMD.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League breakthrough",
+          "date": "2019–2020",
+          "paragraphs": [
+            "Grenada missed the final three Caribbean Cups. In the 2019/20 Nations League qualifiers they beat Puerto Rico and Belize to reach League B, then went unbeaten with four wins and two draws against French Guiana, Belize and St Kitts & Nevis."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhutk6XQAA651E.jpg"
+          ]
+        },
+        {
+          "heading": "Third Gold Cup",
+          "date": "2021",
+          "paragraphs": [
+            "The unbeaten Nations League campaign brought promotion to League A and a third Gold Cup appearance. Grenada lost to Honduras and Qatar before Romar Frank scored against Panama. Panama won 3–1, leaving the Spice Boys still searching for a first Gold Cup point."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhvKOJXwAEhIgS.jpg"
+          ]
+        },
+        {
+          "heading": "League A proves brutal",
+          "date": "2022–2024",
+          "paragraphs": [
+            "Life in League A was harsh. The United States won 7–1 in St George’s during the 2022/23 cycle and Grenada were relegated. Their following League B campaign mixed wins with defeats and did not produce Gold Cup qualification."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhwRaMWoAATEBr.jpg"
+          ]
+        },
+        {
+          "heading": "2026 World Cup qualifying",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Grenada showed clear progress. They drew 2–2 away to Trinidad & Tobago, lost 3–0 to Costa Rica, then demolished Bahamas 6–0 and won 3–2 in St Kitts. Seven points were not enough: Grenada missed the final round on goal difference."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhwxHnXUAAGRbq.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League 2026/27",
+          "date": "2026",
+          "paragraphs": [
+            "The current campaign started poorly. Grenada lost 3–0 to Cuba and St Kitts & Nevis, came from 2–0 down to beat Bonaire 3–2, then lost the return 4–1. After four matches they sit bottom of League B Group C on goal difference, with two games remaining."
+          ],
+          "images": [
+            "../assets/grenada/source/HUhxMPsXYAIx6U7.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-3-3 spanning the 1989 finalists, the 2008 peak and the diaspora era",
+      "intro": "The source’s XI blends Grenada’s best-documented modern generations with the diaspora professionals who helped carry the Spice Boys onto the Gold Cup stage.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/grenada/source/HUkXaYPXUAAS5Pz.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Jason Belfon",
+            "years": "2013–",
+            "description": "Grenada’s most-capped goalkeeper in the available international record, reaching 55 appearances.",
+            "image": "../assets/grenada/source/HUkX5qiW8AEMYtw.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Cassim Langaigne",
+            "years": "2004–2016",
+            "description": "The most-capped player in Grenada’s history in the source, with 72 appearances.",
+            "image": "../assets/grenada/source/HUkZcz2W0AABeu_.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Anthony Modeste",
+            "years": "1996–2011",
+            "description": "67 caps, 13 goals and a pillar through Grenada’s rise to two Gold Cups.",
+            "image": "../assets/grenada/source/HUkZdR2WoAAHKNY.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Aaron Pierre",
+            "years": "2015–",
+            "description": "A centre-back with long experience in the English football system.",
+            "image": "../assets/grenada/source/HUkgkYFXUAAPTSG.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Anthony Straker",
+            "years": "2011–2015",
+            "description": "Versatile defender and wing-back who played professionally across the English Football League and represented Grenada in multiple Gold Cup campaigns.",
+            "image": "../assets/grenada/source/HUkgk31W8AAMCdm.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Shalrie Joseph",
+            "years": "2002–2008",
+            "description": "Four-time MLS Best XI midfielder and perhaps Grenada’s most accomplished club player.",
+            "image": "../assets/grenada/source/HUki7-0WYAAy0M6.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Craig Rocastle",
+            "years": "2010–2012",
+            "description": "One of the notable diaspora professionals to represent the Spice Boys.",
+            "image": "../assets/grenada/source/HUki8S2WsAAHsgb.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Ricky Charles",
+            "years": "1995–2011",
+            "description": "A midfielder who became Grenada’s record scorer in the source with 37 goals.",
+            "image": "../assets/grenada/source/HUki82IXwAEK0B9.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Jamal Charles",
+            "years": "2015–2024",
+            "description": "Six goals in the unbeaten 2019/20 Nations League campaign and 17 overall.",
+            "image": "../assets/grenada/source/HUkkvveXoAAcFMj.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Jason Roberts",
+            "years": "1998–2008",
+            "description": "Premier League striker who scored 14 goals in 17 Grenada appearances.",
+            "image": "../assets/grenada/source/HUkkwKTWoAAsdtg.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Kithson Bain",
+            "years": "2002–2015",
+            "description": "Seventeen international goals and a key attacker during the 2008–11 peak.",
+            "image": "../assets/grenada/source/HUkkwkOXAAAelwc.jpg"
+          }
+        ]
+      },
+      "closing": "Desmond Noel, Marc Marshall, Wayne Hood, Franklin Drayton, Denis Rennie, Saydrel Lewis and Clive Murray are among the painful omissions. The oldest eras are hardest to judge because incomplete line-ups and match records make Grenada’s pre-1990 players particularly easy to underrate."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and tournament landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First known match: Grenada 2–1 British Guiana, 13 October 1934.",
+            "Biggest win: Anguilla 1–14 Grenada, Caribbean Cup qualifier, 15 April 1998.",
+            "Heaviest defeat: Curaçao 10–0 Grenada, Nations League qualifier, 10 September 2018."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Cassim Langaigne, 72.",
+            "Most goals: Ricky Charles, 37.",
+            "Most-capped goalkeeper: Jason Belfon, 55."
+          ]
+        },
+        {
+          "title": "Tournament records",
+          "items": [
+            "Caribbean Cup runners-up: 1989, 2008.",
+            "Gold Cup appearances: 2009, 2011, 2021.",
+            "Gold Cup best: group stage.",
+            "First Gold Cup goal: Clive Murray v Honduras, 2011.",
+            "Best Nations League result: League B group winners, 2019/20.",
+            "Highest FIFA ranking: 88th, July 2009."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/grenada/source/HUkmRltWEAAFfHU.jpg",
+        "../assets/grenada/source/HUkmvQ9X0AEGjWo.jpg",
+        "../assets/grenada/source/HUknLReXsAAtMGj.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "The national athletics venue, parish hubs and a tiny island field by the sea",
+      "cards": [
+        {
+          "title": "Kirani James Athletic Stadium",
+          "meta": "St George’s · national-team home",
+          "text": "The Spice Boys’ main home has a FIFA-sized pitch inside Grenada’s national athletics venue beside Queen’s Park. Reconstructed in 2015, it was renamed in 2016 for the island’s first Olympic champion.",
+          "images": [
+            "../assets/grenada/source/HUkue5LWsAARKQz.png",
+            "../assets/grenada/source/HUkuflrWoAAOmBJ.jpg"
+          ]
+        },
+        {
+          "title": "Fond Playing Field",
+          "meta": "Sauteurs · northern football hub · ~1,000",
+          "text": "A FIFA-backed redevelopment from 2013 to 2016 installed floodlights, resurfaced the pitch and raised capacity. Hard Rock and other St Patrick clubs use the compact ground, which has also hosted Grenada.",
+          "images": [
+            "../assets/grenada/source/HUkvICPWkAAfrWb.png",
+            "../assets/grenada/source/HUkvSeZW0AAtx4r.png"
+          ]
+        },
+        {
+          "title": "Cuthbert Peters Park",
+          "meta": "Gouyave · St John’s Sports",
+          "text": "A small but emotionally important community ground. In 2025 its crowd watched St John’s Sports seal their long-awaited Premier League championship with a 4–0 win over SAB Spartans.",
+          "images": [
+            "../assets/grenada/source/HUkvwViWIAAfstf.jpg",
+            "../assets/grenada/source/HUkvwxyWoAAGtAK.jpg"
+          ]
+        },
+        {
+          "title": "Petite Martinique Playing Field",
+          "meta": "Petite Martinique · beside the sea",
+          "text": "An extraordinary little ground on Grenada’s tiny dependency: roughly one-third the size of a regulation pitch, immediately beside the sea, and the only football field on the island.",
+          "images": [
+            "../assets/grenada/source/HUkw45rXgAEpR4e.jpg",
+            "../assets/grenada/source/HUkw5QbWQAAusNC.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Still eligible",
+      "entries": [
+        {
+          "heading": "Grenada remain in the race",
+          "paragraphs": [
+            "CONCACAF qualifying begins in September–October 2027. On the source’s current standing, Grenada are likely to begin in the opening knockout round."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
