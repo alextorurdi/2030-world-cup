@@ -1131,8 +1131,10 @@
           "flag": "🇬🇩",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
-        },
+          "logo": "./assets/logos/concacaf/013.png",
+          "page": "./associations/grenada.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
+          },
         {
           "name": "Guatemala",
           "associationName": "National Football Federation of Guatemala",
