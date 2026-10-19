@@ -1296,12 +1296,14 @@
         },
         {
           "name": "Chile",
-          "associationName": "Football Federation of Chile",
+          "associationName": "Chilean Football Federation",
           "code": "CHI",
           "flag": "🇨🇱",
           "confederation": "conmebol",
-          "status": "eliminated",
-          "logo": ""
+          "status": "active",
+          "logo": "./assets/logos/conmebol/014.png",
+          "page": "./associations/chile.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Colombia",
