@@ -1,0 +1,978 @@
+{
+  "meta": {
+    "title": "Chile · The 211 Files",
+    "description": "Chile in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Chile thread export",
+      "file": "ChileF.docx",
+      "imageCount": 117
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 117 direct X-media images. All local source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#014",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "association": "Chilean Football Federation / Federación de Fútbol de Chile (FFCh)",
+    "founded": "1895",
+    "fifa": "1913",
+    "confederation": "CONMEBOL",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "9",
+    "bestRecords": [
+      "🥉 FIFA World Cup: 1962",
+      "🏆 Copa América: 2015, 2016"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/014.png",
+    "fallbackLogo": "../assets/chile/source/HUnmqLbWYAAcox4.jpg"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A 4,300-km ribbon between the Andes and the Pacific",
+      "entries": [
+        {
+          "paragraphs": [
+            "A 4,300-km strip squeezed between the Andes and the Pacific, Chile stretches from the Atacama Desert to Patagonia and includes Pacific islands. Home to around 20 million people, its extreme north–south geography has shaped one of South America’s most distinctive states."
+          ],
+          "images": [
+            "../assets/chile/source/HUnnCLjXkAAK0jw.jpg",
+            "../assets/chile/source/HUnnN7IWkAAn0Fe.jpg",
+            "../assets/chile/source/HUnnVIvWAAAt0fd.jpg",
+            "../assets/chile/source/HUnnaMjXYAAir9T.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "War, copper, dictatorship, transition and constitutional debate",
+      "entries": [
+        {
+          "heading": "Independence and the northern expansion",
+          "date": "1818–1884",
+          "paragraphs": [
+            "Chile declared independence from Spain in 1818 and expanded north after defeating Peru and Bolivia in the War of the Pacific. Nitrate and later copper became pillars of an export economy that transformed the country while sharpening social conflict."
+          ],
+          "images": [
+            "../assets/chile/source/HUnnsw7W4AAb_MD.jpg",
+            "../assets/chile/source/HUnnxeSWIAETinD.png"
+          ]
+        },
+        {
+          "heading": "Allende and the 1973 coup",
+          "date": "1970–1973",
+          "paragraphs": [
+            "Socialist Salvador Allende became president through elections in 1970. On 11 September 1973 the armed forces overthrew him, beginning Augusto Pinochet’s authoritarian military regime. Congress was closed, political activity restricted and thousands suffered imprisonment, torture or death."
+          ],
+          "images": [
+            "../assets/chile/source/HUnoPWCWsAEHEXF.jpg"
+          ]
+        },
+        {
+          "heading": "Return to civilian rule",
+          "date": "1988–1990",
+          "paragraphs": [
+            "Pinochet lost the 1988 plebiscite and elected civilian government returned under Patricio Aylwin in 1990. Chile then combined democratic continuity with major economic growth, although inequality and the dictatorship’s institutional legacy remained deeply contested."
+          ],
+          "images": [
+            "../assets/chile/source/HUnoiz_XQAAvhCh.jpg"
+          ]
+        },
+        {
+          "heading": "The constitutional cycle",
+          "date": "2019–2023",
+          "paragraphs": [
+            "Mass protests erupted in 2019 over inequality, pensions, public services and the political system. They opened a constitutional process, but voters rejected proposed texts in 2022 and 2023. The heavily amended 1980 Constitution therefore remained in force in the source."
+          ],
+          "images": [
+            "../assets/chile/source/HUpix0ZXkAAjXqC.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Valparaíso, rival national bodies, professionalism and the making of a national league",
+      "entries": [
+        {
+          "heading": "Valparaíso brings the game ashore",
+          "date": "1880s–1893",
+          "paragraphs": [
+            "Football came through Valparaíso, where British sailors, merchants, teachers and immigrants played in ports, schools and social clubs. Mackay and Sutherland—traditionally dated to 1882—may have been Chile’s first football club.",
+            "By 1893 Valparaíso had played Santiago and hosted visiting Argentine footballers. The game also followed British commercial and mining networks north to Coquimbo, Antofagasta and the nitrate districts, while Chileans increasingly adopted it."
+          ],
+          "images": [
+            "../assets/chile/source/HUqC8iwWMAAj8bc.jpg",
+            "../assets/chile/source/HUqFT_EXYAEHDsD.jpg"
+          ]
+        },
+        {
+          "heading": "The Football Association of Chile",
+          "date": "1895",
+          "paragraphs": [
+            "On 19 June 1895 six clubs met at Valparaíso’s Café Pacífico to create the Football Association of Chile: Valparaíso, Mackay and Sutherland, Chilean, Victoria Rangers, National and Valparaíso Wanderers. It is presented in the source as South America’s second-oldest surviving national FA."
+          ],
+          "images": [
+            "../assets/chile/source/HUqFlevWAAAolng.jpg"
+          ]
+        },
+        {
+          "heading": "Santiago Wanderers",
+          "date": "From 1892",
+          "paragraphs": [
+            "Santiago Wanderers, founded in Valparaíso in 1892, became the enduring symbol of the port origins. Despite the name, the club is porteño: ‘Santiago’ distinguished it from Valparaíso Wanderers and emphasised the new side’s Chilean identity."
+          ],
+          "images": [
+            "../assets/chile/source/HUqGqpRX0AAzb_1.jpg"
+          ]
+        },
+        {
+          "heading": "A fragmented national game",
+          "date": "1903 onward",
+          "paragraphs": [
+            "Football quickly spread beyond the port. Santiago created its own association in 1903, while clubs and local leagues appeared from Iquique to Concepción. Regional fragmentation remained a defining feature for decades."
+          ],
+          "images": [
+            "../assets/chile/source/HUqSE87XwAAfs_N.jpg"
+          ]
+        },
+        {
+          "heading": "Valparaíso v Santiago",
+          "date": "1909–1917",
+          "paragraphs": [
+            "The institutional history became tangled. In 1912 Valparaíso’s Football Association of Chile became the Asociación de Football de Chile and secured provisional FIFA affiliation in 1913. But the government-recognised Federación Sportiva Nacional, based in Santiago, challenged its authority.",
+            "The rivalry went as far as rival delegations for the 1912 Olympics. After Chile helped found CONMEBOL in 1916, the two bodies struck a truce in 1917 that left football to the AFCh."
+          ],
+          "images": [
+            "../assets/chile/source/HUql5yxWUAAqBKB.jpg",
+            "../assets/chile/source/HUqn5A3XQAANp0C.jpg"
+          ]
+        },
+        {
+          "heading": "FIFA suspension and reunification",
+          "date": "1923–1929",
+          "paragraphs": [
+            "In 1923 an FSN-backed rival federation emerged in Santiago, prompting FIFA to revoke Chile’s membership in 1925. Government intervention finally brought the bodies together on 24 January 1926 as a unified Federación de Football de Chile, initially based in Valparaíso before moving to Santiago in 1929."
+          ],
+          "images": [
+            "../assets/chile/source/HUqp0u0XkAE9sXV.jpg"
+          ]
+        },
+        {
+          "heading": "Colo-Colo changes the culture",
+          "date": "1925–1927",
+          "paragraphs": [
+            "Dissident Magallanes players led by teacher David Arellano founded Colo-Colo on 19 April 1925. They trained systematically, demanded discipline and immediately won Santiago’s Liga Metropolitana unbeaten.",
+            "Colo-Colo toured Europe in 1927, the first major Chilean club expedition there. Arellano died in Valladolid from an abdominal injury suffered during a match; his name became part of the club’s stadium and mythology."
+          ],
+          "images": [
+            "../assets/chile/source/HUqrY7aWYAEQybn.jpg",
+            "../assets/chile/source/HUqro44XwAAypRS.jpg"
+          ]
+        },
+        {
+          "heading": "Professional football breaks away",
+          "date": "1933–1935",
+          "paragraphs": [
+            "By the early 1930s unofficial player payments—‘brown professionalism’—had become impossible to hide. On 27 May 1933 eight leading Santiago clubs demanded a professional section and ultimately formed the Liga Profesional de Football.",
+            "The founders were Audax Italiano, Badminton, Magallanes, Morning Star, Santiago National, Colo-Colo, Green Cross and Unión Española. Magallanes beat Colo-Colo in the deciding match and won the first three professional championships."
+          ],
+          "images": [
+            "../assets/chile/source/HUqr5DkWsAAwMMj.jpg",
+            "../assets/chile/source/HUrCv-4WEAAghHk.jpg"
+          ]
+        },
+        {
+          "heading": "Mass football in Santiago",
+          "date": "1937–1940s",
+          "paragraphs": [
+            "Colo-Colo won their first professional league unbeaten in 1937. The opening of the Estadio Nacional in 1938 and the admission of Universidad de Chile and Universidad Católica soon afterwards transformed the competition into a mass urban spectacle."
+          ],
+          "images": [
+            "../assets/chile/source/HUrFHPhXwAALRVo.jpg"
+          ]
+        },
+        {
+          "heading": "The provinces enter",
+          "date": "1937–1950",
+          "paragraphs": [
+            "The league initially remained Santiago-centred. Santiago Wanderers briefly entered in 1937 and returned permanently with Everton in 1944. Everton broke the capital’s monopoly as the first provincial champion in 1950, and the national map gradually widened."
+          ],
+          "images": [
+            "../assets/chile/source/HUrF4iFWYAAqLZC.jpg"
+          ]
+        },
+        {
+          "heading": "Tactical change and the 1940s",
+          "date": "1940s",
+          "paragraphs": [
+            "Before the decade ended Colo-Colo had five titles, Audax three, and several other Santiago clubs one each. Hungarian coach Franz Plattkó introduced a WM-style system at Colo-Colo and won the 1941 league unbeaten."
+          ],
+          "images": [
+            "../assets/chile/source/HUrG91CXEAA5QA-.jpg"
+          ]
+        },
+        {
+          "heading": "A continental idea incubator",
+          "date": "1948–1950s",
+          "paragraphs": [
+            "In 1948 Colo-Colo organised a South American champions tournament in Santiago that helped inspire the future Copa Libertadores. The 1950s were unusually competitive: only Colo-Colo won more than once, while both Universidades, Unión Española, Everton, Wanderers and Palestino all took championships."
+          ],
+          "images": [
+            "../assets/chile/source/HUrJelLXwAAfynb.jpg"
+          ]
+        },
+        {
+          "heading": "Ballet Azul",
+          "date": "1959–1969",
+          "paragraphs": [
+            "Universidad de Chile’s Ballet Azul became the great side of the 1960s. Built around technically gifted university players and several members of the 1962 World Cup team, La U won six leagues between 1959 and 1969 and turned the Superclásico with Colo-Colo into a national event."
+          ],
+          "images": [
+            "../assets/chile/source/HUrJ1SWXgAAqZG2.jpg"
+          ]
+        },
+        {
+          "heading": "Colo-Colo’s 1973 near miss",
+          "date": "1973",
+          "paragraphs": [
+            "Colo-Colo came closest to continental glory in 1973. Carlos Caszely, Francisco Valdés and Leonel Herrera helped reach the Libertadores final, drawing twice with Independiente before losing the playoff 2–1 after extra time."
+          ],
+          "images": [
+            "../assets/chile/source/HUrKIazW4AAIHfi.jpg"
+          ]
+        },
+        {
+          "heading": "The unusual 1970s",
+          "date": "1970s",
+          "paragraphs": [
+            "Domestic football became less predictable. Unión San Felipe and Huachipato won maiden titles, Unión Española took three championships and Colo-Colo three. Neither Universidad de Chile nor Universidad Católica won a league during the decade."
+          ],
+          "images": [
+            "../assets/chile/source/HUrLoVvXYAAWWsL.jpg"
+          ]
+        },
+        {
+          "heading": "Cobreloa rises from the mining north",
+          "date": "1977–1982",
+          "paragraphs": [
+            "Founded in Calama only in 1977, Cobreloa immediately became a powerhouse: league champions in 1980 and Libertadores finalists in both 1981 and 1982. Few new South American clubs rose so fast."
+          ],
+          "images": [
+            "../assets/chile/source/HUrL9QuWcAAI_47.jpg"
+          ]
+        },
+        {
+          "heading": "The 1980s",
+          "date": "1980s",
+          "paragraphs": [
+            "Cobreloa and Colo-Colo claimed four titles each. Universidad Católica took the other two, ending an 18-year drought, while Universidad de Chile’s own drought stretched to two decades and even included relegation."
+          ],
+          "images": [
+            "../assets/chile/source/HUrNT47WgAALbEV.jpg"
+          ]
+        },
+        {
+          "heading": "Colo-Colo conquers South America",
+          "date": "1991–1992",
+          "paragraphs": [
+            "Mirko Jozić’s Colo-Colo drew 0–0 at Olimpia and won 3–0 at the Monumental to lift the 1991 Copa Libertadores—the first and still only Chilean club to do so. They added the Recopa and Copa Interamericana in 1992."
+          ],
+          "images": [
+            "../assets/chile/source/HUrNoiJXgAAZig5.jpg"
+          ]
+        },
+        {
+          "heading": "The 1990s",
+          "date": "1990s",
+          "paragraphs": [
+            "Universidad Católica reached the 1993 Libertadores final but lost to São Paulo. Domestically Colo-Colo dominated with six championships, Universidad de Chile claimed three and Católica one."
+          ],
+          "images": [
+            "../assets/chile/source/HUrPH2cWYAAJ0Md.jpg"
+          ]
+        },
+        {
+          "heading": "Apertura and Clausura era",
+          "date": "2000s",
+          "paragraphs": [
+            "Around the turn of the century Chile adopted separate Apertura and Clausura champions. Colo-Colo dominated the 2000s with seven titles, followed by Cobreloa and La U with three each and Católica with two. Wanderers, Unión Española and Everton also won."
+          ],
+          "images": [
+            "../assets/chile/source/HUrRbWgXkAAN-lt.jpg"
+          ]
+        },
+        {
+          "heading": "La U’s continental triumph",
+          "date": "2011 onward",
+          "paragraphs": [
+            "Jorge Sampaoli’s unbeaten Universidad de Chile swept through the 2011 Copa Sudamericana, supplying Chile’s other major CONMEBOL club triumph. Since 2010 the traditional powers have again dominated much of the domestic game."
+          ],
+          "images": [
+            "../assets/chile/source/HUrfssHWYAI1ZDI.jpg"
+          ]
+        },
+        {
+          "heading": "Provincial and immigrant-community clubs endure",
+          "date": "2010s–2025",
+          "paragraphs": [
+            "Huachipato, O’Higgins and Cobresal broke through, while Coquimbo Unido claimed its first league in 2025. Unión Española, Audax Italiano and Palestino remain important representatives of Chile’s Spanish, Italian and Palestinian communities."
+          ],
+          "images": [
+            "../assets/chile/source/HUriCxoWkAAsSLA.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Liga de Primera, Copa Chile, the new League Cup and continental qualification",
+      "cards": [
+        {
+          "title": "Liga de Primera",
+          "meta": "16 clubs · 30 matches",
+          "text": "Chile’s top flight is a conventional home-and-away league running from early in the year to December.",
+          "images": [
+            "../assets/chile/source/HUrmbJgWMAAMARn.jpg"
+          ]
+        },
+        {
+          "title": "Primera B & Segunda Profesional",
+          "meta": "Promotion and relegation",
+          "text": "The bottom two drop to Primera B. The regular-season champions and promotion-playoff winners both go up, while the bottom B club falls to Segunda División Profesional and is replaced by its champion.",
+          "images": [
+            "../assets/chile/source/HUrrO6_W0AE1WIr.jpg"
+          ]
+        },
+        {
+          "title": "Copa de la Liga",
+          "meta": "New in 2026",
+          "text": "All sixteen top-flight clubs enter four groups of four, feeding semi-finals and a final. The champion earns a Libertadores place.",
+          "images": [
+            "../assets/chile/source/HUrsBaxXEAA5q82.jpg"
+          ]
+        },
+        {
+          "title": "Copa Chile",
+          "meta": "32 clubs in the source’s 2026 format",
+          "text": "Primera and Ascenso clubs begin in eight geographically arranged groups of four. The top two advance to knockouts; the round of 16, quarter-finals and semi-finals are two-legged and the final is one match.",
+          "images": [
+            "../assets/chile/source/HUrsYtKXAAAnGKC.jpg"
+          ]
+        },
+        {
+          "title": "Supercopa",
+          "meta": "Final Four from 2026",
+          "text": "League and Copa Chile champions and runners-up contest the revamped Supercopa. Coquimbo Unido won the first edition of the format by defeating Universidad Católica on penalties after a 0–0 final.",
+          "images": [
+            "../assets/chile/source/HUrsmnjWsAAvS_w.jpg"
+          ]
+        },
+        {
+          "title": "CONMEBOL places",
+          "meta": "4 Libertadores + Sudamericana allocation",
+          "text": "The source gives Libertadores berths to the league champions and runners-up, the Copa de la Liga winner and the winner of a playoff between the Copa Chile champion and the league’s third-placed side. The playoff loser joins 4th–6th in the Sudamericana.",
+          "images": [
+            "../assets/chile/source/HUryDt2XMAABXDH.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Big Three, the mining north and Chile’s immigrant institutions",
+      "cards": [
+        {
+          "title": "Colo-Colo",
+          "meta": "Chile’s dominant institution",
+          "text": "Record league champions, record Copa Chile winners and the country’s only Libertadores champions. Their nationwide support and Mapuche-derived identity make El Cacique far more than a Santiago club.",
+          "images": [
+            "../assets/chile/source/HUrzfP0X0AEwX7C.jpg"
+          ]
+        },
+        {
+          "title": "Universidad de Chile",
+          "meta": "The great popular rival",
+          "text": "La U’s Superclásico with Colo-Colo pits the country’s two largest followings against each other. Their league record and unbeaten 2011 Sudamericana give the club domestic and continental prestige.",
+          "images": [
+            "../assets/chile/source/HUrzx4CXkAAAOkW.jpg"
+          ]
+        },
+        {
+          "title": "Universidad Católica",
+          "meta": "The modern third giant",
+          "text": "Their Clásico Universitario with La U predates much of the professional era, while sustained success since the 1980s—including four consecutive leagues from 2018 to 2021—made Católica Chile’s most consistent modern challenger.",
+          "images": [
+            "../assets/chile/source/HUr0PZfWgAA0gAh.jpg"
+          ]
+        },
+        {
+          "title": "The provinces",
+          "meta": "Cobreloa · Everton · Wanderers · Huachipato · O’Higgins · Cobresal · Coquimbo",
+          "text": "Cobreloa embody the copper north and twice reached the Libertadores final. Everton and Santiago Wanderers carry the Valparaíso region, while Huachipato, O’Higgins, Cobresal and Coquimbo Unido show that titles can still escape Santiago.",
+          "images": [
+            "../assets/chile/source/HUs5gt-W8AAqan9.jpg",
+            "../assets/chile/source/HUs5hCiWkAAkVqf.jpg",
+            "../assets/chile/source/HUs5ha9XwAANEAv.jpg",
+            "../assets/chile/source/HUs5h2_WEAEamea.jpg"
+          ]
+        },
+        {
+          "title": "The immigrant clubs",
+          "meta": "Unión Española · Audax Italiano · Palestino",
+          "text": "These clubs preserve identities rooted respectively in Chile’s Spanish, Italian and Palestinian communities, adding a distinctive social layer to the national game.",
+          "images": [
+            "../assets/chile/source/HUs6f3qXIAApDSg.jpg",
+            "../assets/chile/source/HUs6gLEXMAAtzNe.jpg",
+            "../assets/chile/source/HUs6gmpWkAEaWKz.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "From 1910 pioneers to 1962 bronze and the Golden Generation",
+      "entries": [
+        {
+          "heading": "The first La Roja",
+          "date": "1910",
+          "paragraphs": [
+            "Chile debuted in Buenos Aires on 27 May 1910, losing 3–1 to Argentina. Frank Simmons scored Chile’s first international goal, and the early XI still carried many British surnames—a reminder of the port-and-school world from which the game had emerged."
+          ],
+          "images": [
+            "../assets/chile/source/HUs61aPXMAA_cab.jpg"
+          ]
+        },
+        {
+          "heading": "First South American Championship breakthrough",
+          "date": "1916–1926",
+          "paragraphs": [
+            "Chile were one of four participants in the inaugural South American Championship in 1916 but lost all three matches. Their first tournament victory arrived in 1926 with a 7–1 win over Bolivia. They also drew Argentina and beat Paraguay 5–1 to finish third."
+          ],
+          "images": [
+            "../assets/chile/source/HUupZIWWkAA-zP_.jpg"
+          ]
+        },
+        {
+          "heading": "Amsterdam without qualifying",
+          "date": "1928",
+          "paragraphs": [
+            "Chile missed the 1927 Sudamericano that was intended to qualify teams for the Amsterdam Olympics, but travelled anyway after authorities raised funds through benefit matches, theatrical performances and public donations.",
+            "They led Portugal 2–0 before losing 4–2, then beat Mexico and drew the Netherlands in the consolation tournament. The Dutch took the consolation trophy after a coin toss."
+          ],
+          "images": [
+            "../assets/chile/source/HUurlKmWsAAdUO_.jpg",
+            "../assets/chile/source/HUur637XUAAP0Ec.jpg"
+          ]
+        },
+        {
+          "heading": "The first World Cup",
+          "date": "1930",
+          "paragraphs": [
+            "Chile beat Mexico 3–0 and France 1–0 at the inaugural World Cup. A 3–1 defeat to Argentina in the group decider sent them home, but Guillermo Subiabre scored four times."
+          ],
+          "images": [
+            "../assets/chile/source/HUuspn5XIAAAXS7.jpg"
+          ]
+        },
+        {
+          "heading": "A stronger South American side",
+          "date": "1937–1949",
+          "paragraphs": [
+            "At the 1937 Sudamericano Chile stunned Uruguay 3–0 and lost a remarkable 6–4 to Brazil. Home tournaments brought better results: third in 1941 and again in 1945, before fourth in 1947."
+          ],
+          "images": [
+            "../assets/chile/source/HUuvomKXUAAjA8m.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil 1950",
+          "date": "1950",
+          "paragraphs": [
+            "After skipping 1934 and withdrawing from 1938, Chile returned to the World Cup in Brazil. Defeats to England and Spain eliminated them before a 5–2 win over the United States."
+          ],
+          "images": [
+            "../assets/chile/source/HUvDVRHWkAAq5lr.jpg"
+          ]
+        },
+        {
+          "heading": "Twice runners-up in South America",
+          "date": "1955–1956",
+          "paragraphs": [
+            "Hosting in 1955, Chile entered the final match unbeaten and level on points with Argentina, but Rodolfo Micheli’s goal denied La Roja a first continental title. Chile finished runners-up again in 1956."
+          ],
+          "images": [
+            "../assets/chile/source/HUvPu9zWgAARXWz.jpg",
+            "../assets/chile/source/HUvRgNXXMAAnyHF.jpg"
+          ]
+        },
+        {
+          "heading": "The 1962 World Cup bid",
+          "date": "1956",
+          "paragraphs": [
+            "Carlos Dittborn’s impassioned FIFA Congress speech helped Chile defeat Argentina for the right to host the 1962 World Cup. His famous line—‘Because we have nothing, we want to do it all’—became inseparable from the bid."
+          ],
+          "images": [
+            "../assets/chile/source/HUvUFlwXIAAlsGm.jpg"
+          ]
+        },
+        {
+          "heading": "Earthquake and preparation",
+          "date": "1960–1962",
+          "paragraphs": [
+            "The 1960 Valdivia earthquake devastated infrastructure and threatened preparations. The source states almost 2,000 deaths and more than two million left homeless. The tournament survived and Fernando Riera assembled an intensely prepared home side."
+          ],
+          "images": [
+            "../assets/chile/source/HUvUjkZWQAAXBbF.jpg"
+          ]
+        },
+        {
+          "heading": "World Cup 1962 group stage",
+          "date": "1962",
+          "paragraphs": [
+            "Chile beat Switzerland 3–1 and Italy 2–0 in the notorious Battle of Santiago. A 2–0 defeat to West Germany still sent the hosts through to a quarter-final against the USSR."
+          ],
+          "images": [
+            "../assets/chile/source/HUvVnGHXMAAJiLa.jpg"
+          ]
+        },
+        {
+          "heading": "Into the semi-finals",
+          "date": "1962",
+          "paragraphs": [
+            "Leonel Sánchez beat Lev Yashin from a free kick and Eladio Rojas added the winner in a 2–1 victory. Brazil then won a spectacular semi-final 4–2."
+          ],
+          "images": [
+            "../assets/chile/source/HUvVzjDXYAAwokr.jpg"
+          ]
+        },
+        {
+          "heading": "Bronze",
+          "date": "1962",
+          "paragraphs": [
+            "Eladio Rojas scored in the 90th minute against Yugoslavia to win the third-place match 1–0. Chile finished third—the best World Cup result in their history—while Leonel Sánchez scored four."
+          ],
+          "images": [
+            "../assets/chile/source/HUvWB54WkAAj67E.jpg"
+          ]
+        },
+        {
+          "heading": "1960s aftermath",
+          "date": "1963–1970",
+          "paragraphs": [
+            "Chile missed the 1963 Sudamericano amid a diplomatic dispute with hosts Bolivia. At England 1966 they exited a tough group after defeats to Italy and the USSR plus a draw with North Korea. Uruguay later denied them a place at Mexico 1970."
+          ],
+          "images": [
+            "../assets/chile/source/HUvXeTOWsAAPv0j.jpg"
+          ]
+        },
+        {
+          "heading": "The Soviet playoff",
+          "date": "1973",
+          "paragraphs": [
+            "Chile beat Peru across three matches and then drew the Soviet Union 0–0 in Moscow. The Soviets refused to play the return at Santiago’s Estadio Nacional, then being used by the military regime as a detention centre.",
+            "On 21 November 1973 Chile walked onto an otherwise empty field, advanced the ball and Francisco Valdés scored into an undefended net. The referee ended the game because there was no opponent; FIFA awarded Chile the tie and qualification."
+          ],
+          "images": [
+            "../assets/chile/source/HUvggImWYAAs3R2.jpg",
+            "../assets/chile/source/HUvguxZW8AAFSy0.jpg"
+          ]
+        },
+        {
+          "heading": "West Germany 1974",
+          "date": "1974",
+          "paragraphs": [
+            "Chile lost 1–0 to West Germany, drew 1–1 with East Germany and 0–0 with Australia. Carlos Caszely became the first player sent off with a red card at a World Cup."
+          ],
+          "images": [
+            "../assets/chile/source/HUvg96fXcAAkPO5.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América 1979 final",
+          "date": "1975–1979",
+          "paragraphs": [
+            "After a group exit in 1975, Chile reached the 1979 Copa América final. Paraguay won 3–0 in Asunción, Chile won 1–0 in Santiago and the neutral playoff finished 0–0, leaving Paraguay champions on aggregate."
+          ],
+          "images": [
+            "../assets/chile/source/HUvjJIlXwAAGDQB.jpg"
+          ]
+        },
+        {
+          "heading": "Spain 1982",
+          "date": "1978–1983",
+          "paragraphs": [
+            "Peru blocked Chile from the 1978 World Cup, but La Roja qualified for Spain 1982 ahead of Paraguay and Ecuador. The finals were brutal: defeats to Austria, West Germany and Algeria produced zero points."
+          ],
+          "images": [
+            "../assets/chile/source/HUvnTilX0AAzyp3.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América 1987",
+          "date": "1986–1987",
+          "paragraphs": [
+            "Chile missed Mexico 1986 after a playoff defeat, then dramatically rebounded at Copa América 1987, including a sensational 4–0 destruction of Brazil. They beat Colombia in the semi-final before Uruguay won the final 1–0."
+          ],
+          "images": [
+            "../assets/chile/source/HUvopYCX0AATqaw.jpg"
+          ]
+        },
+        {
+          "heading": "The Maracanazo",
+          "date": "1989",
+          "paragraphs": [
+            "At Copa América 1989 Chile, Uruguay and Ecuador finished level on points, with goal difference favouring Uruguay. Two months later the World Cup cycle collapsed in the infamous Maracanazo.",
+            "Trailing Brazil 1–0, goalkeeper Roberto Rojas fell bleeding after a flare landed nearby and Chile left the field. Evidence showed it had not hit him and that Rojas had cut himself. FIFA awarded Brazil a 2–0 win, banned Rojas and excluded Chile from 1994 qualifying."
+          ],
+          "images": [
+            "../assets/chile/source/HUvrWKWXoAAVroR.jpg",
+            "../assets/chile/source/HUvryjBXcAAIbZd.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América 1991",
+          "date": "1991–1997",
+          "paragraphs": [
+            "Hosting the 1991 Copa América lifted the mood: Chile reached the final round and finished third. The revival was not immediately sustained, with group-stage exits in 1993, 1995 and 1997."
+          ],
+          "images": [
+            "../assets/chile/source/HUv3kIAWkAALB4u.jpg"
+          ]
+        },
+        {
+          "heading": "France 1998",
+          "date": "1998",
+          "paragraphs": [
+            "The Zamorano–Salas partnership carried Chile back to the World Cup. Three group draws against Italy, Austria and Cameroon were enough to advance before Brazil won the round of 16 4–1. Marcelo Salas scored four times."
+          ],
+          "images": [
+            "../assets/chile/source/HUv31oKW0AAExkn.jpg"
+          ]
+        },
+        {
+          "heading": "Sydney bronze",
+          "date": "2000",
+          "paragraphs": [
+            "An under-23 side reinforced by Iván Zamorano reached the Olympic semi-finals and then beat the United States 2–0 for bronze. Zamorano scored both and finished the tournament with six goals."
+          ],
+          "images": [
+            "../assets/chile/source/HUv4ACsXUAAs3Hu.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América at the turn of the century",
+          "date": "1999–2007",
+          "paragraphs": [
+            "Chile reached the 1999 semi-finals after beating Colombia 3–2 in the quarter-final, then lost on penalties to Uruguay. They exited in the 2001 quarter-finals, the 2004 group stage and the 2007 quarter-finals."
+          ],
+          "images": [
+            "../assets/chile/source/HUv_wZVWUAEEQrW.jpg"
+          ]
+        },
+        {
+          "heading": "Bielsa changes the national team",
+          "date": "2007–2010",
+          "paragraphs": [
+            "After missing both 2002 and 2006, Marcelo Bielsa transformed a young group including Bravo, Vidal, Sánchez, Medel and Isla with intense pressing and attacking football.",
+            "Chile finished second in South American qualifying for 2010, beat Honduras and Switzerland at the World Cup and advanced with six points before Brazil won the round of 16 3–0."
+          ],
+          "images": [
+            "../assets/chile/source/HUwABrWXsAAkcZR.jpg",
+            "../assets/chile/source/HUwAQ3QW4AEdDga.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil 2014",
+          "date": "2011–2014",
+          "paragraphs": [
+            "Chile topped their 2011 Copa América group but lost to Venezuela in the quarter-final. Jorge Sampaoli then inherited Bielsa’s identity and took Chile to Brazil 2014.",
+            "They beat Australia 3–1 and eliminated holders Spain 2–0. In the round of 16, Chile pushed hosts Brazil to 1–1 through 120 minutes; Mauricio Pinilla hit the bar late in extra time before Brazil survived the shootout."
+          ],
+          "images": [
+            "../assets/chile/source/HUwBFdSWkAAWL4a.jpg",
+            "../assets/chile/source/HUwBWxvXcAAUSl1.jpg"
+          ]
+        },
+        {
+          "heading": "First Copa América title",
+          "date": "2015",
+          "paragraphs": [
+            "At home in 2015 Chile topped their group, edged Uruguay and beat Peru to set up a final against Argentina. After 120 scoreless minutes Claudio Bravo saved Éver Banega’s penalty and Alexis Sánchez chipped the winning kick Panenka-style. After 99 years, Chile had a first senior major trophy."
+          ],
+          "images": [
+            "../assets/chile/source/HUwCMv5WcAAALaK.jpg",
+            "../assets/chile/source/HUwCZ12XEAAaiOc.jpg"
+          ]
+        },
+        {
+          "heading": "Centenario champions",
+          "date": "2016",
+          "paragraphs": [
+            "One year later Chile did it again. They crushed Mexico 7–0, beat Colombia and held Argentina scoreless in another final. Bravo saved from Lucas Biglia and Chile won the shootout 4–2 for back-to-back continental titles."
+          ],
+          "images": [
+            "../assets/chile/source/HUwDHCbWcAAGSaX.jpg"
+          ]
+        },
+        {
+          "heading": "Confederations Cup final",
+          "date": "2017",
+          "paragraphs": [
+            "Chile advanced from a group with Cameroon, Germany and Australia, then Bravo saved all three Portuguese penalties in the semi-final shootout. Germany won a tight final 1–0."
+          ],
+          "images": [
+            "../assets/chile/source/HUwDv4SXgAAe6QV.jpg"
+          ]
+        },
+        {
+          "heading": "The decline of the Golden Generation",
+          "date": "2018–2022",
+          "paragraphs": [
+            "A 3–0 defeat in Brazil on the final day left Chile sixth and outside Russia 2018. They still reached the 2019 Copa América semi-finals but the cycle was visibly ageing.",
+            "Chile lost to Brazil in the 2021 Copa América quarter-finals, finished seventh in Qatar 2022 qualifying and unsuccessfully challenged Ecuador’s place over Byron Castillo’s eligibility."
+          ],
+          "images": [
+            "../assets/chile/source/HUx_9KtWMAEPq1x.jpg",
+            "../assets/chile/source/HUyAW_dWwAA3ojS.jpg"
+          ]
+        },
+        {
+          "heading": "Another missed World Cup",
+          "date": "2024–2026",
+          "paragraphs": [
+            "Chile exited the 2024 Copa América in the group stage and were eliminated from 2026 World Cup qualifying after losing in Bolivia in June 2025. They eventually finished tenth with eleven points, two wins and nine goals in eighteen matches—their third consecutive World Cup miss.",
+            "With the old champions finally fading out, Nicolás Córdova took charge and the task shifted to rebuilding depth, restoring attacking quality and somehow returning La Roja to the World Cup in 2030."
+          ],
+          "images": [
+            "../assets/chile/source/HUyA1D1WgAE9LoP.jpg",
+            "../assets/chile/source/HUyBFIYXwAEsLY9.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-3-3 joining 1962, the Zamorano era and the Golden Generation",
+      "intro": "The source’s XI combines the bronze heroes of 1962, the great 1990s attackers and the generation that finally brought Chile continental trophies.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/chile/source/HUz6PPwWUAAwvfV.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Claudio Bravo",
+            "years": "2004–2024",
+            "description": "Captain of the greatest generation, 150 caps in the source and the goalkeeper who lifted both Copas América.",
+            "image": "../assets/chile/source/HUz6gC3WYAA-h3g.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Luis Eyzaguirre",
+            "years": "1959–1966",
+            "description": "An adventurous attacking full-back decades ahead of his time and a 1962 bronze hero.",
+            "image": "../assets/chile/source/HUz7AIpWoAAwMhA.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Elías Figueroa",
+            "years": "1966–1982",
+            "description": "Three-time South American Footballer of the Year and perhaps Chile’s greatest defender.",
+            "image": "../assets/chile/source/HUz7AcgWUAAz-Ux.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Gary Medel",
+            "years": "2007–2024",
+            "description": "El Pitbull embodied the aggression, bravery and versatility of the Golden Generation.",
+            "image": "../assets/chile/source/HUz8lHqXQAAIh28.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Antonio Arias",
+            "years": "1968–1977",
+            "description": "A 1974 World Cup full-back noted for his attacking instincts and willingness to join the play.",
+            "image": "../assets/chile/source/HUz8lbfXUAAXM36.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Arturo Vidal",
+            "years": "2007–",
+            "description": "Power, goals and personality at the heart of Chile’s greatest era.",
+            "image": "../assets/chile/source/HUz93aPXIAAPLsY.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Charles Aránguiz",
+            "years": "2009–2022",
+            "description": "Balance, pressing, tactical intelligence and technical control.",
+            "image": "../assets/chile/source/HUz93woXsAIenBu.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Francisco “Chamaco” Valdés",
+            "years": "1962–1975",
+            "description": "A 1962 World Cup figure and one of the great statistical landmarks of Chilean football.",
+            "image": "../assets/chile/source/HUz94CCWMAAmaJr.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Alexis Sánchez",
+            "years": "2006–",
+            "description": "Record caps and goals in the source, plus the penalty that delivered Chile’s first Copa América.",
+            "image": "../assets/chile/source/HUz-jPaWkAAETaA.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Iván Zamorano",
+            "years": "1987–2001",
+            "description": "Captain, aerial monster and leader of the generation that returned Chile to the World Cup in 1998.",
+            "image": "../assets/chile/source/HUz-jt9W4AEKINY.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Leonel Sánchez",
+            "years": "1955–1968",
+            "description": "Four goals at Chile 1962 and one of the defining national icons of La Roja.",
+            "image": "../assets/chile/source/HUz-kAdW0AAcFkQ.jpg"
+          }
+        ]
+      },
+      "closing": "Marcelo Salas is the most painful omission: four goals at France 98 and one of South America’s great strikers. Sergio Livingstone, Mauricio Isla, Alberto Quintano, Carlos Caszely, David Pizarro, Matías Fernández and Eduardo Vargas also miss out."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and tournament landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First match: Argentina 3–1 Chile, 27 May 1910.",
+            "Biggest wins: 7–0 v Venezuela (1979), Armenia (1997) and Mexico (2016).",
+            "Heaviest defeat: Brazil 7–0 Chile, 17 September 1959."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Alexis Sánchez, 168.",
+            "Most goals: Alexis Sánchez, 51.",
+            "Most World Cup appearances: Elías Figueroa, 9.",
+            "Most goals at one World Cup: Leonel Sánchez 4 (1962); Marcelo Salas 4 (1998)."
+          ]
+        },
+        {
+          "title": "Tournament records",
+          "items": [
+            "Best World Cup: 3rd, 1962.",
+            "Copa América champions: 2015, 2016.",
+            "Confederations Cup runners-up: 2017.",
+            "Olympic football bronze: 2000.",
+            "World Cup appearances: 9."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/chile/source/HUz_YiSWEAAm1tL.jpg",
+        "../assets/chile/source/HU0A7PfWkAAeaJ7.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "National memory, the Big Three, an old immigrant-club ground and two geographical oddities",
+      "cards": [
+        {
+          "title": "Estadio Nacional Julio Martínez Prádanos",
+          "meta": "Santiago · opened 1938",
+          "text": "Chilean football’s great civic stage. It hosted the 1962 World Cup final and Chile’s 2015 Copa América triumph, but also served as a detention and torture centre after the 1973 coup.",
+          "images": [
+            "../assets/chile/source/HU0Y_A5XkAAhxRK.jpg",
+            "../assets/chile/source/HU0Y_WUW8AAutKV.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Monumental David Arellano",
+          "meta": "Colo-Colo · definitively opened 1989 · ~47,000",
+          "text": "The Ruca witnessed Chilean club football’s greatest night: Colo-Colo’s 3–0 victory over Olimpia to win the 1991 Copa Libertadores.",
+          "images": [
+            "../assets/chile/source/HU0ZUExW4AAjy1E.jpg",
+            "../assets/chile/source/HU0ZUmvXAAAZJ4l.jpg"
+          ]
+        },
+        {
+          "title": "Claro Arena",
+          "meta": "Universidad Católica · Las Condes · 20,249",
+          "text": "Formerly San Carlos de Apoquindo, Católica’s club-owned ground reopened in August 2025 after a major renovation, with the Andes forming its dramatic backdrop.",
+          "images": [
+            "../assets/chile/source/HU0qK7pW0AEsF5c.jpg",
+            "../assets/chile/source/HU0qLP2WwAAhKw5.jpg"
+          ]
+        },
+        {
+          "title": "Santa Laura",
+          "meta": "Unión Española · opened 1923",
+          "text": "Built by Unión Española and still on the same site in Independencia. It opened with a clásico de colonias against Audax Italiano and hosted Chilean professional football’s first league match in July 1933.",
+          "images": [
+            "../assets/chile/source/HU0zcR7XMAA7vJe.jpg",
+            "../assets/chile/source/HU0zcowXQAAs90o.jpg"
+          ]
+        },
+        {
+          "title": "Estadio El Cobre",
+          "meta": "Cobresal · El Salvador",
+          "text": "One of football’s great geographical oddities. Built in the remote mining town of El Salvador and enlarged to around 20,000 for Libertadores football, it historically held more than twice the town’s population.",
+          "images": [
+            "../assets/chile/source/HU05bt6XcAA6vK6.jpg",
+            "../assets/chile/source/HU05b-RWcAEz_lY.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Bicentenario Chinquihue",
+          "meta": "Puerto Montt",
+          "text": "Built on a natural terrace overlooking the sea. Architects deliberately left one side without a stand to preserve the panoramic view, making it one of Chile’s most striking grounds.",
+          "images": [
+            "../assets/chile/source/HU07Uv1XcAEnfEV.jpg",
+            "../assets/chile/source/HU07VDSXAAA-kEC.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Chile must earn its place",
+          "paragraphs": [
+            "Chile is eligible for the 2030 FIFA World Cup and must qualify through CONMEBOL."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
