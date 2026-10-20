@@ -1223,7 +1223,9 @@
           "flag": "🇻🇨",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/015.png",
+          "page": "./associations/saint-vincent-grenadines.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Suriname",
