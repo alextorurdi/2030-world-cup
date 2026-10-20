@@ -1,0 +1,707 @@
+{
+  "meta": {
+    "title": "Saint Vincent and the Grenadines · The 211 Files",
+    "description": "Saint Vincent and the Grenadines in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Saint Vincent and the Grenadines thread export",
+      "file": "SVincent.docx",
+      "imageCount": 75
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 75 direct X-media images. All local source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#015",
+    "country": "Saint Vincent and the Grenadines",
+    "flag": "🇻🇨",
+    "association": "Saint Vincent and the Grenadines Football Federation (SVGFF)",
+    "founded": "1979",
+    "fifa": "1988",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🥈 Caribbean runners-up: 1979, 1981, 1995",
+      "Gold Cup: 1996"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/015.png",
+    "fallbackLogo": "../assets/saint-vincent-grenadines/source/HU-nfSfXkAAZEjH.jpg"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Saint Vincent and the northern Grenadines",
+      "entries": [
+        {
+          "paragraphs": [
+            "Saint Vincent and the Grenadines is an Eastern Caribbean state formed by mountainous, volcanic Saint Vincent and the northern Grenadines stretching south towards Grenada. Kingstown, on Saint Vincent’s southwest coast, is the capital. Overall: 390 km² and around 99,000 people."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-oNbkXMAAAjjz.jpg",
+            "../assets/saint-vincent-grenadines/source/HU-ocXfWUAAxudM.jpg",
+            "../assets/saint-vincent-grenadines/source/HU-ohBPXEAAtlKe.png",
+            "../assets/saint-vincent-grenadines/source/HU-ouIRXoAAexyp.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Garifuna resistance, independence and a 2025 change of government",
+      "entries": [
+        {
+          "heading": "British rule and independence",
+          "date": "18th century–1979",
+          "paragraphs": [
+            "Britain controlled Saint Vincent from the late 18th century after fierce Garifuna resistance. Internal self-government came with Associated Statehood in 1969; full independence as Saint Vincent and the Grenadines followed exactly ten years later."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-pWpvW8AANcRn.jpg"
+          ]
+        },
+        {
+          "heading": "A long ULP era",
+          "date": "2001–2025",
+          "paragraphs": [
+            "The country remained a parliamentary constitutional monarchy after independence. Ralph Gonsalves and the labour-oriented ULP governed from 2001 to 2025, winning five consecutive elections."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-pvHnXwAAZ2NZ.jpg"
+          ]
+        },
+        {
+          "heading": "Political change and La Soufrière",
+          "date": "2021–2025",
+          "paragraphs": [
+            "The November 2025 election brought the first change of government in 24 years. The conservative NDP won 14 of the 15 elected seats and Godwin Friday became Prime Minister. Recent history was also shaped by La Soufrière’s explosive April 2021 eruption, which triggered evacuation orders for around 20,000 people."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-qLFCWAAEhXtY.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Victoria Park, Parkboys, community clubs and the modern federation",
+      "entries": [
+        {
+          "heading": "Victoria Park: the cradle",
+          "date": "From 1887",
+          "paragraphs": [
+            "Victoria Park is central to the emergence of football. Created from Kingstown’s old military Parade Ground and dedicated in 1887, it became the country’s principal recreation ground. Cricket, athletics and later football shared ‘The Park’."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-q7omXwAA9w0Z.jpg"
+          ]
+        },
+        {
+          "heading": "The Parkboys",
+          "date": "1940s–1950s",
+          "paragraphs": [
+            "Roy L. Austin’s study of Kingstown’s ‘Parkboys’ gives an unusually vivid window into football in the 1940s and 1950s. Bottom Town youngsters had constant access to Victoria Park, watched the major matches there and played whenever the ground was free."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-ri5PWYAASjKk.png"
+          ]
+        },
+        {
+          "heading": "COLTS",
+          "date": "1949–1951",
+          "paragraphs": [
+            "The great Parkboy side was COLTS. Existing only from 1949 to 1951, it assembled largely working-class players from around The Park and won both major domestic trophies, the Verral Shield and the Cup, in each of its three seasons."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-sDSFXQAAJGdk.jpg"
+          ]
+        },
+        {
+          "heading": "The club map spreads",
+          "date": "1968–1975",
+          "paragraphs": [
+            "The game increasingly spread beyond central Kingstown. Avenues United were founded in Paul’s Avenue in 1968; North Leeward Predators began in Chateaubelair in 1970; Pastures United—later BESCO Pastures—followed in 1972, and Sion Hill in 1975."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-tKSfXkAAZ__e.jpg"
+          ]
+        },
+        {
+          "heading": "The present federation",
+          "date": "1979–1988",
+          "paragraphs": [
+            "In independence year, 1979, the present SVG Football Federation was established. It formalised and expanded a football culture already several generations old. SVGFF joined CONCACAF in 1986 and FIFA in 1988, opening the modern international era."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-ttj4XYAEzQtg.jpg"
+          ]
+        },
+        {
+          "heading": "A wider national club geography",
+          "date": "1995 onward",
+          "paragraphs": [
+            "More clubs followed: Camdonia Chelsea and Hope International in 1995, System 3 in 1997, JeBelle in 2001 and later Layou, SV United and Bequia United. The geography increasingly stretched from Kingstown neighbourhoods to Leeward, Windward and Grenadine communities."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-3KGqXoAAvdNH.jpg"
+          ]
+        },
+        {
+          "heading": "A fragmented national championship",
+          "date": "1998/99–2005/06",
+          "paragraphs": [
+            "The surviving national championship record resumes in 1998/99 with Camdonia Chelsea. Continuity was difficult: no national championship is recorded for 1999–03, Hope won in 2003/04 and 2005/06, and several later seasons were again cancelled or abandoned."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-3WqIXcAAGF9v.png"
+          ]
+        },
+        {
+          "heading": "Avenues and the modern title race",
+          "date": "2009–2020",
+          "paragraphs": [
+            "Avenues United created the clearest dynasty: champions in 2009/10, 2010/11 and 2012, then again in 2017. BESCO Pastures won in 2013/14 and 2018/19; Hope added titles in 2014/15 and 2019/20; System 3 broke through in 2016."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-32urWwAAGq51.jpg"
+          ]
+        },
+        {
+          "heading": "Pandemic and volcanic disruption",
+          "date": "2020–2024",
+          "paragraphs": [
+            "The pandemic and La Soufrière eruption again disrupted competition: 2020/21 was abandoned and 2021/22 was not held. JeBelle won the returning 2022/23 championship, while the 2023/24 national season is again absent from the surviving roll."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-4DYDXYAEqEeN.jpg"
+          ]
+        },
+        {
+          "heading": "North Leeward Predators",
+          "date": "2024/25",
+          "paragraphs": [
+            "North Leeward Predators finally took their first national crown in 2024/25: 41 points from 18 matches, four clear of Hope International. It was a landmark for Chateaubelair and for football outside the Kingstown-centred heartland."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-4Wd-XkAEMyYc.jpg"
+          ]
+        },
+        {
+          "heading": "The VSPL era begins",
+          "date": "2026",
+          "paragraphs": [
+            "The top flight was repackaged in 2026 as the Vincy Soccer Premier League, with stronger branding and an explicit move toward semi-professional football. System 3 finished 13-3-2, scored 74 goals and amassed 42 points to become the inaugural VSPL champions."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-4yZOXIAA2Mxq.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "VSPL, a broad Tier II and the Caribbean route",
+      "cards": [
+        {
+          "title": "Vincy Soccer Premier League",
+          "meta": "10 clubs · 18 matches",
+          "text": "The VSPL is the top tier. Clubs play each other home and away and the table leader is champion. In 2026 Bequia United and Avenues United occupied the bottom two places and were relegated.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-5mRHX0AEtH2b.png"
+          ]
+        },
+        {
+          "title": "Tier II",
+          "meta": "25 clubs in four groups in 2025/26",
+          "text": "The top three from each group entered the ‘Road to VSPL’ promotion phase. SV United beat Sparta 2–1 in the final, and both finalists were promoted.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-_Z2QX0AADDv1.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "VSPL champion",
+          "text": "The Vincy Soccer Premier League champion enters the CFU Club Shield, CONCACAF’s competition for Caribbean leagues outside the professional Caribbean Cup. Its finalists move into the Caribbean Cup.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU-_6jPXgAAgR_R.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "Continental pathway",
+          "text": "The Caribbean Cup sends its top three clubs to the CONCACAF Champions Cup. The source notes that no Saint Vincent and the Grenadines club has completed this route since the Shield began in 2018.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_AJpJWoAAuxNr.jpg",
+            "../assets/saint-vincent-grenadines/source/HU_AKo1W8AAe_zG.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Kingstown powers, Leeward challengers and a Grenadine outpost",
+      "cards": [
+        {
+          "title": "Avenues United",
+          "meta": "Paul’s Avenue · founded 1968 · 4 documented titles",
+          "text": "Joint record holders in the documented modern championship with titles in 2009/10, 2010/11, 2012 and 2017. The source’s 2026 season, however, ended with relegation from the VSPL.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_AryHWkAAxDbd.png"
+          ]
+        },
+        {
+          "title": "Hope International",
+          "meta": "Sion Hill · founded 1995 · 4 documented titles",
+          "text": "Hope match Avenues with national championships in 2003/04, 2005/06, 2014/15 and 2019/20. Their longevity makes them one of the most persistent modern powers.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_BWiUWcAAlD-y.jpg"
+          ]
+        },
+        {
+          "title": "BESCO Pastures",
+          "meta": "Kingstown · roots in Pastures United, 1972",
+          "text": "National champions in 2013/14 and 2018/19 and still a VSPL side, BESCO are one of the clearest links between the older post-independence club scene and the new league.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_BvYaWYAAITRj.png"
+          ]
+        },
+        {
+          "title": "System 3",
+          "meta": "Kingstown · founded 15 June 1997",
+          "text": "A development-oriented club. Champions in 2016, they later dropped to Tier II, won promotion in 2024/25 and then returned explosively: 74 goals and the inaugural 2026 VSPL title.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_CDJ2W4AAdR4f.png"
+          ]
+        },
+        {
+          "title": "North Leeward Predators",
+          "meta": "Chateaubelair · roots in 1970",
+          "text": "Founded as Predators of Fritz Hughes and renamed in 2007. Their first national title came in 2024/25, and in 2026 they carried the country into the CFU Club Shield.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_CeKMXYAAHs10.png"
+          ]
+        },
+        {
+          "title": "Camdonia Chelsea, JeBelle & Bequia United",
+          "meta": "Three strands of the modern league",
+          "text": "Camdonia Chelsea won the first title in the surviving modern roll in 1998/99; JeBelle became champions in 2022/23. Bequia United, founded in Port Elizabeth in 2012, are especially important geographically as an elite club based in the Grenadines themselves.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_DohxWEAMIftJ.png",
+            "../assets/saint-vincent-grenadines/source/HU_Dv1IXEAA00FC.jpg",
+            "../assets/saint-vincent-grenadines/source/HU_D8LHW0AAI4dJ.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Vincy Heat: Windward champions, three Caribbean finals and one Gold Cup",
+      "entries": [
+        {
+          "heading": "The first traced representative matches",
+          "date": "1936",
+          "paragraphs": [
+            "The earliest representative matches currently traced are two 1–1 draws with Barbados in Kingstown in September 1936. Through the mid-century, the natural arena became the Windward Islands tournaments against Grenada, Dominica and Saint Lucia."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HU_EXjKXsAAufz0.jpg"
+          ]
+        },
+        {
+          "heading": "Windward Islands success",
+          "date": "1961–2019",
+          "paragraphs": [
+            "Saint Vincent and the Grenadines were runners-up in 1961, 1962, 1964/65, 1968, 1969, 1974 and 1984, won back-to-back titles in 1965 and 1966, and later won again in 1973, 1986, 2015 and 2019."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVAFrC2XYAAXDup.jpg"
+          ]
+        },
+        {
+          "heading": "Immediate Caribbean breakthrough",
+          "date": "1979",
+          "paragraphs": [
+            "The new federation immediately made an impact. SVG eliminated Martinique and Guadeloupe, then beat hosts Suriname 3–2 and Trinidad & Tobago 2–1 in the CFU Championship final round. Only Haiti finished above them, leaving Vincy Heat as runners-up."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVC-bv1WoAES57V.jpg"
+          ]
+        },
+        {
+          "heading": "Runners-up again",
+          "date": "1981",
+          "paragraphs": [
+            "SVG again eliminated Martinique and Guadeloupe home and away, then edged Suriname 5–4 on aggregate. In the finals they beat Puerto Rico 2–0 and Guadeloupe 3–1; only Trinidad & Tobago denied them the title."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVC--4uXIAAWsoO.jpg"
+          ]
+        },
+        {
+          "heading": "The late CFU years",
+          "date": "1983–1989",
+          "paragraphs": [
+            "Martinique eliminated SVG in 1983 and Trinidad & Tobago stopped them reaching 1985. They returned in the 1989 Caribbean Cup after topping an unbeaten group with the Netherlands Antilles, Martinique, British Virgin Islands and Belize, then lost to Grenada and drew the Netherlands Antilles in the finals."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDBerwXUAE04xg.jpg"
+          ]
+        },
+        {
+          "heading": "Caribbean Cup finals again",
+          "date": "1990–1992",
+          "paragraphs": [
+            "In 1990 SVG topped a qualifying group with Martinique, Guyana and Dominica, but lost both finals matches to Martinique and Barbados. In 1992 they again topped their group—Barbados, Netherlands Antilles and Grenada—before defeats to Cuba, Jamaica and Guadeloupe in the finals."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDEOgtXEAAiXnM.jpg"
+          ]
+        },
+        {
+          "heading": "First World Cup campaign",
+          "date": "USA 1994 cycle",
+          "paragraphs": [
+            "After FIFA affiliation, Vincy Heat overturned a 0–1 first-leg loss to Saint Lucia and then eliminated Suriname 2–1 on aggregate to reach a group with Mexico, Honduras and Costa Rica."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDGAMkWUAAzbNF.jpg"
+          ]
+        },
+        {
+          "heading": "The brutal level jump",
+          "date": "1992",
+          "paragraphs": [
+            "SVG lost all six matches in the group. Mexico won 11–0 in Mexico City on 6 December 1992—still the heaviest defeat in the source. Yet merely reaching that stage established a pattern: the tiny island state would repeatedly survive early CONCACAF rounds."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDGNahWUAEO-xe.jpg"
+          ]
+        },
+        {
+          "heading": "The great 1995 Caribbean Cup run",
+          "date": "1995",
+          "paragraphs": [
+            "SVG beat Dominica and then demolished Montserrat 9–0 and 11–0, with Rodney Jack scoring six in the latter. At the finals they beat French Guiana 3–1, Antigua 5–1 and drew Cayman 2–2 to win their group."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDIALHXQAASqND.jpg"
+          ]
+        },
+        {
+          "heading": "Third Caribbean final",
+          "date": "1995",
+          "paragraphs": [
+            "Andre Hinds, Rodney Jack and Tyrone Prince scored in a 3–2 semi-final win over Cuba. Trinidad & Tobago won the final 5–0, but the runner-up place achieved something bigger: qualification for the Gold Cup."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDIWF7XUAA6FYj.jpg"
+          ]
+        },
+        {
+          "heading": "The 1996 Gold Cup",
+          "date": "1996",
+          "paragraphs": [
+            "Saint Vincent and the Grenadines reached CONCACAF’s senior championship for the first—and still only—time. Mexico won 5–0 and Guatemala 3–0 in California. Two matches, no goals, but a historic continental appearance."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDIqB8WoAI6LYs.jpg"
+          ]
+        },
+        {
+          "heading": "Another deep qualifying run",
+          "date": "Mid-1990s",
+          "paragraphs": [
+            "Vincy Heat also reached the 1996 Caribbean Cup after defeating Grenada, then later produced another long World Cup campaign: Puerto Rico fell 9–1 on aggregate and SVG advanced past Saint Kitts & Nevis on away goals after 2–2 and 0–0. Mexico, Honduras and Jamaica followed; Honduras won a wild 11–3."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDKV3YXoAAySrL.jpg"
+          ]
+        },
+        {
+          "heading": "Korea/Japan 2002 qualifying",
+          "date": "2000–2001",
+          "paragraphs": [
+            "SVG swept the US Virgin Islands 14–1 on aggregate, beat Saint Kitts & Nevis twice and overturned Antigua to reach another semi-final group. Jamaica, Honduras and El Salvador then inflicted six defeats."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDKzJHWoAA0Vhc.jpg"
+          ]
+        },
+        {
+          "heading": "The last Caribbean Cup finals",
+          "date": "2005–2007",
+          "paragraphs": [
+            "SVG qualified over Bermuda, British Virgin Islands and Cayman Islands in the 2005 Caribbean Cup but were eliminated by Trinidad & Tobago before the finals. They did reach the 2007 finals after a long qualifying route, then lost to Guadeloupe, Guyana and Cuba. They would not qualify again."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDdG68XMAEsgTG.jpg"
+          ]
+        },
+        {
+          "heading": "The 2006 World Cup cycle",
+          "date": "2004–2005",
+          "paragraphs": [
+            "A 2–2 draw in Nicaragua was followed by a 4–1 home win. In the semi-final group SVG then beat Saint Kitts & Nevis twice but lost the other four matches against Mexico and Trinidad & Tobago."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDd41VXwAACb9D.jpg"
+          ]
+        },
+        {
+          "heading": "Harder World Cup campaigns",
+          "date": "2008–2014",
+          "paragraphs": [
+            "Canada eliminated SVG 7–1 on aggregate in 2008. In the 2014 qualifiers Vincy Heat took five points in a group with Guatemala, Belize and Grenada but finished outside the only qualifying place."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDeXdQW0AAz7tf.jpg"
+          ]
+        },
+        {
+          "heading": "Russia 2018: the survival act returns",
+          "date": "2015",
+          "paragraphs": [
+            "SVG advanced past Guyana on away goals after 2–2 and 4–4 draws, then eliminated Aruba 3–2 on aggregate. USA, Trinidad & Tobago and Guatemala then handed them six defeats."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDetTgWgAAMNAw.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League B",
+          "date": "2019/20",
+          "paragraphs": [
+            "SVG qualified for League B after beating Guyana and Bonaire. They went unbeaten until the final matchday and finished runners-up behind Suriname and ahead of Nicaragua and Dominica, earning a place in the 2021 Gold Cup preliminaries. Haiti ended that route."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDgiV2X0AAPNBg.jpg"
+          ]
+        },
+        {
+          "heading": "Another Gold Cup preliminary place",
+          "date": "2022/23–2024/25",
+          "paragraphs": [
+            "SVG finished last in their 2022/23 Nations League group. Still in League B in 2024/25, Vincy Heat finished second in a group with Guyana, Bermuda and Belize and qualified for the 2025 Gold Cup preliminaries."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDyFT8WYAA86j9.jpg"
+          ]
+        },
+        {
+          "heading": "Jamaica and the 2026 World Cup campaign",
+          "date": "2025",
+          "paragraphs": [
+            "SVG held Jamaica 1–1 at Arnos Vale before losing 3–0 at Sabina Park and 4–1 on aggregate. Their 2026 World Cup campaign then ended in Round Two: defeats to Suriname and El Salvador, a 6–0 win over Anguilla and a final 2–1 loss in Puerto Rico."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDzJgSXgAAUd9Y.jpg"
+          ]
+        },
+        {
+          "heading": "Michael Findlay and a perfect start",
+          "date": "2026/27",
+          "paragraphs": [
+            "Canadian Michael Findlay took charge in August 2026. SVG opened the Nations League B campaign with four straight wins—Guyana 2–1, Belize 1–0, Belize 4–2 and Belize 4–0—and led Group D with 12 points before the November window."
+          ],
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVDzxnuWEAAMznH.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "Windward pioneers, the 1995 breakthrough and the modern Vincy Heat",
+      "intro": "The source’s 4-3-3 links Rudy Boucher’s pre-FIFA Windward generation, the 1995–96 Caribbean breakthrough and Saint Vincent and the Grenadines’ modern era.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/saint-vincent-grenadines/source/HVD8tlkXUAAiNIh.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Melvin Andrews",
+            "years": "1996–2008",
+            "description": "A key figure during the late-1990s World Cup qualifying era, including a campaign in which he started nine matches and played every minute.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEFFqDXwAABdfs.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Ezra Hendrickson",
+            "years": "1996–2007",
+            "description": "A long US professional career and one of SVG’s highest-profile football exports.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEG1r2WwAA4FCG.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Cornelius Huggins",
+            "years": "1995–2011",
+            "description": "The ‘Outlaw’, a dominant centre-back who later became a star with Kedah in Malaysia.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEG19FWsAAWkIl.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Wesley Charles",
+            "years": "1992–2012",
+            "description": "A towering defender whose career took him through Ireland, Canada and the United States.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEH95NXQAAW1LA.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Wesley John",
+            "years": "1995–2007",
+            "description": "A versatile and fierce competitor from the golden generation of Vincentian defenders, credited in the source with more than 80 caps.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEH-QTWsAAhCgD.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Rudy Boucher",
+            "years": "1963–1977",
+            "description": "Captain from 1972 to 1976 and the bridge to the pre-FIFA Windward era.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEJdwwXcAA3ARI.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Kendall Velox",
+            "years": "1992–2008",
+            "description": "63 caps, 15 goals and a central figure in the 1995 Caribbean breakthrough.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEJd_pWQAAQ-A5.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Cornelius Stewart",
+            "years": "2007–",
+            "description": "Long-serving modern creator/forward and the appearance-record holder in the source.",
+            "image": "../assets/saint-vincent-grenadines/source/HVEJeORXEAAFl54.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Rodney Jack",
+            "years": "1992–2004",
+            "description": "24 documented goals and six in one match against Montserrat in 1995.",
+            "image": "../assets/saint-vincent-grenadines/source/HVELQGfWEAAmcC3.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Shandel Samuel",
+            "years": "2001–2016",
+            "description": "33 international goals in the RSSSF reconstruction cited by the source.",
+            "image": "../assets/saint-vincent-grenadines/source/HVELQbGW0AAZe2C.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Oalex Anderson",
+            "years": "2014–",
+            "description": "Current captain and, by October 2026 in the source, the new national scoring benchmark.",
+            "image": "../assets/saint-vincent-grenadines/source/HVELQsaWoAAMbC5.jpg"
+          }
+        ]
+      },
+      "closing": "Myron Samuel, Alwyn Guy, Darren Hamlet, Marlon James, Nazir McBurnette, Andre Hinds, Kenlyn Gonsalves, Diel Spring and Azinho Solomon are among the painful omissions. Earlier Windward-era players are especially hard to compare because full line-ups and cap totals rarely survive."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team and individual landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First traced match: Saint Vincent 1–1 Barbados, 12 September 1936.",
+            "Biggest win: Saint Vincent and the Grenadines 11–0 Montserrat, 7 May 1995.",
+            "Heaviest defeat: Mexico 11–0 Saint Vincent and the Grenadines, 6 December 1992.",
+            "Highest FIFA ranking: 73rd, October 2007.",
+            "Lowest FIFA ranking: 180th."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Cornelius Stewart.",
+            "Record scorer: Oalex Anderson, 34 goals by 6 October 2026.",
+            "Previous scoring record: Shandel Samuel, 33 in the RSSSF reconstruction.",
+            "Most goals in one match: Rodney Jack, 6 v Montserrat, 1995."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/saint-vincent-grenadines/source/HVELsvGXYAA3Of-.jpg",
+        "../assets/saint-vincent-grenadines/source/HVEMATlWUAApMXJ.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "The old Park, Arnos Vale, Brighton and football in the Grenadines",
+      "cards": [
+        {
+          "title": "Independence Park",
+          "meta": "Kingstown · the old Victoria Park",
+          "text": "The cradle of Vincentian sport. Dedicated in 1887 and long known simply as ‘The Park’, it hosted the Parkboy football culture of the 1940s and 1950s. It was renamed Independence Park in October 2025.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVEPDWPWoAAzeei.jpg",
+            "../assets/saint-vincent-grenadines/source/HVEPDp-WsAEtyHU.jpg"
+          ]
+        },
+        {
+          "title": "Arnos Vale Sporting Complex",
+          "meta": "Principal modern Vincy Heat home",
+          "text": "The multi-sport ground has hosted World Cup qualifiers, Nations League nights and the 1–1 Gold Cup preliminary draw with Jamaica in March 2025. It remains the country’s main international stage.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVEPex8XoAE163t.jpg",
+            "../assets/saint-vincent-grenadines/source/HVEPfELWcAAXrEp.jpg"
+          ]
+        },
+        {
+          "title": "Brighton Playing Field",
+          "meta": "Key domestic venue",
+          "text": "Brighton hosted the decisive end of the inaugural VSPL season in June 2026, when System 3 were crowned champions, and is regularly used for National Club Championship matches.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVEQEANXsAAyyH7.jpg",
+            "../assets/saint-vincent-grenadines/source/HVEQEVBWIAAAIKw.jpg"
+          ]
+        },
+        {
+          "title": "Clive Tannis Playing Field",
+          "meta": "Port Elizabeth, Bequia · Bequia United",
+          "text": "A good example of football outside the main island of Saint Vincent. The ground sits in Port Elizabeth on Bequia, the largest of the Grenadines, and is the home of Bequia United FC.",
+          "images": [
+            "../assets/saint-vincent-grenadines/source/HVERiISXwAEVJ8V.jpg",
+            "../assets/saint-vincent-grenadines/source/HVERidiWcAETHls.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Round One is the likely starting point",
+          "paragraphs": [
+            "Saint Vincent and the Grenadines is eligible for the 2030 FIFA World Cup. CONCACAF qualifying starts in September–October 2027. Teams ranked 14th–35th in the FIFA Ranking used for seeding enter Round One: eleven home-and-away knockout ties."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
