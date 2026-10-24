@@ -1207,14 +1207,16 @@
           "status": "active",
           "logo": ""
         },
-        {
+       {
           "name": "Saint Lucia",
           "associationName": "Saint Lucia Football Association",
           "code": "LCA",
           "flag": "🇱🇨",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/016.png",
+          "page": "./associations/saint-lucia.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Saint Vincent and the Grenadines",
