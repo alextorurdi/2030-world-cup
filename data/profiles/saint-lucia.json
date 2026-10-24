@@ -1,0 +1,619 @@
+{
+  "meta": {
+    "title": "Saint Lucia · The 211 Files",
+    "description": "Saint Lucia in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Saint Lucia thread export",
+      "file": "SLucia.docx",
+      "imageCount": 64
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 64 direct X-media images. All local source files retain their original X-media filenames and extensions. The source provides no separate goalkeeper portrait in the historical XI."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#016",
+    "country": "Saint Lucia",
+    "flag": "🇱🇨",
+    "association": "Saint Lucia Football Association (SLFA)",
+    "founded": "1979",
+    "fifa": "1988",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🥉 Caribbean Cup: 1991",
+      "🏆 7× Windward Islands"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/016.png",
+    "fallbackLogo": "../assets/saint-lucia/source/HVL53rLWMAAQ2sI.jpg"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "A volcanic island between Martinique and Saint Vincent",
+      "entries": [
+        {
+          "paragraphs": [
+            "Saint Lucia lies in the eastern Caribbean between Martinique and Saint Vincent. A volcanic, mountainous island dominated by the Pitons, it has Castries as its capital. Only 617 km², it packs together rainforest, steep valleys and fishing towns."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNWafUWQAAQWo9.jpg",
+            "../assets/saint-lucia/source/HVNWaz6WAAAMPLU.jpg",
+            "../assets/saint-lucia/source/HVNWbSSXMAAJaTw.jpg",
+            "../assets/saint-lucia/source/HVNWbpHWgAAkYxg.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "French influence, British rule and independence",
+      "entries": [
+        {
+          "heading": "A contested island",
+          "paragraphs": [
+            "Saint Lucia passed repeatedly between French and British control before Britain secured the island during the Napoleonic era. French cultural influence nevertheless endured strongly, especially through Kwéyòl language and place names."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNW6OTWkAENiuR.jpg"
+          ]
+        },
+        {
+          "heading": "Associated Statehood and independence",
+          "date": "1967–1979",
+          "paragraphs": [
+            "Associated Statehood arrived on 1 March 1967, giving Saint Lucia control of domestic affairs while Britain retained defence and foreign affairs. Full independence followed on 22 February 1979, with John Compton becoming the country’s first Prime Minister."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNXGTKWgAAGtF-.jpg"
+          ]
+        },
+        {
+          "heading": "The 2025 election",
+          "date": "2021–2025",
+          "paragraphs": [
+            "Philip J. Pierre’s Saint Lucia Labour Party returned to government in 2021 and strengthened its majority in the 2025 election, winning 14 of 17 elected seats. Pierre was sworn in for a second consecutive term in December 2025."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNXnALXYAAVcd_.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "District identities, club champions and the shift to a semi-professional district league",
+      "entries": [
+        {
+          "heading": "The early game remains hard to pin down",
+          "date": "Before the modern federation",
+          "paragraphs": [
+            "The exact introduction of football remains difficult to establish, but Saint Lucia already had a representative side travelling overseas by the 1930s. Organised football originally operated under the National Football Union."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNZBsLWgAAvojN.jpg"
+          ]
+        },
+        {
+          "heading": "District football becomes central",
+          "date": "20th century",
+          "paragraphs": [
+            "Castries, Vieux Fort, Gros Islet, Soufrière, Mabouya Valley and other communities developed strong local football identities. By the 1970s, inter-district knockout competition had become an important part of the island game."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNai4nWMAAh0_d.jpg"
+          ]
+        },
+        {
+          "heading": "Early championship winners and the modern SLFA",
+          "date": "1979–1988",
+          "paragraphs": [
+            "Early winners in the surviving record include Dames SC of Vieux Fort in 1980, Uptown Rebels in 1981 and Castries side VSADC in 1982, 1984, 1985 and 1988.",
+            "The modern Saint Lucia Football Association was created in independence year 1979, replacing the old National Football Union. It joined CONCACAF in 1986 and FIFA in 1988."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNbKCNWwAAWXLJ.jpg"
+          ]
+        },
+        {
+          "heading": "A clearer national championship",
+          "date": "1997–2000",
+          "paragraphs": [
+            "Club football becomes easier to trace from the late 1990s. Pioneers were champions in 1997; the 1998 title is disputed between Rovers United and VSADC. Roots Alley Ballers then won back-to-back championships in 1999 and 2000."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNfPaUWYAAK_3N.jpg"
+          ]
+        },
+        {
+          "heading": "Roots Alley Ballers, VSADC and Northern United",
+          "date": "2001–2017",
+          "paragraphs": [
+            "Roots Alley Ballers added titles in 2003/04 and 2009. VSADC won in 2001, 2002, 2011 and 2012; Northern United took 2004/05, 2010 and 2017."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNfgS0WkAAZi_a.jpg"
+          ]
+        },
+        {
+          "heading": "The title map broadens",
+          "date": "2005–2016",
+          "paragraphs": [
+            "Other regions broke through too: Canaries won in 2005/06; Soufrière’s GYSO in 2006/07 and 2007/08; Aux Lyons in 2008; Big Players in 2013; Survivals in 2016. The championship increasingly reflected Saint Lucia’s district geography."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVNx7nlXEAAxQBh.jpg"
+          ]
+        },
+        {
+          "heading": "Platinum, B1 and BAYS",
+          "date": "2018–2023",
+          "paragraphs": [
+            "Vieux Fort North’s Platinum FC produced a three-title modern dynasty: 2018, 2019 and 2021, either side of the abandoned 2020 season. B1 FC won in 2022 and Bexon’s BAYS FC in 2023."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVN0e-4XAAAoDYz.jpg"
+          ]
+        },
+        {
+          "heading": "The club championship disappears",
+          "date": "From 2023",
+          "paragraphs": [
+            "Saint Lucian football then changed model completely. Since 2023 no conventional national club championship has been played. In 2024 the government and SLFA launched a Semi-Professional Football League built around district selections rather than traditional clubs."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVN006MXgAAuTlM.jpg"
+          ]
+        },
+        {
+          "heading": "The SPFL era",
+          "date": "2024–2026",
+          "paragraphs": [
+            "La Clery won the inaugural Tier 1 title in 2024 and retained it in 2025. The 2026 SPFL began in June with ten district selections in Tier 1. As of Round 12 in October, Dennery had moved top after a dramatic 4–3 comeback against defending champions La Clery."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVN2iCMWIAE-HAM.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "A district-based semi-professional league and a surviving national club route",
+      "cards": [
+        {
+          "title": "Semi-Professional Football League — Tier 1",
+          "meta": "10 district teams",
+          "text": "The SPFL is now the centrepiece of senior domestic football. Players and technical staff receive payments, making it a deliberate bridge between community football and a professional environment.",
+          "images": [
+            "../assets/saint-lucia/source/HVOfG8cW0AAG3Vf.jpg"
+          ]
+        },
+        {
+          "title": "SPFL Tier 2",
+          "meta": "Promotion to Tier 1",
+          "text": "Tier 2 operates below the top flight. In 2025, Anse La Raye won Tier 2 and went up; the full SPFL programme involved 20 teams and distributed EC$1.45m in player and staff payments.",
+          "images": [
+            "../assets/saint-lucia/source/HVOfXG-XkAArq6V.jpg"
+          ]
+        },
+        {
+          "title": "National inter-club championship",
+          "meta": "2024/25",
+          "text": "Traditional clubs mainly compete at district level. A national inter-club championship was organised in 2024/25, with GMC United emerging as champions. The source notes no confirmed announcement regarding the competition’s continuation.",
+          "images": [
+            "../assets/saint-lucia/source/HVOmos5WEAA2QCp.jpg"
+          ]
+        },
+        {
+          "title": "Blackheart / SLFA Knockout",
+          "meta": "Community cup tradition",
+          "text": "The Blackheart/SLFA Knockout remains the great cup-style community event. Vieux Fort South won the 2026 U20 edition 4–2 over La Clery at Soufrière, adding to four consecutive senior Blackheart titles from 2016 to 2019.",
+          "images": [
+            "../assets/saint-lucia/source/HVOnVawXYAAiUGX.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "Continental route",
+          "text": "The SPFL champions enter the CFU Club Shield, CONCACAF’s tournament for Caribbean leagues outside the professional Caribbean Cup. Its finalists advance to the Caribbean Cup.",
+          "images": [
+            "../assets/saint-lucia/source/HVOoPRaWMAIXhHn.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "CONCACAF pathway",
+          "text": "The Caribbean Cup sends its top three to the CONCACAF Champions Cup. The source notes that no Saint Lucian club has completed this route since the Shield was introduced in 2018.",
+          "images": [
+            "../assets/saint-lucia/source/HVOoSp4WwAAMTdl.jpg",
+            "../assets/saint-lucia/source/HVOoTBrXIAAJv6O.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The historic club champions before the district-league era",
+      "cards": [
+        {
+          "title": "VSADC",
+          "meta": "Castries · Vempers Sports Athletic Dramatic Club",
+          "text": "VSADC are the historic Castries reference. They dominate the surviving early title lists and were confirmed national champions in 2001, 2002, 2011 and 2012, although some older honours remain archivally uncertain.",
+          "images": [
+            "../assets/saint-lucia/source/HVOrIbeWMAABLef.jpg"
+          ]
+        },
+        {
+          "title": "Roots Alley Ballers",
+          "meta": "Vieux Fort",
+          "text": "Champions in 1999, 2000, 2003/04 and 2009, they were one of the defining clubs of the first decade for which Saint Lucia has a reasonably continuous national championship record.",
+          "images": [
+            "../assets/saint-lucia/source/HVOunx1WYAEANiZ.jpg"
+          ]
+        },
+        {
+          "title": "Northern United",
+          "meta": "Gros Islet",
+          "text": "Northern United won the national championship in 2004/05, 2010 and 2017, making them one of the most consistent non-Castries powers of the documented era.",
+          "images": [
+            "../assets/saint-lucia/source/HVOvwVqXoAAfzXZ.jpg"
+          ]
+        },
+        {
+          "title": "Platinum FC",
+          "meta": "Vieux Fort North",
+          "text": "Platinum produced a three-title run in four completed seasons—2018, 2019 and 2021—before the old national club championship disappeared.",
+          "images": [
+            "../assets/saint-lucia/source/HVOvwnkWkAELo5S.jpg"
+          ]
+        },
+        {
+          "title": "BAYS FC",
+          "meta": "Bexon · 2023 champion",
+          "text": "BAYS FC won the final listed championship of the conventional national club era in 2023.",
+          "images": [
+            "../assets/saint-lucia/source/HVOvw41WEAADRXK.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Windward champions, a 1991 Caribbean bronze and the long search for a first Gold Cup",
+      "entries": [
+        {
+          "heading": "The early representative era",
+          "date": "1936 onward",
+          "paragraphs": [
+            "Saint Lucia’s representative history stretches back at least to 1936 matches in Martinique. For decades the international calendar revolved around nearby islands, especially Dominica, Grenada and Saint Vincent in the Windward Islands tournament."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVO3-LAX0AAUtu-.jpg"
+          ]
+        },
+        {
+          "heading": "Windward Islands champions",
+          "date": "1964/65–2014",
+          "paragraphs": [
+            "Saint Lucia became a Windward regional power, winning in 1964/65, 1972, 1984, 1987, 1988, 1991 and 2014. The 1987 and 1988 titles were both won against Grenada on penalties in the final, and those teams also conquered the wider OECS playoff."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVT-oDKWkAAbnM_.png"
+          ]
+        },
+        {
+          "heading": "The 1991 Caribbean Cup breakthrough",
+          "date": "1991",
+          "paragraphs": [
+            "After FIFA membership arrived in 1988, the Caribbean Championship offered a new stage. Saint Lucia drew with Martinique and Dominican Republic, then stunned Trinidad & Tobago 2–1 to reach the semi-finals. Jamaica won that semi-final 2–0."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVT-8kUW4AA59bT.png"
+          ]
+        },
+        {
+          "heading": "Caribbean bronze",
+          "date": "1991",
+          "paragraphs": [
+            "Saint Lucia finished the tournament strongly. Weeks, Alexander, Earl Jean and Gilbert scored in a 4–1 win over Guyana in Kingston, securing third place—the country’s best Caribbean Cup finish."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUApyyW0AA_3Ap.jpg"
+          ]
+        },
+        {
+          "heading": "Two more Caribbean Cup finals",
+          "date": "1993–1995",
+          "paragraphs": [
+            "Saint Lucia qualified for 1993 but finished last in their finals group, and qualified again for 1995 only to land in another extremely difficult section. Martinique later blocked their path for the next three editions, and Saint Lucia never returned to the Caribbean Cup finals."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUDpdwXgAAabw8.jpg"
+          ]
+        },
+        {
+          "heading": "First World Cup qualifying campaign",
+          "date": "USA 1994",
+          "paragraphs": [
+            "Earl Jean scored in a 1–0 home win over Saint Vincent, but the return ended 3–1 to the Vincentians. Saint Lucia were eliminated 3–2 on aggregate. For France 1998, Saint Kitts & Nevis ended the dream 6–1 on aggregate."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUEBKSW4AAkPfB.jpg"
+          ]
+        },
+        {
+          "heading": "Suriname shootout and a record win",
+          "date": "2001",
+          "paragraphs": [
+            "The 2002 World Cup campaign was much closer: Saint Lucia and Suriname traded 1–0 home wins before Suriname survived the decisive penalty shootout.",
+            "April 2001 also produced the national record: Saint Lucia demolished the US Virgin Islands 14–1 in Caribbean Cup qualifying."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUERJ9X0AALl_Z.jpg"
+          ]
+        },
+        {
+          "heading": "A near miss for the 2003 Gold Cup",
+          "date": "2003–2004",
+          "paragraphs": [
+            "Saint Lucia came close in 2003 Gold Cup qualifying, including a shock 2–1 win over Jamaica, but three points were not enough. In the 2004 World Cup cycle they crushed the British Virgin Islands 10–0 on aggregate, including a 9–0 home win, before Panama ended the run."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUFEo7WwAAcr1f.jpg"
+          ]
+        },
+        {
+          "heading": "Wild World Cup ties",
+          "date": "2010–2018 cycles",
+          "paragraphs": [
+            "Saint Lucia survived Turks & Caicos before Guatemala won 9–1 on aggregate in the 2010 cycle. For 2014, Aruba won the first leg 4–2; Saint Lucia answered 4–2 after extra time at home and won the shootout 5–4.",
+            "Canada, Puerto Rico and Saint Kitts & Nevis then blocked the road. In the Russia 2018 cycle, Saint Lucia won 3–1 away to Antigua & Barbuda but collapsed 4–1 at home, going out 5–4 on aggregate. They withdrew before playing in the 2022 qualifying cycle."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUFYrBXsAAhGyU.png",
+            "../assets/saint-lucia/source/HVUFqHpWsAAiXy0.jpg"
+          ]
+        },
+        {
+          "heading": "Nations League begins",
+          "date": "2019/20–2022/23",
+          "paragraphs": [
+            "Saint Lucia were placed in Nations League B after the qualifying phase. The 2019/20 campaign ended in relegation to League C, but in 2022/23 they swept League C with four wins from four and returned immediately to League B."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUG_a4XcAAHz1_.jpg"
+          ]
+        },
+        {
+          "heading": "Back in League B",
+          "date": "2023/24–2025",
+          "paragraphs": [
+            "In 2023/24 Saint Lucia finished second behind Guadeloupe and ahead of Sint Maarten and Saint Kitts & Nevis. In 2026 World Cup qualifying they drew Aruba 2–2, lost to Curaçao and Haiti, and beat Barbados 2–1, finishing outside the two advancing places."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUHi48WsAETY7k.jpg"
+          ]
+        },
+        {
+          "heading": "Rajesh Latchoo’s new cycle",
+          "date": "2026/27",
+          "paragraphs": [
+            "The new cycle started brilliantly. Saint Lucia lost 0–2 to Barbados, then beat Bermuda 5–2, Guadeloupe 3–0 and Guadeloupe again 1–0: three straight wins before the November window."
+          ],
+          "images": [
+            "../assets/saint-lucia/source/HVUII7qW8AAihTv.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-3-3 mixing the 1991 bronze generation and Saint Lucia’s strongest modern professionals",
+      "intro": "The source’s XI mixes the 1991 Caribbean bronze generation, the long-serving 2000s core and the island’s strongest modern professionals. The thread itself supplies no separate goalkeeper portrait.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/saint-lucia/source/HVViiV4W8AAlbcU.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Vino Barclett",
+            "years": "2018–",
+            "description": "The goalkeeper selected in the source line-up. The supplied thread does not include a separate individual portrait for him.",
+            "image": null
+          },
+          {
+            "position": "RB",
+            "name": "Janoi Donacien",
+            "years": "2023–",
+            "description": "Few caps, but by far the highest club ceiling in the source: years in England and promotion with Ipswich Town.",
+            "image": "../assets/saint-lucia/source/HVVjS8bWMAAIOPo.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Terell Thomas",
+            "years": "2022–",
+            "description": "English Football League experience and immediate authority after committing to Saint Lucia.",
+            "image": "../assets/saint-lucia/source/HVVjTU5WwAAKGPi.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Melvin Doxilly",
+            "years": "2017–",
+            "description": "Long-serving modern international and one of the side’s most dependable defenders.",
+            "image": "../assets/saint-lucia/source/HVVj6kMW4AAGefo.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Kurt Frederick",
+            "years": "2010–",
+            "description": "Captain, appearance-record contender, goals from defence and a career spanning Trinidad, Guyana and Costa Rica.",
+            "image": "../assets/saint-lucia/source/HVVj63nWUAALesa.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Zaine Pierre",
+            "years": "2010–2019",
+            "description": "A gifted central midfielder who had stints abroad in Italy.",
+            "image": "../assets/saint-lucia/source/HVVnVBNWIAA3FaL.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Albert St. Croix",
+            "years": "1970–1982",
+            "description": "More than 50 national caps in the source and a dominant force in midfield.",
+            "image": "../assets/saint-lucia/source/HVVnVYaWkAA-Mlc.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Caniggia Elva",
+            "years": "2023–",
+            "description": "Exceptional pace, dribbling and goal-scoring ability.",
+            "image": "../assets/saint-lucia/source/HVVnVw7WwAANJeJ.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Cliff Valcin",
+            "years": "2010–2014",
+            "description": "A productive forward credited in the source with six goals in 20 appearances.",
+            "image": "../assets/saint-lucia/source/HVVx7EhXYAAF22C.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Earl Jean",
+            "years": "1990–2004",
+            "description": "The source’s record scorer and a hero of the 1991 Caribbean bronze-medal side.",
+            "image": "../assets/saint-lucia/source/HVVx7cPW0AAb8fh.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Titus Elva",
+            "years": "1995–2008",
+            "description": "Sixteen goals and one of Saint Lucia’s most productive forwards.",
+            "image": "../assets/saint-lucia/source/HVVx7vPWoAALYG8.jpg"
+          }
+        ]
+      },
+      "closing": "Victorine Weeks, Martin Alexander, Francis Lastic, Emerson Sheldon Mark, Jamil Joseph, Pernal Williams, Alvinus Myers, Elijah Joseph and current talents Arkell Jude-Boyd and Keegan Caull are among the omissions. The sparse pre-FIFA archive makes older comparisons especially unfair."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and tournament landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "Earliest traced match: Saint Vincent 4–0 Saint Lucia, January 1936.",
+            "Biggest win: Saint Lucia 14–1 US Virgin Islands, 14 April 2001.",
+            "Heaviest defeat: Martinique 8–0 Saint Lucia, 1 October 2006.",
+            "Highest FIFA ranking: 108th, April 2003.",
+            "Lowest FIFA ranking: 192nd, March 2010."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Top scorer: Earl Jean, 20.",
+            "Titus Elva: 16.",
+            "Kurt Frederick: long-time captain and leading appearance-holder in modern databases.",
+            "Earl Jean scored 5 in the 14–1 record win over USVI.",
+            "Jamil Joseph scored a World Cup qualifying hat-trick against Aruba in 2011."
+          ]
+        },
+        {
+          "title": "Tournament records",
+          "items": [
+            "Caribbean Cup: 3rd, 1991.",
+            "Caribbean Cup finals: 1991, 1993, 1995.",
+            "Windward Islands titles: 7.",
+            "Gold Cup: never qualified for finals.",
+            "FIFA World Cup: never qualified.",
+            "Current FIFA ranking in the source: 165th, 7 October 2026."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/saint-lucia/source/HVVylIjWoAAADSU.jpg",
+        "../assets/saint-lucia/source/HVVy8jJXcAA7mTE.jpg",
+        "../assets/saint-lucia/source/HVVzM_iWkAEC9H6.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Historic Castries, modern internationals and the community grounds of the south",
+      "cards": [
+        {
+          "title": "Mindoo Phillip Park",
+          "meta": "Marchand, Castries · formerly Victoria Park",
+          "text": "One of Saint Lucia’s great historic sporting grounds. Renamed in March 1979 after all-round sporting icon Mindoo Phillip, it has hosted football, cricket, rugby and athletics.",
+          "images": [
+            "../assets/saint-lucia/source/HVYA49_W8AACTTl.jpg",
+            "../assets/saint-lucia/source/HVYA5RwWgAAD8Os.jpg"
+          ]
+        },
+        {
+          "title": "Daren Sammy Cricket Ground",
+          "meta": "Near Gros Islet · opened 2002 · ~13,000",
+          "text": "Opened as Beausejour and primarily a cricket venue, but it also stages major football internationals. Saint Lucia’s 5–2 Nations League win over Bermuda in September 2026 was played there.",
+          "images": [
+            "../assets/saint-lucia/source/HVYA9zfWMAE4Cra.jpg",
+            "../assets/saint-lucia/source/HVYA-IZWAAAzj-Q.jpg"
+          ]
+        },
+        {
+          "title": "Philip “Magii” Marcellin Grounds",
+          "meta": "Vieux Fort",
+          "text": "One of the south’s key football venues. Named after the late Saint Lucian goalkeeper, the ground has staged Windward Islands football, national competitions and the opening of the 2026 SPFL season.",
+          "images": [
+            "../assets/saint-lucia/source/HVYBB1MWEAA2aFO.jpg",
+            "../assets/saint-lucia/source/HVYBCR5XkAEOWP5.jpg"
+          ]
+        },
+        {
+          "title": "Soufrière Stadium",
+          "meta": "Soufrière",
+          "text": "A major community-football hub in a mountain-framed setting. It hosted the 2026 Blackheart final and regular SPFL matches, including the October game in which Dennery moved top with a 4–3 win over La Clery.",
+          "images": [
+            "../assets/saint-lucia/source/HVYBOfhXwAA1787.jpg",
+            "../assets/saint-lucia/source/HVYBO3zXsAAq1JB.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Round One is the expected starting point",
+          "paragraphs": [
+            "Saint Lucia is eligible for the 2030 FIFA World Cup. CONCACAF qualifying begins in 2027. The associations ranked 14th–35th for seeding enter Round One: 22 teams paired into eleven home-and-away knockout ties."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
