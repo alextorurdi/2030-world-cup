@@ -1,0 +1,972 @@
+{
+  "meta": {
+    "title": "Bolivia · The 211 Files",
+    "description": "Bolivia in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Bolivia thread export",
+      "file": "Bolivia.docx",
+      "imageCount": 103
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 103 direct X-media images. All source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#017",
+    "country": "Bolivia",
+    "flag": "🇧🇴",
+    "association": "Bolivian Football Federation / Federación Boliviana de Fútbol (FBF)",
+    "founded": "1925",
+    "fifa": "1926",
+    "confederation": "CONMEBOL",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "3",
+    "bestRecords": [
+      "🏆 Copa América: 1963",
+      "🥈 Copa América: 1997"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/017.png",
+    "fallbackLogo": "../assets/bolivia/source/HVjJeCFW4AAQWfl.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Andes, Altiplano, Amazon and Chaco",
+      "entries": [
+        {
+          "paragraphs": [
+            "Landlocked at the heart of South America, Bolivia stretches from the high Andes and Altiplano to Amazonian and Chaco lowlands. It is one of South America’s most geographically and culturally diverse states. Most of the population lives in Santa Cruz or La Paz–El Alto."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVjSCGnWwAATrGg.jpg",
+            "../assets/bolivia/source/HVjSFa2WAAACx72.jpg",
+            "../assets/bolivia/source/HVjSGQDXEAAiKF0.png",
+            "../assets/bolivia/source/HVjShidWkAA0Wp3.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Lost coasts, revolution, military rule and the Plurinational State",
+      "entries": [
+        {
+          "heading": "Independence and territorial wars",
+          "date": "1825–1935",
+          "paragraphs": [
+            "Bolivia declared independence in 1825. Defeat to Chile in the War of the Pacific cost it its Pacific coast; the Chaco War against Paraguay brought another traumatic territorial conflict and helped discredit the old political order."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVjbXlMXUAAopox.png"
+          ]
+        },
+        {
+          "heading": "The National Revolution",
+          "date": "1952",
+          "paragraphs": [
+            "The 1952 National Revolution transformed the country. The MNR introduced universal suffrage, nationalised the great tin mines and launched agrarian reform, bringing millions of previously excluded rural and Indigenous Bolivians into political life."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVjdXKXWEAAAo4r.png"
+          ]
+        },
+        {
+          "heading": "Military rule and democratic return",
+          "date": "1964–1985",
+          "paragraphs": [
+            "A military coup in 1964 opened almost two decades of coups and authoritarian governments. Civilian constitutional rule returned in 1982, but economic crisis and hyperinflation soon led to the radical stabilisation programme of 1985."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVjdlniXYAAuP-c.png"
+          ]
+        },
+        {
+          "heading": "The Morales era and the 2009 Constitution",
+          "date": "2005–2019",
+          "paragraphs": [
+            "Evo Morales won the presidency in 2005. His governments increased state control over hydrocarbons and promoted the 2009 Constitution, which renamed Bolivia a Plurinational State and significantly expanded recognition of Indigenous peoples and autonomies."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVjd3Y2WcAA6TTF.jpg"
+          ]
+        },
+        {
+          "heading": "Political change in the 2020s",
+          "date": "2019–2025",
+          "paragraphs": [
+            "The source describes Morales’ resignation in 2019 after military pressure and notes that his party remained in power until 2025. Rodrigo Paz Pereira then won the presidency and took office amid fuel shortages, scarce dollars and a deep economic crisis."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVje3A5W8AA6Ar8.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Railway Oruro, La Paz football and the long road to a permanent national league",
+      "entries": [
+        {
+          "heading": "Railways bring the game",
+          "date": "Late 19th century",
+          "paragraphs": [
+            "Football entered Bolivia through British employees of the expanding railway network. The first great centre was not La Paz but mining-and-railway Oruro, where workers had easier contact with British and Chilean sporting culture."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVsg8AkWIAA9Du9.jpg"
+          ]
+        },
+        {
+          "heading": "Oruro Royal",
+          "date": "1896",
+          "paragraphs": [
+            "On 26 May 1896 railway workers founded Oruro Royal. The source presents it as Bolivia’s oldest football club, and it survives today."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVslc6TWAAA592j.jpg"
+          ]
+        },
+        {
+          "heading": "The Strongest",
+          "date": "1908",
+          "paragraphs": [
+            "The Strongest were founded in La Paz on 8 April 1908 and soon became the capital’s first enduring power, while local teams multiplied around schools, military institutions and neighbourhoods."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVsmik0W4AAjUdQ.jpg"
+          ]
+        },
+        {
+          "heading": "La Paz organises",
+          "date": "1914",
+          "paragraphs": [
+            "La Paz created Bolivia’s first durable football association in 1914. The Strongest won its inaugural official championship and dominated the amateur era through the 1910s, 1920s, 1930s and 1940s."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVsnMB2XgAAt4Zh.jpg"
+          ]
+        },
+        {
+          "heading": "Bolívar arrives",
+          "date": "1925–1932",
+          "paragraphs": [
+            "Bolívar were founded on 12 April 1925. They entered La Paz’s top division in 1927, finished runners-up immediately and won their first championship in 1932. The Clásico Paceño gradually became the axis of capital football."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVsyeu-XYAAz86i.jpg"
+          ]
+        },
+        {
+          "heading": "Football spreads nationwide",
+          "date": "1920s",
+          "paragraphs": [
+            "Clubs and local competitions developed in Cochabamba, Oruro, Potosí, Sucre and Santa Cruz. Irregular Torneos Nacionales brought departmental selections together from 1926."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVs0pqmXMAAM_L1.jpg"
+          ]
+        },
+        {
+          "heading": "The FBF is born",
+          "date": "1925–1926",
+          "paragraphs": [
+            "On 12 September 1925 delegates met in Cochabamba to create the Federación Boliviana de Fútbol. Aniceto Solares became its first president. The FBF joined CONMEBOL and FIFA the following year."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVs08pVWkAA-fZP.jpg"
+          ]
+        },
+        {
+          "heading": "Enduring clubs of the pre-professional era",
+          "date": "1933–1949",
+          "paragraphs": [
+            "Several long-lived clubs appeared: Always Ready in La Paz in 1933, Aurora in Cochabamba in 1935, San José in Oruro in 1942, Blooming in Santa Cruz in 1946 and Jorge Wilstermann in Cochabamba in 1949."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVs5Z0IWsAAPBXQ.jpg"
+          ]
+        },
+        {
+          "heading": "Professional football in La Paz",
+          "date": "1950",
+          "paragraphs": [
+            "La Paz football became professional in 1950. Nine clubs entered the new championship and Bolívar beat Litoral 3–0 in a playoff to become Bolivia’s first professional-era champion."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtPHuQWYAAFDg4.jpg"
+          ]
+        },
+        {
+          "heading": "The integrated championship",
+          "date": "1954–1960",
+          "paragraphs": [
+            "Oruro and Cochabamba teams entered the integrated competition in 1954. San José became the first non-La Paz champion in 1955. Jorge Wilstermann then won the 1957/58 mixed championship and the national titles of 1958, 1959 and 1960."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtQGheWMAAudj0.jpg"
+          ]
+        },
+        {
+          "heading": "Copa Simón Bolívar becomes the national title",
+          "date": "From 1960",
+          "paragraphs": [
+            "From 1960, the Copa Simón Bolívar served as the national championship. It was not yet a conventional full-season national league: clubs qualified through departmental competitions and then contested a relatively short national phase."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtQmT8WEAAHTK9.jpg"
+          ]
+        },
+        {
+          "heading": "The 1960s champions",
+          "date": "1960–1967",
+          "paragraphs": [
+            "Wilstermann won the first Copa Simón Bolívar and also played the first Libertadores match ever. Municipal followed in 1961, Aurora in 1963, The Strongest in 1964, Municipal in 1965, Bolívar in 1966 and Wilstermann again in 1967."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtR5dUW0AAuD02.jpg"
+          ]
+        },
+        {
+          "heading": "Santa Cruz and Montero join the title map",
+          "date": "1971–1975",
+          "paragraphs": [
+            "Oriente Petrolero, founded in Santa Cruz in 1955, became national champion in 1971. Montero’s Guabirá followed in 1975, showing how firmly the growing eastern lowlands had entered Bolivia’s national game."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtS37xWUAAUUTY.jpg"
+          ]
+        },
+        {
+          "heading": "National champions without a permanent national league",
+          "date": "1972–1976",
+          "paragraphs": [
+            "Wilstermann won again in 1972 and 1973, The Strongest in 1974 and Bolívar in 1976. Yet the system still depended heavily on departmental associations: Bolivia had national champions, but not a permanent nationwide professional circuit."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtTOIGWQAAKmy5.jpg"
+          ]
+        },
+        {
+          "heading": "Liga del Fútbol Profesional Boliviano",
+          "date": "1977",
+          "paragraphs": [
+            "Leading clubs broke with the old structure and created the Liga del Fútbol Profesional Boliviano. Sixteen teams from seven departments entered the inaugural championship, finally establishing a permanent national professional league."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtTgUYWMAA6I92.jpg"
+          ]
+        },
+        {
+          "heading": "The first LFPB champions",
+          "date": "1977–1981",
+          "paragraphs": [
+            "The Strongest beat Oriente Petrolero 3–1 in Cochabamba on 29 March 1978 to become champions of the 1977 season. Bolívar won in 1978, Oriente in 1979 and Wilstermann in 1980 and 1981."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtT2JJXYAAevPy.jpg"
+          ]
+        },
+        {
+          "heading": "Bolívar’s defining dynasty",
+          "date": "1982–1990",
+          "paragraphs": [
+            "Bolívar built the country’s defining modern dynasty, taking the 1982, 1983, 1985, 1987 and 1988 titles. Blooming interrupted them in 1984, The Strongest in 1986 and 1989, and Oriente Petrolero won in 1990."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtUeutXMAAscKd.jpg"
+          ]
+        },
+        {
+          "heading": "Continental breakthroughs",
+          "date": "1981–1986",
+          "paragraphs": [
+            "Wilstermann reached the Libertadores semi-final group in 1981, Blooming in 1985 and Bolívar in 1986. None reached the final, but Bolivian clubs had begun to make serious continental noise."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtUwmzWoAAXGof.jpg"
+          ]
+        },
+        {
+          "heading": "The 1990s",
+          "date": "1991–1999",
+          "paragraphs": [
+            "The decade belonged largely to La Paz. Bolívar won in 1991, 1992, 1994, 1996 and 1997; The Strongest in 1993. San José interrupted them in 1995 before Blooming closed the decade with consecutive titles in 1998 and 1999."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtU_vOWoAA9Pcf.jpg"
+          ]
+        },
+        {
+          "heading": "Apertura and Clausura diversify the map",
+          "date": "From 2003",
+          "paragraphs": [
+            "Bolivia regularly crowned Apertura and Clausura champions from 2003. Real Potosí won in 2007, Universitario de Sucre in 2008 and Aurora later that year alongside the established powers."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtWQ1EWgAAg1Db.jpg"
+          ]
+        },
+        {
+          "heading": "The Strongest answers back",
+          "date": "2011–2015",
+          "paragraphs": [
+            "The Strongest won three consecutive tournaments across 2011/12 and 2012/13 and added another Apertura in 2013/14. Bolívar responded by taking both 2014/15 championships."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtWebLXMAAnRo6.jpg"
+          ]
+        },
+        {
+          "heading": "Bolívar’s 2014 Libertadores run",
+          "date": "2014",
+          "paragraphs": [
+            "Bolívar eliminated León and Lanús to reach the Libertadores semi-finals. San Lorenzo won 5–0 in Buenos Aires; Bolívar at least took the return 1–0 in La Paz."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtWsLUW0AAeyEU.jpg"
+          ]
+        },
+        {
+          "heading": "Return to the calendar year",
+          "date": "2018–2019",
+          "paragraphs": [
+            "The league returned to the calendar year in 2018 and the FBF eventually absorbed top-flight organisation as the División Profesional. Wilstermann and San José won the 2018 tournaments; Bolívar and Wilstermann followed in 2019."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtW8GkWIAAYikD.jpg"
+          ]
+        },
+        {
+          "heading": "A remarkable sequence of champions",
+          "date": "2020–2025",
+          "paragraphs": [
+            "Always Ready won in 2020, Independiente Petrolero in 2021, Bolívar in 2022, The Strongest in 2023, Bolívar in 2024 and Always Ready again in 2025."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtXXHOWoAAWh3O.jpg"
+          ]
+        },
+        {
+          "heading": "Wilstermann relegated, Real Potosí returns",
+          "date": "2025",
+          "paragraphs": [
+            "Historic Jorge Wilstermann finished last and were relegated. Always Ready won the league with 71 points, three ahead of Bolívar, while Real Potosí returned by winning the Copa Simón Bolívar."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVtXvFlXYAA3Nus.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "División Profesional, Copa Simón Bolívar and the new Copa Bolivia",
+      "cards": [
+        {
+          "title": "Liga de la División Profesional",
+          "meta": "16 clubs · 30 matches",
+          "text": "The source’s 2026 format is a conventional home-and-away league. The club with the most points becomes national champion and the bottom club is relegated directly.",
+          "images": [
+            "../assets/bolivia/source/HVvwA1GWsAEZhLS.jpg"
+          ]
+        },
+        {
+          "title": "Permanence playoff",
+          "meta": "15th in Liga v Copa Simón Bolívar winner",
+          "text": "The penultimate top-flight side enters a two-legged permanence playoff against the Copa Simón Bolívar winner, directly linking the professional division to Bolivia’s departmental structure.",
+          "images": [
+            "../assets/bolivia/source/HVvwrz9W8AE9xX4.jpg"
+          ]
+        },
+        {
+          "title": "Copa Simón Bolívar",
+          "meta": "69 clubs in 2026",
+          "text": "The vast second-level national competition draws entrants from all nine departmental associations. A regional phase feeds 24 teams into six groups, followed by a 16-team home-and-away knockout.",
+          "images": [
+            "../assets/bolivia/source/HVvxjZNXsAEhWJ3.jpg"
+          ]
+        },
+        {
+          "title": "Copa Bolivia",
+          "meta": "New knockout competition",
+          "text": "The new cup mixes top-tier teams and regional sides through a group phase, quarter-finals, semi-finals and a final. Nacional Potosí are the current champions in the source.",
+          "images": [
+            "../assets/bolivia/source/HVwCDnUWEAA-nSx.jpg"
+          ]
+        },
+        {
+          "title": "CONMEBOL places",
+          "meta": "2027 allocation in the source",
+          "text": "Bolivia receives four Libertadores places: Liga champion and runner-up, Copa champion and the next best eligible league team. The Copa runner-up gets the first Sudamericana berth, with the remaining three allocated through the league.",
+          "images": [
+            "../assets/bolivia/source/HVwDilEWoAAiO5v.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "La Paz dominance, Cochabamba tradition and the rise of Santa Cruz and El Alto",
+      "cards": [
+        {
+          "title": "Bolívar",
+          "meta": "La Paz · founded 1925",
+          "text": "Bolívar are the dominant professional institution in the source, leading the long professional championship count with 31 titles and producing Bolivia’s strongest recent continental run in 2014.",
+          "images": [
+            "../assets/bolivia/source/HVwFHzHWsAAvAZI.jpg"
+          ]
+        },
+        {
+          "title": "The Strongest",
+          "meta": "La Paz · founded 1908",
+          "text": "Bolívar’s eternal Clásico Paceño rivals were already Bolivia’s great amateur-era force before professionalism. The source gives them 16 titles in the long professional count.",
+          "images": [
+            "../assets/bolivia/source/HVwGz-WXMAAN_QL.jpg"
+          ]
+        },
+        {
+          "title": "Jorge Wilstermann",
+          "meta": "Cochabamba",
+          "text": "The Aviadores dominated the transition to national football around 1958–60 and accumulated 15 professional-era titles before suffering a historic relegation in 2025.",
+          "images": [
+            "../assets/bolivia/source/HVwH2KIWkAArZLY.jpg"
+          ]
+        },
+        {
+          "title": "Oriente Petrolero & Blooming",
+          "meta": "Santa Cruz · Clásico Cruceño",
+          "text": "Each has five professional national titles in the source. Their rivalry embodies the shift of Bolivian population and economic weight toward the eastern lowlands.",
+          "images": [
+            "../assets/bolivia/source/HVwJOqhW8AA8dc9.jpg",
+            "../assets/bolivia/source/HVwJO89WMAIYNZS.jpg"
+          ]
+        },
+        {
+          "title": "San José & Oruro Royal",
+          "meta": "Oruro",
+          "text": "San José remain Oruro’s great football institution, with four titles in the long professional count. Nearby Oruro Royal preserves the city’s football story back to 1896.",
+          "images": [
+            "../assets/bolivia/source/HVwKQQSWMAAmTM7.jpg",
+            "../assets/bolivia/source/HVwKQhsW0AA68ZQ.jpg"
+          ]
+        },
+        {
+          "title": "Always Ready",
+          "meta": "El Alto",
+          "text": "Old champions in 1951 and 1957, Always Ready were radically revived in the modern era, winning again in 2020 and 2025. Their El Alto home turns extreme altitude into a distinctive advantage.",
+          "images": [
+            "../assets/bolivia/source/HVwK1hEXgAAY1If.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Three World Cups, the 1963 title, the 1994 generation and a 2026 play-off heartbreak",
+      "entries": [
+        {
+          "heading": "The national team debuts",
+          "date": "1926–1927",
+          "paragraphs": [
+            "Bolivia debuted at the 1926 South American Championship in Santiago. Chile won the first match 7–1, and Bolivia lost all four games while conceding 24 goals. The 1927 edition brought another winless campaign."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVx2SNvWkAA94gy.jpg"
+          ]
+        },
+        {
+          "heading": "One of the original World Cup nations",
+          "date": "1930",
+          "paragraphs": [
+            "Bolivia were invited to the inaugural FIFA World Cup in Uruguay. They lost 4–0 to Yugoslavia and 4–0 to Brazil, scoring no goals but becoming one of the original thirteen World Cup nations."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVx3AtmXQAAPvBp.jpg"
+          ]
+        },
+        {
+          "heading": "Return after the Chaco War",
+          "date": "1945",
+          "paragraphs": [
+            "Bolivia disappeared from international football during the Chaco War and its aftermath. They returned at the 1945 Sudamericano, earning their first draws: 0–0 with Ecuador and 3–3 with Colombia after recovering from 2–0 down."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyC8AFXYAAzWtL.png"
+          ]
+        },
+        {
+          "heading": "A 1949 breakthrough",
+          "date": "1949",
+          "paragraphs": [
+            "Bolivia finished fourth in Brazil, beating Chile 3–2, Uruguay 3–2, Ecuador 2–0 and Colombia 4–0, even while suffering heavy defeats to Brazil and Paraguay."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyPV7hWYAEoYYL.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil 1950",
+          "date": "1950",
+          "paragraphs": [
+            "Withdrawals reduced Bolivia’s group to a single match against eventual champions Uruguay. La Celeste won 8–0 in Belo Horizonte, ending Bolivia’s second World Cup after 90 minutes."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyPqzuX0AAeGYm.jpg"
+          ]
+        },
+        {
+          "heading": "A fragmented 1950s",
+          "date": "1953–1958",
+          "paragraphs": [
+            "Bolivia entered only the 1953 and 1959 Sudamericanos during the decade and failed to meet the deadline for 1954 World Cup qualifier registration. In 1958 qualifying they won both home matches against Chile and Argentina but lost away."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVySIWfWcAAAAAc.jpg"
+          ]
+        },
+        {
+          "heading": "Altitude and the road to 1963",
+          "date": "1962–1963",
+          "paragraphs": [
+            "Uruguay eliminated Bolivia in the 1962 World Cup qualifiers despite a 1–1 draw in La Paz. By then Bolivia was learning to exploit high altitude as a home advantage. Then came the 1963 South American Championship in La Paz and Cochabamba."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyTlQNW0AA3nIZ.jpg"
+          ]
+        },
+        {
+          "heading": "Unbeaten heading into the decider",
+          "date": "1963",
+          "paragraphs": [
+            "Bolivia recovered from 2–4 down to draw Ecuador 4–4, then beat Colombia 2–1, Peru 3–2, Paraguay 2–0 and Argentina 3–2. They entered the final match unbeaten and needing to finish the job against Brazil in Cochabamba."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyUAKpWIAAg8FX.jpg"
+          ]
+        },
+        {
+          "heading": "Champions of South America",
+          "date": "31 March 1963",
+          "paragraphs": [
+            "The decider became a classic. Bolivia led 2–0, Brazil levelled, Bolivia restored a 4–2 lead through Ugarte and García, and Brazil levelled again. In the 86th minute Máximo Alcócer struck: Bolivia won 5–4 and became South American champions."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyUnEqWMAELC2U.jpg"
+          ]
+        },
+        {
+          "heading": "Close again to the World Cup",
+          "date": "1966–1970 cycles",
+          "paragraphs": [
+            "Paraguay and Argentina prevented qualification for 1966, but the 1963 generation almost reached Mexico 1970. Bolivia beat Argentina 3–1 and Peru 2–1 in La Paz, but defeats away proved decisive and Peru took the World Cup place."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyVrURXsAAlZpW.jpg"
+          ]
+        },
+        {
+          "heading": "The 1978 qualifying run",
+          "date": "1977",
+          "paragraphs": [
+            "Bolivia went unbeaten in their first qualifying group to advance to a final round in Cali. Brazil then won 8–0 and Peru 5–0."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyWo23XUAAveLH.jpg"
+          ]
+        },
+        {
+          "heading": "Hungary ends the dream",
+          "date": "1977",
+          "paragraphs": [
+            "An intercontinental playoff against Hungary remained. It vanished quickly: 6–0 in Budapest and 3–2 in La Paz, a 9–2 aggregate defeat. Bolivia had nevertheless gone unusually deep into qualifying."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyXGiRX0AAWHXv.jpg"
+          ]
+        },
+        {
+          "heading": "A talented generation emerges",
+          "date": "1980s",
+          "paragraphs": [
+            "Bolivia missed the 1982, 1986 and 1990 World Cups, but a talented generation was emerging around Marco Etcheverry, Erwin Sánchez and Julio Baldivieso."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyX0ibWwAEnGk6.jpg"
+          ]
+        },
+        {
+          "heading": "So close in 1990 qualifying",
+          "date": "1989",
+          "paragraphs": [
+            "Bolivia finished level on points with Uruguay after beating Peru home and away and the Charrúas in La Paz. Goal difference favoured Uruguay. The transformation came in 1993 under Xabier Azkargorta."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyZErvXEAApUwJ.jpg"
+          ]
+        },
+        {
+          "heading": "The 1993 qualifying campaign",
+          "date": "1993",
+          "paragraphs": [
+            "Bolivia opened by demolishing Venezuela 7–1 away and turned the Hernando Siles into a fortress. On 25 July they faced a Brazil side that had never lost a World Cup qualifier."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyZVSWX0AAvGnO.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil finally falls",
+          "date": "25 July 1993",
+          "paragraphs": [
+            "Marco Etcheverry scored in the 88th minute and Álvaro Peña added another a minute later: Bolivia 2–0 Brazil. Home wins over Uruguay, Ecuador and Venezuela followed, and a 1–1 draw in Ecuador on 19 September clinched qualification."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyZok3WQAE_9Dy.jpg"
+          ]
+        },
+        {
+          "heading": "USA 1994 begins",
+          "date": "1994",
+          "paragraphs": [
+            "Bolivia opened against reigning champions Germany. Etcheverry was sent off shortly after entering and Jürgen Klinsmann scored the tournament’s opening goal in a 1–0 German win. Bolivia then drew 0–0 with South Korea."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyZ162W4AAOqyh.jpg"
+          ]
+        },
+        {
+          "heading": "Bolivia’s only World Cup goal",
+          "date": "1994",
+          "paragraphs": [
+            "Spain won the final group match 3–1 in Chicago, but Erwin Sánchez’s deflected shot in the 67th minute became Bolivia’s first—and still only—goal at a FIFA World Cup."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyaSOBW0AA7cjw.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América quarter-final",
+          "date": "1995",
+          "paragraphs": [
+            "Bolivia beat the United States and drew Chile to reach the Copa América quarter-finals for the first time, where Uruguay ended the run in a hard-fought match."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVybQ06XoAIHsZg.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América 1997",
+          "date": "1997",
+          "paragraphs": [
+            "Hosting again, Bolivia swept Venezuela, Peru and Uruguay, then beat Colombia 2–1 and Mexico 3–1. Brazil awaited in the final at the Siles. Erwin Sánchez equalised before Ronaldo and Zé Roberto secured a 3–1 Brazilian victory."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyb-OeWAAAD-b5.jpg"
+          ]
+        },
+        {
+          "heading": "Confederations Cup",
+          "date": "1999",
+          "paragraphs": [
+            "The 1997 run qualified Bolivia for the Confederations Cup in Mexico. Draws with Egypt and Saudi Arabia and a 1–0 loss to hosts Mexico left Bolivia third in the group and eliminated without a victory."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVycoLvW4AMlLHb.jpg"
+          ]
+        },
+        {
+          "heading": "The 6–1 against Argentina",
+          "date": "1 April 2009",
+          "paragraphs": [
+            "A bleak decade produced one immortal exception: Bolivia destroyed Diego Maradona’s Argentina 6–1 at the Hernando Siles, with Joaquín Botero scoring a hat-trick."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVydT1dW0AAQ_oL.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América revival",
+          "date": "2015",
+          "paragraphs": [
+            "After missing the 2010 and 2014 World Cups, Bolivia drew Mexico 0–0 and beat Ecuador 3–2 at Copa América 2015—their first Copa victory since 1997—and reached the quarter-finals."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVydvjwXUAAHVLh.jpg"
+          ]
+        },
+        {
+          "heading": "Another long decline",
+          "date": "2015–2024",
+          "paragraphs": [
+            "Chile won the final group game 5–0 and Peru eliminated Bolivia 3–1 in the quarter-finals. Bolivia then exited in the group stage in 2016, 2019, 2021 and 2024 and remained absent from the 2018 and 2022 World Cups."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyenooXgAAbvGX.jpg"
+          ]
+        },
+        {
+          "heading": "El Alto enters the qualifying story",
+          "date": "2024–2025",
+          "paragraphs": [
+            "Under Óscar Villegas, a younger side revived the 2026 campaign. Several home qualifiers moved to extreme-altitude El Alto and Bolivia reached the final matchday still fighting Venezuela for seventh place."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVye7czWUAAy_rX.jpg"
+          ]
+        },
+        {
+          "heading": "Brazil beaten again",
+          "date": "9 September 2025",
+          "paragraphs": [
+            "Miguel Terceros’ penalty beat Brazil 1–0 while Venezuela lost 6–3 to Colombia. Bolivia jumped into seventh and claimed CONMEBOL’s place in FIFA’s Intercontinental Play-Off Tournament."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyfGCHXkAAceP_.jpg"
+          ]
+        },
+        {
+          "heading": "Suriname defeated",
+          "date": "March 2026",
+          "paragraphs": [
+            "Bolivia met Suriname in Monterrey. After falling behind, 18-year-old Moisés Paniagua equalised and Miguel Terceros converted the decisive penalty in a 2–1 win."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyfVdEWQAAZZpq.jpg"
+          ]
+        },
+        {
+          "heading": "Iraq ends the World Cup dream",
+          "date": "2026",
+          "paragraphs": [
+            "Iraq scored first in the playoff final, Paniagua equalised, but Aymen Hussein struck the second-half winner. Iraq won 2–1. Bolivia had come closer than at any time since 1994, but an eighth consecutive World Cup passed without La Verde."
+          ],
+          "images": [
+            "../assets/bolivia/source/HVyfkF0XQAAYw7V.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "The 1963 champions, the 1994 generation and Bolivia’s record scorer",
+      "intro": "The source’s 4-3-3 combines the 1963 South American champions, the brilliant USA 94 generation and the country’s outstanding modern scorer.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/bolivia/source/HVzW4eZXUAEJNxo.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Carlos Trucco",
+            "years": "1989–1997",
+            "description": "Argentina-born but a Bolivian icon: goalkeeper of the historic 1993 qualifying campaign, USA 94 and the 1997 Copa América final.",
+            "image": "../assets/bolivia/source/HVzXLjRWMAAl0KJ.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Miguel Ángel Rimba",
+            "years": "1989–2000",
+            "description": "80 caps in the source and a cornerstone of Azkargorta’s defence.",
+            "image": "../assets/bolivia/source/HVzX1itXIAAlOQz.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Marco Sandy",
+            "years": "1993–2003",
+            "description": "93 caps, a USA 94 starter and a key defender of the 1997 runners-up.",
+            "image": "../assets/bolivia/source/HVzX11FXEAEgf-k.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Juan Manuel Peña",
+            "years": "1991–2009",
+            "description": "One of Bolivia’s finest defensive exports to Europe, with more than 300 professional matches in La Liga.",
+            "image": "../assets/bolivia/source/HVzYx85XwAA8yG0.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Luis Cristaldo",
+            "years": "1989–2005",
+            "description": "Another 93-cap pillar, combining aggression, versatility and enormous longevity.",
+            "image": "../assets/bolivia/source/HVzYyZwXsAATlBN.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "Milton Melgar",
+            "years": "1980–1997",
+            "description": "A composed, technically gifted deep-lying playmaker.",
+            "image": "../assets/bolivia/source/HVzlhKFWcAAYXfD.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Erwin Sánchez",
+            "years": "1989–2005",
+            "description": "Creator, 15 goals in the source and Bolivia’s only World Cup scorer.",
+            "image": "../assets/bolivia/source/HVzlhZwW8AAXO-x.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Marco Etcheverry",
+            "years": "1989–2003",
+            "description": "El Diablo: genius and symbol of Bolivia’s golden 1990s.",
+            "image": "../assets/bolivia/source/HVzlhqiXQAAHIxM.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Ramiro Blacut",
+            "years": "1963–1973",
+            "description": "Star of the 1963 Copa América victory and the first Bolivian player in Europe in the source.",
+            "image": "../assets/bolivia/source/HVzmhGjWsAAYYaS.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Marcelo Martins Moreno",
+            "years": "2007–2023",
+            "description": "Record scorer in the source with 31 goals.",
+            "image": "../assets/bolivia/source/HVzmhpEXsAAs7jL.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Víctor Agustín Ugarte",
+            "years": "1947–1963",
+            "description": "1963 champion and the great star of Bolivia’s pre-1994 era.",
+            "image": "../assets/bolivia/source/HVzmiHMW0AAL3Gj.jpg"
+          }
+        ]
+      },
+      "closing": "Jesús Bermúdez, Wilfredo Camacho, Máximo Alcócer, Carlos Aragonés, Carlos Borja, Jaime Moreno, Joaquín Botero and Juan Carlos Arce are among the painful omissions. Miguel Terceros and Moisés Paniagua may yet force their way into the debate."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team, individual and tournament landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First match: Chile 7–1 Bolivia, 12 October 1926.",
+            "Biggest wins by margin in the source include 9–0 v Haiti and 9–2 v Venezuela.",
+            "Heaviest defeats include Uruguay 9–0 Bolivia (1927), Brazil 10–1 Bolivia (1949) and Brazil 7–0 Bolivia (1993).",
+            "Highest FIFA ranking: 18th.",
+            "Lowest FIFA ranking: 115th."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most A-caps: Marcelo Martins Moreno, 107.",
+            "Most goals: Marcelo Martins Moreno, 31."
+          ]
+        },
+        {
+          "title": "Tournament records",
+          "items": [
+            "Copa América champions: 1963.",
+            "Copa América runners-up: 1997.",
+            "World Cups: 1930, 1950, 1994.",
+            "World Cup victories: 0.",
+            "World Cup goals: 1 — Erwin Sánchez, 1994.",
+            "Confederations Cup: 1999."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/bolivia/source/HVznYnFWkAAwyIA.jpg",
+        "../assets/bolivia/source/HVznvDbWgAAUARW.jpg",
+        "../assets/bolivia/source/HVzn7tpWMAA4Mm-.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Altitude, mining cities, lowland heat and a tropical Chapare outlier",
+      "cards": [
+        {
+          "title": "Estadio Hernando Siles",
+          "meta": "La Paz · present stadium 1977 · ~3,600m",
+          "text": "Bolivia’s great football temple. The original opened in 1930; the present stadium dates to 1977. Altitude has made it one of the country’s defining sporting environments.",
+          "images": [
+            "../assets/bolivia/source/HV27qA-XkAAx5G9.jpg",
+            "../assets/bolivia/source/HV27qVFWEAA1gqW.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Municipal de Villa Ingenio",
+          "meta": "El Alto · opened 2017 · ~4,090m",
+          "text": "Home of Always Ready and among the highest major professional grounds on Earth. It became a major La Verde venue during the 2026 qualifying campaign.",
+          "images": [
+            "../assets/bolivia/source/HV29TWmWAAANRgu.jpg",
+            "../assets/bolivia/source/HV29TvGX0AAZ57H.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Félix Capriles",
+          "meta": "Cochabamba",
+          "text": "On 31 March 1963, 25,000 watched Bolivia beat Brazil 5–4 here to complete an undefeated South American Championship and become continental champions. Home of Jorge Wilstermann and Aurora.",
+          "images": [
+            "../assets/bolivia/source/HV2-N83WsAAZ9kx.jpg",
+            "../assets/bolivia/source/HV2-OPVXQAAXzMz.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Ramón “Tahuichi” Aguilera",
+          "meta": "Santa Cruz · opened 1940 · ~38,500",
+          "text": "Home to Oriente Petrolero and Blooming. At only 429m altitude it offers a completely different football environment from La Paz and hosted Copa América matches in 1997.",
+          "images": [
+            "../assets/bolivia/source/HV3AIivW4AA2hKy.jpg",
+            "../assets/bolivia/source/HV3AI5VWcAAVtj5.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Jesús Bermúdez",
+          "meta": "Oruro · above 3,700m",
+          "text": "Named after Bolivia’s 1930 World Cup goalkeeper and home of San José, it links one of Bolivia’s oldest football cities to the modern national game.",
+          "images": [
+            "../assets/bolivia/source/HV3BKFoXcAA0zsS.jpg",
+            "../assets/bolivia/source/HV3BKcBWEAAtC33.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Bicentenario de Villa Tunari",
+          "meta": "Chapare · tropical lowlands",
+          "text": "Far from Bolivia’s famous high-altitude grounds, this modern arena rises amid the tropical forests of Chapare in a sparsely populated landscape.",
+          "images": [
+            "../assets/bolivia/source/HV3ILvrXkAAAz-8.jpg",
+            "../assets/bolivia/source/HV3IMAEWwAAjHXd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Bolivia remain eligible",
+          "paragraphs": [
+            "Bolivia is eligible for the 2030 FIFA World Cup and will attempt to return through CONMEBOL qualifying."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
