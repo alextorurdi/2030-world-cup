@@ -15,75 +15,19 @@
       "slotMarkers": 8,
       "associations": [
         {
-          "name": "Australia",
-          "associationName": "Football Australia",
-          "code": "AUS",
-          "flag": "🇦🇺",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Iran",
-          "associationName": "Football Federation Islamic Republic of Iran",
-          "code": "IRN",
-          "flag": "🇮🇷",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Japan",
-          "associationName": "Japan Football Association",
-          "code": "JPN",
-          "flag": "🇯🇵",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Jordan",
-          "associationName": "Jordan Football Association",
-          "code": "JOR",
-          "flag": "🇯🇴",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Qatar",
-          "associationName": "Qatar Football Association",
-          "code": "QAT",
-          "flag": "🇶🇦",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Nepal",
-          "associationName": "All Nepal Football Association",
-          "code": "NEP",
-          "flag": "🇳🇵",
-          "confederation": "afc",
-          "status": "not-entering",
-          "logo": "./assets/logos/afc/001.png",
-          "page": "./associations/nepal.html",
-          "note": "The source lists ANFA as suspended from international football."
-        },
-        {
-          "name": "South Korea",
-          "associationName": "Korea Football Association",
-          "code": "KOR",
-          "flag": "🇰🇷",
-          "confederation": "afc",
-          "status": "active",
-          "logo": ""
-        },
-        {
           "name": "Afghanistan",
           "associationName": "Afghanistan Football Federation",
           "code": "AFG",
           "flag": "🇦🇫",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Australia",
+          "associationName": "Football Australia",
+          "code": "AUS",
+          "flag": "🇦🇺",
           "confederation": "afc",
           "status": "active",
           "logo": ""
@@ -188,10 +132,37 @@
           "logo": ""
         },
         {
+          "name": "Iran",
+          "associationName": "Football Federation Islamic Republic of Iran",
+          "code": "IRN",
+          "flag": "🇮🇷",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Iraq",
           "associationName": "Iraq Football Association",
           "code": "IRQ",
           "flag": "🇮🇶",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Japan",
+          "associationName": "Japan Football Association",
+          "code": "JPN",
+          "flag": "🇯🇵",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Jordan",
+          "associationName": "Jordan Football Association",
+          "code": "JOR",
+          "flag": "🇯🇴",
           "confederation": "afc",
           "status": "active",
           "logo": ""
@@ -287,6 +258,17 @@
           "logo": ""
         },
         {
+          "name": "Nepal",
+          "associationName": "All Nepal Football Association",
+          "code": "NEP",
+          "flag": "🇳🇵",
+          "confederation": "afc",
+          "status": "not-entering",
+          "logo": "./assets/logos/afc/001.png",
+          "page": "./associations/nepal.html",
+          "note": "The source lists ANFA as suspended from international football."
+        },
+        {
           "name": "Oman",
           "associationName": "Oman Football Association",
           "code": "OMA",
@@ -323,6 +305,15 @@
           "logo": ""
         },
         {
+          "name": "Qatar",
+          "associationName": "Qatar Football Association",
+          "code": "QAT",
+          "flag": "🇶🇦",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Saudi Arabia",
           "associationName": "Saudi Arabian Football Federation",
           "code": "KSA",
@@ -336,6 +327,15 @@
           "associationName": "Football Association of Singapore",
           "code": "SGP",
           "flag": "🇸🇬",
+          "confederation": "afc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "South Korea",
+          "associationName": "Korea Football Association",
+          "code": "KOR",
+          "flag": "🇰🇷",
           "confederation": "afc",
           "status": "active",
           "logo": ""
@@ -441,62 +441,6 @@
       "memberCount": 54,
       "slotMarkers": 9,
       "associations": [
-        {
-          "name": "Egypt",
-          "associationName": "Egyptian Football Association",
-          "code": "EGY",
-          "flag": "🇪🇬",
-          "confederation": "caf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Ghana",
-          "associationName": "Ghana Football Association",
-          "code": "GHA",
-          "flag": "🇬🇭",
-          "confederation": "caf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Morocco",
-          "associationName": "Royal Moroccan Football Federation",
-          "code": "MAR",
-          "flag": "🇲🇦",
-          "confederation": "caf",
-          "status": "qualified-host",
-          "logo": "./assets/logos/caf/005.png",
-          "page": "./associations/morocco.html",
-          "note": "Host of the 2030 FIFA World Cup."
-        },
-        {
-          "name": "Nigeria",
-          "associationName": "Nigeria Football Federation",
-          "code": "NGA",
-          "flag": "🇳🇬",
-          "confederation": "caf",
-          "status": "eliminated",
-          "logo": ""
-        },
-        {
-          "name": "Senegal",
-          "associationName": "Senegalese Football Federation",
-          "code": "SEN",
-          "flag": "🇸🇳",
-          "confederation": "caf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "South Africa",
-          "associationName": "South African Football Association",
-          "code": "RSA",
-          "flag": "🇿🇦",
-          "confederation": "caf",
-          "status": "active",
-          "logo": ""
-        },
         {
           "name": "Algeria",
           "associationName": "Algerian Football Federation",
@@ -606,15 +550,6 @@
           "logo": ""
         },
         {
-          "name": "DR Congo",
-          "associationName": "Congolese Association Football Federation",
-          "code": "COD",
-          "flag": "🇨🇩",
-          "confederation": "caf",
-          "status": "active",
-          "logo": ""
-        },
-        {
           "name": "Côte d'Ivoire",
           "associationName": "Ivorian Football Federation",
           "code": "CIV",
@@ -628,6 +563,24 @@
           "associationName": "Djiboutian Football Federation",
           "code": "DJI",
           "flag": "🇩🇯",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "DR Congo",
+          "associationName": "Congolese Association Football Federation",
+          "code": "COD",
+          "flag": "🇨🇩",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Egypt",
+          "associationName": "Egyptian Football Association",
+          "code": "EGY",
+          "flag": "🇪🇬",
           "confederation": "caf",
           "status": "active",
           "logo": ""
@@ -682,6 +635,15 @@
           "associationName": "Gambia Football Federation",
           "code": "GAM",
           "flag": "🇬🇲",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Ghana",
+          "associationName": "Ghana Football Association",
+          "code": "GHA",
+          "flag": "🇬🇭",
           "confederation": "caf",
           "status": "active",
           "logo": ""
@@ -786,6 +748,17 @@
           "logo": ""
         },
         {
+          "name": "Morocco",
+          "associationName": "Royal Moroccan Football Federation",
+          "code": "MAR",
+          "flag": "🇲🇦",
+          "confederation": "caf",
+          "status": "qualified-host",
+          "logo": "./assets/logos/caf/005.png",
+          "page": "./associations/morocco.html",
+          "note": "Host of the 2030 FIFA World Cup."
+        },
+        {
           "name": "Mozambique",
           "associationName": "Mozambican Football Federation",
           "code": "MOZ",
@@ -813,6 +786,15 @@
           "logo": ""
         },
         {
+          "name": "Nigeria",
+          "associationName": "Nigeria Football Federation",
+          "code": "NGA",
+          "flag": "🇳🇬",
+          "confederation": "caf",
+          "status": "eliminated",
+          "logo": ""
+        },
+        {
           "name": "Rwanda",
           "associationName": "Rwanda Football Federation",
           "code": "RWA",
@@ -826,6 +808,15 @@
           "associationName": "São Tomé and Príncipe Football Federation",
           "code": "STP",
           "flag": "🇸🇹",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Senegal",
+          "associationName": "Senegalese Football Federation",
+          "code": "SEN",
+          "flag": "🇸🇳",
           "confederation": "caf",
           "status": "active",
           "logo": ""
@@ -853,6 +844,15 @@
           "associationName": "Somali Football Federation",
           "code": "SOM",
           "flag": "🇸🇴",
+          "confederation": "caf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "South Africa",
+          "associationName": "South African Football Association",
+          "code": "RSA",
+          "flag": "🇿🇦",
           "confederation": "caf",
           "status": "active",
           "logo": ""
@@ -941,60 +941,6 @@
       "slotMarkers": 6,
       "associations": [
         {
-          "name": "Canada",
-          "associationName": "Canada Soccer",
-          "code": "CAN",
-          "flag": "🇨🇦",
-          "confederation": "concacaf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Costa Rica",
-          "associationName": "Costa Rican Football Federation",
-          "code": "CRC",
-          "flag": "🇨🇷",
-          "confederation": "concacaf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Jamaica",
-          "associationName": "Jamaica Football Federation",
-          "code": "JAM",
-          "flag": "🇯🇲",
-          "confederation": "concacaf",
-          "status": "eliminated",
-          "logo": ""
-        },
-        {
-          "name": "Mexico",
-          "associationName": "Mexican Football Federation",
-          "code": "MEX",
-          "flag": "🇲🇽",
-          "confederation": "concacaf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Panama",
-          "associationName": "Panamanian Football Federation",
-          "code": "PAN",
-          "flag": "🇵🇦",
-          "confederation": "concacaf",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "United States",
-          "associationName": "United States Soccer Federation",
-          "code": "USA",
-          "flag": "🇺🇸",
-          "confederation": "concacaf",
-          "status": "active",
-          "logo": ""
-        },
-        {
           "name": "Anguilla",
           "associationName": "Anguilla Football Association",
           "code": "AIA",
@@ -1069,10 +1015,28 @@
           "logo": ""
         },
         {
+          "name": "Canada",
+          "associationName": "Canada Soccer",
+          "code": "CAN",
+          "flag": "🇨🇦",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Cayman Islands",
           "associationName": "Cayman Islands Football Association",
           "code": "CAY",
           "flag": "🇰🇾",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Costa Rica",
+          "associationName": "Costa Rican Football Federation",
+          "code": "CRC",
+          "flag": "🇨🇷",
           "confederation": "concacaf",
           "status": "active",
           "logo": ""
@@ -1134,7 +1098,7 @@
           "logo": "./assets/logos/concacaf/013.png",
           "page": "./associations/grenada.html",
           "note": "Eligible for qualification to the 2030 FIFA World Cup."
-          },
+        },
         {
           "name": "Guatemala",
           "associationName": "National Football Federation of Guatemala",
@@ -1172,6 +1136,24 @@
           "logo": ""
         },
         {
+          "name": "Jamaica",
+          "associationName": "Jamaica Football Federation",
+          "code": "JAM",
+          "flag": "🇯🇲",
+          "confederation": "concacaf",
+          "status": "eliminated",
+          "logo": ""
+        },
+        {
+          "name": "Mexico",
+          "associationName": "Mexican Football Federation",
+          "code": "MEX",
+          "flag": "🇲🇽",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Montserrat",
           "associationName": "Montserrat Football Association",
           "code": "MSR",
@@ -1185,6 +1167,15 @@
           "associationName": "Nicaraguan Football Federation",
           "code": "NCA",
           "flag": "🇳🇮",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Panama",
+          "associationName": "Panamanian Football Federation",
+          "code": "PAN",
+          "flag": "🇵🇦",
           "confederation": "concacaf",
           "status": "active",
           "logo": ""
@@ -1207,7 +1198,7 @@
           "status": "active",
           "logo": ""
         },
-       {
+        {
           "name": "Saint Lucia",
           "associationName": "Saint Lucia Football Association",
           "code": "LCA",
@@ -1259,6 +1250,15 @@
           "logo": ""
         },
         {
+          "name": "United States",
+          "associationName": "United States Soccer Federation",
+          "code": "USA",
+          "flag": "🇺🇸",
+          "confederation": "concacaf",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "US Virgin Islands",
           "associationName": "US Virgin Islands Soccer Federation",
           "code": "VIR",
@@ -1290,6 +1290,17 @@
           "note": "Centenary hosts of the 2030 FIFA World Cup."
         },
         {
+          "name": "Bolivia",
+          "associationName": "Bolivian Football Federation",
+          "code": "BOL",
+          "flag": "🇧🇴",
+          "confederation": "conmebol",
+          "status": "active",
+          "logo": "./assets/logos/conmebol/017.png",
+          "page": "./associations/bolivia.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
+        },
+        {
           "name": "Brazil",
           "associationName": "Brazilian Football Confederation",
           "code": "BRA",
@@ -1319,39 +1330,6 @@
           "logo": ""
         },
         {
-          "name": "Paraguay",
-          "associationName": "Paraguayan Football Association",
-          "code": "PAR",
-          "flag": "🇵🇾",
-          "confederation": "conmebol",
-          "status": "qualified-host",
-          "logo": "./assets/logos/conmebol/007.png",
-          "page": "./associations/paraguay.html",
-          "note": "Centenary host of the 2030 FIFA World Cup."
-        },
-        {
-          "name": "Uruguay",
-          "associationName": "Uruguayan Football Association",
-          "code": "URU",
-          "flag": "🇺🇾",
-          "confederation": "conmebol",
-          "status": "qualified-host",
-          "logo": "./assets/logos/conmebol/008.png",
-          "page": "./associations/uruguay.html",
-          "note": "Centenary host of the 2030 FIFA World Cup."
-        },
-        {
-          "name": "Bolivia",
-          "associationName": "Bolivian Football Federation",
-          "code": "BOL",
-          "flag": "🇧🇴",
-          "confederation": "conmebol",
-          "status": "active",
-          "logo": "./assets/logos/conmebol/017.png",
-          "page": "./associations/bolivia.html",
-          "note": "Eligible for qualification to the 2030 FIFA World Cup."
-        },
-        {
           "name": "Ecuador",
           "associationName": "Ecuadorian Football Federation",
           "code": "ECU",
@@ -1363,6 +1341,17 @@
           "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
+          "name": "Paraguay",
+          "associationName": "Paraguayan Football Association",
+          "code": "PAR",
+          "flag": "🇵🇾",
+          "confederation": "conmebol",
+          "status": "qualified-host",
+          "logo": "./assets/logos/conmebol/007.png",
+          "page": "./associations/paraguay.html",
+          "note": "Centenary host of the 2030 FIFA World Cup."
+        },
+        {
           "name": "Peru",
           "associationName": "Peruvian Football Federation",
           "code": "PER",
@@ -1370,6 +1359,17 @@
           "confederation": "conmebol",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "Uruguay",
+          "associationName": "Uruguayan Football Association",
+          "code": "URU",
+          "flag": "🇺🇾",
+          "confederation": "conmebol",
+          "status": "qualified-host",
+          "logo": "./assets/logos/conmebol/008.png",
+          "page": "./associations/uruguay.html",
+          "note": "Centenary host of the 2030 FIFA World Cup."
         },
         {
           "name": "Venezuela",
@@ -1391,6 +1391,24 @@
       "memberCount": 11,
       "slotMarkers": 2,
       "associations": [
+        {
+          "name": "American Samoa",
+          "associationName": "Football Federation American Samoa",
+          "code": "ASA",
+          "flag": "🇦🇸",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Cook Islands",
+          "associationName": "Cook Islands Football Association",
+          "code": "COK",
+          "flag": "🇨🇰",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
         {
           "name": "Fiji",
           "associationName": "Fiji Football Association",
@@ -1428,6 +1446,15 @@
           "logo": ""
         },
         {
+          "name": "Samoa",
+          "associationName": "Football Federation Samoa",
+          "code": "SAM",
+          "flag": "🇼🇸",
+          "confederation": "ofc",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Solomon Islands",
           "associationName": "Solomon Islands Football Federation",
           "code": "SOL",
@@ -1441,33 +1468,6 @@
           "associationName": "Tahitian Football Federation",
           "code": "TAH",
           "flag": "🇵🇫",
-          "confederation": "ofc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "American Samoa",
-          "associationName": "Football Federation American Samoa",
-          "code": "ASA",
-          "flag": "🇦🇸",
-          "confederation": "ofc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Cook Islands",
-          "associationName": "Cook Islands Football Association",
-          "code": "COK",
-          "flag": "🇨🇰",
-          "confederation": "ofc",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Samoa",
-          "associationName": "Football Federation Samoa",
-          "code": "SAM",
-          "flag": "🇼🇸",
           "confederation": "ofc",
           "status": "active",
           "logo": ""
@@ -1501,73 +1501,6 @@
       "memberCount": 54,
       "slotMarkers": 16,
       "associations": [
-        {
-          "name": "England",
-          "associationName": "The Football Association",
-          "code": "ENG",
-          "flag": "🏴",
-          "confederation": "uefa",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "France",
-          "associationName": "French Football Federation",
-          "code": "FRA",
-          "flag": "🇫🇷",
-          "confederation": "uefa",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Germany",
-          "associationName": "German Football Association",
-          "code": "GER",
-          "flag": "🇩🇪",
-          "confederation": "uefa",
-          "status": "active",
-          "logo": ""
-        },
-        {
-          "name": "Italy",
-          "associationName": "Italian Football Federation",
-          "code": "ITA",
-          "flag": "🇮🇹",
-          "confederation": "uefa",
-          "status": "active",
-          "logo": ""
-        },
-        {
-  "name": "Portugal",
-  "associationName": "Portuguese Football Federation",
-  "code": "POR",
-  "flag": "🇵🇹",
-  "confederation": "uefa",
-  "status": "qualified-host",
-  "logo": "./assets/logos/uefa/006.png",
-  "page": "./associations/portugal.html",
-  "note": "Host of the 2030 FIFA World Cup."
-},
-        {
-          "name": "Russia",
-          "associationName": "Russian Football Union",
-          "flag": "ru",
-          "confederation": "uefa",
-          "status": "eliminated",
-          "logo": "./assets/logos/uefa/002.png",
-          "page": "./associations/russia.html",
-          "note": "Suspended."
-        },
-        {
-          "name": "Spain",
-          "associationName": "Royal Spanish Football Federation",
-          "flag": "🇪🇸",
-          "confederation": "uefa",
-          "status": "qualified-host",
-          "logo": "./assets/logos/uefa/003.png",
-          "page": "./associations/spain.html",
-          "note": "One of the six hosts of the 2030 FIFA World Cup."
-        },
         {
           "name": "Albania",
           "associationName": "Albanian Football Association",
@@ -1686,6 +1619,15 @@
           "logo": ""
         },
         {
+          "name": "England",
+          "associationName": "The Football Association",
+          "code": "ENG",
+          "flag": "🏴",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Estonia",
           "associationName": "Estonian Football Association",
           "code": "EST",
@@ -1713,10 +1655,28 @@
           "logo": ""
         },
         {
+          "name": "France",
+          "associationName": "French Football Federation",
+          "code": "FRA",
+          "flag": "🇫🇷",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
           "name": "Georgia",
           "associationName": "Georgian Football Federation",
           "code": "GEO",
           "flag": "🇬🇪",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Germany",
+          "associationName": "German Football Association",
+          "code": "GER",
+          "flag": "🇩🇪",
           "confederation": "uefa",
           "status": "active",
           "logo": ""
@@ -1762,6 +1722,15 @@
           "associationName": "Israel Football Association",
           "code": "ISR",
           "flag": "🇮🇱",
+          "confederation": "uefa",
+          "status": "active",
+          "logo": ""
+        },
+        {
+          "name": "Italy",
+          "associationName": "Italian Football Federation",
+          "code": "ITA",
+          "flag": "🇮🇹",
           "confederation": "uefa",
           "status": "active",
           "logo": ""
@@ -1893,6 +1862,17 @@
           "logo": ""
         },
         {
+          "name": "Portugal",
+          "associationName": "Portuguese Football Federation",
+          "code": "POR",
+          "flag": "🇵🇹",
+          "confederation": "uefa",
+          "status": "qualified-host",
+          "logo": "./assets/logos/uefa/006.png",
+          "page": "./associations/portugal.html",
+          "note": "Host of the 2030 FIFA World Cup."
+        },
+        {
           "name": "Republic of Ireland",
           "associationName": "Football Association of Ireland",
           "code": "IRL",
@@ -1909,6 +1889,16 @@
           "confederation": "uefa",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "Russia",
+          "associationName": "Russian Football Union",
+          "flag": "ru",
+          "confederation": "uefa",
+          "status": "eliminated",
+          "logo": "./assets/logos/uefa/002.png",
+          "page": "./associations/russia.html",
+          "note": "Suspended."
         },
         {
           "name": "San Marino",
@@ -1954,6 +1944,16 @@
           "confederation": "uefa",
           "status": "active",
           "logo": ""
+        },
+        {
+          "name": "Spain",
+          "associationName": "Royal Spanish Football Federation",
+          "flag": "🇪🇸",
+          "confederation": "uefa",
+          "status": "qualified-host",
+          "logo": "./assets/logos/uefa/003.png",
+          "page": "./associations/spain.html",
+          "note": "One of the six hosts of the 2030 FIFA World Cup."
         },
         {
           "name": "Sweden",
