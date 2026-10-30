@@ -1347,7 +1347,9 @@
           "flag": "🇧🇴",
           "confederation": "conmebol",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/conmebol/017.png",
+          "page": "./associations/bolivia.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Ecuador",
