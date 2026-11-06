@@ -985,7 +985,9 @@
           "flag": "🇧🇧",
           "confederation": "concacaf",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/concacaf/018.png",
+          "page": "./associations/barbados.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Belize",
