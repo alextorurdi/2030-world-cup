@@ -1,0 +1,758 @@
+{
+  "meta": {
+    "title": "Barbados · The 211 Files",
+    "description": "Barbados in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Barbados thread export",
+      "file": "Barbados.docx",
+      "imageCount": 82
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 82 direct X-media images. All source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#018",
+    "country": "Barbados",
+    "flag": "🇧🇧",
+    "association": "Barbados Football Association (BFA)",
+    "founded": "1910",
+    "fifa": "1968",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🥈 CFU Championship: 1985"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/018.png",
+    "fallbackLogo": "../assets/barbados/source/HWHacCxWwAAJ83s.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "The easternmost Caribbean island",
+      "entries": [
+        {
+          "paragraphs": [
+            "The easternmost Caribbean island, Barbados sits outside the main Lesser Antilles arc. Home to around 280,000 people in just 430 km², its relatively flat coral landscape contrasts sharply with its volcanic neighbours. Capital: Bridgetown."
+          ],
+          "images": [
+            "../assets/barbados/source/HWHgb_9W4AAGHTa.jpg",
+            "../assets/barbados/source/HWHgcXKXsAArrrN.jpg",
+            "../assets/barbados/source/HWHgco4WgAARFuP.jpg",
+            "../assets/barbados/source/HWHgc-2WgAAWpVS.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "British colony, independence and republic",
+      "entries": [
+        {
+          "heading": "From settlement to independence",
+          "date": "1627–1966",
+          "paragraphs": [
+            "England settled Barbados in 1627. Sugar plantations and enslaved African labour transformed the island; emancipation came in the 1830s. Barbados remained a British colony until independence on 30 November 1966 under Prime Minister Errol Barrow."
+          ],
+          "images": [
+            "../assets/barbados/source/HWIF3wzXsAAj_Mc.jpg"
+          ]
+        },
+        {
+          "heading": "A republic",
+          "date": "2021",
+          "paragraphs": [
+            "Barbados retained the British monarch after independence, but on 30 November 2021—exactly 55 years later—it became a parliamentary republic. Governor-General Sandra Mason became the country's first President."
+          ],
+          "images": [
+            "../assets/barbados/source/HWIGZCmWsAEKldk.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Cricket institutions, schools, the Volunteers and a century of domestic dynasties",
+      "entries": [
+        {
+          "heading": "Football grows beside cricket",
+          "paragraphs": [
+            "Football grew beside cricket in colonial Barbados. The earliest known teams came from sporting institutions such as Wanderers, Pickwick, Windward and Spartan, while schools and the Barbados Volunteer Force also helped spread the game."
+          ],
+          "images": [
+            "../assets/barbados/source/HWMw_EVXAAAUdb8.png"
+          ]
+        },
+        {
+          "heading": "The BFA and the first Challenge Cup",
+          "date": "1910",
+          "paragraphs": [
+            "The decisive institutional step came in 1910. The Barbados Amateur Football Association was formed and the first Football Challenge Cup began with Kensington Rovers, Combermere School, Volunteers and Harrison College. Volunteers beat Rovers 2–0 in the final."
+          ],
+          "images": [
+            "../assets/barbados/source/HWPAJ9SXgAAWYMc.jpg"
+          ]
+        },
+        {
+          "heading": "Kensington and Harrison College",
+          "date": "1911–1923",
+          "paragraphs": [
+            "Kensington won in 1911 and then six straight championships from 1914 to 1919, plus 1921 and 1922. Harrison College broke the run in 1913, 1920 and 1923."
+          ],
+          "images": [
+            "../assets/barbados/source/HWPSVl0WIAAQdK3.jpg"
+          ]
+        },
+        {
+          "heading": "Empire breaks away from Spartan",
+          "date": "1920s",
+          "paragraphs": [
+            "Empire emerged as a breakaway from Spartan Cricket Club. Spartan had been founded for educated Black Barbadians excluded from white clubs, but it maintained strict class barriers. The rejection of working-class cricketers prompted dissenting members to establish Empire."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQLczIWQAAdQC6.jpg"
+          ]
+        },
+        {
+          "heading": "The First Division roll begins",
+          "date": "1937/38 onward",
+          "paragraphs": [
+            "The First Division roll began in 1937/38 with Kensington Rovers. Spartan won in 1938/39 and then dominated after World War II, taking four straight known titles from 1947/48 to 1951. Empire of Bank Hall followed in 1952 and 1959."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQM7HnWEAAdMrW.jpg"
+          ]
+        },
+        {
+          "heading": "Everton and New South Wales",
+          "date": "1958–1967",
+          "paragraphs": [
+            "Everton became the first great power of the 1960s, winning three straight titles in 1960–62 and another in 1966. But New South Wales, founded in Carrington Village on 16 December 1958, was about to reshape the championship."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQOza3WEAEPzwE.jpg"
+          ]
+        },
+        {
+          "heading": "The Wales dynasty",
+          "date": "1963–1978",
+          "paragraphs": [
+            "New South Wales won in 1963, 1965 and 1967, then swept 1969–72. Renamed Pan-Am Wales, they added four straight titles in 1973–76; as Weymouth Wales they won again in 1978. In little over 15 years, the club had created Barbados' dominant dynasty."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQPR_gXUAA8SSa.jpg"
+          ]
+        },
+        {
+          "heading": "The field widens",
+          "date": "1980s",
+          "paragraphs": [
+            "The 1980s widened the field: Wales won in 1981, 1984 and 1986; Pinelands in 1982 and 1985; Everton in 1987; Pride of Gall Hill in 1988 and Paradise in 1989. Barbados was no longer a two- or three-club championship."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQQy2pWEAAx6pM.jpg"
+          ]
+        },
+        {
+          "heading": "Defence Force and Notre Dame",
+          "date": "1990s",
+          "paragraphs": [
+            "The 1990s opened with Brittons Hill, Pinelands and Gall Hill before Barbados Defence Force won its first title in 1995. Notre Dame then took over with four consecutive championships from 1997 to 2000."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQj_yqWQAAVmg_.jpg"
+          ]
+        },
+        {
+          "heading": "A competitive 2000s",
+          "date": "2001–2011",
+          "paragraphs": [
+            "Paradise answered with titles in 2001 and 2003; Notre Dame added 2002, 2004, 2005, 2008 and 2010. Youth Milan won in 2006 and 2011, Brittons Hill in 2009, while Defence Force began constructing another modern dynasty."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQktc4XMAA5u3z.jpg"
+          ]
+        },
+        {
+          "heading": "BDF, UWI and the return of Wales",
+          "date": "2007–2019",
+          "paragraphs": [
+            "BDF won in 2007 and then three straight championships in 2013–15. UWI Blackbirds became champions in 2016. Weymouth Wales returned to the summit in 2012, 2017 and 2018 before Defence Force interrupted them again in 2019."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQlRM3WIAA7FRO.jpg"
+          ]
+        },
+        {
+          "heading": "Four straight for Wales",
+          "date": "2020–2026",
+          "paragraphs": [
+            "The 2020 championship was abandoned and 2021–22 were not held. When league football returned, Wales took over: champions in 2023, 2024, 2025 and 2026. The surviving roll gives them a record 22 known titles under their three historical names."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQllEpWgAAPKZR.jpg"
+          ]
+        },
+        {
+          "heading": "A new Caribbean stage",
+          "date": "2025",
+          "paragraphs": [
+            "Wales reached the CFU Club Shield final, qualifying for the Concacaf Caribbean Cup—the first Barbados club in the competition—and later beat reigning Caribbean champions Cavalier 2–1."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQmIkqWIAEayxF.jpg"
+          ]
+        },
+        {
+          "heading": "Seven points, eliminated on goal difference",
+          "date": "2025",
+          "paragraphs": [
+            "Wales finished the Caribbean Cup group with seven points, level with Defence Force but eliminated on goal difference. For a domestic game whose continental presence had long been sporadic, it was one of Barbados' strongest modern regional campaigns."
+          ],
+          "images": [
+            "../assets/barbados/source/HWQmZboXwAAhV7W.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Premier League, two lower divisions, two cups and the Caribbean pathway",
+      "cards": [
+        {
+          "title": "BFA Premier League",
+          "meta": "10 clubs · 18 matches",
+          "text": "The BFA Premier League has ten clubs playing a double round robin. Weymouth Wales won 2026 with 43 points; St Andrew Lions and Wotton were relegated. Parish Land and Pro Shottas earned promotion for 2027.",
+          "images": [
+            "../assets/barbados/source/HWQu6uhXwAAGGnU.png"
+          ]
+        },
+        {
+          "title": "Divisions One and Two",
+          "meta": "13 clubs in Division One in 2026",
+          "text": "The top two in Division One are promoted and the bottom two relegated. Division Two consists of four regional groups; each group winner reaches a four-team final league and the top two earn promotion.",
+          "images": [
+            "../assets/barbados/source/HWQvRr9WAAAWiby.jpg"
+          ]
+        },
+        {
+          "title": "BFA Champions Cup",
+          "meta": "All affiliated teams",
+          "text": "The national knockout is open to BFA-affiliated teams from any tier and is composed entirely of single-match knockout ties.",
+          "images": [
+            "../assets/barbados/source/HWQz95UWoAAGKSh.png"
+          ]
+        },
+        {
+          "title": "Prime Minister's Cup",
+          "meta": "Selected teams · group stage",
+          "text": "The Prime Minister's Cup invites a set number of teams from each division, begins with a group phase and is played in the off-season toward the end of the year.",
+          "images": [
+            "../assets/barbados/source/HWQ3NcYW8AA-Sd9.png"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "Premier League champion",
+          "text": "The Premier League champion enters the CFU Club Shield, CONCACAF's competition for Caribbean leagues outside the professional Caribbean Cup. The finalists advance to the Caribbean Cup.",
+          "images": [
+            "../assets/barbados/source/HWQ34JzXMAAEA1I.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "Continental pathway",
+          "text": "The Caribbean Cup sends its top three clubs to the CONCACAF Champions Cup. Weymouth Wales followed this route into the Caribbean Cup in 2025.",
+          "images": [
+            "../assets/barbados/source/HWQ4JDHW8AACOxz.jpg",
+            "../assets/barbados/source/HWQ4J6xX0AAVid6.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Wales, Notre Dame, BDF and the wider Barbadian club tradition",
+      "cards": [
+        {
+          "title": "Weymouth Wales",
+          "meta": "Bridgetown · record champions",
+          "text": "Founded in 1958 as New South Wales, renamed Pan-Am Wales in 1973 and Weymouth Wales in 1977, the same club has 22 known titles—including every completed league season from 2023 to 2026.",
+          "images": [
+            "../assets/barbados/source/HWRPMzQW0AAESqO.jpg"
+          ]
+        },
+        {
+          "title": "Notre Dame",
+          "meta": "Bayville · 10 league titles",
+          "text": "Usually dated to 1965, the Dames are the historic counterweight to Wales. Their ten league titles include four straight from 1997 to 2000 and sustained dominance across the late 1990s and 2000s.",
+          "images": [
+            "../assets/barbados/source/HWRTa1MXEAAm9w4.png"
+          ]
+        },
+        {
+          "title": "Barbados Defence Force",
+          "meta": "Military club · 6 league titles",
+          "text": "BDF won in 1995, 2007, 2013, 2014, 2015 and 2019. Their 2013–15 three-peat made them the defining challenger to the traditional civilian clubs of that decade.",
+          "images": [
+            "../assets/barbados/source/HWRUieVXIAA9cY6.png"
+          ]
+        },
+        {
+          "title": "Paradise",
+          "meta": "Dover / Oistins · founded 1978",
+          "text": "Paradise have four league titles—1989, 1996, 2001 and 2003—and remain a Premier League force. Their 2026 Champions Cup victory over Wales added another major trophy.",
+          "images": [
+            "../assets/barbados/source/HWRU9bjXwAAsGuH.png"
+          ]
+        },
+        {
+          "title": "The wider map",
+          "meta": "Empire · Pinelands · Gall Hill · UWI · Brittons Hill · Kickstart Rush · Ellerton",
+          "text": "Empire of Bank Hall date to 1914 and embody the older club tradition. Pinelands, Gall Hill, UWI and Brittons Hill have all been champions; Kickstart Rush and Ellerton are among the strongest current challengers.",
+          "images": [
+            "../assets/barbados/source/HWRVfPyWsAA9zsu.png",
+            "../assets/barbados/source/HWRXmlZXEAAInAW.png",
+            "../assets/barbados/source/HWRX05nWUAA-pfI.png",
+            "../assets/barbados/source/HWRYE8uXcAA37Ew.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "A 1929 representative tradition, the 1985 silver and the famous 1994 Grenada game",
+      "entries": [
+        {
+          "heading": "A spectacular beginning",
+          "date": "1929",
+          "paragraphs": [
+            "Barbados' first traced internationals came in April 1929. Hosting Trinidad & Tobago, the Bajans won all three matches: 3–0, 2–0 and 2–1. The representative tradition therefore predates FIFA membership by almost 40 years."
+          ],
+          "images": [
+            "../assets/barbados/source/HWRZa1lXgAAFFiP.png"
+          ]
+        },
+        {
+          "heading": "Martinez Shield",
+          "date": "1931–1932",
+          "paragraphs": [
+            "Barbados entered the Martinez Shield in British Guiana in 1931 and were brutally exposed: four defeats, including a record 0–9 against the hosts. A year later they hosted the tournament at Kensington Oval and beat Trinidad & Tobago 1–0."
+          ],
+          "images": [
+            "../assets/barbados/source/HWRcBQtWkAAsj7H.png"
+          ]
+        },
+        {
+          "heading": "From intercolonial football to FIFA",
+          "date": "1951–1968",
+          "paragraphs": [
+            "International football remained intermittent. In 1951 Barbados hosted Jamaica three times and won twice, 3–0 and 5–2. They joined CONCACAF in 1967 and FIFA in 1968, linking a much older intercolonial tradition to the global system."
+          ],
+          "images": [
+            "../assets/barbados/source/HWRcjAUWoAA36qT.png"
+          ]
+        },
+        {
+          "heading": "First World Cup campaign",
+          "date": "Argentina 1978 qualifying",
+          "paragraphs": [
+            "Barbados beat Trinidad & Tobago 2–1 in Bridgetown through two Victor Clarke goals, lost 1–0 in Port of Spain and forced a playoff. Trinidad won the decider 3–1."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR4vAsW0AAc535.jpg"
+          ]
+        },
+        {
+          "heading": "Early CFU eliminations",
+          "date": "1978–1983",
+          "paragraphs": [
+            "Barbados were eliminated in early CFU qualifiers by the Netherlands Antilles in 1978, Trinidad & Tobago on penalties in 1981 and Guyana in 1983. This also prevented them from entering World Cup qualifiers again until the 1994 cycle."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR6p-jWMAAqfry.png"
+          ]
+        },
+        {
+          "heading": "Caribbean runners-up at home",
+          "date": "1985",
+          "paragraphs": [
+            "Barbados hosted the CFU Championship and went unbeaten: 0–0 with Suriname, 1–1 with Guadeloupe and 1–1 with champions Martinique. Three draws left the hosts runners-up."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR7YTGWgAE_Mdc.jpg"
+          ]
+        },
+        {
+          "heading": "1989–1993",
+          "paragraphs": [
+            "Barbados hosted the 1989 Caribbean Cup but a victory over Saint Vincent and defeat to Trinidad & Tobago were not enough to progress. Trinidad & Tobago again kept them out in 1992 qualifying; Puerto Rico eliminated them in 1993."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR9PBDWoAAeHGF.png"
+          ]
+        },
+        {
+          "heading": "One of football's strangest matches",
+          "date": "1994 Caribbean Cup qualifying",
+          "paragraphs": [
+            "Barbados had to beat Grenada by two goals to qualify. A bizarre tournament rule made a sudden-death extra-time goal count double for goal difference."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR-ShlXcAApnDF.png"
+          ]
+        },
+        {
+          "heading": "Defending both goals",
+          "date": "1994",
+          "paragraphs": [
+            "Leading only 2–1 late on, Barbados deliberately scored an own goal to force extra time. Grenada then realised scoring in either goal would qualify them, so Barbados spent the final minutes defending both nets."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR-kpZW0AADH5q.png"
+          ]
+        },
+        {
+          "heading": "The plan works",
+          "date": "1994",
+          "paragraphs": [
+            "Barbados scored the sudden-death winner in extra time and won 3–2; because the goal counted double for goal difference, they advanced. In the finals, draws with Guadeloupe and Dominica preceded defeat to Trinidad & Tobago: third in the group and eliminated."
+          ],
+          "images": [
+            "../assets/barbados/source/HWR-45FW8AAWkoM.jpg"
+          ]
+        },
+        {
+          "heading": "1995–1997",
+          "paragraphs": [
+            "Saint Lucia eliminated Barbados in 1995 and Jamaica knocked them out on penalties in 1996. That same year Barbados eliminated Dominica from World Cup qualifying before Jamaica won both second-round legs. Grenada then qualified over Barbados in 1997."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSDIBZWQAAJrYD.jpg"
+          ]
+        },
+        {
+          "heading": "The deepest World Cup run",
+          "date": "2000",
+          "paragraphs": [
+            "Barbados negotiated Grenada, Aruba and Cuba to reach a semifinal qualifying group with the United States, Guatemala and Costa Rica—the deepest stage the country had ever reached."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSEBG6X0AM2Qzc.jpg"
+          ]
+        },
+        {
+          "heading": "Barbados 2–1 Costa Rica",
+          "date": "16 July 2000",
+          "paragraphs": [
+            "Costa Rica led in Bridgetown before Llewellyn Riley equalised and Michael Forde struck late: Barbados 2–1 Costa Rica. Against a side that would comfortably qualify for the 2002 World Cup, it remains an iconic Bajan result."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSEO_ZW0AAHQHk.jpg"
+          ]
+        },
+        {
+          "heading": "The campaign collapses",
+          "date": "2000",
+          "paragraphs": [
+            "Five straight defeats followed, including 0–7 in the United States, but reaching CONCACAF's semifinal round was unprecedented and remains Barbados' deepest World Cup qualifying run."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSEjVjW4AA9K7P.png"
+          ]
+        },
+        {
+          "heading": "Caribbean Cup 2001 and 2005",
+          "paragraphs": [
+            "Barbados qualified for the 2001 Caribbean Cup after beating Grenada and Aruba and drawing Suriname, but were overcome in the finals. They hosted again in 2005 but were beaten in the group."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSF383WEAAHgmF.jpg"
+          ]
+        },
+        {
+          "heading": "Caribbean Cup 2007",
+          "paragraphs": [
+            "Barbados reached the 2007 Caribbean Cup after an unbeaten qualifying campaign. Expectations were high, but the finals group proved too strong and they were eliminated."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSGyDwW0AAJH81.jpg"
+          ]
+        },
+        {
+          "heading": "Last Caribbean Cup finals",
+          "date": "2008",
+          "paragraphs": [
+            "The 2008 Caribbean Cup was the last tournament finals Barbados qualified for. They navigated a large qualifying field before the finals again ended at the group stage."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSOTWMWcAA9D7l.jpg"
+          ]
+        },
+        {
+          "heading": "World Cup qualifiers in the 2000s",
+          "date": "2004–2008",
+          "paragraphs": [
+            "Saint Kitts & Nevis eliminated Barbados 5–2 on aggregate in 2004. In 2008 Barbados edged Dominica before the United States won 9–0 across two legs. Premier League veteran Paul Ifill captained Barbados in the latter tie."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSOjimWkAAwoSU.jpg"
+          ]
+        },
+        {
+          "heading": "A pair of administrative setbacks",
+          "date": "2014–2019",
+          "paragraphs": [
+            "Barbados finished bottom of a 2014 qualifying group with Guyana, Trinidad & Tobago and Bermuda. For the 2018 cycle Aruba advanced after Barbados were sanctioned for fielding an ineligible player. The same problem appeared again in the 2019/20 Nations League qualifiers."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSa1ptWwAADVDr.png"
+          ]
+        },
+        {
+          "heading": "Nations League C champions",
+          "date": "2019/20",
+          "paragraphs": [
+            "Barbados won their League C group ahead of the Cayman Islands on goal difference, with Saint Martin and the US Virgin Islands behind. They earned promotion to League B and reached the 2021 Gold Cup preliminaries, where Bermuda eliminated them."
+          ],
+          "images": [
+            "../assets/barbados/source/HWScRKsW4AAzUkA.jpg"
+          ]
+        },
+        {
+          "heading": "Back to League C",
+          "date": "2022/23–2023/24",
+          "paragraphs": [
+            "Barbados struggled in League B across the next two editions. Relegation was suspended in 2022/23, but the 2023/24 campaign ended with demotion back to League C."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSfL99WcAAInbc.jpg"
+          ]
+        },
+        {
+          "heading": "A perfect League C response",
+          "date": "2024/25",
+          "paragraphs": [
+            "Barbados responded with four wins from four, 17 goals scored and a +13 goal difference to earn promotion. Guyana then beat them 9–4 on aggregate in the Gold Cup Play-In. The 2026 World Cup campaign produced only one point."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSgD5RXcAAhEfk.jpg"
+          ]
+        },
+        {
+          "heading": "Kent Hall's strong start",
+          "date": "2026/27",
+          "paragraphs": [
+            "Under Kent Hall, Barbados beat Saint Lucia 2–0, drew Guadeloupe 2–2, then defeated Bermuda 4–1 and 2–1. After four games they led Nations League B Group B with 10 points, one ahead of Saint Lucia."
+          ],
+          "images": [
+            "../assets/barbados/source/HWSg9aqXMAAuHI2.jpg"
+          ]
+        },
+        {
+          "heading": "A possible first Gold Cup",
+          "date": "November 2026",
+          "paragraphs": [
+            "Two matches remained. Winning the group would send Barbados to the new League B Championship, promote them to League A and qualify them directly for the 2027 Gold Cup—a tournament the senior men had never reached in the source."
+          ],
+          "images": [
+            "../assets/barbados/source/HWShCNKW0AAksIW.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-3-3 spanning the 1970s pioneers, the 2000 qualifying run and the overseas professionals",
+      "intro": "The supplied XI joins Barbados' early World Cup generation, the great 2000 qualifying side and some of the strongest Bajan professionals to play abroad.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/barbados/source/HWSqAGUXoAAT6za.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Alvin Rouse",
+            "years": "2006–2010",
+            "description": "One of the most reliable and decorated goalkeepers in Bajan history, with caps across multiple World Cup qualifying campaigns and extensive club football in Northern Ireland.",
+            "image": "../assets/barbados/source/HWSqaZkWUAA_vgM.png"
+          },
+          {
+            "position": "RB",
+            "name": "Emmerson Boyce",
+            "years": "2008–2016",
+            "description": "Premier League veteran and FA Cup-winning Wigan captain.",
+            "image": "../assets/barbados/source/HWSqrBIWIAA9SQG.png"
+          },
+          {
+            "position": "CB",
+            "name": "Keith Griffith",
+            "years": "1960s–1970s",
+            "description": "A legendary Barbados figure who anchored the defence as a sweeper.",
+            "image": "../assets/barbados/source/HWSrUfqWcAA-bcC.png"
+          },
+          {
+            "position": "CB",
+            "name": "Wayne Sobers",
+            "years": "1990–2005",
+            "description": "Long-serving defender and a regular during the 2000 World Cup qualifying run.",
+            "image": "../assets/barbados/source/HWStnu4XUAAYsXx.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Augustus “Gus” Hurdle",
+            "years": "2000",
+            "description": "Barbados starter against Costa Rica and the United States after a lengthy professional career with Brentford in England.",
+            "image": "../assets/barbados/source/HWSurPBW8AEIsal.png"
+          },
+          {
+            "position": "DM",
+            "name": "Gregory Goodridge",
+            "years": "1992–2008",
+            "description": "Sixteen international goals, captaincy and an English professional career.",
+            "image": "../assets/barbados/source/HWS1kp3WwAA5KnH.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Norman Forde",
+            "years": "1998–2011",
+            "description": "Caps record holder in the source and scorer of 18 international goals.",
+            "image": "../assets/barbados/source/HWS1UtAXYAAcAdu.png"
+          },
+          {
+            "position": "AM",
+            "name": "Victor Clarke",
+            "years": "1960s–1970s",
+            "description": "Bajan Player of the Year in 1963 and 1967 and scorer of both goals in Barbados' first World Cup qualifying victory.",
+            "image": "../assets/barbados/source/HWS1MqmX0AAo-Cu.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Paul Ifill",
+            "years": "2004–2008",
+            "description": "Six goals in only ten FIFA internationals after a long career in England.",
+            "image": "../assets/barbados/source/HWS19QcXsAACEh8.png"
+          },
+          {
+            "position": "CF",
+            "name": "Llewellyn Riley",
+            "years": "1995–2005",
+            "description": "Barbados' record scorer in the source with 23 international goals.",
+            "image": "../assets/barbados/source/HWS2C0gXcAAR0Or.png"
+          },
+          {
+            "position": "LW",
+            "name": "Mark McCammon",
+            "years": "2006–2008",
+            "description": "Powerful striker with extensive English league experience.",
+            "image": "../assets/barbados/source/HWS2Jd1XYAAIdzd.png"
+          }
+        ]
+      },
+      "closing": "Thierry Gale, Niall Reid-Stephen, Mario Harte, Hadan Holligan, Earl Gilkes, Jerry Alexander, Jeff Williams, Ryan Lucas and Nick Blackman are among the painful omissions. Earlier stars such as Reggie Haynes are particularly difficult to compare."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team and individual landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First match: Barbados 3–0 Trinidad & Tobago, 20 April 1929.",
+            "Biggest win: Barbados 7–1 Anguilla, 24 September 2006.",
+            "Heaviest defeats: 0–9 v British Guiana (1931) and Trinidad & Tobago (2022).",
+            "Highest FIFA ranking: 92nd.",
+            "Lowest FIFA ranking: 181st."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Norman Forde, 74.",
+            "Most goals: Llewellyn Riley, 23."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/barbados/source/HWS2jk1WkAAWCKr.jpg",
+        "../assets/barbados/source/HWS29KcXwAAN90q.png"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Waterford redevelopment, Wildey and Cave Hill",
+      "cards": [
+        {
+          "title": "National Stadium",
+          "meta": "Waterford · replacement under construction",
+          "text": "Barbados football's principal historic home. The old ground was demolished in 2025; a new 20,000-seat replacement is under construction on the same site. The source describes the BDS$80m project as being built with Chinese grant funding.",
+          "images": [
+            "../assets/barbados/source/HWWKNnjX0AAgtF2.jpg",
+            "../assets/barbados/source/HWWKN6BXkAAfw9X.jpg"
+          ]
+        },
+        {
+          "title": "Wildey Football Turf",
+          "meta": "Sir Garfield Sobers Sports Complex · ~2,000",
+          "text": "Barbados' main active football ground in the source. The compact venue is used by the BFA for domestic competitions and senior internationals.",
+          "images": [
+            "../assets/barbados/source/HWWPKP0WUAAS_EH.jpg",
+            "../assets/barbados/source/HWWPKgVWcAAs67T.jpg"
+          ]
+        },
+        {
+          "title": "BFA Technical Centre",
+          "meta": "Wildey",
+          "text": "The modern administrative and development heart of the game. FIFA Forward money renovated the headquarters and playing facilities; the site regularly stages domestic and international football and is the main Premier League venue in the source.",
+          "images": [
+            "../assets/barbados/source/HWWchXWX0AA6LGG.jpg",
+            "../assets/barbados/source/HWWchySWQAA336h.jpg"
+          ]
+        },
+        {
+          "title": "Usain Bolt Sports Complex",
+          "meta": "Cave Hill · University of the West Indies",
+          "text": "An unusual football pitch inside a running track whose original blue-and-yellow colours echoed the Barbados flag. Both straights were extended to accommodate changing coastal winds.",
+          "images": [
+            "../assets/barbados/source/HWWdY1oXQAAzNsV.jpg",
+            "../assets/barbados/source/HWWdZIQXoAA2D80.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Round One is the expected starting point",
+          "paragraphs": [
+            "Barbados is eligible for the 2030 FIFA World Cup. CONCACAF qualifying starts in September 2027. The teams ranked 14th–35th in the FIFA Ranking used for seeding enter Round One: eleven home-and-away knockout ties."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
