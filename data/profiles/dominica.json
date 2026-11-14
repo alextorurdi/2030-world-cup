@@ -1,0 +1,685 @@
+{
+  "meta": {
+    "title": "Dominica · The 211 Files",
+    "description": "Dominica in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Dominica thread export",
+      "file": "Dominica.docx",
+      "imageCount": 77
+    },
+    "sourceNote": "All 77 direct X-media assets retain their original filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#019",
+    "country": "Dominica",
+    "flag": "🇩🇲",
+    "association": "Dominica Football Association (DFA)",
+    "founded": "1970",
+    "fifa": "1994",
+    "confederation": "CONCACAF",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "0",
+    "bestRecords": [
+      "🏆 Windward Islands: 1971, 1985, 1990"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/concacaf/019.png",
+    "fallbackLogo": "../assets/dominica/source/HWuDuhoX0AAMOZQ.png"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "The Nature Island between Guadeloupe and Martinique",
+      "entries": [
+        {
+          "paragraphs": [
+            "Dominica🇩🇲—not to be confused with the Dominican Republic—is a mountainous volcanic island between Guadeloupe and Martinique. Known as the “Nature Island”, its 751 km² are covered by rainforest, rivers and peaks. Around 70,000 people live there; Roseau is the capital."
+          ],
+          "images": [
+            "../assets/dominica/source/HWuEvaoXUAEk64a.jpg",
+            "../assets/dominica/source/HWuE1pQXEAAVwv8.png",
+            "../assets/dominica/source/HWuE5vTXYAA3D5R.jpg",
+            "../assets/dominica/source/HWuFMgLXIAA2DXE.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Colonial rivalry, independence and climate resilience",
+      "entries": [
+        {
+          "paragraphs": [
+            "France and Britain contested Dominica during the colonial era before British rule was secured in the early 19th century. The island became part of the West Indies Federation in 1958, an Associated State in 1967 and fully independent on 3 November 1978."
+          ],
+          "images": [
+            "../assets/dominica/source/HWuF_jSWsAEj_Z9.png"
+          ],
+          "heading": "From colonial rule to independence",
+          "date": "19th century–1978"
+        },
+        {
+          "paragraphs": [
+            "Independence was immediately turbulent. PM Patrick John was forced from office in 1979 amid mass protests and political crisis. In 1980 Eugenia Charles became PM—the Caribbean’s first female head of government—and remained in office for 15 years."
+          ],
+          "images": [
+            "../assets/dominica/source/HWuGSctWEAAhJsQ.jpg"
+          ],
+          "heading": "Eugenia Charles",
+          "date": "1979–1995"
+        },
+        {
+          "paragraphs": [
+            "Roosevelt Skerrit became PM in January 2004 and remains in office in 2026. His Dominica Labour Party has dominated recent elections. Sylvanie Burton became president in 2023, the country’s first woman and first Indigenous/Kalinago head of state."
+          ],
+          "images": [
+            "../assets/dominica/source/HWuGilVXMAAvg4x.png"
+          ],
+          "heading": "Skerrit and Burton",
+          "date": "2004–2026"
+        },
+        {
+          "paragraphs": [
+            "Nature has repeatedly shaped the country too. Hurricane Maria struck Dominica directly in September 2017, devastating housing, agriculture and infrastructure. Reconstruction since then has centred heavily on the government’s ambition to make the island more climate-resilient."
+          ],
+          "images": [
+            "../assets/dominica/source/HWuG1VbXMAEleGx.jpg"
+          ],
+          "heading": "Hurricane Maria",
+          "date": "2017"
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "A shadowy pre-war game, Harlem’s dynasty and Dublanc’s modern reign",
+      "entries": [
+        {
+          "paragraphs": [
+            "As with their neighbors, football origin in Dominica is shrouded in mystery and largely shadowed by cricket. We know there was a Dominica Football Association as early as 1937 and a national team was active at the time."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1ctXoXAAETd5h.jpg"
+          ],
+          "heading": "A football culture older than the modern DFA"
+        },
+        {
+          "paragraphs": [
+            "We know the most successful team at the time was the Eagle FC but that's about all we have. There was also a club called Phantoms Football Club. The surviving domestic championship record begins only in the late 1950s. Combermere SC won in 1958 and Arsenal in 1959."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1ewz5WoAAuE9W.jpg"
+          ],
+          "heading": "Eagle FC, Phantoms and the first surviving champions"
+        },
+        {
+          "paragraphs": [
+            "Combermere won again in 1961 and 1963 and Arsenal in 1962. Then Newtown (near Roseau) produced an important lineage. A club founded in 1963 as Thunderbirds won the 1964 championship, became Domfruit Rovers and won in 1966 and 1967, then became Cedar United and took the 68 one."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1f1DvXIAA4vVv.jpg"
+          ],
+          "heading": "Thunderbirds to Cedar United"
+        },
+        {
+          "paragraphs": [
+            "Spartans SC of mountainous Laudat provided another early power. Champions in 1965, 1969 and 1979, they helped show that organised football was not simply a Roseau/Newtown phenomenon."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1gbkPWEAAKqml.jpg"
+          ],
+          "heading": "Spartans of Laudat"
+        },
+        {
+          "paragraphs": [
+            "A new Newtown institution appeared simultaneously. Harlem Rovers were founded in 1970 and won the league immediately, then completed a hat-trick in 1972, 1973 and 1974. They would become the dominant club in Dominican football history."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1gs3WW8AAkx8P.jpg"
+          ],
+          "heading": "Harlem Rovers arrive"
+        },
+        {
+          "paragraphs": [
+            "Roseau answered through Kensborough United. They won three successive championships from 1976–78 and another in 1988, plus a share of the 1985 crown. Their rivalry with Harlem shaped much of the next two decades."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1hZw9XYAAhe67.jpg"
+          ],
+          "heading": "Kensborough United"
+        },
+        {
+          "paragraphs": [
+            "Harlem meanwhile became Harlem Bombers⬛️⬜️🟥. They won again in 1981 and 1983, shared 1985 with Kensborough and collected further titles in 1989, 1992, 1993, 1994 and 1995. Few Caribbean clubs have dominated their domestic competition so completely."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1hsoFXcAAsYJL.jpg"
+          ],
+          "heading": "Harlem Bombers dominate"
+        },
+        {
+          "paragraphs": [
+            "The domestic monopoly briefly cracked. C&BM Potters won in 1991 and Black Rocks in 1996, while ACS Zebbians of Goodwill were champions in 1998. But Harlem Bombers immediately returned: 1997, 1999, 2000 and 2001."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1inljXIAAtNCF.jpg"
+          ],
+          "heading": "The monopoly briefly cracks"
+        },
+        {
+          "paragraphs": [
+            "Renamed Harlem United, they won in 2003, 2004 and 2006 and later again in 2011/12. Other communities finally began breaking the Newtown/Roseau grip. Kubuli All Stars of St Joseph won in 2002, Dublanc Strikers in 2005 and South East Utd—representing La Plaine—became 🏆 in 2007."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1jOAhXwAAZDqG.jpg"
+          ],
+          "heading": "Harlem United and a wider island map"
+        },
+        {
+          "paragraphs": [
+            "Bath Estate then built the next mini-dynasty. Founded in Roseau in 1982, they won three straight titles in 2008, 2009 and 2010 and a fourth in 2012/13. Portsmouth Bombers brought the championship north in 2013/14. Exodus FC of Saint Joseph won their only title in 2014/15."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1jwlRW4AAVf81.jpg"
+          ],
+          "heading": "Bath Estate and the north"
+        },
+        {
+          "paragraphs": [
+            "Then Dublanc🟦⬜️ returned: champions in 2015/16 and 2016/17. The 2017/18 championship was abandoned, before South East won back-to-back titles in 2018/19 and 2020. COVID and its aftermath disrupted the competition again: 2021 was abandoned and no championship was held in 2022."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1kFNDWIAAHvot.jpg"
+          ],
+          "heading": "Dublanc and South East"
+        },
+        {
+          "paragraphs": [
+            "Dublanc won in 2023, 2024 and 2025—the latter unbeaten at 15-3-0 with 76 goals. In 2026 they made it FOUR consecutive titles, winning 16 of 18 matches and scoring 73 goals. They also produced Dominica’s best recent regional club adventure."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1kbZ_XcAA_3ge.jpg"
+          ],
+          "heading": "Four straight for Dublanc"
+        },
+        {
+          "paragraphs": [
+            "At the 2024 CFU Club Shield they reached the third-place match, eventually finishing 4th. They returned to the Shield in 2025, beating Anguilla’s Doc’s United but exiting their group, and in 2026 lost 3–1 to Grenada’s St John’s Sports in the new opening knockout round."
+          ],
+          "images": [
+            "../assets/dominica/source/HW1kt0EXwAEiW7u.jpg"
+          ],
+          "heading": "The regional breakthrough"
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Premier League, First Division, Champions Cup and President’s Cup",
+      "cards": [
+        {
+          "title": "Dominica Premier League",
+          "meta": "10 clubs · 18 matches",
+          "text": "The DOMINICA PREMIER LEAGUE currently has 10 clubs playing a conventional double round robin: 18 matches each. In 2026 Dublanc finished 11 points clear of South East to win the title.",
+          "images": [
+            "../assets/dominica/source/HW2F_LxW0AA5N7a.jpg"
+          ]
+        },
+        {
+          "title": "First Division and playoff",
+          "meta": "Promotion + relegation playoff",
+          "text": "The bottom club is relegated to the First Division, while 9th enters a promotion/relegation playoff. In 2025, for example, First Division champions Mighty Avengers went straight up and runners-up Bath Estate beat East Central in the playoff.",
+          "images": [
+            "../assets/dominica/source/HW2IsVNX0AAg4xk.jpg"
+          ]
+        },
+        {
+          "title": "DFA Champions Cup",
+          "meta": "Introduced in 2026 · top 8 Premier clubs",
+          "text": "The DFA Champions Cup was introduced in 2026. The new tournament features the best 8 Premier League teams. Dublanc beat WE in the final, 6–2.",
+          "images": [
+            "../assets/dominica/source/HW2MCQSW0AAfaBj.jpg"
+          ]
+        },
+        {
+          "title": "President’s Cup",
+          "meta": "Traditional knockout",
+          "text": "The traditional knockout competition, though, is the PRESIDENT’S CUP featuring clubs from Premier League and Division One T1 & T2. Although the exact number of entrants and format has varied widely along the editions. Current winners are Dublanc by beating WE United 4–1.",
+          "images": [
+            "../assets/dominica/source/HW2YpTTWIAEGTS0.jpg"
+          ]
+        },
+        {
+          "title": "CFU Club Shield",
+          "meta": "Premier League champion",
+          "text": "The DFA Premier League Champions enter the CFU Club Shield, CONCACAF’s competition for Caribbean leagues outside the professional Caribbean Cup. Its finalists earn promotion into the Caribbean Cup.",
+          "images": [
+            "../assets/dominica/source/HW2ZXiuXEAAErSw.jpg"
+          ]
+        },
+        {
+          "title": "Caribbean Cup → Champions Cup",
+          "meta": "Continental pathway",
+          "text": "The Caribbean Cup then sends its top 3 to the CONCACAF Champions Cup.",
+          "images": [
+            "../assets/dominica/source/HW2Zi6FXIAAkFrt.jpg",
+            "../assets/dominica/source/HW2ZjtaWEAEpLIH.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "Harlem’s historical dominance and Dublanc’s modern supremacy",
+      "cards": [
+        {
+          "title": "Harlem United",
+          "meta": "Newtown · 20 known league titles",
+          "text": "Harlem United ⬛️⬜️🟥 of Newtown are the historical giants. Founded as Harlem Rovers in 1970, later Harlem Bombers and finally United, the same lineage has accumulated 20 known league titles—far ahead of anyone else.",
+          "images": [
+            "../assets/dominica/source/HW2aBcMXQAAKAFQ.png"
+          ]
+        },
+        {
+          "title": "Dublanc FC",
+          "meta": "Dublanc · founded 1993 · 7 known titles",
+          "text": "Dublanc FC🟦⬜️ have become the modern power. Founded in 1993, they won their first title as Dublanc Strikers in 2005, added two in 2015/16–16/17 and have now won four consecutively from 2023–26. Seven titles and counting. Including a treble the 25/26 campaign.",
+          "images": [
+            "../assets/dominica/source/HW2aZmcXoAAE7Qr.jpg"
+          ]
+        },
+        {
+          "title": "A remarkably dispersed modern map",
+          "meta": "Portsmouth · La Plaine · Castle Bruce · Mahaut · Pointe Michel",
+          "text": "The modern map is remarkably dispersed for such a small island: Dublanc on the west coast, Bombers🟥 in northern Portsmouth, South East🟥⬛️ around La Plaine, WE United🟥⬜️ at Castle Bruce, Mahaut Soca Strikers🟦 and Pointe Michel all challenge the traditional Roseau/Newtown core.",
+          "images": [
+            "../assets/dominica/source/HW2bKiHXUAAlkTe.png",
+            "../assets/dominica/source/HW2bYsgW8AAkusY.jpg",
+            "../assets/dominica/source/HW2bhCrWgAAYlOR.png",
+            "../assets/dominica/source/HW2cCoqXkAA850B.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "Windward titles, Caribbean Cup finals and the Nations League",
+      "entries": [
+        {
+          "paragraphs": [
+            "Dominica’s first traced representative international came in 1932: a 1–0 victory over Martinique. Matches with Martinique and Saint Lucia followed through the 1930s–40s before the Windward Islands tournament became the national team’s natural arena."
+          ],
+          "images": [
+            "../assets/dominica/source/HW2gSlkWMAAlcce.jpg"
+          ],
+          "heading": "First traced representative match"
+        },
+        {
+          "paragraphs": [
+            "The Windwards pitted Dominica repeatedly against Grenada, Saint Lucia and Saint Vincent. Results were initially modest—the 1961 tournament included an 8–1 loss to Grenada—but the competition provided regular international football decades before FIFA membership."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7gml7WgAAF-uS.jpg"
+          ],
+          "heading": "The Windward circuit"
+        },
+        {
+          "paragraphs": [
+            "Then came 1971. Hosting the tournament, Dominica beat SVG 3–0, drew Saint Lucia 2–2 and defeated Grenada 3–0. Eight goals scored, only two conceded and the country’s first known Windward Islands crown. 🏆"
+          ],
+          "images": [
+            "../assets/dominica/source/HW7gyjCWYAAYwlw.jpg"
+          ],
+          "heading": "First Windward title"
+        },
+        {
+          "paragraphs": [
+            "Dominica entered CFU Championship qualifying in 1981 but Guadeloupe beat them 5–0 and 3–2. Guadeloupe eliminated them again in 1983. Caribbean competition remained considerably harder than the familiar Windward circuit."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7hb2sWwAE3ZRC.jpg"
+          ],
+          "heading": "Early CFU frustration"
+        },
+        {
+          "paragraphs": [
+            "In 1985 Dominica became Windward champions again, defeating Grenada and then Saint Vincent on penalties. 🏆🏆 A two-legged clash with Saint Kitts followed for the inaugural OECS Championship, but the Leeward champions won both games."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7huKmWIAAWQ6u.jpg"
+          ],
+          "heading": "Windward champions again"
+        },
+        {
+          "paragraphs": [
+            "Dominica are also recorded as Windward champions in 1990. Yet Caribbean Cup qualification continued to frustrate them, including draws with French Guiana and Martinique during that year’s qualifying campaign."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7iOgFWAAAVMhx.jpg"
+          ],
+          "heading": "Third Windward crown"
+        },
+        {
+          "paragraphs": [
+            "The breakthrough finally arrived in 1994. Dominica beat 🇦🇬 3–2 and 3–2 after extra time to qualify for their first Caribbean Cup finals. At Trinidad 1994, however, the step up showed: 🇹🇹 5–0 Dominica, 🇧🇧 1–1 Dominica and 🇬🇵 4–0 Dominica. One point and eliminated."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7lB3KXoAAelmj.jpg"
+          ],
+          "heading": "First Caribbean Cup finals"
+        },
+        {
+          "paragraphs": [
+            "That same year Dominica joined FIFA. Their first World Cup campaign came for France 1998. After a 3–3 home draw with Antigua & Barbuda, Dominica produced a 3–1 away win to advance 6–4 on aggregate. Barbados then ended the dream with two identical 1–0 victories."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7nF0pXUAA76pe.jpg"
+          ],
+          "heading": "First World Cup qualifying campaign"
+        },
+        {
+          "paragraphs": [
+            "Dominica returned to the Caribbean Cup finals in 1998 after topping a group with 🇰🇳, 🇬🇵 & 🇻🇬. Ronnie Gustave scored against both 🇲🇶 & 🇦🇬, but defeats of 1–5, 1–2 and 0–8 to Trinidad & Tobago produced another group-stage elimination. They would never return to the finals."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7of45WYAApe3a.jpg"
+          ],
+          "heading": "Caribbean Cup 1998"
+        },
+        {
+          "paragraphs": [
+            "Haiti eliminated Dominica 7–1 on aggregate from the 2002 World Cup. In 2004 they beat Bahamas 4–2 on aggregate, earning the enormous prize—and punishment—of facing Mexico. Mexico won the first leg 10–0 in San Antonio and the second 8–0 in Aguascalientes: 18–0 on aggregate."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7pAgkXQAACkJG.jpg"
+          ],
+          "heading": "Mexico’s 18–0 aggregate"
+        },
+        {
+          "paragraphs": [
+            "The 2010 World Cup route ended against Barbados, 1–1 at Windsor Park and 0–1 away. But later that year Dominica produced the opposite record: a 10–0 demolition of the British Virgin Islands in Caribbean Cup qualifying."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7upuIWYAAJmzS.jpg"
+          ],
+          "heading": "Record win over the BVI"
+        },
+        {
+          "paragraphs": [
+            "Dominica followed it by beating the Dominican Republic 1–0, then advanced to another qualifying stage before Cuba and Suriname ultimately stopped them. That run propelled Dominica to 128th in the FIFA ranking in November 2010 and again in February 2011—their highest position ever."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7vH5vXoAAWpRf.jpg"
+          ],
+          "heading": "A record FIFA ranking"
+        },
+        {
+          "paragraphs": [
+            "The 2014 World Cup campaign brought four defeats against Panama and Nicaragua. In 2013 tragedy struck before the Windward Islands tournament when a road accident killed two members of the national-team delegation and seriously injured another; Dominica withdrew."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7vicdXkAAhrnn.jpg"
+          ],
+          "heading": "2013 tragedy"
+        },
+        {
+          "paragraphs": [
+            "For Russia 2018 they beat the British Virgin Islands 3–2 on aggregate, then met Canada. Cyle Larin and Russell Teibert gave Canada a 2–0 win in Roseau before a 4–0 defeat in Toronto ended the campaign."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7v777WoAAj0wu.jpg"
+          ],
+          "heading": "Canada ends the 2018 dream"
+        },
+        {
+          "paragraphs": [
+            "After beating Sint Maarten and Bahamas and drawing to Suriname, Dominica qualified for CONCACAF Nations League B. In the 19/20 edition, though, they got last of their group - which included 🇸🇷, 🇻🇨 and 🇳🇮 - and got relegated to League C."
+          ],
+          "images": [
+            "../assets/dominica/source/HW74s8HWIAAKf_m.jpg"
+          ],
+          "heading": "Nations League begins"
+        },
+        {
+          "paragraphs": [
+            "Dominica performed better in Qatar 2022 qualifying: a 3–0 win over Anguilla and 1–1 draw with Barbados gave them four points. They also pushed eventual group winners Panama hard before conceding an 85th-minute winner in a 2–1 defeat."
+          ],
+          "images": [
+            "../assets/dominica/source/HW75GajXoAICedE.jpg"
+          ],
+          "heading": "Qatar 2022 qualifying"
+        },
+        {
+          "paragraphs": [
+            "In the 2022/23 CONCACAF Nations League, the Nature Boyz finished at the bottom of their group with 🇱🇨 and 🇦🇮. In the 23/24 edition, Dominica won unbeaten their League C group ahead of the British Virgin Islands and Turks & Caicos and earned promotion."
+          ],
+          "images": [
+            "../assets/dominica/source/HW78MfXXkAA9uWL.jpg"
+          ],
+          "heading": "Promotion from League C"
+        },
+        {
+          "paragraphs": [
+            "Back in League B in 2024/25, they beat Antigua & Barbuda, lost twice to the Dominican Republic and Bermuda and drew Antigua 0–0. Four points were enough for 3rd place and survival."
+          ],
+          "images": [
+            "../assets/dominica/source/HW788sfW0AAQ5IU.jpg"
+          ],
+          "heading": "League B survival"
+        },
+        {
+          "paragraphs": [
+            "The 2026 World Cup campaign was more difficult. Guatemala opened with a 6–0 win, but Dominica pushed Jamaica in a 3–2 loss. In 2025 they beat the British Virgin Islands 3–0 before a 5–0 defeat to Dominican Republic ended qualification."
+          ],
+          "images": [
+            "../assets/dominica/source/HW79NPdWQAAKxas.jpg"
+          ],
+          "heading": "2026 World Cup qualifying"
+        },
+        {
+          "paragraphs": [
+            "Current Nations League campaign has been bad: 0–0 Cayman Islands, 0–2 Puerto Rico, 1–5 Guyana and 1–8 Guyana. So, as of 9 November 2026, Dominica sit bottom of League B Group A with one point. 🇵🇷 on 13 November and 🇰🇾 on 17 November will decide whether they can avoid relegation."
+          ],
+          "images": [
+            "../assets/dominica/source/HW7_cmcWQAARIgo.jpg"
+          ],
+          "heading": "A difficult 2026/27 Nations League"
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "An attacking 4-2-4 linking 1971, the Caribbean Cup era and the modern record-holders",
+      "intro": "Time for our always-controversial, never-fair, but hard-thought Dominica historical line-up! We have gone for an attacking 4-2-4 linking the 1971 Windward champions, the Caribbean Cup generation and the modern statistical record-holders.",
+      "lineup": {
+        "formation": "4-2-4",
+        "image": "../assets/dominica/source/HW-_Z3rWwAAXyYu.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Glenson Prince",
+            "years": "2005–2025",
+            "description": "Long-time captain and comfortably Dominica’s most-capped goalkeeper, remaining a national-team reference for roughly two decades.",
+            "image": "../assets/dominica/source/HW-_srKWcAA4VC-.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Prince Austrie",
+            "years": "2010–2014",
+            "description": "A regular defender during the early-2010s generation.",
+            "image": "../assets/dominica/source/HW_AYh6XYAAfOri.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Euclid Bertrand",
+            "years": "1998–2022",
+            "description": "Extraordinary longevity from the 1998 Caribbean Cup era into the Nations League age.",
+            "image": "../assets/dominica/source/HW_AY8hWcAAvUaM.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Malcolm Joseph",
+            "years": "2011–2022",
+            "description": "One of the most consistent defenders of the modern national side.",
+            "image": "../assets/dominica/source/HW_BRFSXAAAza6H.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "George Dangler",
+            "years": "1990s",
+            "description": "An important figure of the 1994–98 Caribbean Cup generation who also contributed goals.",
+            "image": "../assets/dominica/source/HW_BRrMWEAAezfC.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Chad Bertrand",
+            "years": "2010–2024",
+            "description": "More than 50 appearances and a main link between the Benjamin/Wade generation and the Nations League era.",
+            "image": "../assets/dominica/source/HW_BtssXoAEQGke.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "Briel Thomas",
+            "years": "2013–",
+            "description": "Dublanc captain and midfield leader, with 60+ senior appearances and eight goals in the source.",
+            "image": "../assets/dominica/source/HW_BuHvXIAAoV4J.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Kurlson Benjamin",
+            "years": "2008–2018",
+            "description": "Fourteen international goals, including five in the record 10–0 win over the British Virgin Islands.",
+            "image": "../assets/dominica/source/HW_CZgrW8AADPuX.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Julian Wade",
+            "years": "2010–2024",
+            "description": "Dominica’s all-time leading scorer in the source: 20 goals and more than 50 caps.",
+            "image": "../assets/dominica/source/HW_CZ08XYAAY6p7.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Desmond Dewhurst",
+            "years": "1960s–1970s",
+            "description": "One of the attacking leaders of the historic 1971 Windward champions.",
+            "image": "../assets/dominica/source/HW_EHpxXoAAQRY-.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Audel Laville",
+            "years": "2018–",
+            "description": "Already into double figures for international goals and one of Dominica’s most dangerous attackers.",
+            "image": "../assets/dominica/source/HW_EH5dXAAA2_rG.jpg"
+          }
+        ]
+      },
+      "closing": "The omissions are painful: Sydney Dyer, Roy Williams, Oliver Joseph, Carlton Felix, Allan Guye, Peter Greenaway, Ronnie Gustave, Kelly Peters, Randolph Peltier, Travist Joseph, Erskim Williams and Eustace Marshall."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team and individual landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First traced match: Dominica 1–0 Martinique, 1932.",
+            "Biggest win: Dominica 10–0 British Virgin Islands, 15 October 2010.",
+            "Heaviest defeat: Mexico 10–0 Dominica, 19 June 2004.",
+            "Highest FIFA ranking: 128th, 2010/11.",
+            "Lowest FIFA ranking: 198th, 2009."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Glenson Prince, approximately 79 recorded senior appearances.",
+            "Most goals: Julian Wade, 20.",
+            "Most goals in one match: Kurlson Benjamin, 5 v British Virgin Islands, 2010."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/dominica/source/HW_Ekm9XcAAffqt.jpg",
+        "../assets/dominica/source/HW_E7ROXQAAr3L4.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Roseau, Stock Farm, Dublanc and Portsmouth",
+      "cards": [
+        {
+          "title": "Windsor Park",
+          "meta": "Roseau · 12,000 · opened 24 October 2007",
+          "text": "Windsor Park in Roseau is Dominica’s national sporting stage. The modern 12,000-capacity stadium, funded and constructed by China, officially opened on 24 October 2007 and hosts both international cricket and football.",
+          "images": [
+            "../assets/dominica/source/HXEci7xXYAAwSVe.jpg",
+            "../assets/dominica/source/HXEcjW9XIAAhBq6.jpg"
+          ]
+        },
+        {
+          "title": "DFA Technical Centre",
+          "meta": "Stock Farm",
+          "text": "The DFA TECHNICAL CENTRE at Stock Farm has become the workhorse of modern domestic football, regularly hosting Premier League, First Division, women’s and youth matches and reducing dependence on the multi-sport national stadium.",
+          "images": [
+            "../assets/dominica/source/HXEi21wXwAABuje.jpg",
+            "../assets/dominica/source/HXEi3GxWEAA8_wT.jpg"
+          ]
+        },
+        {
+          "title": "Almond Park",
+          "meta": "Dublanc",
+          "text": "For grassroots atmosphere, ALMOND PARK in Dublanc is difficult to beat. The small floodlit community ground sits among houses on Dominica’s west coast and is home territory for the club that has now won four consecutive national championships.",
+          "images": [
+            "../assets/dominica/source/HXEjdz2XUAA8nfd.jpg",
+            "../assets/dominica/source/HXEjeGpXMAAWBb_.jpg"
+          ]
+        },
+        {
+          "title": "Benjamin Park",
+          "meta": "Portsmouth",
+          "text": "BENJAMIN PARK in Portsmouth provides the principal northern venue and the home environment of Bombers. Together with playing fields at Pointe Michel, Castle Bruce and La Plaine, it illustrates how unusually decentralised Dominican club football has become.",
+          "images": [
+            "../assets/dominica/source/HXEjuQPXsAAlO60.jpg",
+            "../assets/dominica/source/HXEjuiJXsAAa58y.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Round One is the likely starting point",
+          "paragraphs": [
+            "Concacaf’s new 2030 qualifiers begin in September–October 2027. The FIFA-ranked teams 14th–35th in the confederation enter Round 1: 22 nations playing 11 home-and-away knockout ties."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
