@@ -1,0 +1,898 @@
+{
+  "meta": {
+    "title": "Peru · The 211 Files",
+    "description": "Peru in The 211 Files: country, football origins, competitions, clubs, national-team history, historical XI, records, stadiums and the road to 2030.",
+    "source": {
+      "label": "Supplied Peru thread export",
+      "file": "Peru.docx",
+      "imageCount": 100
+    },
+    "sourceNote": "The supplied DOCX contains the complete thread and 100 direct X-media images. All source files retain their original X-media filenames and extensions."
+  },
+  "hero": {
+    "series": "THE 211 FILES",
+    "fileNumber": "#020",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "association": "Peruvian Football Federation / Federación Peruana de Fútbol (FPF)",
+    "founded": "1922",
+    "fifa": "1924",
+    "confederation": "CONMEBOL",
+    "status": "Eligible",
+    "statusClass": "active",
+    "worldCupAppearances": "5",
+    "bestRecords": [
+      "🏆 Copa América: 1939, 1975",
+      "FIFA World Cup: QF, 1970 & 1978"
+    ],
+    "hashtag": "#From211to1",
+    "logo": "../assets/logos/conmebol/020.png",
+    "fallbackLogo": "../assets/peru/source/HXUby6-XIAAKsmF.jpg"
+  },
+  "sections": [
+    {
+      "id": "country",
+      "number": "1",
+      "title": "Country",
+      "subtitle": "Pacific coast, Andes and Amazon",
+      "entries": [
+        {
+          "paragraphs": [
+            "Peru stretches along South America's Pacific coast from the Atacama fringe across the Andes into the Amazon. It is home to around 34 million people, was the heartland of the Inca Empire and remains one of the continent's great centres of Indigenous, Hispanic and Asian cultural fusion."
+          ],
+          "images": [
+            "../assets/peru/source/HXUeWlRWkAARYk2.png",
+            "../assets/peru/source/HXUefYdWUAAlgdO.png",
+            "../assets/peru/source/HXUejX_WMAAZ0T4.jpg",
+            "../assets/peru/source/HXUenavXwAAWaH6.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "recent-history",
+      "number": "2",
+      "title": "Recent history",
+      "subtitle": "Independence, military rule, insurgency and political instability",
+      "entries": [
+        {
+          "heading": "Independence and the 19th century",
+          "date": "1821–1884",
+          "paragraphs": [
+            "Peru declared independence from Spain in 1821, ending three centuries of colonial rule. The 19th century brought repeated political upheaval and the devastating War of the Pacific, which cost Peru territory and left much of the country in ruins."
+          ],
+          "images": [
+            "../assets/peru/source/HXUfDvrWgAAVHnv.png"
+          ]
+        },
+        {
+          "heading": "Oligarchy, Leguía and Odría",
+          "date": "1900–1956",
+          "paragraphs": [
+            "Peru entered the 20th century under a rural, export-oriented oligarchy. Augusto B. Leguía imposed an authoritarian government from 1919, followed by decades of political instability. After the Odría dictatorship of 1948–56 came a brief democratic period that attempted agrarian reform."
+          ],
+          "images": [
+            "../assets/peru/source/HXUhNfiWUAAH9_h.png"
+          ]
+        },
+        {
+          "heading": "Military rule and internal conflict",
+          "date": "1968–1990",
+          "paragraphs": [
+            "Military rule returned in 1968 and lasted twelve years. Democracy was restored in 1980 just as the Maoist Shining Path insurgency began. The conflict, state repression and hyperinflation made the 1980s one of Peru's most traumatic modern decades."
+          ],
+          "images": [
+            "../assets/peru/source/HXUhaAIWEAA8tcm.png"
+          ]
+        },
+        {
+          "heading": "Fujimori and the unstable democratic era",
+          "date": "1990 onward",
+          "paragraphs": [
+            "Alberto Fujimori won the presidency in 1990, stabilised the economy and weakened the insurgency but concentrated power after his 1992 self-coup. Since his fall in 2000, Peru has remained democratic yet highly unstable, cycling through presidents, impeachments and mass protests."
+          ],
+          "images": [
+            "../assets/peru/source/HXUhrxoXMAAdNhi.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "football-origins",
+      "number": "3",
+      "title": "Football origins",
+      "subtitle": "Callao, British connections, the Lima league and the nationalisation of the championship",
+      "entries": [
+        {
+          "heading": "The British connection",
+          "date": "Late 19th century",
+          "paragraphs": [
+            "Football entered Peru through late-19th-century links with Britain. Callao's port, foreign merchants and sailors were crucial, while Peruvians educated in Britain also brought the game home. Claims of play in the 1870s exist, but the evidence remains uncertain."
+          ],
+          "images": [
+            "../assets/peru/source/HXU50dQWYAA5VSA.png"
+          ]
+        },
+        {
+          "heading": "The first securely documented match",
+          "date": "7 August 1892",
+          "paragraphs": [
+            "At Lima's Santa Sofía ground, a Callao selection faced a Lima side containing British residents and Peruvians. The match ended 1–1 and provides the clearest documented starting point for organised football in Peru."
+          ],
+          "images": [
+            "../assets/peru/source/HXe4PuUWUAAi45R.jpg"
+          ]
+        },
+        {
+          "heading": "Cricket clubs incubate football",
+          "date": "1893–1895",
+          "paragraphs": [
+            "Unión Cricket, founded in 1893, formed one of the earliest Peruvian football teams. In 1895 it faced Lima Cricket in one of the first documented club matches. Schools soon became another major route for spreading the game."
+          ],
+          "images": [
+            "../assets/peru/source/HXe4qqrXsAA2X5I.jpg"
+          ]
+        },
+        {
+          "heading": "Football escapes expatriate circles",
+          "date": "Around 1900",
+          "paragraphs": [
+            "Association FBC became an early football-specific club, while Alianza Lima and Cienciano were founded in 1901. Teams appeared in schools, neighbourhoods, Callao and provincial cities."
+          ],
+          "images": [
+            "../assets/peru/source/HXe5QJHXcAAa3tN.png"
+          ]
+        },
+        {
+          "heading": "The first Lima championship",
+          "date": "1912",
+          "paragraphs": [
+            "Representatives of Lima clubs met in February 1912 to organise a championship. The Liga Peruana de Foot Ball emerged that month and Lima Cricket became the inaugural champion."
+          ],
+          "images": [
+            "../assets/peru/source/HXe5h7sWYAAXJcK.png"
+          ]
+        },
+        {
+          "heading": "Callao remains outside",
+          "date": "1910s",
+          "paragraphs": [
+            "The first league was not truly national and not even fully metropolitan. Callao, despite its central role in football's arrival, initially stayed outside the Lima competition and developed its own strong club culture around teams such as Atlético Chalaco."
+          ],
+          "images": [
+            "../assets/peru/source/HXkUMx3XEAADaOQ.png"
+          ]
+        },
+        {
+          "heading": "The FPF is created",
+          "date": "1922–1925",
+          "paragraphs": [
+            "The Federación Peruana de Fútbol was created in August 1922. Peru joined FIFA in 1924 and CONMEBOL in 1925, allowing the domestic game and the new national team to enter the international system."
+          ],
+          "images": [
+            "../assets/peru/source/HXkUtfVWIAEZxa8.png"
+          ]
+        },
+        {
+          "heading": "Callao joins the elite",
+          "date": "From 1926",
+          "paragraphs": [
+            "The FPF reorganised the championship and Callao clubs entered the top competition. Atlético Chalaco became champion in 1930, while Alianza Lima, Universitario and Sport Boys gradually formed the core of the country's elite."
+          ],
+          "images": [
+            "../assets/peru/source/HXkWuMhXMAA576p.png"
+          ]
+        },
+        {
+          "heading": "Alejandro Villanueva's Alianza",
+          "date": "1931–1933",
+          "paragraphs": [
+            "Alianza's first great generation revolved around Alejandro Villanueva. The elegant striker led a side that won three straight titles from 1931 to 1933 and supplied much of Peru's famous 1936 Olympic team."
+          ],
+          "images": [
+            "../assets/peru/source/HXkXsDoWUAAomII.png"
+          ]
+        },
+        {
+          "heading": "The Superclásico begins",
+          "date": "1928",
+          "paragraphs": [
+            "Universitario had been founded in 1924 by students from San Marcos as Federación Universitaria. Its rivalry with Alianza exploded in the first clásico in 1928, remembered as the Clásico de los Bastonazos after five Alianza expulsions and a brawl."
+          ],
+          "images": [
+            "../assets/peru/source/HXkX7aGWQAEolB8.png"
+          ]
+        },
+        {
+          "heading": "Sport Boys, Municipal and Lolo",
+          "date": "1930s–1940s",
+          "paragraphs": [
+            "Sport Boys gave Callao its own great power, winning six championships between 1935 and 1984. Deportivo Municipal also emerged as a force, while Universitario's Teodoro 'Lolo' Fernández became one of Peru's first national sporting idols."
+          ],
+          "images": [
+            "../assets/peru/source/HXkYP9oXQAAntHZ.png"
+          ]
+        },
+        {
+          "heading": "Professional football",
+          "date": "1951–1956",
+          "paragraphs": [
+            "The top flight formally turned professional in 1951, with Sport Boys becoming the first professional-era champion. Sporting Cristal was founded four years later and remarkably won the 1956 championship in its debut season."
+          ],
+          "images": [
+            "../assets/peru/source/HXkZY5VWcAEnLe9.png"
+          ]
+        },
+        {
+          "heading": "A genuinely national championship",
+          "date": "1966–1967",
+          "paragraphs": [
+            "The old Lima-centred league became genuinely national in 1966 when four provincial clubs entered the Campeonato Descentralizado. Universitario won the first edition. The Copa Perú followed in 1967, creating a vast promotion route from local leagues to the national pyramid."
+          ],
+          "images": [
+            "../assets/peru/source/HXkZ6cNXIAAtr3X.png"
+          ]
+        },
+        {
+          "heading": "Golden-era club dominance",
+          "date": "1960s–1970s",
+          "paragraphs": [
+            "Universitario, Alianza and Sporting Cristal dominated the golden national-team era. Universitario went furthest internationally, reaching the 1972 Libertadores final before Independiente beat them 2–1 on aggregate."
+          ],
+          "images": [
+            "../assets/peru/source/HXkaFc3WAAABvMv.jpg"
+          ]
+        },
+        {
+          "heading": "Provincial champions",
+          "date": "1976–1986",
+          "paragraphs": [
+            "Unión Huaral won the national title in 1976. FBC Melgar's 1981 championship made the Arequipa club the first champion from a region outside Lima, while the small San Agustín took the title in 1986."
+          ],
+          "images": [
+            "../assets/peru/source/HXklwoZXkAAwsHv.jpg"
+          ]
+        },
+        {
+          "heading": "The Alianza Lima air disaster",
+          "date": "8 December 1987",
+          "paragraphs": [
+            "A naval Fokker carrying league leaders Alianza Lima home from Pucallpa crashed into the Pacific. Players, coaches and staff were killed; only the pilot survived. It remains Peruvian football's darkest club tragedy."
+          ],
+          "images": [
+            "../assets/peru/source/HXkn47gXgAAIcVj.png"
+          ]
+        },
+        {
+          "heading": "Cristal and Universitario in the 1990s",
+          "date": "1990s",
+          "paragraphs": [
+            "Sporting Cristal won three straight championships from 1994 to 1996 and reached the 1997 Libertadores final, where Cruzeiro won 1–0 in Belo Horizonte after a goalless first leg."
+          ],
+          "images": [
+            "../assets/peru/source/HXkoMY-WwAAHUyg.jpg"
+          ]
+        },
+        {
+          "heading": "Cienciano conquers South America",
+          "date": "2003–2004",
+          "paragraphs": [
+            "Alianza won their first post-tragedy league in 1997. Peru later secured its only CONMEBOL club trophies through Cienciano: the Cusco club beat River Plate in the 2003 Sudamericana final and Boca Juniors on penalties for the 2004 Recopa."
+          ],
+          "images": [
+            "../assets/peru/source/HXko-6OWoAAJH4H.jpg"
+          ]
+        },
+        {
+          "heading": "More champions in the 21st century",
+          "paragraphs": [
+            "Universidad San Martín, Juan Aurich, Melgar and Binacional all broke through in the modern era. Yet Universitario, Alianza Lima and Sporting Cristal continue to dominate support, revenue and the national trophy count."
+          ],
+          "images": [
+            "../assets/peru/source/HXkpwRmW4AAGb73.jpg"
+          ]
+        },
+        {
+          "heading": "The 2025–26 title race",
+          "date": "2025–2026",
+          "paragraphs": [
+            "Universitario completed a historic three-peat in 2025, taking their recognised league total to 29. In 2026 Alianza won the Apertura; with one Clausura round left on 17 November, Sport Huancayo led Cristal and Universitario in an unusually open finish."
+          ],
+          "images": [
+            "../assets/peru/source/HXkqK39WEAA833L.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "major-competitions",
+      "number": "4",
+      "title": "Major competitions",
+      "subtitle": "Liga1, Liga2, Liga3 and the extraordinary Copa Perú pyramid",
+      "cards": [
+        {
+          "title": "Liga1",
+          "meta": "18 clubs in 2026",
+          "text": "The season is divided into Apertura and Clausura, each a 17-match single round robin. Their tables combine into an annual ranking that decides relegation, continental qualification and, when required, the championship playoffs.",
+          "images": [
+            "../assets/peru/source/HXkqtA2WkAAPPHX.png"
+          ]
+        },
+        {
+          "title": "Liga2 & Liga3",
+          "meta": "Professional lower tiers",
+          "text": "Liga2 sits below the top flight, followed by the newer Liga3, creating a clearer national professional pyramid above the vast regional game.",
+          "images": [
+            "../assets/peru/source/HXmUnY9XkAA_-K4.jpg"
+          ]
+        },
+        {
+          "title": "Copa Perú",
+          "meta": "District → provincial → departmental → national",
+          "text": "The Copa Perú is a gigantic promotion competition rather than a conventional national cup. In the source's 2026 edition, its National Stage alone began with 50 clubs after months of local qualifying.",
+          "images": [
+            "../assets/peru/source/HXmVYtUW8AALbKU.png"
+          ]
+        },
+        {
+          "title": "CONMEBOL places",
+          "meta": "4 Libertadores + 4 Sudamericana",
+          "text": "Peru receives four Libertadores places. The Liga1 champion takes the first; the other three come from a playoff involving teams placed second to fourth in the annual table. Fifth to eighth receive Copa Sudamericana places.",
+          "images": [
+            "../assets/peru/source/HXmx5iRXsAEsDQ4.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "main-clubs",
+      "number": "5",
+      "title": "Main clubs",
+      "subtitle": "The Big Three, Callao tradition and the provincial challenge",
+      "cards": [
+        {
+          "title": "Universitario & Alianza Lima",
+          "meta": "The Superclásico",
+          "text": "Peru's defining rivalry. Universitario hold the recognised league record with 29 titles in the source; Alianza answer with enormous national support and their own deep winning tradition.",
+          "images": [
+            "../assets/peru/source/HXmyI66XoAAjlno.png",
+            "../assets/peru/source/HXmyNz3XgAA5g7k.png"
+          ]
+        },
+        {
+          "title": "Sporting Cristal",
+          "meta": "Founded 1955",
+          "text": "The celestes complete the modern Big Three. They won the league immediately in 1956, became a model of consistency and reached the 1997 Libertadores final.",
+          "images": [
+            "../assets/peru/source/HXmycfYW0AA4WYF.png"
+          ]
+        },
+        {
+          "title": "Historic alternatives",
+          "meta": "Sport Boys · Atlético Chalaco · Municipal · Melgar · Cienciano",
+          "text": "Sport Boys and Atlético Chalaco carry Callao's oldest port-city tradition, Deportivo Municipal remains a historic Lima name, Melgar embodies Arequipa and Cienciano's 2003–04 continental double gives Cusco a unique place in Peruvian football.",
+          "images": [
+            "../assets/peru/source/HXmyp3PWgAAaRHN.png",
+            "../assets/peru/source/HXmyuWJXMAAq6mh.png",
+            "../assets/peru/source/HXmyyuaWIAAWewa.png",
+            "../assets/peru/source/HXmy3e-XwAAL9Wn.png"
+          ]
+        },
+        {
+          "title": "The modern interior",
+          "meta": "Cusco FC · Deportivo Garcilaso · Sport Huancayo · Alianza Atlético",
+          "text": "The interior now supplies regular top-flight powers, sustaining the long-running tension between Lima dominance and provincial ambition.",
+          "images": [
+            "../assets/peru/source/HXmzGTEXoAAL31y.png",
+            "../assets/peru/source/HXmzJuRXkAAQHXf.png",
+            "../assets/peru/source/HXmzN3xWgAAwAiD.png",
+            "../assets/peru/source/HXmzRhnWQAA6vcM.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "national-team",
+      "number": "6",
+      "title": "National team",
+      "subtitle": "1939 and 1975 champions, the 1970s golden generation and the Gareca revival",
+      "entries": [
+        {
+          "heading": "La Blanquirroja debuts",
+          "date": "1927",
+          "paragraphs": [
+            "Peru's official debut came in Lima on 1 November 1927 at the South American Championship: Olympic champions Uruguay won 4–0. Twelve days later Peru earned their first victory, beating Bolivia 3–2."
+          ],
+          "images": [
+            "../assets/peru/source/HXmzjbqWsAAl5u-.png"
+          ]
+        },
+        {
+          "heading": "The first World Cup",
+          "date": "1930",
+          "paragraphs": [
+            "Peru were invited to the inaugural World Cup in Uruguay. They lost 3–1 to Romania—Luis de Souza Ferreira scoring Peru's first World Cup goal—and pushed hosts Uruguay before losing 1–0."
+          ],
+          "images": [
+            "../assets/peru/source/HXohyUZXYAIX7Po.jpg"
+          ]
+        },
+        {
+          "heading": "Berlin 1936",
+          "date": "1935–1936",
+          "paragraphs": [
+            "After finishing third at the 1935 Sudamericano, Peru announced themselves at the Berlin Olympics: 7–3 over Finland and a dramatic 4–2 extra-time win against Austria in the quarter-final."
+          ],
+          "images": [
+            "../assets/peru/source/HXoiQxeXMAA4YDy.png"
+          ]
+        },
+        {
+          "heading": "The Olympic controversy",
+          "date": "1936",
+          "paragraphs": [
+            "After crowd disturbances, the Austria match was annulled and a replay behind closed doors was ordered. Peru refused and withdrew its entire delegation. The episode became national folklore and remains one of Olympic football's great controversies."
+          ],
+          "images": [
+            "../assets/peru/source/HXoiz6zWQAEZArA.jpg"
+          ]
+        },
+        {
+          "heading": "South American champions",
+          "date": "1939",
+          "paragraphs": [
+            "At home, Peru won all four South American Championship matches and beat Uruguay 2–1 in the decider, both goals from Jorge Alcalde. Teodoro 'Lolo' Fernández scored seven and finished as tournament top scorer."
+          ],
+          "images": [
+            "../assets/peru/source/HXojdfTWgAAn38K.png"
+          ]
+        },
+        {
+          "heading": "The 1940s and the 1950 withdrawal",
+          "paragraphs": [
+            "Peru had joined the 1934 and 1938 World Cup boycotts and struggled through much of the 1940s. They recovered to finish third at the 1949 Sudamericano, then withdrew from 1950 World Cup qualifying over a diplomatic dispute with Uruguay."
+          ],
+          "images": [
+            "../assets/peru/source/HXolDSXXIAAcTe2.png"
+          ]
+        },
+        {
+          "heading": "The 1950s",
+          "paragraphs": [
+            "The 1953 home Sudamericano ended in fifth place, but Peru finished third again in 1955. They later placed fourth in both 1957 and 1959, while again withdrawing from the 1954 World Cup qualifiers."
+          ],
+          "images": [
+            "../assets/peru/source/HXpGGtTXAAA3Vws.jpg"
+          ]
+        },
+        {
+          "heading": "World Cup qualification frustration",
+          "date": "1958–1966 cycles",
+          "paragraphs": [
+            "Brazil eliminated Peru from the 1958 World Cup qualifiers and Colombia did so for 1962. For 1966 Peru outscored Venezuela but lost both matches against Uruguay."
+          ],
+          "images": [
+            "../assets/peru/source/HXpG7JAXkAACrqP.png"
+          ]
+        },
+        {
+          "heading": "La Bombonera and Mexico 1970",
+          "date": "31 August 1969",
+          "paragraphs": [
+            "Peru entered La Bombonera needing a draw and held Argentina 2–2, Oswaldo Ramírez scoring twice. Argentina missed the World Cup for the first and only time; Peru returned after forty years."
+          ],
+          "images": [
+            "../assets/peru/source/HXpHtq7XkAAs270.png"
+          ]
+        },
+        {
+          "heading": "The entertainers of Mexico",
+          "date": "1970",
+          "paragraphs": [
+            "Coached by Brazilian legend Didi, Peru came from 2–0 down to beat Bulgaria 3–2, defeated Morocco 3–0 and advanced despite losing to West Germany. Teófilo Cubillas scored four times in the group."
+          ],
+          "images": [
+            "../assets/peru/source/HXpH9w1WgAAllFe.png"
+          ]
+        },
+        {
+          "heading": "Quarter-final against Brazil",
+          "date": "1970",
+          "paragraphs": [
+            "Peru attacked rather than retreat against the eventual champions and lost a superb quarter-final 4–2. Cubillas scored again, ending his first World Cup with five goals."
+          ],
+          "images": [
+            "../assets/peru/source/HXpIIrSWAAA1v7V.png"
+          ]
+        },
+        {
+          "heading": "Copa América 1975 semi-final",
+          "date": "1975",
+          "paragraphs": [
+            "After missing the 1974 World Cup through a playoff defeat to Chile, Peru topped a Copa América group with Chile and Bolivia and stunned Brazil 3–1 in Belo Horizonte. Brazil won 2–0 in Lima, leaving the semi-final level; Peru advanced by drawing lots."
+          ],
+          "images": [
+            "../assets/peru/source/HXpJp11XcAAyd1z.png"
+          ]
+        },
+        {
+          "heading": "Champions again",
+          "date": "1975",
+          "paragraphs": [
+            "The final against Colombia required three matches. Colombia won 1–0 in Bogotá, Peru won 2–0 in Lima, and a playoff was staged in Caracas. Hugo Sotil scored the only goal: Peru were South American champions for the second time."
+          ],
+          "images": [
+            "../assets/peru/source/HXpKNjdWwAA7wL8.png"
+          ]
+        },
+        {
+          "heading": "Argentina 1978",
+          "date": "1978",
+          "paragraphs": [
+            "Peru qualified ahead of Chile and Ecuador, then beat Scotland 3–1, drew the Netherlands 0–0 and defeated Iran 4–1 to win their group. Cubillas scored five, including his famous outside-of-the-foot free kick against Scotland."
+          ],
+          "images": [
+            "../assets/peru/source/HXpKs95WIAETaNP.jpg"
+          ]
+        },
+        {
+          "heading": "The controversial second round",
+          "date": "1978",
+          "paragraphs": [
+            "Peru lost 3–0 to Brazil and 1–0 to Poland before a 6–0 defeat to hosts Argentina, who needed a four-goal win to reach the final. The result inspired decades of match-fixing allegations, but no fixing has ever been proven."
+          ],
+          "images": [
+            "../assets/peru/source/HXpLBH2WgAAGn05.jpg"
+          ]
+        },
+        {
+          "heading": "Spain 1982",
+          "date": "1979–1982",
+          "paragraphs": [
+            "As reigning champions Peru entered the 1979 Copa América semi-finals but were eliminated by Chile. They then qualified for Spain 1982 ahead of Uruguay and Colombia. Draws with Cameroon and eventual champions Italy kept them alive before Poland won 5–1."
+          ],
+          "images": [
+            "../assets/peru/source/HXpL6CqWwAAvExG.jpg"
+          ]
+        },
+        {
+          "heading": "The long World Cup drought",
+          "date": "1986–2014",
+          "paragraphs": [
+            "Peru narrowly missed 1986 after Argentina rescued a 2–2 draw in Buenos Aires and Chile beat them in the playoff. They then failed to qualify for every World Cup from 1986 through 2014."
+          ],
+          "images": [
+            "../assets/peru/source/HXpMLtIXAAAydTr.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América in the 1980s and 1990s",
+          "paragraphs": [
+            "Peru topped their group in 1983 but lost to Uruguay, then endured group exits until 1993, when they again topped their section before losing to Mexico in the quarter-finals. The 1995 edition ended in the group stage."
+          ],
+          "images": [
+            "../assets/peru/source/HXpNgUnWkAAQ87G.png"
+          ]
+        },
+        {
+          "heading": "Copa América 1997",
+          "date": "1997",
+          "paragraphs": [
+            "Peru reached the quarter-finals after beating Bolivia, then eliminated Argentina 2–1. Hosts Bolivia stopped them in the semi-final before Mexico took third place."
+          ],
+          "images": [
+            "../assets/peru/source/HXpOwHKXgAAqHZ8.png"
+          ]
+        },
+        {
+          "heading": "1999–2007",
+          "paragraphs": [
+            "Mexico eliminated Peru on penalties in the 1999 quarter-finals. Peru again reached the quarter-finals in 2001, 2004 on home soil and 2007, but could not break back into the continental elite."
+          ],
+          "images": [
+            "../assets/peru/source/HXpPx2mWUAA-Zh-.jpg"
+          ]
+        },
+        {
+          "heading": "Markarián's bronze",
+          "date": "2011",
+          "paragraphs": [
+            "A revival began under Sergio Markarián. Peru beat Colombia in the quarter-final, lost to Uruguay and defeated Venezuela 4–1 for third place. Paolo Guerrero scored a hat-trick in the bronze match and finished as tournament top scorer."
+          ],
+          "images": [
+            "../assets/peru/source/HXpQMiYWYAAffbj.png"
+          ]
+        },
+        {
+          "heading": "Gareca arrives",
+          "date": "2015",
+          "paragraphs": [
+            "Ricardo Gareca immediately took Peru to another Copa América bronze, losing a tight semi-final to Chile before beating Paraguay 2–0 in the third-place match."
+          ],
+          "images": [
+            "../assets/peru/source/HXpQ7aAWAAApdMN.jpg"
+          ]
+        },
+        {
+          "heading": "Centenario and the World Cup playoff",
+          "date": "2016–2017",
+          "paragraphs": [
+            "Peru reached the Centenario quarter-finals in 2016, beating Brazil 1–0 before Colombia eliminated them on penalties. In 2017 Peru finished fifth in CONMEBOL qualifying and beat New Zealand 2–0 over two legs to return to the World Cup."
+          ],
+          "images": [
+            "../assets/peru/source/HXpRftEXgAAkpS3.jpg"
+          ]
+        },
+        {
+          "heading": "Russia 2018",
+          "date": "2018",
+          "paragraphs": [
+            "Peru lost 1–0 to Denmark after missing a penalty and 1–0 to eventual champions France. Already eliminated, they beat Australia 2–0 through André Carrillo and Paolo Guerrero for their first World Cup win since 1978."
+          ],
+          "images": [
+            "../assets/peru/source/HXpRtl7XAAAveC7.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América final",
+          "date": "2019",
+          "paragraphs": [
+            "Peru survived a 5–0 group-stage defeat to Brazil, eliminated Uruguay on penalties and crushed Chile 3–0 in the semi-final. Brazil beat them again, 3–1 at the Maracanã, leaving Peru runners-up."
+          ],
+          "images": [
+            "../assets/peru/source/HXpSFdIW4AEqRZ_.png"
+          ]
+        },
+        {
+          "heading": "Copa América 2021",
+          "date": "2021",
+          "paragraphs": [
+            "Peru beat Paraguay on penalties in the quarter-final before Brazil stopped them 1–0 in the semi-final. Colombia won a dramatic third-place match 3–2, leaving Peru fourth."
+          ],
+          "images": [
+            "../assets/peru/source/HXpSV04XQAA8LJ6.jpg"
+          ]
+        },
+        {
+          "heading": "One shootout from Qatar",
+          "date": "2022",
+          "paragraphs": [
+            "Peru again finished fifth in CONMEBOL and faced Australia in Doha. After 120 goalless minutes, substitute goalkeeper Andrew Redmayne's eccentric routine worked: Australia won the shootout 5–4."
+          ],
+          "images": [
+            "../assets/peru/source/HXpSgFCXUAAvvBD.jpg"
+          ]
+        },
+        {
+          "heading": "Copa América 2024",
+          "date": "2024",
+          "paragraphs": [
+            "The cycle unravelled. Peru left the Copa América at the group stage without scoring, drawing Chile and losing to Canada and Argentina. Juan Reynoso and Jorge Fossati both departed during a disastrous 2026 qualifying campaign."
+          ],
+          "images": [
+            "../assets/peru/source/HXpSq8pXUAAr7bZ.jpg"
+          ]
+        },
+        {
+          "heading": "2026 qualifying ends",
+          "date": "2025",
+          "paragraphs": [
+            "Peru finished ninth with only 12 points and six goals from 18 matches. Wins over Uruguay and Bolivia were rare highs; a 3–0 defeat in Uruguay mathematically ended their hopes before Paraguay won 1–0 on the final matchday."
+          ],
+          "images": [
+            "../assets/peru/source/HXpS4tgXkAAitzm.png"
+          ]
+        },
+        {
+          "heading": "Mano Menezes and the 2030 cycle",
+          "date": "2026",
+          "paragraphs": [
+            "In January 2026 the FPF appointed former Brazil coach Mano Menezes to lead the 2030 cycle. The source places Peru 50th in FIFA's latest official ranking before the November update."
+          ],
+          "images": [
+            "../assets/peru/source/HXpTEqsXAAAONGd.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "historical-lineup",
+      "number": "7",
+      "title": "Historical line-up",
+      "subtitle": "A 4-3-3 dominated by the 1970s golden generation",
+      "intro": "The supplied XI is dominated by Peru's golden generation of the 1970s, complemented by the leaders who carried the Blanquirroja back to the World Cup after 36 years.",
+      "lineup": {
+        "formation": "4-3-3",
+        "image": "../assets/peru/source/HXrAVphXUAE_NxJ.jpg",
+        "players": [
+          {
+            "position": "GK",
+            "name": "Juan Valdivieso",
+            "years": "1930–1938",
+            "description": "The most iconic goalkeeper in Peruvian football history: 1930 World Cup figure and hero of the victorious 1939 South American Championship side.",
+            "image": "../assets/peru/source/HXrTBv5WMAES-a2.jpg"
+          },
+          {
+            "position": "RB",
+            "name": "Jaime Duarte",
+            "years": "1975–1985",
+            "description": "Starting right-back at the 1978 and 1982 World Cups, known for technical composure and endurance.",
+            "image": "../assets/peru/source/HXrU_9SWAAA3-Ev.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Héctor Chumpitaz",
+            "years": "1965–1981",
+            "description": "El Capitán de América: leader of the 1970 generation, 1975 champion and one of South America's great defenders.",
+            "image": "../assets/peru/source/HXrVAU9WgAA0S-r.jpg"
+          },
+          {
+            "position": "CB",
+            "name": "Julio Meléndez",
+            "years": "1965–1972",
+            "description": "Elegant, commanding and revered in both Peru and Boca Juniors; a defender ahead of his time.",
+            "image": "../assets/peru/source/HXrV9SMXUAASKVi.jpg"
+          },
+          {
+            "position": "LB",
+            "name": "Rubén Díaz",
+            "years": "1972–1985",
+            "description": "Panadero: a commanding 1975 Copa América champion and two-time World Cup starter.",
+            "image": "../assets/peru/source/HXrV9yFWIAAhKU-.jpg"
+          },
+          {
+            "position": "DM",
+            "name": "José Velásquez",
+            "years": "1972–1985",
+            "description": "El Patrón: physical authority with far more technique than the nickname suggests.",
+            "image": "../assets/peru/source/HXrXZ77WYAENZD6.jpg"
+          },
+          {
+            "position": "CM",
+            "name": "César Cueto",
+            "years": "1972–1985",
+            "description": "The left-footed poet of midfield.",
+            "image": "../assets/peru/source/HXrXaVbWoAAMj9J.jpg"
+          },
+          {
+            "position": "AM",
+            "name": "Teófilo Cubillas",
+            "years": "1968–1982",
+            "description": "Ten World Cup goals and Peru's greatest global football icon.",
+            "image": "../assets/peru/source/HXrXamyW0AAZiFT.jpg"
+          },
+          {
+            "position": "RW",
+            "name": "Hugo Sotil",
+            "years": "1970–1978",
+            "description": "Dazzling dribbler, Barcelona star and scorer of the 1975 Copa-winning goal.",
+            "image": "../assets/peru/source/HXrYeBaXkAEDKOk.jpg"
+          },
+          {
+            "position": "CF",
+            "name": "Paolo Guerrero",
+            "years": "2004–2025",
+            "description": "Peru's record scorer in the source and leader of the modern revival.",
+            "image": "../assets/peru/source/HXrYeSXWEAA1rKi.jpg"
+          },
+          {
+            "position": "LW",
+            "name": "Teodoro 'Lolo' Fernández",
+            "years": "1935–1947",
+            "description": "Seven goals and the crown in 1939; one of Peru's foundational football idols.",
+            "image": "../assets/peru/source/HXrYetJWkAAI-ke.jpg"
+          }
+        ]
+      },
+      "closing": "Ramón Quiroga, Orlando de la Torre, Roberto Challe, Julio César Uribe, Roberto Palacios, Nolberto Solano, Jefferson Farfán, Claudio Pizarro and Juan Joya all have serious claims."
+    },
+    {
+      "id": "records",
+      "number": "8",
+      "title": "Records",
+      "subtitle": "Team and individual landmarks",
+      "recordGroups": [
+        {
+          "title": "Team records",
+          "items": [
+            "First match: Peru 0–4 Uruguay, 1 November 1927.",
+            "Biggest victory: Peru 9–1 Ecuador, Bolivarian Games, 11 August 1938.",
+            "Heaviest defeat: Brazil 7–0 Peru, Copa América, 26 June 1997.",
+            "Best World Cup: quarter-finals, 1970 and 1978."
+          ]
+        },
+        {
+          "title": "Individual records",
+          "items": [
+            "Most caps: Yoshimar Yotún, 139.",
+            "Most goals: Paolo Guerrero, 40.",
+            "Most World Cup goals: Teófilo Cubillas, 10.",
+            "Most goals at one World Cup: Cubillas, 5 in both 1970 and 1978.",
+            "Copa América top scorer: Guerrero in 2011 and 2015; joint-top in 2019."
+          ]
+        }
+      ],
+      "images": [
+        "../assets/peru/source/HXrk2QxWwAADTCj.jpg",
+        "../assets/peru/source/HXrlEm2WwAAduAp.jpg"
+      ]
+    },
+    {
+      "id": "notable-stadiums",
+      "number": "9",
+      "title": "Notable stadiums",
+      "subtitle": "Lima's giants, Callao history and extreme altitude",
+      "cards": [
+        {
+          "title": "Estadio Nacional",
+          "meta": "Lima · present form opened 1952",
+          "text": "Built on the site of Peru's earlier national ground and extensively renovated in 2011, it remains the Blanquirroja's home and the symbolic centre of Peruvian football.",
+          "images": [
+            "../assets/peru/source/HXrwnYxWwAAreAc.jpg",
+            "../assets/peru/source/HXrwnwiXEAEpMVu.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Monumental",
+          "meta": "Universitario · opened 2000 · ~80,000",
+          "text": "Peru's largest football ground. Its immense bowl staged the one-off 2019 Libertadores final and returned as a continental final venue in 2025.",
+          "images": [
+            "../assets/peru/source/HXrw7PdXcAA-lcF.jpg",
+            "../assets/peru/source/HXrw7scW4AA3ZcD.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Alejandro Villanueva",
+          "meta": "Alianza Lima · opened 1974 · ~34,000",
+          "text": "Matute's steep stands and tight urban setting make it one of Peru's most intense grounds. It bears the name of Alianza's great 1930s forward.",
+          "images": [
+            "../assets/peru/source/HXrxH9PWoAAAHYn.jpg",
+            "../assets/peru/source/HXrxIUqWEAAB9h-.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Alberto Gallardo",
+          "meta": "Sporting Cristal · opened 1961 · ~10,000",
+          "text": "Sporting Cristal have used the compact ground as their home since 1995.",
+          "images": [
+            "../assets/peru/source/HXryjI8XkAAD6K-.jpg",
+            "../assets/peru/source/HXryjlVXUAAIs1h.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Telmo Carbajo",
+          "meta": "Callao · inaugurated 12 October 1927",
+          "text": "The oldest continuously active stadium structure in Peru. It no longer hosts top-flight professional matches but remains open for local sport and athletics.",
+          "images": [
+            "../assets/peru/source/HXry3QlXMAAwE5J.jpg",
+            "../assets/peru/source/HXry3mlWIAALnFS.jpg"
+          ]
+        },
+        {
+          "title": "Estadio Daniel Alcides Carrión",
+          "meta": "Cerro de Pasco · ~4,380m",
+          "text": "Used in Copa Perú and national competition, it is among the world's highest football grounds—altitude turned into architecture.",
+          "images": [
+            "../assets/peru/source/HXrzHt9WgAANLBj.jpg",
+            "../assets/peru/source/HXrzIRpX0AAr0gP.jpg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "road-2030",
+      "number": "10",
+      "title": "2030 FIFA World Cup road",
+      "subtitle": "Eligible",
+      "entries": [
+        {
+          "heading": "Peru must qualify through CONMEBOL",
+          "paragraphs": [
+            "Peru is eligible for the 2030 FIFA World Cup and will attempt to return through CONMEBOL qualifying."
+          ],
+          "images": []
+        }
+      ]
+    }
+  ]
+}
