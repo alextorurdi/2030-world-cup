@@ -1362,7 +1362,9 @@
           "flag": "🇵🇪",
           "confederation": "conmebol",
           "status": "active",
-          "logo": ""
+          "logo": "./assets/logos/conmebol/020.png",
+          "page": "./associations/peru.html",
+          "note": "Eligible for qualification to the 2030 FIFA World Cup."
         },
         {
           "name": "Uruguay",
